@@ -1,0 +1,134 @@
+[
+    {
+        "data": "2020-02-24 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 127,
+        "isolamento_domiciliare": 94,
+        "attualmente_positivi": 221,
+        "dimessi_guariti": 1,
+        "deceduti": 7,
+        "totale_casi": 229,
+        "nuovi_attualmente_positivi": 229
+    },
+    {
+        "data": "2020-02-25 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 147,
+        "isolamento_domiciliare": 162,
+        "attualmente_positivi": 309,
+        "dimessi_guariti": 1,
+        "deceduti": 11,
+        "totale_casi": 321,
+        "nuovi_attualmente_positivi": 92
+    },
+    {
+        "data": "2020-02-26 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 164,
+        "isolamento_domiciliare": 221,
+        "attualmente_positivi": 385,
+        "dimessi_guariti": 3,
+        "deceduti": 12,
+        "totale_casi": 400,
+        "nuovi_attualmente_positivi": 79
+    },
+    {
+        "data": "2020-02-27 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 304,
+        "isolamento_domiciliare": 284,
+        "attualmente_positivi": 588,
+        "dimessi_guariti": 45,
+        "deceduti": 17,
+        "totale_casi": 650,
+        "nuovi_attualmente_positivi": 250
+    },
+    {
+        "data": "2020-02-28 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 409,
+        "isolamento_domiciliare": 412,
+        "attualmente_positivi": 821,
+        "dimessi_guariti": 45,
+        "deceduti": 21,
+        "totale_casi": 887,
+        "nuovi_attualmente_positivi": 237
+    },
+    {
+        "data": "2020-02-29 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 506,
+        "isolamento_domiciliare": 543,
+        "attualmente_positivi": 1049,
+        "dimessi_guariti": 50,
+        "deceduti": 29,
+        "totale_casi": 1128,
+        "nuovi_attualmente_positivi": 241
+    },
+    {
+        "data": "2020-03-01 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 567,
+        "isolamento_domiciliare": 770,
+        "attualmente_positivi": 1337,
+        "dimessi_guariti": 46,
+        "deceduti": 31,
+        "totale_casi": 1414,
+        "nuovi_attualmente_positivi": 286
+    },
+    {
+        "data": "2020-03-02 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 908,
+        "isolamento_domiciliare": 927,
+        "attualmente_positivi": 1835,
+        "dimessi_guariti": 149,
+        "deceduti": 52,
+        "totale_casi": 2036,
+        "nuovi_attualmente_positivi": 622
+    },
+    {
+        "data": "2020-03-03 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 1262,
+        "isolamento_domiciliare": 1001,
+        "attualmente_positivi": 2263,
+        "dimessi_guariti": 160,
+        "deceduti": 79,
+        "totale_casi": 2502,
+        "nuovi_attualmente_positivi": 466
+    },
+    {
+        "data": "2020-03-04 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 1641,
+        "isolamento_domiciliare": 1065,
+        "attualmente_positivi": 2706,
+        "dimessi_guariti": 276,
+        "deceduti": 107,
+        "totale_casi": 3089,
+        "nuovi_attualmente_positivi": 587
+    },
+    {
+        "data": "2020-03-05 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 2121,
+        "isolamento_domiciliare": 1155,
+        "attualmente_positivi": 3276,
+        "dimessi_guariti": 414,
+        "deceduti": 148,
+        "totale_casi": 3838,
+        "nuovi_attualmente_positivi": 749
+    },
+    {
+        "data": "2020-03-06 18:00:00",
+        "stato": "ITA",
+        "ospedalizzati": 2856,
+        "isolamento_domiciliare": 1060,
+        "attualmente_positivi": 3916,
+        "dimessi_guariti": 523,
+        "deceduti": 197,
+        "totale_casi": 4636,
+        "nuovi_attualmente_positivi": 778
+    }
+]

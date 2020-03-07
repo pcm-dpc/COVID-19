@@ -2,8 +2,8 @@
 
 # Dati COVID-19 Italia
 
-[![GitHub license](https://img.shields.io/github/license/umbros/covid-19-ita)](https://github.com/umbros/covid-19-ita/blob/master/license)
-[![GitHub commit](https://img.shields.io/github/last-commit/umbros/covid-19-ita)](https://img.shields.io/github/last-commit/umbros/covid-19-ita)
+[![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/license)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
 
 
 
@@ -16,6 +16,7 @@ Le principali azioni coordinate dal Capo del Dipartimento sono volte al soccorso
 Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi  [http://arcg.is/C1unv](http://arcg.is/C1unv) (versione desktop) e [http://arcg.is/081a51](http://arcg.is/081a51) (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
 
 - Andamento nazionale
+- Dati json
 - Dati province
 - Dati regioni
 - Schede riepilogative
@@ -29,6 +30,8 @@ COVID-19/
 │   ├── dpc-covid19-ita-andamento-nazionale-yyyymmdd.csv
 ├── dati-province/
 │   ├── dpc-covid19-ita-province-yyyymmdd.csv
+├── dati-json/
+│   ├── dpc-covid19-ita-*.json
 ├── dati-regioni/
 │   ├── dpc-covid19-ita-regioni-yyyymmdd.csv
 ├── schede-riepilogative/
@@ -71,6 +74,7 @@ COVID-19/
 
 *Le Province autonome di Trento e Bolzano sono indicate in "denominazione regione" e con il codice 04 del Trentino Alto Adige.* 
 
+*Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-regioni.json* 
 
 ### Dati per Provincia
 
@@ -95,6 +99,7 @@ COVID-19/
 
 *Ogni Regione ha una Provincia denominata "In fase di definizione/aggiornamento" con il codice provincia da 979 a 999, utile ad indicare i dati ancora non assegnati alle Province.*
 
+*Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-province.json*
 
 ### Andamento nazionale
 
@@ -116,3 +121,5 @@ COVID-19/
 | **deceduti**                   | Persone decedute                  | Death                                  | Numero             | 3                    |
 | **totale_casi**                | Totale casi positivi              | Total amount of positive cases         | Numero             | 3                    |
 | **nuovi_attualmente_positivi** | Nuovi attualmente positivi        | News amount of current positive cases  | Numero             | 3                    |
+
+*Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json*
