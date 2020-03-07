@@ -16905,7 +16905,7 @@
         "sigla_provincia": "CH",
         "lat": 42.35103167,
         "long": 14.16754574,
-        "totale_casi": 1
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -16917,7 +16917,7 @@
         "sigla_provincia": "AQ",
         "lat": 42.35122196,
         "long": 13.39843823,
-        "totale_casi": 4
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -16941,7 +16941,7 @@
         "sigla_provincia": "TE",
         "lat": 42.6589177,
         "long": 13.70439971,
-        "totale_casi": 3
+        "totale_casi": 4
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -16965,7 +16965,7 @@
         "sigla_provincia": "MT",
         "lat": 40.66751177,
         "long": 16.59792442,
-        "totale_casi": 2
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -16977,7 +16977,7 @@
         "sigla_provincia": "PZ",
         "lat": 40.63947052,
         "long": 15.80514834,
-        "totale_casi": 1
+        "totale_casi": 2
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17006,7 +17006,7 @@
     {
         "data": "2020-03-06 18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "Bolzano",
         "codice_provincia": 981,
         "denominazione_provincia": "In fase di definizione/aggiornamento",
@@ -17025,7 +17025,7 @@
         "sigla_provincia": "CZ",
         "lat": 38.90597598,
         "long": 16.59440194,
-        "totale_casi": 1
+        "totale_casi": 2
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17037,7 +17037,7 @@
         "sigla_provincia": "CS",
         "lat": 39.29308681,
         "long": 16.25609692,
-        "totale_casi": 2
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17049,7 +17049,7 @@
         "sigla_provincia": "KR",
         "lat": 39.08036878,
         "long": 17.12538864,
-        "totale_casi": 1
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17061,7 +17061,7 @@
         "sigla_provincia": "RC",
         "lat": 38.10922769,
         "long": 15.6434527,
-        "totale_casi": 0
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17121,7 +17121,7 @@
         "sigla_provincia": "CE",
         "lat": 41.07465878,
         "long": 14.33240464,
-        "totale_casi": 17
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17133,7 +17133,7 @@
         "sigla_provincia": "NA",
         "lat": 40.83956555,
         "long": 14.25084984,
-        "totale_casi": 0
+        "totale_casi": 17
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17169,7 +17169,7 @@
         "sigla_provincia": "BO",
         "lat": 44.49436681,
         "long": 11.3417208,
-        "totale_casi": 426
+        "totale_casi": 41
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17181,7 +17181,7 @@
         "sigla_provincia": "FE",
         "lat": 44.83599085,
         "long": 11.61868934,
-        "totale_casi": 181
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17193,7 +17193,7 @@
         "sigla_provincia": "FC",
         "lat": 44.22268559,
         "long": 12.04068608,
-        "totale_casi": 44
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17217,7 +17217,7 @@
         "sigla_provincia": "PR",
         "lat": 44.80107394,
         "long": 10.32834985,
-        "totale_casi": 41
+        "totale_casi": 181
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17229,7 +17229,7 @@
         "sigla_provincia": "PC",
         "lat": 45.05193462,
         "long": 9.692632596,
-        "totale_casi": 1
+        "totale_casi": 426
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17253,7 +17253,7 @@
         "sigla_provincia": "RE",
         "lat": 44.69735289,
         "long": 10.63007973,
-        "totale_casi": 3
+        "totale_casi": 44
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17289,7 +17289,7 @@
         "sigla_provincia": "GO",
         "lat": 45.94149817,
         "long": 13.62212502,
-        "totale_casi": 18
+        "totale_casi": 6
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17301,7 +17301,7 @@
         "sigla_provincia": "PN",
         "lat": 45.95443546,
         "long": 12.66002909,
-        "totale_casi": 6
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17325,7 +17325,7 @@
         "sigla_provincia": "UD",
         "lat": 46.06255516,
         "long": 13.2348383,
-        "totale_casi": 0
+        "totale_casi": 18
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17349,7 +17349,7 @@
         "sigla_provincia": "FR",
         "lat": 41.63964569,
         "long": 13.35117161,
-        "totale_casi": 2
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17361,7 +17361,7 @@
         "sigla_provincia": "LT",
         "lat": 41.46759465,
         "long": 12.90368482,
-        "totale_casi": 0
+        "totale_casi": 2
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17373,7 +17373,7 @@
         "sigla_provincia": "RI",
         "lat": 42.40488444,
         "long": 12.86205939,
-        "totale_casi": 49
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17385,7 +17385,7 @@
         "sigla_provincia": "RM",
         "lat": 41.89277044,
         "long": 12.48366722,
-        "totale_casi": 2
+        "totale_casi": 49
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17397,7 +17397,7 @@
         "sigla_provincia": "VT",
         "lat": 42.4173828,
         "long": 12.10473416,
-        "totale_casi": 1
+        "totale_casi": 2
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17421,7 +17421,7 @@
         "sigla_provincia": "GE",
         "lat": 44.41149314,
         "long": 8.9326992,
-        "totale_casi": 3
+        "totale_casi": 9
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17433,7 +17433,7 @@
         "sigla_provincia": "IM",
         "lat": 43.88570648,
         "long": 8.027850298,
-        "totale_casi": 15
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17445,7 +17445,7 @@
         "sigla_provincia": "SP",
         "lat": 44.10704991,
         "long": 9.8281897,
-        "totale_casi": 9
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17457,7 +17457,7 @@
         "sigla_provincia": "SV",
         "lat": 44.30750461,
         "long": 8.481108654,
-        "totale_casi": 1
+        "totale_casi": 15
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17481,7 +17481,7 @@
         "sigla_provincia": "BG",
         "lat": 45.69441368,
         "long": 9.668424528,
-        "totale_casi": 23
+        "totale_casi": 623
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17493,7 +17493,7 @@
         "sigla_provincia": "BS",
         "lat": 45.53993052,
         "long": 10.21910323,
-        "totale_casi": 11
+        "totale_casi": 182
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17505,7 +17505,7 @@
         "sigla_provincia": "CO",
         "lat": 45.8099912,
         "long": 9.085159546,
-        "totale_casi": 4
+        "totale_casi": 11
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17517,7 +17517,7 @@
         "sigla_provincia": "CR",
         "lat": 45.13336675,
         "long": 10.02420865,
-        "totale_casi": 267
+        "totale_casi": 452
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17529,7 +17529,7 @@
         "sigla_provincia": "LC",
         "lat": 45.85575781,
         "long": 9.393392246,
-        "totale_casi": 623
+        "totale_casi": 11
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17541,7 +17541,7 @@
         "sigla_provincia": "LO",
         "lat": 45.31440693,
         "long": 9.503720769,
-        "totale_casi": 182
+        "totale_casi": 739
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17553,7 +17553,7 @@
         "sigla_provincia": "MN",
         "lat": 45.15726772,
         "long": 10.79277363,
-        "totale_casi": 180
+        "totale_casi": 32
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17565,7 +17565,7 @@
         "sigla_provincia": "MI",
         "lat": 45.46679409,
         "long": 9.190347404,
-        "totale_casi": 452
+        "totale_casi": 267
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17577,7 +17577,7 @@
         "sigla_provincia": "MB",
         "lat": 45.58439043,
         "long": 9.273582472,
-        "totale_casi": 32
+        "totale_casi": 20
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17589,7 +17589,7 @@
         "sigla_provincia": "PV",
         "lat": 45.18509264,
         "long": 9.160157191,
-        "totale_casi": 11
+        "totale_casi": 180
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17601,7 +17601,7 @@
         "sigla_provincia": "SO",
         "lat": 46.17099261,
         "long": 9.87147489,
-        "totale_casi": 739
+        "totale_casi": 4
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17613,7 +17613,7 @@
         "sigla_provincia": "VA",
         "lat": 45.81701677,
         "long": 8.822868344,
-        "totale_casi": 20
+        "totale_casi": 23
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17637,7 +17637,7 @@
         "sigla_provincia": "AN",
         "lat": 43.61675973,
         "long": 13.5188753,
-        "totale_casi": 126
+        "totale_casi": 23
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17649,7 +17649,7 @@
         "sigla_provincia": "AP",
         "lat": 42.85322304,
         "long": 13.57691127,
-        "totale_casi": 23
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17661,7 +17661,7 @@
         "sigla_provincia": "FM",
         "lat": 43.16058534,
         "long": 13.71839535,
-        "totale_casi": 7
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17673,7 +17673,7 @@
         "sigla_provincia": "MC",
         "lat": 43.30023926,
         "long": 13.45307182,
-        "totale_casi": 0
+        "totale_casi": 7
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17685,7 +17685,7 @@
         "sigla_provincia": "PU",
         "lat": 43.91014021,
         "long": 12.91345989,
-        "totale_casi": 3
+        "totale_casi": 126
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17745,7 +17745,7 @@
         "sigla_provincia": "AL",
         "lat": 44.91297351,
         "long": 8.615401155,
-        "totale_casi": 34
+        "totale_casi": 32
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17757,7 +17757,7 @@
         "sigla_provincia": "AT",
         "lat": 44.89912921,
         "long": 8.204142547,
-        "totale_casi": 7
+        "totale_casi": 47
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17769,7 +17769,7 @@
         "sigla_provincia": "BI",
         "lat": 45.5665112,
         "long": 8.054082167,
-        "totale_casi": 4
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17793,7 +17793,7 @@
         "sigla_provincia": "NO",
         "lat": 45.44588506,
         "long": 8.621915884,
-        "totale_casi": 47
+        "totale_casi": 4
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17805,7 +17805,7 @@
         "sigla_provincia": "TO",
         "lat": 45.0732745,
         "long": 7.680687483,
-        "totale_casi": 32
+        "totale_casi": 34
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17817,7 +17817,7 @@
         "sigla_provincia": "VB",
         "lat": 45.9214455,
         "long": 8.551078753,
-        "totale_casi": 3
+        "totale_casi": 9
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17829,7 +17829,7 @@
         "sigla_provincia": "VC",
         "lat": 45.32398135,
         "long": 8.423234312,
-        "totale_casi": 9
+        "totale_casi": 7
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17853,7 +17853,7 @@
         "sigla_provincia": "BA",
         "lat": 41.12559576,
         "long": 16.86736689,
-        "totale_casi": 7
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17865,7 +17865,7 @@
         "sigla_provincia": "BT",
         "lat": 41.22705039,
         "long": 16.29520432,
-        "totale_casi": 3
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17877,7 +17877,7 @@
         "sigla_provincia": "BR",
         "lat": 40.63848545,
         "long": 17.94601575,
-        "totale_casi": 3
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17889,7 +17889,7 @@
         "sigla_provincia": "FG",
         "lat": 41.46226865,
         "long": 15.54305094,
-        "totale_casi": 0
+        "totale_casi": 7
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17913,7 +17913,7 @@
         "sigla_provincia": "TA",
         "lat": 40.47354739,
         "long": 17.23237181,
-        "totale_casi": 1
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17937,7 +17937,7 @@
         "sigla_provincia": "CA",
         "lat": 39.21531192,
         "long": 9.110616306,
-        "totale_casi": 0
+        "totale_casi": 3
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -17961,7 +17961,7 @@
         "sigla_provincia": "OR",
         "lat": 39.90381075,
         "long": 8.591183151,
-        "totale_casi": 3
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18021,7 +18021,7 @@
         "sigla_provincia": "CL",
         "lat": 37.49213171,
         "long": 14.06184973,
-        "totale_casi": 5
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18033,7 +18033,7 @@
         "sigla_provincia": "CT",
         "lat": 37.50287803,
         "long": 15.08704691,
-        "totale_casi": 0
+        "totale_casi": 15
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18045,7 +18045,7 @@
         "sigla_provincia": "EN",
         "lat": 37.56705701,
         "long": 14.27909375,
-        "totale_casi": 0
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18069,7 +18069,7 @@
         "sigla_provincia": "PA",
         "lat": 38.11569725,
         "long": 13.3623567,
-        "totale_casi": 1
+        "totale_casi": 5
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18081,7 +18081,7 @@
         "sigla_provincia": "RG",
         "lat": 36.92509198,
         "long": 14.73069891,
-        "totale_casi": 15
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18093,7 +18093,7 @@
         "sigla_provincia": "SR",
         "lat": 37.05991687,
         "long": 15.29333182,
-        "totale_casi": 1
+        "totale_casi": 2
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18105,7 +18105,7 @@
         "sigla_provincia": "TP",
         "lat": 38.01850065,
         "long": 12.51365684,
-        "totale_casi": 2
+        "totale_casi": 0
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18129,7 +18129,7 @@
         "sigla_provincia": "AR",
         "lat": 43.46642752,
         "long": 11.88228844,
-        "totale_casi": 10
+        "totale_casi": 7
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18141,7 +18141,7 @@
         "sigla_provincia": "FI",
         "lat": 43.76923077,
         "long": 11.25588885,
-        "totale_casi": 8
+        "totale_casi": 23
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18153,7 +18153,7 @@
         "sigla_provincia": "GR",
         "lat": 42.76026758,
         "long": 11.11356398,
-        "totale_casi": 1
+        "totale_casi": 2
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18165,7 +18165,7 @@
         "sigla_provincia": "LI",
         "lat": 43.55234873,
         "long": 10.3086781,
-        "totale_casi": 23
+        "totale_casi": 5
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18177,7 +18177,7 @@
         "sigla_provincia": "LU",
         "lat": 43.84432283,
         "long": 10.50151366,
-        "totale_casi": 5
+        "totale_casi": 8
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18189,7 +18189,7 @@
         "sigla_provincia": "MS",
         "lat": 44.03674425,
         "long": 10.14173829,
-        "totale_casi": 8
+        "totale_casi": 10
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18201,7 +18201,7 @@
         "sigla_provincia": "PI",
         "lat": 43.71553206,
         "long": 10.40127259,
-        "totale_casi": 7
+        "totale_casi": 8
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18213,7 +18213,7 @@
         "sigla_provincia": "PT",
         "lat": 43.933465,
         "long": 10.91734146,
-        "totale_casi": 14
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18225,7 +18225,7 @@
         "sigla_provincia": "PO",
         "lat": 43.88062274,
         "long": 11.09703315,
-        "totale_casi": 2
+        "totale_casi": 1
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18237,7 +18237,7 @@
         "sigla_provincia": "SI",
         "lat": 43.31816374,
         "long": 11.33190988,
-        "totale_casi": 1
+        "totale_casi": 14
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18266,7 +18266,7 @@
     {
         "data": "2020-03-06 18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "Trento",
         "codice_provincia": 996,
         "denominazione_provincia": "In fase di definizione/aggiornamento",
@@ -18345,7 +18345,7 @@
         "sigla_provincia": "BL",
         "lat": 46.13837528,
         "long": 12.21704167,
-        "totale_casi": 42
+        "totale_casi": 7
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18357,7 +18357,7 @@
         "sigla_provincia": "PD",
         "lat": 45.40692987,
         "long": 11.87608718,
-        "totale_casi": 24
+        "totale_casi": 198
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18369,7 +18369,7 @@
         "sigla_provincia": "RO",
         "lat": 45.07107289,
         "long": 11.79007,
-        "totale_casi": 7
+        "totale_casi": 5
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18405,7 +18405,7 @@
         "sigla_provincia": "VR",
         "lat": 45.43839046,
         "long": 10.99352685,
-        "totale_casi": 198
+        "totale_casi": 42
     },
     {
         "data": "2020-03-06 18:00:00",
@@ -18417,7 +18417,7 @@
         "sigla_provincia": "VI",
         "lat": 45.547497,
         "long": 11.54597109,
-        "totale_casi": 5
+        "totale_casi": 24
     },
     {
         "data": "2020-03-06 18:00:00",
