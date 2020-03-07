@@ -2,8 +2,8 @@
 
 # Dati COVID-19 Italia
 
-[![GitHub license](https://img.shields.io/github/license/umbros/covid-19-ita)](https://github.com/umbros/covid-19-ita/blob/master/license)
-[![GitHub commit](https://img.shields.io/github/last-commit/umbros/covid-19-ita)](https://img.shields.io/github/last-commit/umbros/covid-19-ita)
+[![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/license)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
 
 
 
