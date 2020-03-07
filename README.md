@@ -51,7 +51,9 @@ COVID-19/
 
 **Directory:**  dati-regioni
 
-**Struttura file:** dpc-covid19-ita-regioni-yyyymmdd.csv (dpc-covid19-ita-regioni-20200224.csv)
+**Struttura file giornaliero:** dpc-covid19-ita-regioni-yyyymmdd.csv (dpc-covid19-ita-regioni-20200224.csv)
+
+**File complessivo:** dpc-covid19-ita-regioni.csv
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
@@ -81,7 +83,9 @@ COVID-19/
 
 **Directory:**  dati-province
 
-**Struttura file:** dpc-covid19-ita-province-yyyymmdd.csv (dpc-covid19-ita-province-20200224.csv)
+**Struttura file giornaliero:** dpc-covid19-ita-province-yyyymmdd.csv (dpc-covid19-ita-province-20200224.csv)
+
+**File complessivo:** dpc-covid19-ita-province.csv
 
 | Nome campo              | Descrizione                         | Description                     | Formato            | Esempio              |
 |-------------------------|-------------------------------------|---------------------------------|--------------------|----------------------|
@@ -115,10 +119,10 @@ COVID-19/
 |----------------------------|-----------------------------------|----------------------------------------|--------------------|----------------------|
 | **data**                       | Data dell’informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS Ora italiana (ISO 8601)           | 2020-03-05 12:15:45 |                                  |                                        |                    |                      |
 | **stato**                      | Stato di riferimento              | Country of reference                   | ISO 3166-1 alpha-3 | ITA                  |
-| **totale_ospedalizzati**       | Totale ospedalizzati              | Total hospitalised patients            | Testo              | Abruzzo              |
+| **ospedalizzati**              | Totale ospedalizzati              | Total hospitalised patients            | Numero             | 3                    |
 | **isolamento_domiciliare**     | Persone in isolamento domiciliare | Home confinement                       | Numero             | 3                    |
 | **attualmente_positivi**       | Totale attualmente positivi       | Total amount of current positive cases | Numero             | 3                    |
-| **dimessi_guariti**            | Persone dimesse guarite           | Recovered                              | Testo              | Teramo               |
+| **dimessi_guariti**            | Persone dimesse guarite           | Recovered                              | Numero             | 3                    |
 | **deceduti**                   | Persone decedute                  | Death                                  | Numero             | 3                    |
 | **totale_casi**                | Totale casi positivi              | Total amount of positive cases         | Numero             | 3                    |
 | **nuovi_attualmente_positivi** | Nuovi attualmente positivi        | News amount of current positive cases  | Numero             | 3                    |
