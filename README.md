@@ -5,6 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/license)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
 
+[Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
 
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
@@ -123,3 +124,17 @@ COVID-19/
 | **nuovi_attualmente_positivi** | Nuovi attualmente positivi        | News amount of current positive cases  | Numero             | 3                    |
 
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json*
+
+**Licenza:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
+
+
+
+**Editore/Autore del dataset:** Dipartimento della Protezione Civile
+
+**Temi del dataset:** [Salute umana e sicurezza - Human health and safety](http://inspire.ec.europa.eu/theme/hh) (Inspire)
+
+**Categoria ISO 19115:** Salute
+
+*Dati forniti dal Ministero della Salute*
+
+*Elaborazione e gestione dati a cura del Dipartimento della Protezione Civile*
