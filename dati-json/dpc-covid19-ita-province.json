@@ -17006,7 +17006,7 @@
     {
         "data": "2020-03-06 18:00:00",
         "stato": "ITA",
-        "codice_regione": 21,
+        "codice_regione": 4,
         "denominazione_regione": "Bolzano",
         "codice_provincia": 981,
         "denominazione_provincia": "In fase di definizione/aggiornamento",
@@ -18266,7 +18266,7 @@
     {
         "data": "2020-03-06 18:00:00",
         "stato": "ITA",
-        "codice_regione": 22,
+        "codice_regione": 4,
         "denominazione_regione": "Trento",
         "codice_provincia": 996,
         "denominazione_provincia": "In fase di definizione/aggiornamento",
