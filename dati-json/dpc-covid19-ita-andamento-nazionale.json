@@ -180,5 +180,19 @@
         "deceduti": 233,
         "totale_casi": 5883,
         "tamponi": 42062
+    },
+    {
+        "data": "2020-03-08 18:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 3557,
+        "terapia_intensiva": 650,
+        "totale_ospedalizzati": 4207,
+        "isolamento_domiciliare": 2180,
+        "totale_attualmente_positivi": 6387,
+        "nuovi_attualmente_positivi": 1326,
+        "dimessi_guariti": 622,
+        "deceduti": 366,
+        "totale_casi": 7375,
+        "tamponi": 49937
     }
 ]
