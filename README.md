@@ -21,7 +21,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 - Dati province
 - Dati regioni
 - Schede riepilogative
-- Shape aree di contenimento
+- Aree di contenimento
 
 ## Struttura del repository
 ```
@@ -29,6 +29,11 @@ COVID-19/
 │
 ├── andamento-nazionale/
 │   ├── dpc-covid19-ita-andamento-nazionale-yyyymmdd.csv
+├── aree-contenimento/
+│   ├── geojson
+│   │   ├── dpc-covid19-ita-aree.geojson
+│   ├── shp
+│   │   ├── dpc-covid19-ita-aree.shp
 ├── dati-province/
 │   ├── dpc-covid19-ita-province-yyyymmdd.csv
 ├── dati-json/
@@ -40,8 +45,6 @@ COVID-19/
 │   │   ├── dpc-covid19-ita-scheda-province-yyyymmdd.pdf
 │   ├── regioni
 │   │   ├── dpc-covid19-ita-scheda-regioni-yyyymmdd.pdf
-├── shape-aree-contenimento/
-│   ├── covid-19-aree.*
 ```
 
 
