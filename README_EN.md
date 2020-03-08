@@ -8,11 +8,11 @@
 [Website of the Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
 
-On the 31 January 2020, the Council of Ministers declared a six months state of emergency in response to the health risk associated with the coronavirus infection. The Head of the Civil Protection Department, Angelo Borrelli, was appointed as the coordinator of all the interventions necessary to deal with the emergency.  
+On the 31 January 2020, the Council of Ministers declared a emergency of 6 month duration, in response to the health risk associated with the corona virus infection. The Head of the Civil Protection Department, Angelo Borrelli, was appointed as the coordinator of all the interventions necessary to deal with the emergency.  
 
-The main focus of the department were aimed at the rescue and assistance of the population affected by the infection, the strengthening of controls in airports and port areas, the return to Italy of its citizens who were in areas deemed at risk and the repatriation of foreign citizens to their countries of origin if they were exposed to the infection.
+The main goals of the department were aimed at the rescue and assistance of the population affected by the infection, the strengthening of checks in airports and port areas, the repatriation of Italian citizens in areas deemed at risk and the repatriation of foreign citizens to their countries of origin if they were exposed to the infection.
 
-In order to inform the citizens and to make the data collected available, useful ONLY for communication and information purposes, the Civil Protection Department has developed an interactive geographical dashboard that can be reached at the addresses [http://arcg.is/C1unv](http://arcg.is/C1unv) (desktop version) and [http://arcg.is/081a51](http://arcg.is/081a51) (mobile version) and it makes available, under license CC-BY-4.0, the following information updated daily at 6:30 p.m. (30 minutes after the press conference from the head of the department):
+In order to inform the citizens and to make the data collected available, intended ONLY for communication and information purposes, the Civil Protection Department has developed an interactive geographical dashboard that can be seen at the addresses [http://arcg.is/C1unv](http://arcg.is/C1unv) (desktop version) and [http://arcg.is/081a51](http://arcg.is/081a51) (mobile version) and it makes available, under license CC-BY-4.0, the following information updated daily at 6:30 p.m. (30 minutes after the press conference from the head of the department):
 
 
 - Andamento nazionale (National trend)
@@ -77,7 +77,7 @@ COVID-19/
 
 *A JSON file containing all the information for all the dates is made available at the path: `dati-json/dpc-covid19-ita-regioni.json`* 
 
-### Data divided by province
+### Per-province data
 
 **Directory:** `dati-province`
 
