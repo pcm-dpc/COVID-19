@@ -1,2 +1,2 @@
-data,stato,ospedalizzati,isolamento_domiciliare,attualmente_positivi,dimessi_guariti,deceduti,totale_casi,nuovi_attualmente_positivi
-2020-03-07 18:00:00,ITA,3218,1843,5061,589,233,5883,1145
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi
+2020-03-07 18:00:00,ITA,2651,567,3218,1843,5061,1145,589,233,5883,42062
