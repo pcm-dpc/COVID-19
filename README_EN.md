@@ -5,16 +5,14 @@
 [![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/license)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
 
-[Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
+[Website of the Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
 
-On 31 January 2020, the Council of Ministers declared a state of emergency, of the lenght of six months, in response to the health risk associated with the coronavirus infection.
+On the 31 January 2020, the Council of Ministers declared a six months state of emergency in response to the health risk associated with the coronavirus infection. The Head of the Civil Protection Department, Angelo Borrelli, was appointed as the coordinator of all the interventions necessary to deal with the emergency.  
 
-The Head of the Civil Protection Department, Angelo Borrelli, was appointed as the coordinator of all the interventions necessary to deal with the emergency on the national territory.  
+The main focus of the department were aimed at the rescue and assistance of the population affected by the infection, the strengthening of controls in airports and port areas, the return to Italy of its citizens who were in areas deemed at risk and the repatriation of foreign citizens to their countries of origin if they were exposed to the infection.
 
-The main focus of the department were aimed at the rescue and assistance of the population affected by the infection, the strengthening of controls in airports and port areas, the return to Italy of citizens who are in areas deemed at risk and the repatriation of foreign citizens to their countries of origin exposed to the infection.
-
-In order to inform citizens and make available the data collected, useful ONLY for communication and information purposes, the Civil Protection Department has developed an interactive geographical dashboard that can be reached at the addresses [http://arcg.is/C1unv](http://arcg.is/C1unv) (desktop version) and [http://arcg.is/081a51](http://arcg.is/081a51) (mobile version) and makes available, under license CC-BY-4.0, the following information updated daily at 6:30 p.m. (afterwards the press conference of the Head of Department):
+In order to inform the citizens and to make the data collected available, useful ONLY for communication and information purposes, the Civil Protection Department has developed an interactive geographical dashboard that can be reached at the addresses [http://arcg.is/C1unv](http://arcg.is/C1unv) (desktop version) and [http://arcg.is/081a51](http://arcg.is/081a51) (mobile version) and it makes available, under license CC-BY-4.0, the following information updated daily at 6:30 p.m. (30 minutes after the press conference from the head of the department):
 
 
 - Andamento nazionale (National trend)
@@ -50,11 +48,11 @@ COVID-19/
 
 ### Data divided by region
 
-**Directory:**  dati-regioni
+**Directory:** `dati-regioni`
 
-**Path daily file:** dpc-covid19-ita-regioni-yyyymmdd.csv (dpc-covid19-ita-regioni-20200224.csv)
+**Path daily file:** `dpc-covid19-ita-regioni-yyyymmdd.csv` (example:`dpc-covid19-ita-regioni-20200224.csv`)
 
-**Recap file:** dpc-covid19-ita-regioni.csv
+**Recap file:** `dpc-covid19-ita-regioni.csv`
 
 | Name                 | Descrizione (Italian)                      | Description                            | Format                       | Example             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
@@ -75,18 +73,17 @@ COVID-19/
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Number                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Number                        | 3                   |
 
+*The Autonomous provinces of Trento and Bolzano are listed separately in the "region name" but they both share the code 04 of Trentino Alto Adige as "codice_regione".* 
 
-*The Autonomous Provinces of Trento and Bolzano are listed in "region name" and with code 04 of Trentino Alto Adige.* 
-
-*An summary JSON file for all the dates is made available in the folder "dati-json": dpc-covid19-ita-regioni.json* 
+*A JSON file containing all the information for all the dates is made available at the path: `dati-json/dpc-covid19-ita-regioni.json`* 
 
 ### Data divided by province
 
-**Directory:**  dati-province
+**Directory:** `dati-province`
 
-**Path daily file:** dpc-covid19-ita-province-yyyymmdd.csv (dpc-covid19-ita-province-20200224.csv)
+**Path daily file:** `dpc-covid19-ita-province-yyyymmdd.csv` (example: `dpc-covid19-ita-province-20200224.csv`)
 
-**Recap file:** dpc-covid19-ita-province.csv
+**Recap file:** `dpc-covid19-ita-province.csv`
 
 | Name              | Descrizione (Italian)                       | Description                     | Format            | Example              |
 |-------------------------|-------------------------------------|---------------------------------|--------------------|----------------------|
@@ -101,20 +98,19 @@ COVID-19/
 | **long**                    | Longitudine                         | Longitude                       | WGS84              | 13.70439971          |
 | **totale_casi**             | Totale casi positivi                | Total amount of positive cases  | Number             | 3                    |
 
-*The Autonomous Provinces of Trento and Bolzano are listed in "region name" and with code 04 of Trentino Alto Adige.* 
+*The Autonomous provinces of Trento and Bolzano are listed separately in the "region name" but they both share the code 04 of Trentino Alto Adige as "codice_regione".* 
 
-*Each Region has a "fake" province named "In fase di definizione/aggiornamento" (in the definition/updating phase) with the province code from 979 to 999. 
- This code is used to indicate the data not yet assigned to the Provinces.*
+*Each Region has a "fake" province named `In fase di definizione/aggiornamento` (in the definition/updating phase) with province code from 979 to 999. This code is used to indicate that the data was not yet assigned to a specific province.*
 
-*An summary JSON file for all the dates is made available in the folder "dati-json": dpc-covid19-ita-province.json*
+*A JSON file containing all the information for all the dates is made available in at the path: `dati-json/dpc-covid19-ita-province.json`*
 
 ### National trend
 
-**Directory:**  dati-andamento-nazionale
+**Directory:** `dati-andamento-nazionale`
 
-**Path daily file:** dpc-covid19-ita-andamento-nazionale-yyyymmdd.csv (dpc-covid19-ita-andamento-nazionale-20200224.csv)
+**Path daily file:** `dpc-covid19-ita-andamento-nazionale-yyyymmdd.csv` (example: `dpc-covid19-ita-andamento-nazionale-20200224.csv`)
 
-**Recap file:** dpc-covid19-ita-andamento-nazionale.csv
+**Recap file:** `dpc-covid19-ita-andamento-nazionale.csv`
 
 
 | Name               | Descrizione  (Italian)                      | Description                            | Format            | Example              |
@@ -129,9 +125,9 @@ COVID-19/
 | **totale_casi**                | Totale casi positivi              | Total amount of positive cases         | Number             | 3                    |
 | **nuovi_attualmente_positivi** | Nuovi attualmente positivi        | News amount of current positive cases  | Number             | 3                    |
 
-*An summary JSON file for all the dates is made available in the folder "dati-json": dpc-covid19-ita-andamento-nazionale.json*
+*A JSON file containing all the information for all the dates is made available at the path: `dati-json/dpc-covid19-ita-andamento-nazionale.json`*
 
-**Licence:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
+**Licence:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [Go to licence](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 
 
 **Creator of the dataset:** Dipartimento della Protezione Civile
