@@ -115,17 +115,22 @@ COVID-19/
 **File complessivo:** dpc-covid19-ita-andamento-nazionale.csv
 
 
-| Nome campo                 | Descrizione                       | Description                            | Formato            | Esempio              |
-|----------------------------|-----------------------------------|----------------------------------------|--------------------|----------------------|
-| **data**                       | Data dell’informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS Ora italiana (ISO 8601)           | 2020-03-05 12:15:45 |                                  |                                        |                    |                      |
-| **stato**                      | Stato di riferimento              | Country of reference                   | ISO 3166-1 alpha-3 | ITA                  |
-| **ospedalizzati**              | Totale ospedalizzati              | Total hospitalised patients            | Numero             | 3                    |
-| **isolamento_domiciliare**     | Persone in isolamento domiciliare | Home confinement                       | Numero             | 3                    |
-| **attualmente_positivi**       | Totale attualmente positivi       | Total amount of current positive cases | Numero             | 3                    |
-| **dimessi_guariti**            | Persone dimesse guarite           | Recovered                              | Numero             | 3                    |
-| **deceduti**                   | Persone decedute                  | Death                                  | Numero             | 3                    |
-| **totale_casi**                | Totale casi positivi              | Total amount of positive cases         | Numero             | 3                    |
-| **nuovi_attualmente_positivi** | Nuovi attualmente positivi        | News amount of current positive cases  | Numero             | 3                    |
+| Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
+|-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
+| **data**                        | Data dell’informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
+| **stato**                       | Stato di riferimento              | Country of reference                   | XYZ (ISO 3166-1 alpha-3)      | ITA                 |
+| **ricoverati_con_sintomi**      | Ricoverati con sintomi            | Hospitalised patients with symptoms    | Numero                        | 3                   |
+| **terapia_intensiva**           | Ricoverati in terapia intensiva   | Intensive Care                         | Numero                        | 3                   |
+| **totale_ospedalizzati**        | Totale ospedalizzati              | Total hospitalised patients            | Numero                        | 3                   |
+| **isolamento_domiciliare**      | Persone in isolamento domiciliare | Home confinement                       | Numero                        | 3                   |
+| **totale_attualmente_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
+| **nuovi_attualmente_positivi**  | Nuovi attualmente positivi (ospedalizzati + isolamento domiciliare)       | News amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
+| **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
+| **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
+| **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
+| **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+
+
 
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json*
 
