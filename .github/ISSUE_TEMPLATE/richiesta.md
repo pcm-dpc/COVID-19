@@ -1,6 +1,6 @@
 ---
-name: Richiesta di informazione
-about: Richiesta di informazione
+name: Richiesta di informazione / Request for info
+about: Richiesta di informazione / Request for information
 ---
 
 <!--
@@ -11,15 +11,13 @@ Da sapere prima di aprire issue:
   - richieste di informazione
   - richiesta di dati
   - suggerimenti di miglioramento dei docmenti, metadati del repo, ecc
-  - segnalazione di errori nel contenuto
 -->
 
-Tipo di issue: <!-- eliminare tutti non-relativi -->
+**Tipo di issue / Type of issue**: <!-- eliminare tutti non-relativi --> richiesta di informazione | richiesta di dati suggerimento di enhancement (documentazione, label, _ecc_)
 
-- [ ] richiesta di informazione
-- [ ] richiesta di dati
-- [ ] suggerimento di enhancement (documentazione, label, _ecc_)
+## Riassunto / Summary
 
-## Riassunto
-
-<!-- Scrivi qui la -->
+<!--
+ITA: Scrivi qui il riassunto della richiesta.
+ENG: Provide a summary of your request below
+-->
