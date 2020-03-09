@@ -145,6 +145,35 @@ COVID-19/
 
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json*
 
+### API
+
+Tutte le chiamate accettano i parametri `begin` e `end` in formato ISO 8601.
+
+#### GET /andamento-nazionale
+Ritorna un array di oggetti descritti in [Andamento nazionale](#andamento-nazionale).
+
+Esempi:
+* `GET /andamento-nazionale?begin=2020-03-01T00:00:00&end=2020-03-03T00:00:00`
+* `GET /andamento-nazionale?begin=2020-03-01T00:00:00`
+
+#### GET /regioni
+#### GET /regioni/{REGIONE}
+Ritorna un array di oggetti descritti in [Dati per regione](#dati-per-regione).
+
+Esempi:
+* `GET /regioni`
+* `GET /regioni/Lombardia?end=2020-03-03T00:00:00`
+
+#### GET /province
+#### GET /province/{REGIONE}
+#### GET /province/{REGIONE}/{PROVINCIA}
+Ritorna un array di oggetti descritti in [Dati per provincia](#dati-per-provincia).
+
+Esempi:
+* `GET /province`
+* `GET /province/Lombardia?begin=2020-03-01T00:00:00`
+* `GET /province/Lombardia/Milano?begin=2020-03-01T00:00:00`
+
 **Licenza:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 
 

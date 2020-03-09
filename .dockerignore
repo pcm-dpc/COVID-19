@@ -1,0 +1,17 @@
+.git
+.gitignore
+.github
+
+aree/
+api/target/
+aree/
+dati-andamento-nazionale/
+dati-province/
+dati-regioni/
+metadata/
+schede-riepilogative/
+
+Dockerfile
+LICENSE
+
+*.md

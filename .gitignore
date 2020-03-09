@@ -19,3 +19,5 @@ Thumbs.db
 
 # Changelog test
 changelog.txt
+
+/api/target/
