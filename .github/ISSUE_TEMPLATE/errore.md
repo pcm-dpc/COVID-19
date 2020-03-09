@@ -1,6 +1,6 @@
 ---
-name: 🇮🇹 Segnalazione errore
-about: Segnalare un errore o mancanza nella documentazione o dati
+name: Segnalazione errore (ITA)
+about: Segnalare un errore o mancanza nella documentazione o dati. Utilizzate questo template se volete comunicare in Italiano
 ---
 
 <!--
@@ -14,8 +14,9 @@ Da sapere prima di segnalare errori:
 
 Tipo di issue:
 
-- [ ] Dati mancanti o errati
-- [ ] Errore nella documentazione
+- [ ] Dati mancanti o errati <!-- file relativo -->
+- [ ] Errore nella documentazione <!-- file relativo -->
+- [ ] Errore or mancanza nella pagina grafica dei dati <!-- file relativo -->
 
 ## Riassunto
 
