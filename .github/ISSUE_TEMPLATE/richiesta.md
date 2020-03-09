@@ -10,7 +10,7 @@ Da sapere prima di aprire issue:
 - Saranno accettate issue relativi a:
   - richieste di informazione
   - richiesta di dati
-  - suggerimenti di miglioramento dei docmenti, metadati del repo, dashboard grafica, ecc
+  - suggerimenti di miglioramento dei documenti, metadati del repo, dashboard grafica, ecc
 
 Prima di aprire un'issue:
   - Fate una breve ricerca degli issue già creati (incluso issue già chiusi) per convincersi che la vostra richiesta non è stata  ancora fatta

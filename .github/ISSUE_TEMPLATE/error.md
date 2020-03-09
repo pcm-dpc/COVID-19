@@ -16,9 +16,10 @@ Before you open an issue:
 
 Type of issue:
 
-- [ ] Incorrect or missing data : <!-- filename -->
-- [ ] Incorrect or missing documentation <!-- filename -->
-- [ ] Incorrect or missing data in the ArcGIS dashboard
+- [ ] Incorrect or missing data : <!-- file -->
+- [ ] Incorrect or missing documentation <!-- file -->
+- [ ] Incorrect or missing data in the dashboard <!-- file -->
+- [ ] Layout problem in the dashboard <!-- file -->
 
 ## Summary
 
