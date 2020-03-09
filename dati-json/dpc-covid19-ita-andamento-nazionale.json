@@ -194,5 +194,19 @@
         "deceduti": 366,
         "totale_casi": 7375,
         "tamponi": 49937
+    },
+    {
+        "data": "2020-03-09 18:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 4316,
+        "terapia_intensiva": 733,
+        "totale_ospedalizzati": 5049,
+        "isolamento_domiciliare": 2936,
+        "totale_attualmente_positivi": 7985,
+        "nuovi_attualmente_positivi": 1598,
+        "dimessi_guariti": 724,
+        "deceduti": 463,
+        "totale_casi": 9172,
+        "tamponi": 53826
     }
 ]
