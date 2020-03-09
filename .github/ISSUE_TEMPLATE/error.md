@@ -1,6 +1,6 @@
 ---
-name: 🇺🇸 Report an Error
-about: Report and error or missing data or documentation
+name: Report an Error (ENG)
+about: Report and error or missing data or documentation. Use this template if you are an English speaker
 ---
 
  <!--
@@ -18,6 +18,7 @@ Type of issue:
 
 - [ ] Incorrect or missing data : <!-- filename -->
 - [ ] Incorrect or missing documentation <!-- filename -->
+- [ ] Incorrect or missing data in the ArcGIS dashboard
 
 ## Summary
 
