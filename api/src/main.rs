@@ -1,10 +1,15 @@
 #[macro_use]
 extern crate lazy_static;
+#[macro_use]
+extern crate log;
 
 use chrono::prelude::*;
 
 use actix_cors::Cors;
-use actix_web::{get, web, App, HttpRequest, HttpResponse, HttpServer, Responder};
+use actix_web::{
+    get, middleware::Logger, web, App, HttpRequest, HttpResponse, HttpServer, Responder,
+};
+use env_logger::Env;
 use serde::{Deserialize, Serialize};
 
 const NATIONAL_RAW: &str = include_str!("../../dati-json/dpc-covid19-ita-andamento-nazionale.json");
@@ -235,10 +240,15 @@ async fn regions(req: HttpRequest, period: web::Query<Period>) -> impl Responder
 
 #[actix_rt::main]
 async fn main() -> std::io::Result<()> {
-    println!("Listening on 0.0.0.0:8000");
+    let env = Env::default().filter_or("RUST_LOG", "info");
+
+    env_logger::init_from_env(env);
+
+    info!("Listening on 0.0.0.0:8000");
 
     HttpServer::new(|| {
         App::new()
+            .wrap(Logger::default())
             .wrap(Cors::new().finish())
             .service(national)
             .service(

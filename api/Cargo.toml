@@ -15,6 +15,8 @@ serde_derive = "*"
 serde_json = "1.0"
 chrono = { version = "0.4", features = ["serde"] }
 lazy_static = "*"
+log = "0.4.1"
+env_logger = "0.7.1"
 
 [[bin]]
 name = "api"
