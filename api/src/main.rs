@@ -3,6 +3,7 @@ extern crate lazy_static;
 
 use chrono::prelude::*;
 
+use actix_cors::Cors;
 use actix_web::{get, web, App, HttpRequest, HttpResponse, HttpServer, Responder};
 use serde::{Deserialize, Serialize};
 
@@ -238,6 +239,7 @@ async fn main() -> std::io::Result<()> {
 
     HttpServer::new(|| {
         App::new()
+            .wrap(Cors::new().finish())
             .service(national)
             .service(
                 web::scope("/province")

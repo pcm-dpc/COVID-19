@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 actix-web = "2.0"
+actix-cors= "0.2"
 actix-rt= "1.0"
 serde = "*"
 serde_derive = "*"
