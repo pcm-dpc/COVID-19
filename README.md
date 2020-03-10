@@ -2,7 +2,7 @@
 
 # Dati COVID-19 Italia
 
-[![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/license)
+[![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
