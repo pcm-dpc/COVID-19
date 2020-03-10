@@ -2,8 +2,8 @@
 
 # Dati COVID-19 Italia
 
-[![GitHub license](https://img.shields.io/github/license/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
-[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
+[![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
 ```diff
 - Avviso: i dati del 10/03 relativi alla Regione Lombardia non sono completi.
