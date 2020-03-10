@@ -6,7 +6,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)
 
 ```diff
-- Avviso: i dati del 10/03 relativi alla Lombardi non sono completi.
+- Avviso: i dati del 10/03 relativi alla Regione Lombardia non sono completi.
 ```
  
 
