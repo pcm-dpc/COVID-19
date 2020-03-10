@@ -21,6 +21,7 @@ RUN rustup show active-toolchain
 COPY ./ ./
 
 RUN cd api && cargo build --release --target x86_64-unknown-linux-musl
+RUN strip /app/api/target/x86_64-unknown-linux-musl/release/api
 
 #
 # Final image
