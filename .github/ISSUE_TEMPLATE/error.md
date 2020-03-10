@@ -1,6 +1,6 @@
 ---
 name: Report an Error (ENG)
-about: Report and error or missing data or documentation. Use this template if you are an English speaker
+about: Report an error, missing data or documentation. Use this template if you are an English speaker
 ---
 
  <!--
