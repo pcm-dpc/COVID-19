@@ -69,7 +69,7 @@ struct Period {
 
 #[get("/andamento-nazionale")]
 async fn national(period: web::Query<Period>) -> impl Responder {
-    return match (period.begin, period.end) {
+    match (period.begin, period.end) {
         (Some(begin), None) => HttpResponse::Ok().json(
             NATIONAL
                 .iter()
@@ -94,7 +94,7 @@ async fn national(period: web::Query<Period>) -> impl Responder {
         (None, None) => HttpResponse::Ok()
             .content_type("application/json")
             .body(NATIONAL_RAW),
-    };
+    }
 }
 
 #[derive(Clone, Serialize, Deserialize)]
@@ -128,7 +128,7 @@ async fn provinces(req: HttpRequest, period: web::Query<Period>) -> impl Respond
         item.denominazione_regione == region
     }
 
-    return match (period.begin, period.end) {
+    match (period.begin, period.end) {
         (Some(begin), None) => HttpResponse::Ok().json(
             PROVINCES
                 .iter()
@@ -170,7 +170,7 @@ async fn provinces(req: HttpRequest, period: web::Query<Period>) -> impl Respond
                 .cloned()
                 .collect::<Vec<ProvincesItem>>(),
         ),
-    };
+    }
 }
 
 #[derive(Clone, Serialize, Deserialize)]
@@ -204,7 +204,7 @@ async fn regions(req: HttpRequest, period: web::Query<Period>) -> impl Responder
         item.denominazione_regione == region
     }
 
-    return match (period.begin, period.end) {
+    match (period.begin, period.end) {
         (Some(begin), None) => HttpResponse::Ok().json(
             REGIONS
                 .iter()
@@ -235,7 +235,7 @@ async fn regions(req: HttpRequest, period: web::Query<Period>) -> impl Responder
                 .cloned()
                 .collect::<Vec<RegionsItem>>(),
         ),
-    };
+    }
 }
 
 #[actix_rt::main]
