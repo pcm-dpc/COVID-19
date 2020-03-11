@@ -222,5 +222,19 @@
         "deceduti": 631,
         "totale_casi": 10149,
         "tamponi": 60761
+    },
+    {
+        "data": "2020-03-11 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 5838,
+        "terapia_intensiva": 1028,
+        "totale_ospedalizzati": 6866,
+        "isolamento_domiciliare": 3724,
+        "totale_attualmente_positivi": 10590,
+        "nuovi_attualmente_positivi": 2076,
+        "dimessi_guariti": 1045,
+        "deceduti": 827,
+        "totale_casi": 12462,
+        "tamponi": 73154
     }
 ]
