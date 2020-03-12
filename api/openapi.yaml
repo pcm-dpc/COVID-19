@@ -1,0 +1,403 @@
+openapi: 3.0.0
+info:
+  version: "1.0.0"
+  title: |-
+    Italy COVID-19 situation
+  x-summary: >-
+    Provides data about the COVID-19 outbreak in Italy
+  description: |
+    #### Documentazione
+
+    APIs providing data about the COVID-19 outbreak in Italy, from
+    Dipartimento della Protezione Civile ([https://github.com/pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19)).
+
+    #### Authentication
+
+    No authentication is needed.
+
+    #### Examples
+
+    Nation wide:
+    * `$ GET /andamento-nazionale?begin=2020-03-01T00:00:00&end=2020-03-03T00:00:00`
+    * `$ GET /andamento-nazionale?begin=2020-03-01T00:00:00`
+
+    Regions:
+    * `$ GET /regioni`
+    * `$ GET /regioni/Lombardia?end=2020-03-03T00:00:00`
+
+
+    Provinces:
+    * `$ GET /province`
+    * `$ GET /province/Lombardia?begin=2020-03-01T00:00:00`
+    * `$ GET /province/Lombardia/Milano?begin=2020-03-01T00:00:00`
+
+  termsOfService: 'http://swagger.io/terms/'
+  contact:
+    email: fb@fabiobonelli.it
+    name: Fabio Bonelli
+  x-audience:
+    - public
+  x-api-id: 91259249-d575-4b34-b383-a80b1a2c5234
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+
+servers:
+  - description: Production server
+    url: https://covid-19.zland.org/
+    x-healthCheck:
+      url: https://covid-19.zland.org/andamento-nazionale
+      interval: 300
+      timeout: 15
+
+paths:
+  /andamento-nazionale:
+    get:
+      summary: National trend
+      description: |
+          Returns nation wide data
+      operationId: get_national
+      parameters:
+        - in: query
+          name: begin
+          schema:
+            type: string
+          required: false
+          description: |
+            Return data starting from this timestamp, formatted as ISO 8601 with no timezone.
+            eg. "2020-03-01T18:00:00"
+        - in: query
+          name: end
+          schema:
+            type: string
+          required: false
+          description: |
+            Return data up until this timestamp, formatted as ISO 8601 with no timezone.
+            eg. "2020-03-01T18:00:00"
+      responses:
+        '400':
+          $ref: '#/components/responses/400BadRequest'
+        '200':
+          description: Request successful
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ArrayOfNationalItems'
+  /regioni:
+    get:
+      summary: Data by region
+      description: |
+        Returns the data by region
+      operationId: get_regions
+      parameters:
+        - in: query
+          name: begin
+          schema:
+            type: string
+          required: false
+          description: |
+            Return data starting from this timestamp, formatted as ISO 8601 with no timezone.
+            eg. "2020-03-01T18:00:00"
+        - in: query
+          name: end
+          schema:
+            type: string
+          required: false
+          description: |
+            Return data up until this timestamp, formatted as ISO 8601 with no timezone.
+            eg. "2020-03-01T18:00:00"
+        - in: path
+          name: region
+          schema:
+            type: string
+          required: true
+          description: |
+            Name of the region.
+            This parameter is optional, even if it's not marked as such due to OpenAPI
+            limitations.
+      responses:
+        '400':
+          $ref: '#/components/responses/400BadRequest'
+        '200':
+          description: Request successful
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ArrayOfRegionItems'
+  /province:
+    get:
+      summary: Data by province
+      description: |
+        Returns the data by province
+      operationId: get_provinces
+      parameters:
+        - in: query
+          name: begin
+          schema:
+            type: string
+          required: false
+          description: |
+            Return data starting from this timestamp, formatted as ISO 8601 with no timezone.
+            eg. "2020-03-01T18:00:00"
+        - in: query
+          name: end
+          schema:
+            type: string
+          required: false
+          description: |
+            Return data up until this timestamp, formatted as ISO 8601 with no timezone.
+            eg. "2020-03-01T18:00:00"
+        - in: path
+          name: region
+          schema:
+            type: string
+          required: true
+          description: |
+            Name of the region
+            This parameter is optional, even if it's not marked as such due to OpenAPI
+            limitations.
+        - in: path
+          name: province
+          schema:
+            type: string
+          required: true
+          description: |
+            Name of the province
+            This parameter is optional, even if it's not marked as such due to OpenAPI
+            limitations.
+      responses:
+        '400':
+          $ref: '#/components/responses/400BadRequest'
+        '200':
+          description: Request successful
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ArrayOfProvinceItems'
+
+components:
+  responses:
+    400BadRequest:
+      description: Bad Request
+
+  schemas:
+    ArrayOfNationalItems:
+      type: array
+      items:
+        $ref: '#/components/schemas/NationalItem'
+    ArrayOfProvinceItems:
+      type: array
+      items:
+        $ref: '#/components/schemas/ProvinceItem'
+    ArrayOfRegionItems:
+      type: array
+      items:
+        $ref: '#/components/schemas/RegionItem'
+
+    NationalItem:
+      type: object
+      description: Nation wide data
+      properties:
+        data:
+          type: string
+          description: |
+            Timestamp with format "YYYY-MM-DD HH:MM:SS".
+            The timezone is Europe/Rome.
+          example: '2020-03-01 18:00:00'
+        stato:
+          type: string
+          description: |
+            Country of reference (ISO 3166-1 alpha-3). Always "ITA"
+          example: 'ITA'
+        ricoverati_con_sintomi:
+          type: integer
+          description: |
+            Hospitalised patients with symptoms
+          example: 3
+        terapia_intensiva:
+          type: integer
+          description: |
+            Intensive care
+          example: 3
+        totale_ospedalizzati:
+          type: integer
+          description: |
+            Total hospitalised patients
+          example: 3
+        isolamento_domiciliare:
+          type: integer
+          description: |
+            Home confinement
+          example: 3
+        totale_attualmente_positivi:
+          type: integer
+          description: |
+            Total amount of current positive cases (Hospitalised patients + Home confinement)
+          example: 3
+        nuovi_attualmente_positivi:
+          type: integer
+          description: |
+            Amount of new current positive cases (Hospitalised patients + Home confinement)
+          example: 3
+        dimessi_guariti:
+          type: integer
+          description: |
+            Recovered
+          example: 3
+        deceduti:
+          type: integer
+          description: |
+            Deceased
+          example: 3
+        totale_casi:
+          type: integer
+          description: |
+            Total amount of positive cases
+          example: 3
+        tamponi:
+          type: integer
+          description: |
+            Tests performed
+          example: 3
+
+    RegionItem:
+      type: object
+      description: Region data
+      properties:
+        data:
+          type: string
+          description: |
+            Timestamp with format "YYYY-MM-DD HH:MM:SS".
+            The timezone is Europe/Rome.
+          example: '2020-03-01 18:00:00'
+        stato:
+          type: string
+          description: |
+            Country of reference (ISO 3166-1 alpha-3). Always "ITA"
+          example: 'ITA'
+        codice_regione:
+          type: integer
+          description: |
+            Code of the Region ([ISTAT 2019](https://www.istat.it/storage/codici-unita-amministrative/Archivio-elenco-comuni-codici-e-denominazioni_Anni-2018-2020.zip))
+          example: 13
+        denominazione_regione:
+          type: string
+          description: |
+            Name of the Region
+          example: "Lombardia"
+        lat:
+          type: number
+          description: |
+            Latitude (WGS84)
+          example: 42.6589177
+        long:
+          type: number
+          description: |
+            Longitude (WGS84)
+          example: 13.70439971
+        ricoverati_con_sintomi:
+          type: integer
+          description: |
+            Hospitalised patients with symptoms
+          example: 3
+        terapia_intensiva:
+          type: integer
+          description: |
+            Intensive care
+          example: 3
+        totale_ospedalizzati:
+          type: integer
+          description: |
+            Total hospitalised patients
+          example: 3
+        isolamento_domiciliare:
+          type: integer
+          description: |
+            Home confinement
+          example: 3
+        totale_attualmente_positivi:
+          type: integer
+          description: |
+            Total amount of current positive cases (Hospitalised patients + Home confinement)
+          example: 3
+        nuovi_attualmente_positivi:
+          type: integer
+          description: |
+            New positive patients compared with the previous day
+          example: 3
+        dimessi_guariti:
+          type: integer
+          description: |
+            Recovered
+          example: 3
+        deceduti:
+          type: integer
+          description: |
+            Deceased
+          example: 3
+        totale_casi:
+          type: integer
+          description: |
+            Total amount of positive cases
+          example: 3
+        tamponi:
+          type: integer
+          description: |
+            Tests performed
+          example: 3
+
+    ProvinceItem:
+      type: object
+      description: Province data
+      properties:
+        data:
+          type: string
+          description: |
+            Timestamp with format "YYYY-MM-DD HH:MM:SS".
+            The timezone is Europe/Rome.
+          example: '2020-03-01 18:00:00'
+        stato:
+          type: string
+          description: |
+            Country of reference (ISO 3166-1 alpha-3). Always "ITA"
+          example: 'ITA'
+        codice_regione:
+          type: integer
+          description: |
+            Code of the Region ([ISTAT 2019](https://www.istat.it/storage/codici-unita-amministrative/Archivio-elenco-comuni-codici-e-denominazioni_Anni-2018-2020.zip))
+          example: 13
+        denominazione_regione:
+          type: string
+          description: |
+            Name of the Region
+          example: "Lombardia"
+        codice_provincia:
+          type: integer
+          description: |
+            Code of the Province ([ISTAT 2019](https://www.istat.it/storage/codici-unita-amministrative/Archivio-elenco-comuni-codici-e-denominazioni_Anni-2018-2020.zip))
+          example: 67
+        denominazione_provincia:
+          type: string
+          description: |
+            Name of the Province
+          example: "Teramo"
+        sigla_provincia:
+          type: string
+          description: |
+            Province abbreviation
+          example: "TE"
+        lat:
+          type: number
+          description: |
+            Latitude (WGS84)
+          example: 42.6589177
+        long:
+          type: number
+          description: |
+            Longitude (WGS84)
+          example: 13.70439971
+        totale_casi:
+          type: integer
+          description: |
+            Total amount of positive cases
+          example: 3
