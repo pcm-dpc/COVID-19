@@ -24,6 +24,10 @@ regions = ["Abruzzo",
            ]
 
 
+def sanitize(string):
+    return string.replace(" ", "").replace("'", "").replace(".", "").lower()
+
+
 def data_of(reg):
     new = dict()
     with open('dati-json/dpc-covid19-ita-regioni.json') as json_file:
@@ -32,7 +36,7 @@ def data_of(reg):
         for thing in data:
             if thing['denominazione_regione'] == reg:
                 filtered += [thing]
-        with open('dati-json-regxreg/' + str(reg).replace(" ", "") + '-data.json', 'w') as outfile:
+        with open('dati-json-regxreg/' + sanitize(reg) + '-data.json', 'w') as outfile:
             json.dump(filtered, outfile)
 
 
