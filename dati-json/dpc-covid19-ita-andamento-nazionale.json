@@ -236,5 +236,19 @@
         "deceduti": 827,
         "totale_casi": 12462,
         "tamponi": 73154
+    },
+    {
+        "data": "2020-03-12 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 6650,
+        "terapia_intensiva": 1153,
+        "totale_ospedalizzati": 7803,
+        "isolamento_domiciliare": 5036,
+        "totale_attualmente_positivi": 12839,
+        "nuovi_attualmente_positivi": 2249,
+        "dimessi_guariti": 1258,
+        "deceduti": 1016,
+        "totale_casi": 15113,
+        "tamponi": 86011
     }
 ]
