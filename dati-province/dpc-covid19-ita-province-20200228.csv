@@ -1,4 +1,4 @@
-data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi
+﻿data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi
 2020-02-28 18:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,0
 2020-02-28 18:00:00,ITA,13,Abruzzo,066,L'Aquila,AQ,42.35122196,13.39843823,0
 2020-02-28 18:00:00,ITA,13,Abruzzo,068,Pescara,PE,42.46458398,14.21364822,0
@@ -23,7 +23,7 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-02-28 18:00:00,ITA,15,Campania,983,In fase di definizione/aggiornamento,,0,0,0
 2020-02-28 18:00:00,ITA,08,Emilia Romagna,037,Bologna,BO,44.49436681,11.3417208,0
 2020-02-28 18:00:00,ITA,08,Emilia Romagna,038,Ferrara,FE,44.83599085,11.61868934,0
-2020-02-28 18:00:00,ITA,08,Emilia Romagna,040,Forl�-Cesena,FC,44.22268559,12.04068608,0
+2020-02-28 18:00:00,ITA,08,Emilia Romagna,040,Forlï¿½-Cesena,FC,44.22268559,12.04068608,0
 2020-02-28 18:00:00,ITA,08,Emilia Romagna,036,Modena,MO,44.64600009,10.92615487,18
 2020-02-28 18:00:00,ITA,08,Emilia Romagna,034,Parma,PR,44.80107394,10.32834985,27
 2020-02-28 18:00:00,ITA,08,Emilia Romagna,033,Piacenza,PC,45.05193462,9.692632596,89
