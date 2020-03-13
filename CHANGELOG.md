@@ -25,4 +25,4 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## Prossimi aggiornamenti
 
 - Aggiunta "Note" in "dati-regioni", "dati-province" e "dati-andamento-nazionale"
-- Dati con altri breakdown (Backlog)
+- Dati per Comune, Età, Sesso, Stato paziente (Backlog)

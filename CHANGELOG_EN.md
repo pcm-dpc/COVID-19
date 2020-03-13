@@ -25,4 +25,4 @@ All changes to the project, new features and information are documented in this 
 ## Next updates
 
 - Add "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
-- Data for other breakdown (Backlog)
+- Data for City, Age, Sex, Status (Backlog)
