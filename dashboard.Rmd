@@ -14,8 +14,6 @@ library(shiny)
 library(plotly)
 #library(RColorBrewer)
 
-#setwd("/home/admin/myapps/covid19_ITA")
-
 urlfile<-'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
 d <- read_csv(urlfile)
 
