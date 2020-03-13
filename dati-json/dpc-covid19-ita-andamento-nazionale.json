@@ -250,5 +250,19 @@
         "deceduti": 1016,
         "totale_casi": 15113,
         "tamponi": 86011
+    },
+    {
+        "data": "2020-03-13 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 7426,
+        "terapia_intensiva": 1328,
+        "totale_ospedalizzati": 8754,
+        "isolamento_domiciliare": 6201,
+        "totale_attualmente_positivi": 14955,
+        "nuovi_attualmente_positivi": 2116,
+        "dimessi_guariti": 1439,
+        "deceduti": 1266,
+        "totale_casi": 17660,
+        "tamponi": 97488
     }
 ]
