@@ -1,0 +1,290 @@
+---
+title: <a href="https://github.com/pcm-dpc/COVID-19" target="blank"> COVID 19-ITA</a>
+output: flexdashboard::flex_dashboard
+runtime: shiny
+---
+
+
+```{r load data, echo=FALSE, warning=FALSE, message=FALSE, fig.height=4, fig.width=4, fig.align="center"}
+library(tidyverse)
+library(lubridate)
+library(knitr)
+library(kableExtra)
+library(shiny)
+library(plotly)
+#library(RColorBrewer)
+
+#setwd("/home/admin/myapps/covid19_ITA")
+
+urlfile<-'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
+d <- read_csv(urlfile)
+
+
+#mutate dtate format
+d <- d %>% mutate(Day= as_date(data))
+
+#d <- read_csv("./dati-regioni/dpc-covid19-ita-regioni.csv") 
+
+# take diffs
+d <- d %>%  arrange(denominazione_regione,data) %>%  group_by(denominazione_regione) %>% 
+  mutate(deceduti_lag=lag(deceduti, n = 1, default = NA),
+         guariti_lag=lag(dimessi_guariti, n = 1, default = NA),
+         positivi_lag=lag(totale_attualmente_positivi, n = 1, default = NA),
+         totale_lag=lag(totale_casi, n = 1, default = NA)) %>% 
+  mutate(diff_decessi=deceduti- deceduti_lag, 
+         diff_guariti=dimessi_guariti-guariti_lag,
+         diff_casi=totale_casi-totale_lag) %>% 
+  mutate(Nuovi_casi=nuovi_attualmente_positivi+diff_guariti+diff_decessi) %>% #same as diff_casi, just a check
+ ungroup()
+# 
+# <!-- Confermo quanto rilevato dai precedenti commenti.
+# Il dato "nuovi attualmente positivi" dovrebbe essere chiarito.
+# Il cambio può essere in:
+# 
+# "incremento attualmente infetti"
+# "aumento attualmente infetti"
+# " delta infetti"
+# "nuovi infetti netti"
+# o qualunque altra dicitura che sottolinei il fatto che si tratta di NUOVI CASI - NUOVE GUARIGIONI - NUOVI DECESSI (dove nuovo = data odierna) -->
+
+# select countries above a given threshold
+
+regions <- d %>%  select(denominazione_regione) %>% distinct() %>% pull(denominazione_regione) 
+
+#colourCount = length(unique(countries))
+#getPalette = colorRampPalette(brewer.pal(9, "Set1"))
+```
+
+Sidebar {.sidebar}
+=====================================
+
+```{r}
+checkboxGroupInput("show_vars", "Regioni",
+                   regions, selected = regions)
+```
+
+---
+Fonte: Dipartimento della Protezione Civile
+
+Dati disponibili su: https://github.com/pcm-dpc/COVID-19
+
+
+Casi positivi
+=====================================
+
+
+### Nuovi casi positivi (differenza giornaliera totale casi positivi)
+
+
+```{r}
+
+    #select data
+    #range
+renderPlotly({
+    country <- input$regions
+    
+     dt <- d %>% filter(denominazione_regione %in% input$show_vars)  %>% na.omit() 
+    
+      Regione <- fct_reorder2(dt$denominazione_regione, dt$data, dt$Nuovi_casi)
+
+ggplot(dt,aes(x=Day,y=Nuovi_casi,fill=Regione))+
+geom_col(alpha=.8,,color="grey88",size=.1)+
+scale_x_date(date_breaks = "1 day", date_labels = "%d/%m/%y")+
+theme_bw()+
+#scale_fill_manual(values = getPalette(colourCount))+
+        labs(title="COVID-19: Nuovi casi positivi",
+    subtitle="",
+    y = "Individui",
+    x= "Giorno",
+    fill="Regione",
+    color="Regione",
+    caption="Source: Dipartimento della Protezione Civile")+ # labels
+theme(legend.position="bottom",
+     axis.text=element_text(size=8),
+     axis.title=element_text(size=14,face="bold"),
+     axis.text.x = element_text(angle = 45, hjust = 1,vjust=0.5)) #a
+})
+```
+
+
+### Totale casi positivi (attualmente positivi + guariti + deceduti)
+
+```{r}
+
+renderPlotly({
+
+    #select data
+    #range
+  country <- input$regions
+  
+      
+      dt <- d %>% filter(denominazione_regione %in% input$show_vars) %>% group_by(denominazione_regione, data)  %>% na.omit() %>% ungroup()  
+    
+      Regione <- fct_reorder2(dt$denominazione_regione, dt$data, dt$totale_attualmente_positivi)
+
+ggplot(dt,aes(x=Day,y=totale_casi,fill=Regione))+
+geom_area(alpha=.6)+
+theme_bw()+
+    scale_x_date(date_breaks = "1 day", date_labels = "%d/%m/%y")+
+#scale_fill_brewer(palette="YlOrRd",direction=-1)+
+        labs(title="COVID-19: Totale casi positivi",
+    subtitle="",
+    y = "Individui",
+    x= "Giorno",
+    fill="Regione",
+    color="Regione",
+    caption="Source: Dipartimento della Protezione Civile")+ # labels
+theme(legend.position="bottom",
+     axis.text=element_text(size=8),
+     axis.title=element_text(size=14,face="bold"),
+     axis.text.x = element_text(angle = 45, hjust = 1,vjust=0.5)) #a
+})
+```
+
+
+
+
+Deceduti
+=====================================
+
+
+### Nuovi (differenza giornaliers)
+
+
+```{r}
+
+    #select data
+    #range
+renderPlotly({
+    country <- input$regions
+    
+     dt <- d %>% filter(denominazione_regione %in% input$show_vars)  %>% na.omit() 
+    
+      Regione <- fct_reorder2(dt$denominazione_regione, dt$data, dt$diff_decessi)
+
+ggplot(dt,aes(x=Day,y=diff_decessi,fill=Regione))+
+geom_col(alpha=.8,color="white",size=.1)+
+theme_bw()+
+    scale_x_date(date_breaks = "1 day", date_labels = "%d/%m/%y")+
+
+#scale_fill_manual(values = getPalette(colourCount))+
+        labs(title="COVID-19: Nuovi decessi",
+    subtitle="",
+    y = "Individui",
+    x= "Giorno",
+    fill="Regione",
+    color="Regione",
+    caption="Source: Dipartimento della Protezione Civile")+ # labels
+theme(legend.position="bottom",
+     axis.text=element_text(size=8),
+     axis.title=element_text(size=14,face="bold"),
+     axis.text.x = element_text(angle = 45, hjust = 1,vjust=0.5)) #a
+})
+```
+
+### Totale
+
+```{r}
+
+    #select data
+    #range
+renderPlotly({
+    country <- input$regions
+    
+       dt <- d %>% filter(denominazione_regione %in% input$show_vars) %>% group_by(denominazione_regione, data)  %>% na.omit() %>% ungroup()  
+    
+      Regione <- fct_reorder2(dt$denominazione_regione, dt$data, dt$deceduti)
+
+    
+ggplot(dt,aes(x=Day,y=deceduti,fill=Regione))+
+geom_area(alpha=.6)+
+theme_bw()+
+    scale_x_date(date_breaks = "1 day", date_labels = "%d/%m/%y")+
+
+#scale_fill_manual(values = getPalette(colourCount))+
+        labs(title="COVID-19: Decessi totali",
+    subtitle="",
+    y = "Individui",
+    x= "Giorno",
+    fill="Regione",
+    color="Regione",
+    caption="Source: Dipartimento della Protezione Civile")+ # labels
+theme(legend.position="bottom",
+     axis.text=element_text(size=8),
+     axis.title=element_text(size=14,face="bold"),
+     axis.text.x = element_text(angle = 45, hjust = 1,vjust=0.5)) #a
+})
+```
+
+
+Dimessi guariti
+=====================================
+
+### Nuovi
+
+
+
+```{r}
+
+    #select data
+    #range
+renderPlotly({
+    country <- input$regions
+    
+     dt <- d %>% filter(denominazione_regione %in% input$show_vars)  %>% na.omit() 
+    
+      Regione <- fct_reorder2(dt$denominazione_regione, dt$data, dt$diff_guariti)
+
+ggplot(dt,aes(x=Day,y=diff_guariti,fill=Regione))+
+geom_col(alpha=.8,color="white",size=.1)+
+theme_bw()+
+  scale_x_date(date_breaks = "1 day", date_labels = "%d/%m/%y")+
+#scale_fill_manual(values = getPalette(colourCount))+
+        labs(title="COVID-19: Nuovi decessi",
+    subtitle="",
+    y = "Individui",
+    x= "Giorno",
+    fill="Regione",
+    color="Regione",
+    caption="Source: Dipartimento della Protezione Civile")+ # labels
+theme(legend.position="bottom",
+     axis.text=element_text(size=8),
+     axis.title=element_text(size=14,face="bold"),
+     axis.text.x = element_text(angle = 45, hjust = 1,vjust=0.5)) #a
+})
+```
+
+### Totale 
+
+
+```{r}
+
+    #select data
+    #range
+renderPlotly({
+    country <- input$regions
+    
+      dt <- d %>% filter(denominazione_regione %in% input$show_vars) %>% group_by(denominazione_regione, data)  %>% na.omit() %>% ungroup()  
+    
+      Regione <- fct_reorder2(dt$denominazione_regione, dt$data, dt$dimessi_guariti)
+    
+ggplot(dt,aes(x=Day,y=dimessi_guariti,fill=Regione))+
+geom_area(alpha=.6)+
+scale_x_date(date_breaks = "1 day", date_labels = "%d/%m/%y")+
+theme_bw()+
+#scale_fill_manual(values = getPalette(colourCount))+
+        labs(title="COVID-19: Totale dimessi guariti",
+    subtitle="",
+    y = "Individui",
+    x= "Giorno",
+    fill="Regione",
+    color="Regione",
+    caption="Source: Dipartimento della Protezione Civile")+ # labels
+theme(legend.position="bottom",
+     axis.text=element_text(size=8),
+     axis.title=element_text(size=14,face="bold"),
+     axis.text.x = element_text(angle = 45, hjust = 1,vjust=0.5)) #a
+})
+```
+
+
