@@ -136,8 +136,8 @@ COVID-19/
 | **isolamento_domiciliare**      | Persone in isolamento domiciliare | Home confinement                       | Numero                        | 3                   |
 | **totale_attualmente_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
 | **nuovi_attualmente_positivi**  | Nuovi attualmente positivi (ospedalizzati + isolamento domiciliare)       | News amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
-| **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
-| **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
+| **dimessi_guariti**             | Persone dimesse guarite           | Discharged healed                             | Numero                        | 3                   |
+| **deceduti**                    | Persone decedute                  | Deaths                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 
