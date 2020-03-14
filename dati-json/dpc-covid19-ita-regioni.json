@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "data": "2020-02-24 18:00:00",
         "stato": "ITA",
@@ -7221,7 +7221,7 @@
         "data": "2020-03-14 17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
-        "denominazione_regione": "Bolzano",
+        "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
         "ricoverati_con_sintomi": 26,
@@ -7491,7 +7491,7 @@
         "data": "2020-03-14 17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
-        "denominazione_regione": "Trento",
+        "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
         "ricoverati_con_sintomi": 68,
