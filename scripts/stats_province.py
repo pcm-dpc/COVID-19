@@ -24,7 +24,7 @@ provinces_input = list(
 
 
 # Load .json province data
-with open(DATA_FPATH) as f:
+with open(DATA_FPATH, encoding="utf-8-sig") as f:
     data = json.load(f)
 
 # Create a set of available provinces
