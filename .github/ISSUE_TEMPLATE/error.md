@@ -21,6 +21,9 @@ Type of issue:
 - [ ] Incorrect or missing data in the dashboard <!-- file -->
 - [ ] Layout problem in the dashboard <!-- file -->
 
+- Region:
+- Province: 
+
 ## Summary
 
 <!-- Provide a summary of the error, including which data set or file you are referring to. -->

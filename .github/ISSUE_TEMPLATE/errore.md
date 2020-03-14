@@ -19,6 +19,9 @@ Tipo di issue:
 - [ ] Errore or mancanza nella dashboard <!-- file relativo -->
 - [ ] Problemi di visualizzazione nella dashboard <!-- file relativo -->
 
+- Regione:
+- Provincia: 
+
 ## Riassunto
 
 <!-- Scrivi qui la descrizione dell'errore, con riferimento a set di dati oppure documento specifico. -->
