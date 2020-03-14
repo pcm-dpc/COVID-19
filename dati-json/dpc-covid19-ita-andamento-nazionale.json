@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "data": "2020-02-24 18:00:00",
         "stato": "ITA",
@@ -264,5 +264,19 @@
         "deceduti": 1266,
         "totale_casi": 17660,
         "tamponi": 97488
+    },
+    {
+        "data": "2020-03-14 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 8372,
+        "terapia_intensiva": 1518,
+        "totale_ospedalizzati": 9890,
+        "isolamento_domiciliare": 7860,
+        "totale_attualmente_positivi": 17750,
+        "nuovi_attualmente_positivi": 2795,
+        "dimessi_guariti": 1966,
+        "deceduti": 1441,
+        "totale_casi": 21157,
+        "tamponi": 109170
     }
 ]
