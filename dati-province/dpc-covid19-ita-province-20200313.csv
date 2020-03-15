@@ -1,4 +1,4 @@
-﻿data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi
 2020-03-13 17:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,23
 2020-03-13 17:00:00,ITA,13,Abruzzo,066,L'Aquila,AQ,42.35122196,13.39843823,9
 2020-03-13 17:00:00,ITA,13,Abruzzo,068,Pescara,PE,42.46458398,14.21364822,48
