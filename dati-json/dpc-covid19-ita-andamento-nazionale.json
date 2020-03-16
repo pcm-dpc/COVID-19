@@ -292,5 +292,19 @@
         "deceduti": 1809,
         "totale_casi": 24747,
         "tamponi": 124899
+    },
+    {
+        "data": "2020-03-16 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 11025,
+        "terapia_intensiva": 1851,
+        "totale_ospedalizzati": 12876,
+        "isolamento_domiciliare": 10197,
+        "totale_attualmente_positivi": 23073,
+        "nuovi_attualmente_positivi": 2470,
+        "dimessi_guariti": 2749,
+        "deceduti": 2158,
+        "totale_casi": 27980,
+        "tamponi": 137962
     }
 ]
