@@ -13,6 +13,8 @@
 ## Avvisi
 
 ```diff
+- 18/03/2020: dati Regione Campania non pervenuti.
+- 18/03/2020: dati Provincia di Parma non pervenuti.
 - 17/03/2020: dati Provincia di Rimini non aggiornati.
 - 16/03/2020: dati P.A. Trento e Puglia non pervenuti.
 - 11/03/2020: dati Regione Abruzzo non pervenuti.

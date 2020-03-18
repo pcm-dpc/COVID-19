@@ -320,5 +320,19 @@
         "deceduti": 2503,
         "totale_casi": 31506,
         "tamponi": 148657
+    },
+    {
+        "data": "2020-03-18 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 14363,
+        "terapia_intensiva": 2257,
+        "totale_ospedalizzati": 16620,
+        "isolamento_domiciliare": 12090,
+        "totale_attualmente_positivi": 28710,
+        "nuovi_attualmente_positivi": 2648,
+        "dimessi_guariti": 4025,
+        "deceduti": 2978,
+        "totale_casi": 35713,
+        "tamponi": 165541
     }
 ]
