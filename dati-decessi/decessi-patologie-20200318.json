@@ -1,16 +1,16 @@
 [{
 	"number_diseases":"0",
-	"percentage":0.8,
+	"percentage":0.8
 },
 {
 	"number_diseases":"1",
-	"percentage":25.1,
+	"percentage":25.1
 },
 {
 	"number_diseases":"2",
-	"percentage":25.6,
+	"percentage":25.6
 },
 {
 	"number_diseases":"3+",
-	"percentage":48.5,
+	"percentage":48.5
 }]
