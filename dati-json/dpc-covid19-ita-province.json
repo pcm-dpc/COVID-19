@@ -35328,18 +35328,6 @@
         "totale_casi": "100"
     },
     {
-        "data": "data",
-        "stato": "stato",
-        "codice_regione": "codice_regione",
-        "denominazione_regione": "denominazione_regione",
-        "codice_provincia": "codice_provincia",
-        "denominazione_provincia": "denominazione_provincia",
-        "sigla_provincia": "sigla_provincia",
-        "lat": "lat",
-        "long": "long",
-        "totale_casi": "totale_casi"
-    },
-    {
         "data": "2020-03-18 17:00:00",
         "stato": "ITA",
         "codice_regione": "13",
