@@ -482,7 +482,6 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-03-17 17:00:00,ITA,10,Umbria,43.10675841,12.38824698,36,21,57,135,192,33,4,1,197,1323
 2020-03-17 17:00:00,ITA,02,Valle d'Aosta,45.73750286,7.320149366,35,6,41,93,134,31,0,2,136,398
 2020-03-17 17:00:00,ITA,05,Veneto,45.43490485,12.33845213,548,171,719,1769,2488,214,136,80,2704,35478
-data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi
 2020-03-18 17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,99,41,140,109,249,33,7,7,263,2054
 2020-03-18 17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,9,2,11,16,27,7,0,0,27,262
 2020-03-18 17:00:00,ITA,04,P.A. Bolzano,46.49933453,11.35662422,79,18,97,269,366,84,1,9,376,2844
