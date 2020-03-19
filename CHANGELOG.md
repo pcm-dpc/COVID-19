@@ -22,6 +22,13 @@ Tutte le modifiche al progetto, nuove funzionalitÃ  e informazioni sono docume
 - Aggiunto Changelog in italiano (CHANGELOG.md) e in inglese (CHANGELOG_EN.md)
 - Aggiornate le Aree secondo il nuovo DPCM 11 Marzo 2020
 
+## 2020-03-19
+
+- Aggiunti ultimi dati (latest) csv, nelle rispettive directory, per andamento nazionale (dpc-covid19-ita-andamento-nazionale-latest.csv), regioni (dpc-covid19-ita-regioni-latest.csv) e province (dpc-covid19-ita-province-latest.csv)
+- Aggiunti ultimi dati (latest) json, nella directory dati-json, per andamento nazionale (dpc-covid19-ita-andamento-nazionale-latest.json), regioni (dpc-covid19-ita-regioni-latest.json) e province (dpc-covid19-ita-province-latest.json)
+
 ## Prossimi aggiornamenti
 
+- Data nel formato ISO8601 UTC
 - Aggiunta "Note" in "dati-regioni", "dati-province" e "dati-andamento-nazionale"
+
