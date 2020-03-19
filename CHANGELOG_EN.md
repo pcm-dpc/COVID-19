@@ -22,6 +22,12 @@ All changes to the project, new features and information are documented in this 
 - Add changelog in italian language (CHANGELOG.md) and in english language (CHANGELOG_EN.md)
 - Areas updated according to the new Decree of the President of the Council of Ministers (DPCM) March 11, 2020
 
+## 2020-03-19
+
+- Added latest data (latest) csv, into their respective directory, per national trend (dpc-covid19-ita-andamento-nazionale-latest.csv), regions (dpc-covid19-ita-regioni-latest.csv) and provinces (dpc-covid19-ita-province-latest.csv)
+- Added latest data (latest) json, in data-json directory, for national trend (dpc-covid19-ita-andamento-nazionale-latest.json), regions (dpc-covid19-ita-regioni-latest.json) and provinces ( dpc-covid19-ita-province-latest.json)
+
 ## Next updates
 
+- Date in ISO8601 format UTC
 - Add "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
