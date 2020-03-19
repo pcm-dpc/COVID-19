@@ -114,9 +114,9 @@ COVID-19/
 
 ### Dati per Provincia
 
-**Directory:**  dati-province
-**Struttura file giornaliero:** dpc-covid19-ita-province-yyyymmdd.csv (dpc-covid19-ita-province-20200224.csv)
-**File complessivo:** dpc-covid19-ita-province.csv
+**Directory:**  dati-province<br>
+**Struttura file giornaliero:** dpc-covid19-ita-province-yyyymmdd.csv (dpc-covid19-ita-province-20200224.csv)<br>
+**File complessivo:** dpc-covid19-ita-province.csv<br>
 **File ultimi dati (latest):** dpc-covid19-ita-province-latest.csv
 
 | Nome campo              | Descrizione                         | Description                     | Formato            | Esempio              |
