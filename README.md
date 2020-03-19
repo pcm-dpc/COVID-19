@@ -125,7 +125,7 @@ COVID-19/
 | **stato**                   | Stato di riferimento                | Country of reference            | ISO 3166-1 alpha-3 | ITA                  |
 | **codice_regione**          | Codice della Regione (ISTAT 2019)   | Code of the Region (ISTAT 2019) | Numero             | 13                   |
 | **denominazione_regione**   | Denominazione della Regione         | Name of the Region              | Testo              | Abruzzo              |
-| **codice_provincia**        | Codice della Provincia (ISTAT 2019) | Code of the Province            | Numero             | 067                  |
+| **codice_provincia**        | Codice della Provincia (ISTAT 2019) | Code of the Province            | Numero             | 67                   |
 | **denominazione_provincia** | Denominazione della provincia       | Name of the Province            | Testo              | Teramo               |
 | **sigla_provincia**         | Sigla della Provincia               | Province abbreviation           | Testo              | TE                   |
 | **lat**                     | Latitudine                          | Latitude                        | WGS84              | 42.6589177           |
