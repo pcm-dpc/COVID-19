@@ -1,6 +1,6 @@
-﻿# Changelog
+# Changelog
 
-Tutte le modifiche al progetto, nuove funzionalitÃ  e informazioni sono documentate in questo file
+Tutte le modifiche al progetto, nuove funzionalità e informazioni sono documentate in questo file
 
 ## 2020-03-08
 
