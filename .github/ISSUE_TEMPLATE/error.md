@@ -32,4 +32,4 @@ Type of issue:
 
 <!-- What data or information did you expect to find? -->
 
-**Actual:** <!-- What data or inforation is actually present / mising / stated? -->
+**Actual:** <!-- What data or information is actually present / missing / stated? -->
