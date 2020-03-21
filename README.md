@@ -162,6 +162,17 @@ COVID-19/
 
 
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json* e rispettivo file ultimi dati (latest) dpc-covid19-ita-andamento-nazionale-latest.json
+
+## Grafici
+Installazione dipendenze:
+```
+    pip3 install -r requirements.txt
+```
+Avvia:
+```
+    python3 draw_graph.py
+```
+
 <br><br>
 **Licenza:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 <br><br><br>
