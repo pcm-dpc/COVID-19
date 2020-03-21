@@ -362,5 +362,19 @@
         "deceduti": 4032,
         "totale_casi": 47021,
         "tamponi": 206886
+    },
+    {
+        "data": "2020-03-21 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 17708,
+        "terapia_intensiva": 2857,
+        "totale_ospedalizzati": 20565,
+        "isolamento_domiciliare": 22116,
+        "totale_attualmente_positivi": 42681,
+        "nuovi_attualmente_positivi": 4821,
+        "dimessi_guariti": 6072,
+        "deceduti": 4825,
+        "totale_casi": 53578,
+        "tamponi": 233222
     }
 ]
