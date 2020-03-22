@@ -376,5 +376,19 @@
         "deceduti": 4825,
         "totale_casi": 53578,
         "tamponi": 233222
+    },
+    {
+        "data": "2020-03-22 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 19846,
+        "terapia_intensiva": 3009,
+        "totale_ospedalizzati": 22855,
+        "isolamento_domiciliare": 23783,
+        "totale_attualmente_positivi": 46638,
+        "nuovi_attualmente_positivi": 3957,
+        "dimessi_guariti": 7024,
+        "deceduti": 5476,
+        "totale_casi": 59138,
+        "tamponi": 258402
     }
 ]
