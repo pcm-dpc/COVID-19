@@ -1,0 +1,97 @@
+﻿[{
+        "Nome campo": "data",
+        "Descrizione": "Data dell’informazione",
+        "Field name": "date",
+        "Description": "Date of notification",
+        "Formato": "YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana",
+        "Esempio": "2020-03-05 12:15:45"
+    },
+    {
+        "Nome campo": "stato",
+        "Descrizione": "Stato di riferimento",
+        "Field name": "country_code",
+        "Description": "Country of reference",
+        "Formato": "XYZ (ISO 3166-1 alpha-3)",
+        "Esempio": "ITA"
+    },
+    {
+        "Nome campo": "ricoverati_con_sintomi",
+        "Descrizione": "Ricoverati con sintomi",
+        "Field name": "hospitalised_with_symptoms",
+        "Description": "Hospitalised patients with symptoms",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "terapia_intensiva",
+        "Descrizione": "Ricoverati in terapia intensiva",
+        "Field name": "intensive_care",
+        "Description": "Intensive Care",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "totale_ospedalizzati",
+        "Descrizione": "Totale ospedalizzati",
+        "Field name": "total_hospitalised",
+        "Description": "Total hospitalised patients",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "isolamento_domiciliare",
+        "Descrizione": "Persone in isolamento domiciliare",
+        "Field name": "home_confinement",
+        "Description": "Home confinement",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "totale_attualmente_positivi",
+        "Descrizione": "Totale attualmente positivi (ospedalizzati + isolamento domiciliare)",
+        "Field name": "total_current_positive",
+        "Description": "Total amount of current positive cases (Hospitalised patients + Home confinement)",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "nuovi_attualmente_positivi",
+        "Descrizione": "Nuovi attualmente positivi (ospedalizzati + isolamento domiciliare)",
+        "Field name": "new_current_positive",
+        "Description": "News amount of current positive cases (Hospitalised patients + Home confinement)",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "dimessi_guariti",
+        "Descrizione": "Persone dimesse guarite",
+        "Field name": "recovered",
+        "Description": "Recovered",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "deceduti",
+        "Descrizione": "Persone decedute",
+        "Field name": "dead",
+        "Description": "Death",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "totale_casi",
+        "Descrizione": "Totale casi positivi",
+        "Field name": "total_cases",
+        "Description": "Total amount of positive cases",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "tamponi",
+        "Descrizione": "Totale tamponi",
+        "Field name": "tests",
+        "Description": "Tests performed",
+        "Formato": "Numero",
+        "Esempio": "3"
+    }
+]

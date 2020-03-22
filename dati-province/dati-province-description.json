@@ -1,0 +1,91 @@
+﻿[{
+        "Nome campo": "data",
+        "Descrizione": "Data dell’informazione",
+        "Field name": "date",
+        "Description": "Date of notification",
+        "Formato": "YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana",
+        "Esempio": "2020-03-05 12:15:45",
+        "": ""
+    },
+    {
+        "Nome campo": "stato",
+        "Descrizione": "Stato di riferimento",
+        "Field name": "country_code",
+        "Description": "Country of reference",
+        "Formato": "ISO 3166-1 alpha-3",
+        "Esempio": "ITA",
+        "": ""
+    },
+    {
+        "Nome campo": "codice_regione",
+        "Descrizione": "Codice della Regione (ISTAT 2019)",
+        "Field name": "region_code",
+        "Description": "Code of the Region (ISTAT 2019)",
+        "Formato": "Numero",
+        "Esempio": "13",
+        "": ""
+    },
+    {
+        "Nome campo": "denominazione_regione",
+        "Descrizione": "Denominazione della Regione",
+        "Field name": "region",
+        "Description": "Name of the Region",
+        "Formato": "Testo",
+        "Esempio": "Abruzzo",
+        "": ""
+    },
+    {
+        "Nome campo": "codice_provincia",
+        "Descrizione": "Codice della Provincia (ISTAT 2019)",
+        "Field name": "province_code",
+        "Description": "Code of the Province",
+        "Formato": "Numero",
+        "Esempio": "067",
+        "": ""
+    },
+    {
+        "Nome campo": "denominazione_provincia",
+        "Descrizione": "Denominazione della provincia",
+        "Field name": "province",
+        "Description": "Name of the Province",
+        "Formato": "Testo",
+        "Esempio": "Teramo",
+        "": ""
+    },
+    {
+        "Nome campo": "sigla_provincia",
+        "Descrizione": "Sigla della Provincia",
+        "Field name": "province_short",
+        "Description": "Province abbreviation",
+        "Formato": "Testo",
+        "Esempio": "TE",
+        "": ""
+    },
+    {
+        "Nome campo": "lat",
+        "Descrizione": "Latitudine",
+        "Field name": "latitude",
+        "Description": "Latitude",
+        "Formato": "WGS84",
+        "Esempio": "42.6589177",
+        "": ""
+    },
+    {
+        "Nome campo": "long",
+        "Descrizione": "Longitudine",
+        "Field name": "longitude",
+        "Description": "Longitude",
+        "Formato": "WGS84",
+        "Esempio": "13.70439971",
+        "": ""
+    },
+    {
+        "Nome campo": "totale_casi",
+        "Descrizione": "Totale casi positivi",
+        "Field name": "total_cases",
+        "Description": "Total amount of positive cases",
+        "Formato": "Numero",
+        "Esempio": "3",
+        "": ""
+    }
+]
