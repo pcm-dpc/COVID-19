@@ -390,5 +390,19 @@
         "deceduti": 5476,
         "totale_casi": 59138,
         "tamponi": 258402
+    },
+    {
+        "data": "2020-03-23 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 20692,
+        "terapia_intensiva": 3204,
+        "totale_ospedalizzati": 23896,
+        "isolamento_domiciliare": 26522,
+        "totale_attualmente_positivi": 50418,
+        "nuovi_attualmente_positivi": 3780,
+        "dimessi_guariti": 7432,
+        "deceduti": 6077,
+        "totale_casi": 63927,
+        "tamponi": 275468
     }
 ]
