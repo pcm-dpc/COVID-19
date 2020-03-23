@@ -5,15 +5,17 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
-## Aggiornamenti dataset
+## Aggiornamenti dataset 
+
+*** Oggi non verranno effettuati gli aggiornamenti programmati, ma verranno fatti il 25/03. ***
 
 ```diff
-Da lunedì 23/03/2020 (aggiornamento 18:30)
+Da mercoledì 25/03/2020 (aggiornamento 18:30)
 1. ogni data sarà convertita nel formato standard ISO8601: *YYYY-MM-DDTHH:MM:SS* - *2020-03-18T19:14:29*. Tutte le date saranno in UTC.
 2. ad ogni dataset sarà aggiunto un campo note per dare informazioni sul dato specifico
 3. sarà realizzato un nuovo dataset per fornire informazioni sui dati
 
-From monday 23/03/2020 (update 18:30)
+From Wednesday 25/03/2020 (update 18:30)
 1. every date will be converted in ISO8601 format standard: *YYYY-MM-DDTHH:MM:SS* - *2020-03-18T19:14:29*. All dates will be in UTC.
 2. a note field will be added to each dataset to give informations on the specific data
 3. a new dataset will be released to give informations on data
