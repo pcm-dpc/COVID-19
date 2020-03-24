@@ -1,16 +1,16 @@
 [
     {
-        "data": "2020-03-23 17:00:00",
+        "data": "2020-03-24 17:00:00",
         "stato": "ITA",
-        "ricoverati_con_sintomi": 20692,
-        "terapia_intensiva": 3204,
-        "totale_ospedalizzati": 23896,
-        "isolamento_domiciliare": 26522,
-        "totale_attualmente_positivi": 50418,
-        "nuovi_attualmente_positivi": 3780,
-        "dimessi_guariti": 7432,
-        "deceduti": 6077,
-        "totale_casi": 63927,
-        "tamponi": 275468
+        "ricoverati_con_sintomi": 21937,
+        "terapia_intensiva": 3396,
+        "totale_ospedalizzati": 25333,
+        "isolamento_domiciliare": 28697,
+        "totale_attualmente_positivi": 54030,
+        "nuovi_attualmente_positivi": 3612,
+        "dimessi_guariti": 8326,
+        "deceduti": 6820,
+        "totale_casi": 69176,
+        "tamponi": 296964
     }
 ]

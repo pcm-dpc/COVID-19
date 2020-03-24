@@ -404,5 +404,19 @@
         "deceduti": 6077,
         "totale_casi": 63927,
         "tamponi": 275468
+    },
+    {
+        "data": "2020-03-24 17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 21937,
+        "terapia_intensiva": 3396,
+        "totale_ospedalizzati": 25333,
+        "isolamento_domiciliare": 28697,
+        "totale_attualmente_positivi": 54030,
+        "nuovi_attualmente_positivi": 3612,
+        "dimessi_guariti": 8326,
+        "deceduti": 6820,
+        "totale_casi": 69176,
+        "tamponi": 296964
     }
 ]
