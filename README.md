@@ -5,8 +5,10 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
-## Aggiornamenti dataset 
+## README e Wiki in aggiornamento (nuova versione - 26/03/2020 @ 08:00)
+## README and Wiki under update (new version - 26/03/2020 @ 08:00)
 
+## Aggiornamenti dataset 
 ### Today update (25/03/2020)
 
 In note_it e note_en sarà riportato il codice del messaggio definito nel dataset "note"<br>
