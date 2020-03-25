@@ -31,4 +31,4 @@ All changes to the project, new features and information are documented in this 
 
 - Date in ISO8601 format UTC
 - Add "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
-- Add "Avvisi" dataset
+- Add "note" dataset

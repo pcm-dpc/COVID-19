@@ -31,5 +31,5 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Data nel formato ISO8601 UTC
 - Aggiunta "Note" in "dati-regioni", "dati-province" e "dati-andamento-nazionale"
-- Aggiunta dataset "Avvisi"
+- Aggiunta dataset "note"
 
