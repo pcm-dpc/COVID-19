@@ -22200,8 +22200,8 @@
         "lat": 45.53993052,
         "long": 10.21910323,
         "totale_casi": 413,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "pd-IT-0001",
+        "note_en": "pd-EN-0001"
     },
     {
         "data": "2020-03-07T18:00:00",
@@ -39854,8 +39854,8 @@
         "lat": 44.06090087,
         "long": 12.5656295,
         "totale_casi": 509,
-        "note_it": "And-IT-0012",
-        "note_en": "And-EN-0012"
+        "note_it": "nd-IT-0007",
+        "note_en": "nd-EN-0007"
     },
     {
         "data": "2020-03-17T17:00:00",
@@ -41590,8 +41590,8 @@
         "lat": 44.80107394,
         "long": 10.32834985,
         "totale_casi": 800,
-        "note_it": "And-IT-0015",
-        "note_en": "And-EN-0015"
+        "note_it": "nd-IT-0010",
+        "note_en": "nd-EN-0010"
     },
     {
         "data": "2020-03-18T17:00:00",
