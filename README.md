@@ -7,7 +7,7 @@
 
 ## Aggiornamenti dataset 
 
-### Today update
+### Today update (25/03/2020)
 
 In note_it e note_en sarà riportato il codice del messaggio definito nel dataset "avvisi"<br>
 In note_it and note_en will be reported the message code defined in "avvisi" dataset
