@@ -7,7 +7,29 @@
 
 ## Aggiornamenti dataset 
 
-*** Oggi non verranno effettuati gli aggiornamenti programmati, ma verranno fatti il 25/03. ***
+### Today update
+
+In note_it e note_en sarà riportato il codice del messaggio definito nel dataset "avvisi"
+
+* dati_regioni
+data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
+2020-03-24T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,234,57,291,331,622,17,21,46,689,4294,,
+
+* dati_province
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note_it,note_en
+2020-03-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,133,Adnp-IT-01,Adnp-EN-01
+
+* dati_andamento_nazionale
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
+2020-03-24T17:00:00,ITA,21937,3396,25333,28697,54030,3612,8326,6820,69176,296964,Adnp-IT-01,Adnp-EN-01
+
+* avvisi_it
+codice,data,dataset,stato,codice_regione,regione,codice_provincia,provincia,sigla_provincia,tipologia_avviso,avviso,note
+Adnp-IT-01,2020-03-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,dati non pervenuti,mancata comunicazione dati,
+
+* avvisi_en
+codice,data,dataset,stato,codice_regione,regione,codice_provincia,provincia,sigla_provincia,tipologia_avviso,avviso,note
+Adnp-EN-01,2020-03-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,no data received,no data communication,
 
 ```diff
 Da mercoledì 25/03/2020 (aggiornamento 18:30)
