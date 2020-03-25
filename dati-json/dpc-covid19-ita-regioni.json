@@ -5236,8 +5236,8 @@
         "deceduti": 154,
         "totale_casi": 3420,
         "tamponi": 15778,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "pd-IT-0002",
+        "note_en": "pd-EN-0002"
     },
     {
         "data": "2020-03-07T18:00:00",
@@ -6496,8 +6496,8 @@
         "deceduti": 468,
         "totale_casi": 5791,
         "tamponi": 21479,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "pd-IT-0004",
+        "note_en": "pd-EN-0004"
     },
     {
         "data": "2020-03-10T18:00:00",
@@ -6736,8 +6736,8 @@
         "deceduti": 1,
         "totale_casi": 38,
         "tamponi": 310,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0001",
+        "note_en": "nd-EN-0001"
     },
     {
         "data": "2020-03-11T17:00:00",
@@ -9096,8 +9096,8 @@
         "deceduti": 16,
         "totale_casi": 230,
         "tamponi": 2017,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0005",
+        "note_en": "nd-EN-0005"
     },
     {
         "data": "2020-03-16T17:00:00",
@@ -9176,8 +9176,8 @@
         "deceduti": 6,
         "totale_casi": 378,
         "tamponi": 1006,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0003",
+        "note_en": "nd-EN-0003"
     },
     {
         "data": "2020-03-16T17:00:00",
@@ -9356,8 +9356,8 @@
         "deceduti": 393,
         "totale_casi": 3931,
         "tamponi": 14510,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0008",
+        "note_en": "nd-EN-0008"
     },
     {
         "data": "2020-03-17T17:00:00",
@@ -9756,8 +9756,8 @@
         "deceduti": 9,
         "totale_casi": 460,
         "tamponi": 2685,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0013",
+        "note_en": "nd-EN-0013"
     },
     {
         "data": "2020-03-18T17:00:00",
@@ -9776,8 +9776,8 @@
         "deceduti": 458,
         "totale_casi": 4525,
         "tamponi": 15461,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0011",
+        "note_en": "nd-EN-0011"
     },
     {
         "data": "2020-03-18T17:00:00",

@@ -204,8 +204,8 @@
         "deceduti": 233,
         "totale_casi": 5883,
         "tamponi": 42062,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "pd-IT-0003",
+        "note_en": "pd-EN-0003"
     },
     {
         "data": "2020-03-08T18:00:00",
@@ -252,8 +252,8 @@
         "deceduti": 631,
         "totale_casi": 10149,
         "tamponi": 60761,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "pd-IT-0005",
+        "note_en": "pd-EN-0005"
     },
     {
         "data": "2020-03-11T17:00:00",
@@ -268,8 +268,8 @@
         "deceduti": 827,
         "totale_casi": 12462,
         "tamponi": 73154,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0002",
+        "note_en": "nd-EN-0002"
     },
     {
         "data": "2020-03-12T17:00:00",
@@ -348,8 +348,8 @@
         "deceduti": 2158,
         "totale_casi": 27980,
         "tamponi": 137962,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0004;nd-IT-0006",
+        "note_en": "nd-EN-0004;nd-EN-0006"
     },
     {
         "data": "2020-03-17T17:00:00",
@@ -364,8 +364,8 @@
         "deceduti": 2503,
         "totale_casi": 31506,
         "tamponi": 148657,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0009",
+        "note_en": "nd-EN-0009"
     },
     {
         "data": "2020-03-18T17:00:00",
@@ -380,8 +380,8 @@
         "deceduti": 2978,
         "totale_casi": 35713,
         "tamponi": 165541,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "nd-IT-0012;nd-IT-0014",
+        "note_en": "nd-EN-0012;nd-EN-0014"
     },
     {
         "data": "2020-03-19T17:00:00",
