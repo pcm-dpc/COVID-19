@@ -27,7 +27,8 @@ All changes to the project, new features and information are documented in this 
 - Added latest data (latest) csv, into their respective directory, per national trend (dpc-covid19-ita-andamento-nazionale-latest.csv), regions (dpc-covid19-ita-regioni-latest.csv) and provinces (dpc-covid19-ita-province-latest.csv)
 - Added latest data (latest) json, in data-json directory, for national trend (dpc-covid19-ita-andamento-nazionale-latest.json), regions (dpc-covid19-ita-regioni-latest.json) and provinces ( dpc-covid19-ita-province-latest.json)
 
-## Next updates
+## 2020-03-25
 
 - Date in ISO8601 format UTC
 - Add "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
+- Add "Avvisi" dataset
