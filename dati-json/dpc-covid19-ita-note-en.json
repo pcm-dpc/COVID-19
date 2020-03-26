@@ -1,6 +1,6 @@
 [
     {
-        "codice": "Apd-IT-0001",
+        "codice": "pd-EN-0001",
         "data": "2020-03-07T17:00:00",
         "dataset": "dati_province",
         "stato": "ITA",
@@ -9,12 +9,12 @@
         "codice_provincia": 17,
         "provincia": "Brescia",
         "sigla_provincia": "BS",
-        "tipologia_avviso": "dati parziali",
-        "avviso": "comunicazione parziale dei dati",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
         "note": "300 positive cases"
     },
     {
-        "codice": "Apd-IT-0002",
+        "codice": "pd-EN-0002",
         "data": "2020-03-07T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -23,12 +23,12 @@
         "codice_provincia": 17,
         "provincia": "Brescia",
         "sigla_provincia": "BS",
-        "tipologia_avviso": "dati parziali",
-        "avviso": "comunicazione parziale dei dati",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
         "note": "300 positive cases"
     },
     {
-        "codice": "Apd-IT-0003",
+        "codice": "pd-EN-0003",
         "data": "2020-03-07T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -37,12 +37,12 @@
         "codice_provincia": 17,
         "provincia": "Brescia",
         "sigla_provincia": "BS",
-        "tipologia_avviso": "dati parziali",
-        "avviso": "comunicazione parziale dei dati",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
         "note": "300 positive cases"
     },
     {
-        "codice": "Apd-IT-0004",
+        "codice": "pd-EN-0004",
         "data": "2020-03-10T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -51,12 +51,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "dati parziali",
-        "avviso": "comunicazione parziale dei dati",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
         "note": ""
     },
     {
-        "codice": "Apd-IT-0005",
+        "codice": "nd-EN-0005",
         "data": "2020-03-10T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -65,12 +65,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "dati parziali",
-        "avviso": "comunicazione parziale dei dati",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
         "note": ""
     },
     {
-        "codice": "And-IT-0001",
+        "codice": "nd-EN-0006",
         "data": "2020-03-11T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -79,12 +79,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0002",
+        "codice": "nd-EN-0007",
         "data": "2020-03-11T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -93,12 +93,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0003",
+        "codice": "nd-EN-0008",
         "data": "2020-03-16T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -107,12 +107,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0004",
+        "codice": "nd-EN-0009",
         "data": "2020-03-16T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -121,12 +121,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0005",
+        "codice": "nd-EN-0010",
         "data": "2020-03-16T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -135,12 +135,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0006",
+        "codice": "nd-EN-0011",
         "data": "2020-03-16T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -149,12 +149,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0007",
+        "codice": "nd-EN-0012",
         "data": "2020-03-17T17:00:00",
         "dataset": "dati_province",
         "stato": "ITA",
@@ -163,12 +163,12 @@
         "codice_provincia": 99,
         "provincia": "Rimini",
         "sigla_provincia": "RN",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0008",
+        "codice": "nd-EN-0013",
         "data": "2020-03-17T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -177,12 +177,12 @@
         "codice_provincia": 99,
         "provincia": "Rimini",
         "sigla_provincia": "RN",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0009",
+        "codice": "nd-EN-0014",
         "data": "2020-03-17T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -191,12 +191,12 @@
         "codice_provincia": 99,
         "provincia": "Rimini",
         "sigla_provincia": "RN",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0010",
+        "codice": "nd-EN-0015",
         "data": "2020-03-18T17:00:00",
         "dataset": "dati_province",
         "stato": "ITA",
@@ -205,12 +205,12 @@
         "codice_provincia": 34,
         "provincia": "Parma",
         "sigla_provincia": "PR",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0011",
+        "codice": "nd-EN-0016",
         "data": "2020-03-18T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -219,12 +219,12 @@
         "codice_provincia": 34,
         "provincia": "Parma",
         "sigla_provincia": "PR",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0012",
+        "codice": "nd-EN-0017",
         "data": "2020-03-18T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -233,12 +233,12 @@
         "codice_provincia": 34,
         "provincia": "Parma",
         "sigla_provincia": "PR",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0013",
+        "codice": "nd-EN-0018",
         "data": "2020-03-18T17:00:00",
         "dataset": "dati_regioni",
         "stato": "ITA",
@@ -247,12 +247,12 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     },
     {
-        "codice": "And-IT-0014",
+        "codice": "nd-EN-0019",
         "data": "2020-03-18T17:00:00",
         "dataset": "andamento_nazionale",
         "stato": "ITA",
@@ -261,8 +261,8 @@
         "codice_provincia": null,
         "provincia": "",
         "sigla_provincia": "",
-        "tipologia_avviso": "nessun dato",
-        "avviso": "non sono stati comunicati dati",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
         "note": ""
     }
 ]
