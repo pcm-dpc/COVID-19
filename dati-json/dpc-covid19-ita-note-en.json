@@ -264,5 +264,33 @@
         "tipologia_avviso": "no data",
         "avviso": "no data has been sent",
         "note": ""
+    },
+    {
+        "codice": "pd-EN-0006",
+        "data": "2020-03-26T17:00:00",
+        "dataset": "dati_regioni",
+        "stato": "ITA",
+        "codice_regione": 1,
+        "regione": "Piemonte",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "-50 death - late communication"
+    },
+    {
+        "codice": "pd-EN-0007",
+        "data": "2020-03-26T17:00:00",
+        "dataset": "andamento_nazionale",
+        "stato": "ITA",
+        "codice_regione": 1,
+        "regione": "Piemonte",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "-50 - late communication"
     }
 ]
