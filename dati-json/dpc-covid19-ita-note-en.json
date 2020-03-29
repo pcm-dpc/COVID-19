@@ -292,5 +292,33 @@
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
         "note": "-50 - late communication"
+    },
+    {
+        "codice": "pd-EN-0008",
+        "data": "2020-03-29T17:00:00",
+        "dataset": "dati_regioni",
+        "stato": "ITA",
+        "codice_regione": 8,
+        "regione": "Emilia Romagna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "tests data not update"
+    },
+    {
+        "codice": "pd-EN-0009",
+        "data": "2020-03-29T17:00:00",
+        "dataset": "andamento_nazionale",
+        "stato": "ITA",
+        "codice_regione": 8,
+        "regione": "Emilia Romagna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": " tests data not update"
     }
 ]

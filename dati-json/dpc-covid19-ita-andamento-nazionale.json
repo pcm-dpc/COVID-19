@@ -542,5 +542,21 @@
         "tamponi": 429526,
         "note_it": "",
         "note_en": ""
+    },
+    {
+        "data": "2020-03-29T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 27386,
+        "terapia_intensiva": 3906,
+        "totale_ospedalizzati": 31292,
+        "isolamento_domiciliare": 42588,
+        "totale_attualmente_positivi": 73880,
+        "nuovi_attualmente_positivi": 3815,
+        "dimessi_guariti": 13030,
+        "deceduti": 10779,
+        "totale_casi": 97689,
+        "tamponi": 454030,
+        "note_it": "pd-IT-0009",
+        "note_en": "pd-EN-0009"
     }
 ]

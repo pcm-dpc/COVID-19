@@ -5,7 +5,7 @@ about: Report an error, missing data or documentation. Use this template if you 
 
  <!--
 Thank you for your interest in this repository.
-Before making your contribution, please bear in mind that this is a data set with the sole intention of informing the public, maintained by a few staff of the Italian Civil Protection Agency.
+Before making your contribution, please bear in mind that this is a data set with the sole intention of informing the public, maintained by the Italian Civil Protection Department.
 While contributions and interest are welcome, we cannot respond to every request timeously.
 
 Before you open an issue:
