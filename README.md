@@ -5,10 +5,14 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
-## README e Wiki in aggiornamento (nuova versione - 28/03/2020 @ 08:00)
-## README and Wiki under update (new version - 28/03/2020 @ 08:00)
+## README e Wiki in aggiornamento (nuova versione - 01/04/2020 @ 08:00)
+## README and Wiki under update (new version - 01/04/2020 @ 08:00)
+
+## Stiamo lavorando per fornire nuovi dataset e dashboard e perfezionamento di quelli esistenti.
+## We are working to provide new datasets and dashboard and refinement of existing ones.
 
 ## Aggiornamenti dataset 
+## Dataset update
 
 In note_it e note_en sarà riportato il codice del messaggio definito nel dataset "note"<br>
 In note_it and note_en will be reported the message code defined in "note" dataset
@@ -53,7 +57,8 @@ From Wednesday 25/03/2020 (update 18:30)
 ## Avvisi
 
 ```diff
-- 26/03/2020: dati Regione Piemonte parziali (-50 deceduti - comunicazione tardiva)
+- 29/03/2020: dati Regione Emilia Romagna parziali (dato tampone non aggiornato).
+- 26/03/2020: dati Regione Piemonte parziali (-50 deceduti - comunicazione tardiva).
 - 18/03/2020: dati Regione Campania non pervenuti.
 - 18/03/2020: dati Provincia di Parma non pervenuti.
 - 17/03/2020: dati Provincia di Rimini non aggiornati.
