@@ -5,54 +5,48 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
+## Aggiornamenti schema dataset 30/03/2019 @ 12:00 (Ora italiana)
+## Dataset schema update 30/03/2019 @ 12:00 (Italian hour)
+
+### Dataset:
+- dati_regioni (csv / json)
+- dati_andamento_nazionale (csv / json)
+- dati_province (csv / json) - (solo modifica nome/only change name "Emilia Romagna" in "Emilia-Romagna")
+
+### IT
+- Modifica: "totale_attualmente_positivi" rinominato in "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + totale_ospedalizzati)
+- Aggiunta: "variazione_totale_positivi" (totale_attualmente positivi giorno corrente - totale_attualmente positivi giorno precedente)
+- Modifica: "nuovi_attualmente_positivi" rinominato in "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente)
+- Modifica: Regione "Emilia Romagna" rinominato in "Emilia-Romagna"
+
+### EN
+- Change: "totale_attualmente_positivi" renamed to "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + totale_ospedalizzati)
+- Add: "variazione_totale_positivi" (totale_attualmente positivi current day - totale_attualmente positivi previous day)
+- Change: "nuovi_attualmente_positivi" renamed to "nuovi_positivi" (totale_casi current day - totale_casi previous day)
+- Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna"
+
+### Esempi / Examples
+
+* dati_regioni (esempio csv)
+```
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
+2020-03-30T17:00:00,ITA,27795,3981,31776,43752,75528,1648,4050,14620,11591,101739,477359,,
+```
+
+* dati_andamento_nazionale (esempio csv)
+```
+data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
+2020-03-30T17:00:00,ITA,03,Lombardia,45.46679409,9.190347404,11815,1330,13145,11861,25006,-386,1154,10337,6818,42161,111057,,
+```
+
 ## README e Wiki in aggiornamento (nuova versione - 01/04/2020 @ 08:00)
 ## README and Wiki under update (new version - 01/04/2020 @ 08:00)
 
-## Stiamo lavorando per fornire nuovi dataset e dashboard e perfezionamento di quelli esistenti.
-## We are working to provide new datasets and dashboard and refinement of existing ones.
-
-## Aggiornamenti dataset 
-## Dataset update
-
-In note_it e note_en sarà riportato il codice del messaggio definito nel dataset "note"<br>
-In note_it and note_en will be reported the message code defined in "note" dataset
-
-* dati_regioni
-data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
-2020-03-24T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,234,57,291,331,622,17,21,46,689,4294,,
-
-* dati_province
-data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note_it,note_en
-2020-03-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,133,Adnp-IT-01,Adnp-EN-01
-
-* dati_andamento_nazionale
-data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_attualmente_positivi,nuovi_attualmente_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
-2020-03-24T17:00:00,ITA,21937,3396,25333,28697,54030,3612,8326,6820,69176,296964,Adnp-IT-01,Adnp-EN-01
-
-* note_it
-codice,data,dataset,stato,codice_regione,regione,codice_provincia,provincia,sigla_provincia,tipologia_avviso,avviso,note
-nd-IT-01,2020-03-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,dati non pervenuti,mancata comunicazione dati,
-
-* note_en
-codice,data,dataset,stato,codice_regione,regione,codice_provincia,provincia,sigla_provincia,tipologia_avviso,avviso,note
-nd-EN-01,2020-03-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,no data received,no data communication,
-
-```diff
-Da mercoledì 25/03/2020 (aggiornamento 18:30)
-1. ogni data sarà convertita nel formato standard ISO8601: *YYYY-MM-DDTHH:MM:SS* - *2020-03-18T19:14:29*. Tutte le date saranno in UTC.
-2. ad ogni dataset sarà aggiunto un campo note per dare informazioni sul dato specifico
-3. sarà realizzato un nuovo dataset per fornire informazioni sui dati
-
-From Wednesday 25/03/2020 (update 18:30)
-1. every date will be converted in ISO8601 format standard: *YYYY-MM-DDTHH:MM:SS* - *2020-03-18T19:14:29*. All dates will be in UTC.
-2. a note field will be added to each dataset to give informations on the specific data
-3. a new dataset will be released to give informations on data
-```
-
-## Wiki (in costruzione/under construction)
-
 [Wiki](https://github.com/pcm-dpc/COVID-19/wiki)<br>
 [Esempio di pagina](https://github.com/pcm-dpc/COVID-19/wiki/1.it-Dati:-andamento-nazionale)
+
+## Stiamo lavorando per fornire nuovi dataset e dashboard e perfezionamento di quelli esistenti.
+## We are working to provide new datasets and dashboard and refinement of existing ones.
 
 ## Avvisi
 
@@ -133,12 +127,15 @@ COVID-19/
 | **terapia_intensiva**           | Ricoverati in terapia intensiva   | Intensive Care                         | Numero                        | 3                   |
 | **totale_ospedalizzati**        | Totale ospedalizzati              | Total hospitalised patients            | Numero                        | 3                   |
 | **isolamento_domiciliare**      | Persone in isolamento domiciliare | Home confinement                       | Numero                        | 3                   |
-| **totale_attualmente_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
-| **nuovi_attualmente_positivi**  | Nuovi attualmente positivi (Totale attualmente positivi attuali - Totale attualmente positivi del giorno prima)       | News amount of current positive cases (Actual total amount of current positive cases - total amount of current positive cases of the previous day)  | Numero                        | 3                   |
+| **totale_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
+| **variazione_totale_positivi**  | Variazione del totale positivi (totale_positivi giorno corrente - totale_positivi giorno precedente)       | News amount of current positive cases (totale_positivi current day - totale_positivi previous day)  | Numero                        | 3                   |
+| **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+| **note_it**                     | Note in lingua italiana                    | Notes in italian language                        | Test                        | pd-IT-000                   |
+| **note_en**                     | Note in lingua inglese                    | Notes in english language                        | Testo                        | pd-EN-000                   |
 
 
 *Le Province autonome di Trento e Bolzano sono indicate in "denominazione regione" e con il codice 04 del Trentino Alto Adige.*<br>
@@ -184,12 +181,15 @@ COVID-19/
 | **terapia_intensiva**           | Ricoverati in terapia intensiva   | Intensive Care                         | Numero                        | 3                   |
 | **totale_ospedalizzati**        | Totale ospedalizzati              | Total hospitalised patients            | Numero                        | 3                   |
 | **isolamento_domiciliare**      | Persone in isolamento domiciliare | Home confinement                       | Numero                        | 3                   |
-| **totale_attualmente_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
-| **nuovi_attualmente_positivi**  | Nuovi attualmente positivi (ospedalizzati + isolamento domiciliare)       | News amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
+| **totale_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
+| **variazione_totale_positivi**  | Variazione del totale positivi (totale_positivi giorno corrente - totale_positivi giorno precedente)       | News amount of current positive cases (totale_positivi current day - totale_positivi previous day)  | Numero                        | 3                   |
+| **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+| **note_it**                     | Note in lingua italiana                    | Notes in italian language                        | Test                        | pd-IT-000                   |
+| **note_en**                     | Note in lingua inglese                    | Notes in english language                        | Testo                        | pd-EN-000                   |
 
 
 
