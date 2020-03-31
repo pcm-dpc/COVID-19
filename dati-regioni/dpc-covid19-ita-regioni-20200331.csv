@@ -1,4 +1,4 @@
-data,stato,codice_regione,denominazione_regione,latitudine,longitudine,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
+data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,note_it,note_en
 2020-03-31T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,335,73,408,783,1191,22,56,95,115,1401,8758,,
 2020-03-31T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,37,17,54,162,216,8,12,3,7,226,2043,,
 2020-03-31T17:00:00,ITA,04,P.A. Bolzano,46.49933453,11.35662422,249,62,311,831,1142,44,46,153,76,1371,11275,,
