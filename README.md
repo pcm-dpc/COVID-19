@@ -5,13 +5,15 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
+## Aggiornamento effettuato!
+
 ## Aggiornamenti schema dataset 30/03/2019 @ 12:00 (Ora italiana)
 ## Dataset schema update 30/03/2019 @ 12:00 (Italian hour)
 
 ### Dataset:
 - dati_regioni (csv / json)
 - dati_andamento_nazionale (csv / json)
-- dati_province (csv / json) - (solo modifica nome/only change name "Emilia Romagna" in "Emilia-Romagna")
+- dati_province (csv / json) - (solo modifica nome/only change name "Emilia-Romagna" in "Emilia-Romagna")
 
 ### IT
 - Modifica: "totale_attualmente_positivi" rinominato in "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + totale_ospedalizzati)
@@ -51,7 +53,7 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 ## Avvisi
 
 ```diff
-- 29/03/2020: dati Regione Emilia Romagna parziali (dato tampone non aggiornato).
+- 29/03/2020: dati Regione Emilia-Romagna parziali (dato tampone non aggiornato).
 - 26/03/2020: dati Regione Piemonte parziali (-50 deceduti - comunicazione tardiva).
 - 18/03/2020: dati Regione Campania non pervenuti.
 - 18/03/2020: dati Provincia di Parma non pervenuti.
