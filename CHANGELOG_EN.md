@@ -33,7 +33,7 @@ All changes to the project, new features and information are documented in this 
 - Add: "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
 - Add: "note" dataset
 
-## Next updates - 2020-03-31 @ 12:00 (italian hour)
+## 2020-03-30
 
 - Change: "totale_attualmente_positivi" renamed to "totale_positivi" in  (ricoverati_con_sintomi + terapia_intensiva + totale_ospedalizzati) in "dati_regioni" and "dati_andamento_nazionale"
 - Add: "variazione_totale_positivi" (totale_attualmente positivi current day - totale_attualmente positivi previous day) in "dati_regioni" and "dati_andamento_nazionale"
