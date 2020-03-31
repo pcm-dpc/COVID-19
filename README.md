@@ -16,16 +16,16 @@
 - dati_province (csv / json) - (solo modifica nome/only change name "Emilia-Romagna" in "Emilia-Romagna")
 
 ### IT
-- Modifica: "totale_attualmente_positivi" rinominato in "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + totale_ospedalizzati)
-- Aggiunta: "variazione_totale_positivi" (totale_attualmente positivi giorno corrente - totale_attualmente positivi giorno precedente)
-- Modifica: "nuovi_attualmente_positivi" rinominato in "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente)
-- Modifica: Regione "Emilia Romagna" rinominato in "Emilia-Romagna"
+- Modifica: "totale_attualmente_positivi" rinominato in "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + isolamento domiciliare) in "dati_regioni" e "dati_andamento_nazionale"
+- Modifica: "nuovi_attualmente_positivi" rinominato in "variazione_totale_positivi" (totale_attualmente positivi giorno corrente - totale_attualmente positivi giorno precedente) in "dati_regioni" e "dati_andamento_nazionale"
+- Aggiunta: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" e "dati_andamento_nazionale"
+- Modifica: Regione "Emilia Romagna" rinominato in "Emilia-Romagna" in "dati-regioni" e "dati-province" ("denominazione_regione")
 
 ### EN
-- Change: "totale_attualmente_positivi" renamed to "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + totale_ospedalizzati)
-- Add: "variazione_totale_positivi" (totale_attualmente positivi current day - totale_attualmente positivi previous day)
-- Change: "nuovi_attualmente_positivi" renamed to "nuovi_positivi" (totale_casi current day - totale_casi previous day)
-- Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna"
+- Change: "totale_attualmente_positivi" renamed to "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + isolamento domiciliare) in "dati_regioni" and "dati_andamento_nazionale"
+- Change: "nuovi_attualmente_positivi" renamed to "variazione_totale_positivi" (totale_attualmente positivi giorno corrente - totale_attualmente positivi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
+- Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
+- Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
 
 ### Esempi / Examples
 
