@@ -47,18 +47,26 @@
         "Esempio": "3"
     },
     {
-        "Nome campo": "totale_attualmente_positivi",
-        "Descrizione": "Totale attualmente positivi (ospedalizzati + isolamento domiciliare)",
-        "Field name": "total_current_positive",
-        "Description": "Total amount of current positive cases (Hospitalised patients + Home confinement)",
+        "Nome campo": "totale_positivi",
+        "Descrizione": "Totale attualmente positivi (ricoverati_con_sintomi + terapia_intensiva + isolamento domiciliare)",
+        "Field name": "total_positive",
+        "Description": "Total amount of current positive cases (hospitalised_with_symptoms + intensive_care + home_confinement)",
         "Formato": "Numero",
         "Esempio": "3"
     },
     {
-        "Nome campo": "nuovi_attualmente_positivi",
-        "Descrizione": "Nuovi attualmente positivi (ospedalizzati + isolamento domiciliare)",
+        "Nome campo": "variazione_totale_positivi",
+        "Descrizione": "Nuovi attualmente positivi (totale_positivi giorno corrente - totale_positivi giorno precedente)",
         "Field name": "new_current_positive",
-        "Description": "News amount of current positive cases (Hospitalised patients + Home confinement)",
+        "Description": "New amount of current positive cases (current total_positive - total_positive of previous day)",
+        "Formato": "Numero",
+        "Esempio": "3"
+    },
+    {
+        "Nome campo": "nuovi_positivi",
+        "Descrizione": "(totale_casi giorno corrente - totale_casi giorno precedente)",
+        "Field name": "new_positive",
+        "Description": "New positive cases (current total_cases - total_cases of the previous day)",
         "Formato": "Numero",
         "Esempio": "3"
     },
