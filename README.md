@@ -44,9 +44,6 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 ## README e Wiki in aggiornamento (nuova versione - 04/04/2020 @ 18:00)
 ## README and Wiki under update (new version - 04/04/2020 @ 18:00)
 
-[Wiki](https://github.com/pcm-dpc/COVID-19/wiki)<br>
-[Esempio di pagina](https://github.com/pcm-dpc/COVID-19/wiki/1.it-Dati:-andamento-nazionale)
-
 ## Stiamo lavorando per fornire nuovi dataset e dashboard e perfezionamento di quelli esistenti.
 ## We are working to provide new datasets and dashboard and refinement of existing ones.
 
