@@ -100,7 +100,7 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-03-11T17:00:00,ITA,19,Sicilia,088,Ragusa,RG,36.92509198,14.73069891,1,,
 2020-03-11T17:00:00,ITA,19,Sicilia,089,Siracusa,SR,37.05991687,15.29333182,3,,
 2020-03-11T17:00:00,ITA,19,Sicilia,081,Trapani,TP,38.01850065,12.51365684,2,,
-2020-03-11T17:00:00,ITA,19,Sicilia,994,In fase di definizione/aggiornamento,,0,0,,,
+2020-03-11T17:00:00,ITA,19,Sicilia,994,In fase di definizione/aggiornamento,,0,0,0,,
 2020-03-11T17:00:00,ITA,09,Toscana,051,Arezzo,AR,43.46642752,11.88228844,14,,
 2020-03-11T17:00:00,ITA,09,Toscana,048,Firenze,FI,43.76923077,11.25588885,71,,
 2020-03-11T17:00:00,ITA,09,Toscana,053,Grosseto,GR,42.76026758,11.11356398,12,,
