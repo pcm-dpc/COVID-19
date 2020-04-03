@@ -1,0 +1,20 @@
+COVID-19/
+│
+├── andamento-nazionale/
+│   ├── dpc-covid19-ita-andamento-nazionale-yyyymmdd.csv
+├── aree/
+│   ├── geojson
+│   │   ├── dpc-covid19-ita-aree.geojson
+│   ├── shp
+│   │   ├── dpc-covid19-ita-aree.shp
+├── dati-province/
+│   ├── dpc-covid19-ita-province-yyyymmdd.csv
+├── dati-json/
+│   ├── dpc-covid19-ita-*.json
+├── dati-regioni/
+│   ├── dpc-covid19-ita-regioni-yyyymmdd.csv
+├── schede-riepilogative/
+│   ├── province
+│   │   ├── dpc-covid19-ita-scheda-province-yyyymmdd.pdf
+│   ├── regioni
+│   │   ├── dpc-covid19-ita-scheda-regioni-yyyymmdd.pdf
