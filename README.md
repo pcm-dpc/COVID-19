@@ -7,8 +7,8 @@
 
 ## Aggiornamento effettuato!
 
-## Aggiornamenti schema dataset 30/03/2019 @ 12:00 (Ora italiana)
-## Dataset schema update 30/03/2019 @ 12:00 (Italian hour)
+## Aggiornamenti schema dataset 30/03/2020 @ 12:00 (Ora italiana)
+## Dataset schema update 30/03/2020 @ 12:00 (Italian hour)
 
 ### Dataset:
 - dati_regioni (csv / json)
