@@ -41,11 +41,11 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-03-30T17:00:00,ITA,03,Lombardia,45.46679409,9.190347404,11815,1330,13145,11861,25006,-386,1154,10337,6818,42161,111057,,
 ```
 
-## README e Wiki in aggiornamento
-## README and Wiki under update
-
 ## Stiamo lavorando per fornire nuovi dataset e dashboard e perfezionamento di quelli esistenti.
 ## We are working to provide new datasets and dashboard and refinement of existing ones.
+
+## README e Wiki in aggiornamento
+## README and Wiki under update
 
 ## Avvisi
 
