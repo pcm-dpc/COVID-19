@@ -3,3 +3,5 @@
 *.json text eol=crlf
 *.geojson text eol=crlf
 *.xml text eol=crlf
+*.xmp text eol=crlf
+LICENSE text eol=crlf
