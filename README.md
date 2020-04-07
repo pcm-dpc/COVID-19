@@ -41,8 +41,8 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-03-30T17:00:00,ITA,03,Lombardia,45.46679409,9.190347404,11815,1330,13145,11861,25006,-386,1154,10337,6818,42161,111057,,
 ```
 
-## Stiamo lavorando per fornire nuovi dataset e dashboard e perfezionamento di quelli esistenti.
-## We are working to provide new datasets and dashboard and refinement of existing ones.
+## Stiamo lavorando per fornire nuovi dataset, dashboard e al perfezionamento di quelli esistenti.
+## We are working to provide new datasets, dashboard and on the refinement of existing ones.
 
 ## README e Wiki in aggiornamento
 ## README and Wiki under update
@@ -127,10 +127,10 @@ COVID-19/
 | **totale_ospedalizzati**        | Totale ospedalizzati              | Total hospitalised patients            | Numero                        | 3                   |
 | **isolamento_domiciliare**      | Persone in isolamento domiciliare | Home confinement                       | Numero                        | 3                   |
 | **totale_positivi** | Totale attualmente positivi (ospedalizzati + isolamento domiciliare)      | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Numero                        | 3                   |
-| **variazione_totale_positivi**  | Variazione del totale positivi (totale_positivi giorno corrente - totale_positivi giorno precedente)       | News amount of current positive cases (totale_positivi current day - totale_positivi previous day)  | Numero                        | 3                   |
-| **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
+| **variazione_totale_positivi**  | Variazione del totale positivi (totale_positivi giorno corrente - totale_positivi giorno precedente)       | New amount of current positive cases (totale_positivi current day - totale_positivi previous day)  | Numero                        | 3                   |
+| **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | New amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
-| **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
+| **deceduti**                    | Persone decedute                  | Deaths                                 | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 | **note_it**                     | Note in lingua italiana                    | Notes in italian language                        | Test                        | pd-IT-000                   |
@@ -184,7 +184,7 @@ COVID-19/
 | **variazione_totale_positivi**  | Variazione del totale positivi (totale_positivi giorno corrente - totale_positivi giorno precedente)       | News amount of current positive cases (totale_positivi current day - totale_positivi previous day)  | Numero                        | 3                   |
 | **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
-| **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
+| **deceduti**                    | Persone decedute                  | Deaths                                 | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 | **note_it**                     | Note in lingua italiana                    | Notes in italian language                        | Test                        | pd-IT-000                   |
