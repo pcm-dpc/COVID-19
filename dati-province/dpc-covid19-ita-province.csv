@@ -5631,7 +5631,6 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-04-07T17:00:00,ITA,05,Veneto,023,Verona,VR,45.43839046,10.99352685,2856,,
 2020-04-07T17:00:00,ITA,05,Veneto,024,Vicenza,VI,45.547497,11.54597109,1734,,
 2020-04-07T17:00:00,ITA,05,Veneto,999,In fase di definizione/aggiornamento,,0,0,294,,
-data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note_it,note_en
 2020-04-08T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,361,,
 2020-04-08T17:00:00,ITA,13,Abruzzo,066,L'Aquila,AQ,42.35122196,13.39843823,197,,
 2020-04-08T17:00:00,ITA,13,Abruzzo,068,Pescara,PE,42.46458398,14.21364822,771,,
