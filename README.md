@@ -177,7 +177,8 @@ COVID-19/
 | **tipologia_avviso** | Tipologia avviso (dati parziali / nessun dato) | Notice type (partial data / no data)            | Testo              | dati parziali               |
 | **avviso** | Testo di avviso       | Notice text            | Testo              | dati parziali               |
 | **note** | Altre informazioni       | Other informations            | Testo              | dato tamponi non aggiornato               |
-<br><br><br>
+
+<br><br>
 
 **Licenza:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)<br>
 Scheda metadati RNDT: [dati](https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=PCM%3ACOVID-19%3A05032020%3A093000) - [aree](https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=PCM%3A000086%3A20200306%3A110700)<br>
