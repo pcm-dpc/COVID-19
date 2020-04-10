@@ -318,7 +318,35 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "dati parziali",
+        "avviso": "dato tamponi non aggiornato",
+        "note": " dato tamponi non aggiornato"
+    },
+    {
+        "codice": "pd-IT-0010",
+        "data": "2020-04-10T17:00:00",
+        "dataset": "dati_regioni",
+        "stato": "ITA",
+        "codice_regione": 14,
+        "regione": "Molise",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
         "avviso": "comunicazione parziale dei dati",
+        "note": "dato tamponi non aggiornato"
+    },
+    {
+        "codice": "pd-IT-0011",
+        "data": "2020-04-10T17:00:00",
+        "dataset": "andamento_nazionale",
+        "stato": "ITA",
+        "codice_regione": 14,
+        "regione": "Molise",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "dato tamponi non aggiornato",
         "note": " dato tamponi non aggiornato"
     }
 ]
