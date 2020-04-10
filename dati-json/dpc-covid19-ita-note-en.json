@@ -305,7 +305,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
-        "note": "tests data not update"
+        "note": "tests data not updated"
     },
     {
         "codice": "pd-EN-0009",
@@ -319,6 +319,34 @@
         "sigla_provincia": "",
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
-        "note": " tests data not update"
+        "note": " tests data not updated"
+    },
+    {
+        "codice": "pd-EN-0010",
+        "data": "2020-04-10T17:00:00",
+        "dataset": "dati_regioni",
+        "stato": "ITA",
+        "codice_regione": 14,
+        "regione": "Molise",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "tests data not updated"
+    },
+    {
+        "codice": "pd-EN-0011",
+        "data": "2020-04-10T17:00:00",
+        "dataset": "andamento_nazionale",
+        "stato": "ITA",
+        "codice_regione": 14,
+        "regione": "Molise",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": " tests data not updated"
     }
 ]
