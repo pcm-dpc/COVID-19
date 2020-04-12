@@ -2,7 +2,7 @@
     {
         "codice": "pd-IT-0001",
         "data": "2020-03-07T17:00:00",
-        "dataset": "dati_province",
+        "dataset": "dati-province",
         "stato": "ITA",
         "codice_regione": 3,
         "regione": "Lombardia",
@@ -16,7 +16,7 @@
     {
         "codice": "pd-IT-0002",
         "data": "2020-03-07T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 3,
         "regione": "Lombardia",
@@ -30,7 +30,7 @@
     {
         "codice": "pd-IT-0003",
         "data": "2020-03-07T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 3,
         "regione": "Lombardia",
@@ -44,7 +44,7 @@
     {
         "codice": "pd-IT-0004",
         "data": "2020-03-10T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 3,
         "regione": "Lombardia",
@@ -58,7 +58,7 @@
     {
         "codice": "pd-IT-0005",
         "data": "2020-03-10T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 3,
         "regione": "Lombardia",
@@ -72,7 +72,7 @@
     {
         "codice": "nd-IT-0001",
         "data": "2020-03-11T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 13,
         "regione": "Abruzzo",
@@ -86,7 +86,7 @@
     {
         "codice": "nd-IT-0002",
         "data": "2020-03-11T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 13,
         "regione": "Abruzzo",
@@ -100,7 +100,7 @@
     {
         "codice": "nd-IT-0003",
         "data": "2020-03-16T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 4,
         "regione": "P.A. Trento",
@@ -114,7 +114,7 @@
     {
         "codice": "nd-IT-0004",
         "data": "2020-03-16T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 4,
         "regione": "P.A. Trento",
@@ -128,7 +128,7 @@
     {
         "codice": "nd-IT-0005",
         "data": "2020-03-16T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 16,
         "regione": "Puglia",
@@ -142,7 +142,7 @@
     {
         "codice": "nd-IT-0006",
         "data": "2020-03-16T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 16,
         "regione": "Puglia",
@@ -156,7 +156,7 @@
     {
         "codice": "nd-IT-0007",
         "data": "2020-03-17T17:00:00",
-        "dataset": "dati_province",
+        "dataset": "dati-province",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -170,7 +170,7 @@
     {
         "codice": "nd-IT-0008",
         "data": "2020-03-17T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -184,7 +184,7 @@
     {
         "codice": "nd-IT-0009",
         "data": "2020-03-17T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -198,7 +198,7 @@
     {
         "codice": "nd-IT-0010",
         "data": "2020-03-18T17:00:00",
-        "dataset": "dati_province",
+        "dataset": "dati-province",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -212,7 +212,7 @@
     {
         "codice": "nd-IT-0011",
         "data": "2020-03-18T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -226,7 +226,7 @@
     {
         "codice": "nd-IT-0012",
         "data": "2020-03-18T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -240,7 +240,7 @@
     {
         "codice": "nd-IT-0013",
         "data": "2020-03-18T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 15,
         "regione": "Campania",
@@ -254,7 +254,7 @@
     {
         "codice": "nd-IT-0014",
         "data": "2020-03-18T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 15,
         "regione": "Campania",
@@ -268,7 +268,7 @@
     {
         "codice": "pd-IT-0006",
         "data": "2020-03-26T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 1,
         "regione": "Piemonte",
@@ -282,7 +282,7 @@
     {
         "codice": "pd-IT-0007",
         "data": "2020-03-26T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 1,
         "regione": "Piemonte",
@@ -296,7 +296,7 @@
     {
         "codice": "pd-IT-0008",
         "data": "2020-03-29T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -310,7 +310,7 @@
     {
         "codice": "pd-IT-0009",
         "data": "2020-03-29T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 8,
         "regione": "Emilia-Romagna",
@@ -318,13 +318,13 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "dati parziali",
-        "avviso": "dato tamponi non aggiornato",
+        "avviso": "comunicazione parziale dei dati",
         "note": " dato tamponi non aggiornato"
     },
     {
         "codice": "pd-IT-0010",
         "data": "2020-04-10T17:00:00",
-        "dataset": "dati_regioni",
+        "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 14,
         "regione": "Molise",
@@ -338,7 +338,7 @@
     {
         "codice": "pd-IT-0011",
         "data": "2020-04-10T17:00:00",
-        "dataset": "andamento_nazionale",
+        "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 14,
         "regione": "Molise",
@@ -346,7 +346,49 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "dati parziali",
-        "avviso": "dato tamponi non aggiornato",
+        "avviso": "comunicazione parziale dei dati",
         "note": " dato tamponi non aggiornato"
+    },
+    {
+        "codice": "dc-IT-0001",
+        "data": "2020-04-12T17:00:00",
+        "dataset": "dati-province",
+        "stato": "ITA",
+        "codice_regione": 4,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": 21,
+        "provincia": "Bolzano",
+        "sigla_provincia": "BZ",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of informations",
+        "note": "recalculation recovered (-110 compared to yesterday)"
+    },
+    {
+        "codice": "dc-IT-0002",
+        "data": "2020-04-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 4,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo guariti (-110 rispetto a ieri)"
+    },
+    {
+        "codice": "dc-IT-0003",
+        "data": "2020-04-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 4,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": " ricalcolo guariti (-110 rispetto a ieri)"
     }
 ]

@@ -28,6 +28,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 ## Avvisi
 
 ```diff
+- 12/04/2020: dati P.A. Bolzano ricalcolati (ricalcolo dati guariti -110 rispetto a ieri).
 - 10/04/2020: dati Regione Molise parziali (dato tamponi non aggiornato).
 - 29/03/2020: dati Regione Emilia-Romagna parziali (dato tamponi non aggiornato).
 - 26/03/2020: dati Regione Piemonte parziali (-50 deceduti - comunicazione tardiva).
@@ -81,7 +82,7 @@ COVID-19/
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
-| **data**                        | Data dell’informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
+| **data**                        | Data dell'informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
 | **stato**                       | Stato di riferimento              | Country of reference                   | XYZ (ISO 3166-1 alpha-3)      | ITA                 |
 | **codice_regione**              | Codice della Regione (ISTAT 2019) | Code of the Region (ISTAT 2019)        | Numero                        | 13                  |
 | **denominazione_regione**       | Denominazione della Regione       | Name of the Region                     | Testo                         | Abruzzo             |
@@ -114,7 +115,7 @@ COVID-19/
 
 | Nome campo              | Descrizione                         | Description                     | Formato            | Esempio              |
 |-------------------------|-------------------------------------|---------------------------------|--------------------|----------------------|
-| **data**                    | Data dell’informazione              | Date of notification            | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana           | 2020-03-05 12:15:45 |                   |
+| **data**                    | Data dell'informazione              | Date of notification            | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana           | 2020-03-05 12:15:45 |                   |
 | **stato**                   | Stato di riferimento                | Country of reference            | ISO 3166-1 alpha-3 | ITA                  |
 | **codice_regione**          | Codice della Regione (ISTAT 2019)   | Code of the Region (ISTAT 2019) | Numero             | 13                   |
 | **denominazione_regione**   | Denominazione della Regione         | Name of the Region              | Testo              | Abruzzo              |
@@ -141,7 +142,7 @@ COVID-19/
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
-| **data**                        | Data dell’informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
+| **data**                        | Data dell'informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
 | **stato**                       | Stato di riferimento              | Country of reference                   | XYZ (ISO 3166-1 alpha-3)      | ITA                 |
 | **ricoverati_con_sintomi**      | Ricoverati con sintomi            | Hospitalised patients with symptoms    | Numero                        | 3                   |
 | **terapia_intensiva**           | Ricoverati in terapia intensiva   | Intensive Care                         | Numero                        | 3                   |
@@ -167,15 +168,15 @@ COVID-19/
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
-| **codice**                       | Codice nota (nd - nodata / pd - partialdata)             | Note code (nd - nodata / pd - partialdata)                   | Testo      | nd-EN-0006                 |
-| **data**                        | Data dell’informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
+| **codice**                       | Codice nota (nd - nodata / pd - partialdata / dc datacorrection)             | Note code (nd - nodata / pd - partialdata / datacorrection)                   | Testo      | nd-EN-0006                 |
+| **data**                        | Data dell'informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
 | **dataset**                       | Dataset di riferimento              | Reference dataset                   | Testo      | andamento-nazionale                 |
 | **stato**                       | Stato di riferimento              | Country of reference                   | XYZ (ISO 3166-1 alpha-3)      | ITA                 |
 | **codice_regione**          | Codice della Regione (ISTAT 2019)   | Code of the Region (ISTAT 2019) | Numero             | 13                   |
 | **denominazione_regione**   | Denominazione della Regione         | Name of the Region              | Testo              | Abruzzo              |
 | **codice_provincia**        | Codice della Provincia (ISTAT 2019) | Code of the Province            | Numero             | 067                  |
 | **denominazione_provincia** | Denominazione della provincia       | Name of the Province            | Testo              | Teramo               |
-| **tipologia_avviso** | Tipologia avviso (dati parziali / nessun dato) | Notice type (partial data / no data)            | Testo              | dati parziali               |
+| **tipologia_avviso** | Tipologia avviso (dati parziali / nessun dato / correzione dato) | Notice type (partial data / no data / data correction)            | Testo              | dati parziali               |
 | **avviso** | Testo di avviso       | Notice text            | Testo              | dati parziali               |
 | **note** | Altre informazioni       | Other informations            | Testo              | dato tamponi non aggiornato               |
 <br><br><br>
