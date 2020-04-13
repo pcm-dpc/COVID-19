@@ -24,6 +24,6 @@ pd-IT-0008,2020-03-29T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,,,,dati parzia
 pd-IT-0009,2020-03-29T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,,,,dati parziali,comunicazione parziale dei dati, dato tamponi non aggiornato
 pd-IT-0010,2020-04-10T17:00:00,dati-regioni,ITA,14,Molise,,,,dati parziali,comunicazione parziale dei dati,dato tamponi non aggiornato
 pd-IT-0011,2020-04-10T17:00:00,dati-andamento-nazionale,ITA,14,Molise,,,,dati parziali,comunicazione parziale dei dati, dato tamponi non aggiornato
-dc-IT-0001,2020-04-12T17:00:00,dati-province,ITA,04,P.A. Bolzano,021,Bolzano,BZ,data correction,recalculation of informations,recalculation recovered (-110 compared to yesterday)
+dc-IT-0001,2020-04-12T17:00:00,dati-province,ITA,04,P.A. Bolzano,021,Bolzano,BZ,correzione dati,ricalcolo delle informazioni,ricalcolo guariti (-110 rispetto a ieri)
 dc-IT-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo guariti (-110 rispetto a ieri)
 dc-IT-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni, ricalcolo guariti (-110 rispetto a ieri)
