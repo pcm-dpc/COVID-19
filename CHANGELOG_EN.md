@@ -39,3 +39,12 @@ All changes to the project, new features and information are documented in this 
 - Change: "nuovi_attualmente_positivi" renamed to "variazione_totale_positivi" (totale_attualmente positivi giorno corrente - totale_attualmente positivi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
 - Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
 - Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
+
+## Next updated
+
+- API Rest (Json)
+- GraphQL
+
+## hypothesis changes
+
+- Make datasets and field names in eßnglish language
