@@ -48,3 +48,4 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## Ipotesi modifiche
 
 - Rendere in lingua inglese i dataset e nomi dei campi
+- Cambio codice_regione P.A. Bolzano e P.A. Trento: da 04 a 21 per P.A. Bolzano e da 04 a 22 per P.A. Trento (codice provincia)
