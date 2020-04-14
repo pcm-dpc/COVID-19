@@ -48,3 +48,4 @@ All changes to the project, new features and information are documented in this 
 ## hypothesis changes
 
 - Make datasets and field names in eßnglish language
+- Change codice_regione for P.A. Bolzano and P.A. Trento: from 04 to 21 for P.A. Bolzano and from 04 to 22 for P.A. Trento (province code)
