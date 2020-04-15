@@ -27,3 +27,5 @@ pd-IT-0011,2020-04-10T17:00:00,dati-andamento-nazionale,ITA,14,Molise,,,,dati pa
 dc-IT-0001,2020-04-12T17:00:00,dati-province,ITA,04,P.A. Bolzano,021,Bolzano,BZ,correzione dati,ricalcolo delle informazioni,ricalcolo guariti (-110 rispetto a ieri)
 dc-IT-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo guariti (-110 rispetto a ieri)
 dc-IT-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni, ricalcolo guariti (-110 rispetto a ieri)
+dc-IT-0004,2020-04-15T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo di isolamento domiciliare e dimessi/guariti
+dc-IT-0005,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo di isolamento domiciliare e dimessi/guariti

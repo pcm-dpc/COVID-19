@@ -359,9 +359,9 @@
         "codice_provincia": 21,
         "provincia": "Bolzano",
         "sigla_provincia": "BZ",
-        "tipologia_avviso": "data correction",
-        "avviso": "recalculation of informations",
-        "note": "recalculation recovered (-110 compared to yesterday)"
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo guariti (-110 rispetto a ieri)"
     },
     {
         "codice": "dc-IT-0002",
@@ -390,5 +390,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": " ricalcolo guariti (-110 rispetto a ieri)"
+    },
+    {
+        "codice": "dc-IT-0004",
+        "data": "2020-04-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 6,
+        "regione": "Friuli Venezia Giulia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo di isolamento domiciliare e dimessi/guariti"
+    },
+    {
+        "codice": "dc-IT-0005",
+        "data": "2020-04-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 6,
+        "regione": "Friuli Venezia Giulia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo di isolamento domiciliare e dimessi/guariti"
     }
 ]

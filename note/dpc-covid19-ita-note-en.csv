@@ -25,5 +25,7 @@ pd-EN-0009,2020-03-29T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,,,
 pd-EN-0010,2020-04-10T17:00:00,dati-regioni,ITA,14,Molise,,,,partial data,partial communication of data,tests data not updated
 pd-EN-0011,2020-04-10T17:00:00,dati-andamento-nazionale,ITA,14,Molise,,,,partial data,partial communication of data, tests data not updated
 dc-EN-0001,2020-04-12T17:00:00,dati-province,ITA,04,P.A. Bolzano,021,Bolzano,BZ,data correction,recalculation of informations,recalculation recovered (-110 compared to yesterday)
-dc-EN-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,data correction,recalculation of informations,recalculation recovered (-110 compared to yesterday)
-dc-EN-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,data correction,recalculation of informations,recalculation recovered (-110 compared to yesterday)
+dc-EN-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,data correction,recalculation of informations,recalculation of recovered (-110 compared to yesterday)
+dc-EN-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,data correction,recalculation of informations,recalculation of recovered (-110 compared to yesterday)
+dc-EN-0004,2020-04-15T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,data correction,recalculation of informations,recalculation of home isolation and recovered
+dc-EN-0005,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,data correction,recalculation of informations,recalculation of home isolation and recovered
