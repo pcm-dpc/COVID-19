@@ -375,7 +375,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of informations",
-        "note": "recalculation recovered (-110 compared to yesterday)"
+        "note": "recalculation of recovered (-110 compared to yesterday)"
     },
     {
         "codice": "dc-EN-0003",
@@ -389,6 +389,34 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of informations",
-        "note": "recalculation recovered (-110 compared to yesterday)"
+        "note": "recalculation of recovered (-110 compared to yesterday)"
+    },
+    {
+        "codice": "dc-EN-0004",
+        "data": "2020-04-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 6,
+        "regione": "Friuli Venezia Giulia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of informations",
+        "note": "recalculation of home isolation and recovered"
+    },
+    {
+        "codice": "dc-EN-0005",
+        "data": "2020-04-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 6,
+        "regione": "Friuli Venezia Giulia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of informations",
+        "note": "recalculation of home isolation and recovered"
     }
 ]
