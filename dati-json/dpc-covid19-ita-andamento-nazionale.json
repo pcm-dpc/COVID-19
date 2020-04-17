@@ -899,5 +899,22 @@
         "tamponi": 1178403,
         "note_it": "",
         "note_en": ""
+    },
+    {
+        "data": "2020-04-17T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 25786,
+        "terapia_intensiva": 2812,
+        "totale_ospedalizzati": 28598,
+        "isolamento_domiciliare": 78364,
+        "totale_positivi": 106962,
+        "variazione_totale_positivi": 355,
+        "nuovi_positivi": 3493,
+        "dimessi_guariti": 42727,
+        "deceduti": 22745,
+        "totale_casi": 172434,
+        "tamponi": 1244108,
+        "note_it": "",
+        "note_en": ""
     }
 ]
