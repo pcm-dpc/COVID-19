@@ -933,5 +933,22 @@
         "tamponi": 1305833,
         "note_it": "",
         "note_en": ""
+    },
+    {
+        "data": "2020-04-19T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 25033,
+        "terapia_intensiva": 2635,
+        "totale_ospedalizzati": 27668,
+        "isolamento_domiciliare": 80589,
+        "totale_positivi": 108257,
+        "variazione_totale_positivi": 486,
+        "nuovi_positivi": 3047,
+        "dimessi_guariti": 47055,
+        "deceduti": 23660,
+        "totale_casi": 178972,
+        "tamponi": 1356541,
+        "note_it": "",
+        "note_en": ""
     }
 ]
