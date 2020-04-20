@@ -42,7 +42,7 @@ All changes to the project, new features and information are documented in this 
 
 ## 2020-04-20
 
-- Add: "casi_testati", total number of people tested
+- Add: "casi_testati", total number of people tested from 2020-04-19
 
 ## Next updated
 
