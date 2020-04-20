@@ -40,9 +40,9 @@ All changes to the project, new features and information are documented in this 
 - Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
 - Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
 
-## Updates from 20 April 2020 (23:30)
+## 2020-04-20
 
-- Tested case
+- Add: "casi_testati", total number of people tested
 
 ## Next updated
 
@@ -51,5 +51,4 @@ All changes to the project, new features and information are documented in this 
 
 ## hypothesis changes
 
-- Make datasets and field names in eßnglish language
 - Change codice_regione for P.A. Bolzano and P.A. Trento: from 04 to 21 for P.A. Bolzano and from 04 to 22 for P.A. Trento (province code)

@@ -103,6 +103,7 @@ COVID-19/
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+| **casi_testati**                     | Totale dei soggetti sottoposti al test                    | total number of people tested                        | Numero                        | 3                   |
 | **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
 | **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
 
@@ -159,6 +160,7 @@ COVID-19/
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
+| **casi_testati**                     | Totale dei soggetti sottoposti al test                    | total number of people tested                        | Numero                        | 3                   |
 | **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
 | **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
 
