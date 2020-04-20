@@ -42,7 +42,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## 2020-04-20
 
-- Aggiunta: "casi_testati", totale dei soggetti sottoposti al test
+- Aggiunta: "casi_testati", totale dei soggetti sottoposti al test dal 19/04/2020
 
 ## Prossimi aggiornamenti
 
