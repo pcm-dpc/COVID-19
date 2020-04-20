@@ -40,6 +40,10 @@ All changes to the project, new features and information are documented in this 
 - Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
 - Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
 
+## Updates from 20 April 2020 (23:30)
+
+- Tested case
+
 ## Next updated
 
 - API Rest (Json)
