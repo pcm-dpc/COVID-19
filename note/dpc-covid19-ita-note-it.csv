@@ -29,3 +29,5 @@ dc-IT-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,correzione da
 dc-IT-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni, ricalcolo guariti (-110 rispetto a ieri)
 dc-IT-0004,2020-04-15T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo di isolamento domiciliare e dimessi/guariti
 dc-IT-0005,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo di isolamento domiciliare e dimessi/guariti
+dc-IT-0006,2020-04-20T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati (emilinati duplicati)
+dc-IT-0007,2020-04-20T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati (emilinati duplicati)
