@@ -31,6 +31,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 ## Avvisi
 
 ```diff
+- 20/04/2020: dati Regione Lombardia ricalcolati (ricalcolo di casi testati - eliminazione duplicati)
 - 15/04/2020: dati Regione Friuli Venezia Giulia ricalcolati (ricalcolo di isolamento domiciliare e dimessi/guariti)
 - 12/04/2020: dati P.A. Bolzano ricalcolati (ricalcolo dati guariti -110 rispetto a ieri).
 - 10/04/2020: dati Regione Molise parziali (dato tamponi non aggiornato).
