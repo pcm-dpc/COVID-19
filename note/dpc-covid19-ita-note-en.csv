@@ -31,3 +31,5 @@ dc-EN-0004,2020-04-15T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,data
 dc-EN-0005,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,data correction,recalculation of informations,recalculation of home isolation and recovered
 dc-EN-0006,2020-04-20T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,recalculation of informations,recalculation of tested cases (duplicates removed)
 dc-EN-0007,2020-04-20T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of informations,recalculation of tested cases (duplicates removed)
+pd-EN-0012,2020-04-21T17:00:00,dati-regioni,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0013,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
