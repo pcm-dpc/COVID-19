@@ -46,8 +46,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## 2020-04-21
 
-- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni)
-con relativi metadati. Sono graditi suggerimenti per integrazioni e/o modifiche (ove necessario).
+- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni).
 
 ## Prossimi aggiornamenti
 
