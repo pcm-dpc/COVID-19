@@ -44,6 +44,10 @@ All changes to the project, new features and information are documented in this 
 
 - Add: "casi_testati", total number of people tested from 2020-04-19
 
+##  2020-04-20
+
+- Add: new shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata. Suggestions for additions and / or modifications are welcome (where necessary).
+
 ## Next updated
 
 - API Rest (Json)
