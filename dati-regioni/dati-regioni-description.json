@@ -133,5 +133,13 @@
         "Description": "Tests performed",
         "Formato": "Numero",
         "Esempio": "3"
+    },
+    {
+        "Nome campo": "casi_testati",
+        "Descrizione": "Totale dei soggetti sottoposti al test",
+        "Field name": "total_people_tested",
+        "Description": "Total number of people tested",
+        "Formato": "Numero",
+        "Esempio": "3"
     }
 ]
