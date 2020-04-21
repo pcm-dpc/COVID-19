@@ -44,6 +44,11 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: "casi_testati", totale dei soggetti sottoposti al test dal 19/04/2020
 
+## 2020-04-21
+
+- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni)
+con relativi metadati. Sono graditi suggerimenti per integrazioni e/o modifiche (ove necessario).
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json)
