@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+	<!-- Distribution class that links to the dataset where dcatapit:Distribution/@rdf:about=dcatapit:Dataset/dcatapit:Distribution/@rdf:resource. 
+	Occurs: 1..n -->
+	<dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/COVID-19/tree/master/#COVID19IT_AndamentoTemporale">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it">dpc-covid19-ita-andamento-nazionale (OpenData)</dct:title>
+		<dct:title xml:lang="en">dpc-covid19-ita-Italian trend (OpenData)</dct:title>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it">Tabella riepilogativa con la serie temporale dei totali degli indicatori di monitoraggio della situazione relativa all'emergenza collegata alla diffusione del Coronavirus in Italia.</dct:description>
+		<dct:description xml:lang="en">Summary table with the time series of the national monitoring indicators related to the emergency situation connected to the spread of Coronavirus in Italy.</dct:description>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource="https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale"/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource="https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale"/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</dcat:byteSize>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/legalcode.it"/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-10</dct:modified>
+	</dcatapit:Distribution>
+
+	<dcatapit:Distribution rdf:about="">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it"/>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it"/>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource=""/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource=""/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource=""/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"/>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource=""/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"/>
+
+	</dcatapit:Distribution>
+
+	<dcatapit:Distribution rdf:about="">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it"/>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it"/>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource=""/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource=""/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource=""/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"/>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource=""/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"/>
+
+	</dcatapit:Distribution>
+
+	<dcatapit:Distribution rdf:about="">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it"/>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it"/>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource=""/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource=""/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource=""/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"/>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource=""/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"/>
+
+	</dcatapit:Distribution>
+
+	<dcatapit:Distribution rdf:about="">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it"/>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it"/>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource=""/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource=""/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource=""/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"/>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource=""/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"/>
+
+	</dcatapit:Distribution>
+
+	<!-- License class that links to the Distribution through the rdf:about link -->
+	<dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/legalcode.it">
+        <rdf:type rdf:resource="http://purl.org/dc/terms/LicenseDocument"/>
+		<!-- Type of license, occurs 0..1 -->
+		<dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+		<!-- Name of license, occurs 0..n (n for multilingual) -->
+		<foaf:name>CC BY</foaf:name>
+		<!-- Version of license, occurs 0..1 -->
+		<owl:versionInfo>4.0</owl:versionInfo>
+	</dcatapit:LicenseDocument>
+
+	<!-- Agent class (publisher, creator or rightsHolder) that links to the Dataset through the rdf:about link -->
+	<dcatapit:Agent rdf:about="http://dati.protezionecivile.it/m_sa">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<!-- Name of Agent. Occurs 1..1  -->
+		<foaf:name>Soggetto attuatore MinSALUTE DCDPC 414/7-2-2020</foaf:name>
+		<!-- Identifier of Agent. Occurs 1..1  -->
+		<dct:identifier>m_sa</dct:identifier>
+		<!-- Contact Mail for this Agent. Not requested by DCAT-AP-IT but useful  -->
+		<foaf:mbox>seggen@postacert.sanita.it</foaf:mbox>
+	</dcatapit:Agent>
+
+	<dcatapit:Agent rdf:about="http://dati.protezionecivile.it/PCM#redazione">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<!-- Name of Agent. Occurs 1..1  -->
+		<foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+		<!-- Identifier of Agent. Occurs 1..1  -->
+		<dct:identifier>PCM - DPC</dct:identifier>
+		<!-- Contact Mail for this Agent. Not requested by DCAT-AP-IT but useful  -->
+		<foaf:mbox>redazione@protezionecivile.it</foaf:mbox>
+	</dcatapit:Agent>
+
+	<!-- Agent class (publisher, creator or rightsHolder) that links to the Dataset through the rdf:about link -->
+	<dcatapit:Agent rdf:about="http://dati.protezionecivile.it/PCM">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<!-- Name of Agent. Occurs 1..1  -->
+		<foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+		<!-- Identifier of Agent. Occurs 1..1  -->
+		<dct:identifier>PCM - DPC</dct:identifier>
+		<!-- Contact Mail for this Agent. Not requested by DCAT-AP-IT but useful  -->
+		<foaf:mbox>protezionecivile@pec.governo.it</foaf:mbox>
+	</dcatapit:Agent>
+
+	<!-- Organization class (Point of contact) for the dataset class that links to the Dataset through the rdf:about link -->
+	<dcatapit:Organization rdf:about="http://dati.protezionecivile.it/PCM#sisterritoriale">
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+		<!-- Name for this Organization. Occurs 1..1 -->
+		<vcard:fn>PCM - Dipartimento della Protezione Civile</vcard:fn>
+		<!-- email for this Organization. Occurs 1..1 -->
+		<vcard:hasEmail rdf:resource="sisterritoriale@protezionecivile.it"/>
+		<!-- Telephone for this Organization. Occurs 0..1 -->
+        <vcard:hasTelephone rdf:parseType="Resource">
+         	
+         	<rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Voice"/>
+        </vcard:hasTelephone>
+		<!-- Site for this Organization. Occurs 0..1 -->
+		<vcard:hasURL rdf:resource="http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus"/>
+	</dcatapit:Organization>
+
+	<!-- Bounding Box for the data linked to Dataset through the rdf:about link.  -->
+    <dct:Location rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_AndamentoTemporale_Location">
+		<!-- Geometry (Bounding box) for this location. Occurs 0..1 It must be expressed as GeoSparql literal -->
+		<locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#gmlLiteral">&lt;gml:Envelope srsName="http://www.opengis.net/def/EPSG/0/4326"&gt;&lt;gml:lowerCorner&gt;6.5033 35.8935&lt;/gml:lowerCorner&gt;&lt;gml:upperCorner&gt;19.1033 48.0035&lt;/gml:upperCorner&gt;&lt;/gml:Envelope&gt;</locn:geometry> 
+    </dct:Location>
+
+	<!-- Period of Time for the dataset. Linked to Dataset through the rdf:about link.  -->
+	<dct:PeriodOfTime rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_AndamentoTemporale_PeriodOfTime"> 
+		<!-- Start of period. Occurs 1..1 -->
+		<dcatapit:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-02-24</dcatapit:startDate> 
+		<!-- End of period. Occurs 0..1 -->
+		<dcatapit:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-10</dcatapit:endDate> 
+	</dct:PeriodOfTime>
+
+
+	<!-- Description of the Dataset. The identifier is both in the about string (mandatory) and in dct:identifier.  	Usually is the same, but it depends on the clients. The rdf:about is used to join to the whole Catalog where  	dcat:Catalog/dcatapit:Dataset/@rdf:resource=dcatapit:Dataset/@rdf:about. It must be an URL-->
+	<dcatapit:Dataset rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_AndamentoTemporale">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+		<!-- Unique resource identifier. Occurs: 1..1. -->
+		<dct:identifier>COVID19IT_AndamentoTemporale</dct:identifier>
+
+		<!-- Other identifier. Occurs: 0..n. -->
+		<adms:identifier/>
+
+		<!-- Resource title Occurs:  1..n (n for languages) -->
+		<dct:title xml:lang="it">COVID-19 Andamento nazionale - COVID-19 Italian trend</dct:title>
+
+		<!-- Resource abstract. Occurs:  1..n (n for languages) -->
+		<dct:description xml:lang="it">Tabella riepilogativa con la serie temporale dei totali degli indicatori di monitoraggio della situazione relativa all'emergenza collegata alla diffusione del Coronavirus in Italia.&#13;
+Summary table with the time series of the national monitoring indicators related to the emergency situation connected to the spread of Coronavirus in Italy.</dct:description>
+
+		<!-- Main theme must refer to EUROVOC themes. Occurs:  1..n -->
+		<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+		<dcat:theme rdf:resource=""/>
+		<dcat:theme rdf:resource=""/>
+
+		<!-- Subthemes. Occurs: 0..n -->
+		<dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
+		<dct:subject rdf:resource=""/>
+		<dct:subject rdf:resource=""/>
+		<dct:subject rdf:resource=""/>
+		<dct:subject rdf:resource=""/>
+
+		<!-- Creator of this Dataset. Occurs:  0..1 -->
+		<dct:creator rdf:resource="http://dati.protezionecivile.it/m_sa"/>
+
+		<!-- Publisher of this Dataset. Occurs:  0..1.  -->
+		<dct:publisher rdf:resource="http://dati.protezionecivile.it/PCM#redazione"/>
+
+		<!-- RightsHolder of this Dataset. Occurs:  1..1.  -->
+		<dct:rightsHolder rdf:resource="http://dati.protezionecivile.it/PCM"/>
+
+		<!-- Point of contact. Occurs: 0..n -->
+		<dcat:contactPoint rdf:resource="http://dati.protezionecivile.it/PCM#sisterritoriale"/>
+
+		<!-- When this dataset was "published". Occurs: 0..1  -->
+		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-07</dct:issued>	
+
+		<!-- When this dataset was last modified. Occurs: 1..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-10</dct:modified>
+
+		<!-- Page to obtain additional information. Not to use for download. Occurs:  0..1 -->
+		<dcat:landingPage rdf:resource=""/>
+
+		<!-- Keywords. Occurs:  1..n -->
+		<dcat:keyword xml:lang="it">COVID-19</dcat:keyword>
+		
+		<dcat:keyword xml:lang="it"/>
+		
+		<dcat:keyword xml:lang="it"/>	
+
+		<!-- Geographic region that is covered by the Dataset.  Occurs: 0..n -->
+		<dct:spatial rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_AndamentoTemporale_Location"/>
+
+		<!-- Language. Occurs: 0..n  -->
+		<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+
+		<!-- Temporal period that the Dataset covers. Occurs: 0..1 -->
+		<dct:temporal rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_AndamentoTemporale_PeriodOfTime"/>
+
+		<!-- Frequency at which Dataset is updated. Occurs: 0..1 -->
+		<dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+
+		<!-- Distribution links to Distribution class.  Occurs: 0..n -->
+		<dcat:distribution rdf:resource="https://github.com/pcm-dpc/COVID-19/tree/master/#COVID19IT_AndamentoTemporale"/>
+		<dcat:distribution rdf:resource=""/>
+		<dcat:distribution rdf:resource=""/>
+		<dcat:distribution rdf:resource=""/>
+		<dcat:distribution rdf:resource=""/>
+
+		<!-- Version of this Dataset. Occurs: 0..1 -->
+		<owl:versionInfo/>
+
+		<!-- Related Dataset. Occurs: 0..n -->
+		<dct:isVersionOf rdf:resource=""/>
+
+		<!-- Reference Standard for this Dataset. Occurs: 0..n -->
+		<dct:conformsTo rdf:resource=""/>
+
+	</dcatapit:Dataset>
+
+<!-- For each subject there's a concept -->
+    <skos:Concept rdf:about="http://eurovoc.europa.eu/100215">
+        <skos:prefLabel xml:lang="it">salute</skos:prefLabel>
+    </skos:Concept>
+    <skos:Concept rdf:about="">
+        <skos:prefLabel xml:lang="it"/>
+    </skos:Concept>
+    <skos:Concept rdf:about="">
+        <skos:prefLabel xml:lang="it"/>
+    </skos:Concept>
+    <skos:Concept rdf:about="">
+        <skos:prefLabel xml:lang="it"/>
+    </skos:Concept>
+    <skos:Concept rdf:about="">
+        <skos:prefLabel xml:lang="it"/>
+    </skos:Concept>
+
+</rdf:RDF>
+

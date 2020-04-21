@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<gmd:fileIdentifier>
-		<gco:CharacterString>PCM:000086:20200306:110700</gco:CharacterString>
-	</gmd:fileIdentifier>
-	<gmd:language>
-		<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#LanguageCode" codeListValue="ita">ita</gmd:LanguageCode>
-	</gmd:language>
-	<gmd:characterSet>
-		<gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
-	</gmd:characterSet>
-	<gmd:parentIdentifier>
-		<gco:CharacterString>PCM:000086:20200306:110700</gco:CharacterString>
-	</gmd:parentIdentifier>
-	<gmd:hierarchyLevel>
-		<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
-	</gmd:hierarchyLevel>
-	<gmd:contact>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns="http://www.isotc211.org/2005/gmd" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gfc="http://www.isotc211.org/2005/gfc" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:ogc="http://www.opengis.net/ogc" xmlns:ows="http://www.opengis.net/ows" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+   <gmd:fileIdentifier xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:CharacterString>PCM:000086:20200306:110700</gco:CharacterString>
+   </gmd:fileIdentifier>
+   <gmd:language>
+      <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="ita">ita</gmd:LanguageCode>
+   </gmd:language>
+   <gmd:characterSet xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+   </gmd:characterSet>
+   <gmd:parentIdentifier xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:CharacterString>PCM:000086:20200306:110700</gco:CharacterString>
+   </gmd:parentIdentifier>
+   <gmd:hierarchyLevel xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+   </gmd:hierarchyLevel>
+   <gmd:contact xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
 		<gmd:CI_ResponsibleParty>
-			<gmd:organisationName>
-				<gco:CharacterString>PCM - Dipartimento della Protezione Civile</gco:CharacterString>
-			</gmd:organisationName>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
 			<gmd:contactInfo>
 				<gmd:CI_Contact>
 					<gmd:address>
@@ -44,7 +49,7 @@
 		</gmd:CI_ResponsibleParty>
 	</gmd:contact>
 	<gmd:dateStamp>
-		<gco:Date>2015-07-14</gco:Date>
+		<gco:Date>2020-03-05</gco:Date>
 	</gmd:dateStamp>
 	<gmd:metadataStandardName>
 		<gco:CharacterString>DM - Regole tecniche RNDT</gco:CharacterString>
@@ -52,12 +57,22 @@
 	<gmd:metadataStandardVersion>
 		<gco:CharacterString>10 novembre 2011</gco:CharacterString>
 	</gmd:metadataStandardVersion>
+   <gmd:locale>
+      <gmd:PT_Locale id="locale-en">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">English</gmd:LanguageCode>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+   </gmd:locale>
 	<gmd:referenceSystemInfo>
 		<gmd:MD_ReferenceSystem>
 			<gmd:referenceSystemIdentifier>
 				<gmd:RS_Identifier>
 					<gmd:code>
-						<gco:CharacterString>ETRS89/ETRS-TM33</gco:CharacterString>
+						<gco:CharacterString>ETRS89</gco:CharacterString>
 					</gmd:code>
 				</gmd:RS_Identifier>
 			</gmd:referenceSystemIdentifier>
@@ -67,9 +82,14 @@
 		<gmd:MD_DataIdentification>
 			<gmd:citation>
 				<gmd:CI_Citation>
-					<gmd:title>
-						<gco:CharacterString>Zone di applicazione delle misura di contenimento del contagio da COVID-19 (RNDT Dataset)</gco:CharacterString>
-					</gmd:title>
+               <gmd:title xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Zone di applicazione delle misura di contenimento del contagio da COVID-19 (RNDT Dataset)</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Actions' implementation zones for containing COVID-19 contagion (RNDT Dataset)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:title>
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
@@ -90,6 +110,16 @@
 							</gmd:dateType>
 						</gmd:CI_Date>
 					</gmd:date>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2020-04-14</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
 					<gmd:identifier>
 						<gmd:MD_Identifier>
 							<gmd:code>
@@ -99,9 +129,14 @@
 					</gmd:identifier>
 					<gmd:citedResponsibleParty>
 						<gmd:CI_ResponsibleParty>
-							<gmd:organisationName>
-								<gco:CharacterString>PCM - Dipartimento della Protezione Civile</gco:CharacterString>
-							</gmd:organisationName>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
 							<gmd:contactInfo>
 								<gmd:CI_Contact>
 									<gmd:address>
@@ -127,29 +162,34 @@
 					</gmd:citedResponsibleParty>
 					<gmd:citedResponsibleParty>
 						<gmd:CI_ResponsibleParty>
-							<gmd:organisationName>
-								<gco:CharacterString>Regione Campania</gco:CharacterString>
-							</gmd:organisationName>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>Governo Italiano - Presidenza del Consiglio dei Ministri</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">Italian Government - Presidency of the Council of Ministers</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
 							<gmd:contactInfo>
 								<gmd:CI_Contact>
 									<gmd:address>
 										<gmd:CI_Address>
 											<gmd:electronicMailAddress>
-												<gco:CharacterString>francesca.maggio@regione.campania.it</gco:CharacterString>
+												<gco:CharacterString>presidente@pec.governo.it</gco:CharacterString>
 											</gmd:electronicMailAddress>
 										</gmd:CI_Address>
 									</gmd:address>
 									<gmd:onlineResource>
 										<gmd:CI_OnlineResource>
 											<gmd:linkage>
-												<gmd:URL>http://www.regione.campania.it</gmd:URL>
+												<gmd:URL>http://www.governo.it</gmd:URL>
 											</gmd:linkage>
 										</gmd:CI_OnlineResource>
 									</gmd:onlineResource>
 								</gmd:CI_Contact>
 							</gmd:contactInfo>
 							<gmd:role>
-								<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+								<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
 							</gmd:role>
 						</gmd:CI_ResponsibleParty>
 					</gmd:citedResponsibleParty>
@@ -163,19 +203,34 @@
 							</gmd:issueIdentification>
 						</gmd:CI_Series>
 					</gmd:series>
-					<gmd:otherCitationDetails>
-						<gco:CharacterString>Decreto del Presidente del Consiglio dei Ministri 1° marzo 2020 - Ulteriori disposizioni attuative del decreto-legge 23 febbraio 2020, n. 6, recante misure urgenti in materia di contenimento e gestione dell’emergenza epidemiologica da COVID-19 01 marzo 2020</gco:CharacterString>
-					</gmd:otherCitationDetails>
+               <gmd:otherCitationDetails xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Decreto del Presidente del Consiglio dei Ministri del 10 aprile 2020. Ulteriori disposizioni attuative del decreto-legge 25 marzo 2020, n. 19, recante misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19, applicabili sull'intero territorio nazionale</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Decree of the President of the Council of Ministers of 10 April 2020. Further implementing provisions of the decree-law of 25 March 2020, n. 19, containing urgent measures to face the epidemiological emergency from COVID-19, applicable on the whole national territory</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:otherCitationDetails>
 				</gmd:CI_Citation>
 			</gmd:citation>
-			<gmd:abstract>
-				<gco:CharacterString>Porzione di territorio o uno o più unità amministrative (comuni, province o regioni), anche diverse tra loro, per le quali sono state adottate misure di contenimento ai fini della prevenzione rivolte alla popolazione e con esclusione del personale sanitario, delle forze di polizia, del corpo nazionale dei vigili del fuoco e delle forze armate, nell&apos;esercizio delle loro funzioni. Le misura di contenimento sono differenziate per estensione e gravità. Tra le misura per le zone &quot;rosse&quot; c&apos;è il divieto di allontanamento e il divieto di accesso.</gco:CharacterString>
-			</gmd:abstract>
+         <gmd:abstract xsi:type="PT_FreeText_PropertyType">
+            <gco:CharacterString>Porzione di territorio o uno o più unità amministrative (province, regioni o intero territorio nazionale), anche diverse tra loro, per le quali sono state adottate misure di contenimento ai fini della prevenzione rivolte alla popolazione e con esclusione del personale sanitario, delle forze di polizia, del corpo nazionale dei vigili del fuoco e delle forze armate, nell'esercizio delle loro funzioni. Le misura di contenimento sono differenziate per estensione e gravità. Tra le misura previste nell'art.1 c) è il divieto di allontanamento e il divieto di accesso</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#locale-en">Portion of territory or one or more administrative units (provinces, regions or entire national territory), also different from each other, for which containment actions have been adopted for the purpose of prevention aimed at the population and with the exclusion of health personnel, police, the national fire department and the armed forces, in the exercise of their functions. The containment measures are differentiated by extension and severity. Among the actions provided for in art.1 is the ban on removal and the ban on access.</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:abstract>
 			<gmd:pointOfContact>
 				<gmd:CI_ResponsibleParty>
-					<gmd:organisationName>
-						<gco:CharacterString>PCM - Dipartimento della Protezione Civile</gco:CharacterString>
-					</gmd:organisationName>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
 					<gmd:contactInfo>
 						<gmd:CI_Contact>
 							<gmd:address>
@@ -199,34 +254,6 @@
 					</gmd:role>
 				</gmd:CI_ResponsibleParty>
 			</gmd:pointOfContact>
-			<gmd:pointOfContact>
-				<gmd:CI_ResponsibleParty>
-					<gmd:organisationName>
-						<gco:CharacterString>Regione Campania</gco:CharacterString>
-					</gmd:organisationName>
-					<gmd:contactInfo>
-						<gmd:CI_Contact>
-							<gmd:address>
-								<gmd:CI_Address>
-									<gmd:electronicMailAddress>
-										<gco:CharacterString>francesca.maggio@regione.campania.it</gco:CharacterString>
-									</gmd:electronicMailAddress>
-								</gmd:CI_Address>
-							</gmd:address>
-							<gmd:onlineResource>
-								<gmd:CI_OnlineResource>
-									<gmd:linkage>
-										<gmd:URL>http://www.regione.campania.it</gmd:URL>
-									</gmd:linkage>
-								</gmd:CI_OnlineResource>
-							</gmd:onlineResource>
-						</gmd:CI_Contact>
-					</gmd:contactInfo>
-					<gmd:role>
-						<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
-					</gmd:role>
-				</gmd:CI_ResponsibleParty>
-			</gmd:pointOfContact>
 			<gmd:resourceMaintenance>
 				<gmd:MD_MaintenanceInformation>
 					<gmd:maintenanceAndUpdateFrequency>
@@ -234,27 +261,24 @@
 					</gmd:maintenanceAndUpdateFrequency>
 				</gmd:MD_MaintenanceInformation>
 			</gmd:resourceMaintenance>
-			<gmd:graphicOverview>
-				<gmd:MD_BrowseGraphic>
-					<gmd:fileName>
-						<gco:CharacterString>http://www.protezionecivile.gov.it/resources/cms/documents/mappa_zona_gialla.pdf</gco:CharacterString>
-					</gmd:fileName>
-					<gmd:fileDescription>
-						<gco:CharacterString>Mappa definitiva della zona rossa e gialla per il Vesuvio - febbraio 2015</gco:CharacterString>
-					</gmd:fileDescription>
-					<gmd:fileType>
-						<gco:CharacterString>pdf</gco:CharacterString>
-					</gmd:fileType>
-				</gmd:MD_BrowseGraphic>
-			</gmd:graphicOverview>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
-					<gmd:keyword>
-						<gco:CharacterString>Salute umana e sicurezza</gco:CharacterString>
-					</gmd:keyword>
-					<gmd:keyword>
-						<gco:CharacterString>Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati</gco:CharacterString>
-					</gmd:keyword>
+               <gmd:keyword xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Salute umana e sicurezza</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Human health and safety</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:keyword xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Area management / restriction / regulation zones and reporting units</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
 					<gmd:thesaurusName>
 						<gmd:CI_Citation>
 							<gmd:title>
@@ -301,7 +325,7 @@
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>zona Pianificazione Vulcanica</gco:CharacterString>
+						<gco:CharacterString>humanHealthRestrictedZone</gco:CharacterString>
 					</gmd:keyword>
 					<gmd:thesaurusName>
 						<gmd:CI_Citation>
@@ -327,6 +351,9 @@
 					<gmd:keyword>
 						<gco:CharacterString>COVID-19</gco:CharacterString>
 					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>open data</gco:CharacterString>
+					</gmd:keyword>
 				</gmd:MD_Keywords>
 			</gmd:descriptiveKeywords>
 			<gmd:resourceConstraints>
@@ -339,7 +366,7 @@
 			<gmd:resourceConstraints>
 				<gmd:MD_Constraints>
 					<gmd:useLimitation>
-						<gco:CharacterString>http://dati.protezionecivile.it/Download/Licenze/CC_Attribution_4.0_International_COVID19.zip</gco:CharacterString>
+						<gco:CharacterString>http://creativecommons.org/licenses/by/4.0/</gco:CharacterString>
 					</gmd:useLimitation>
 				</gmd:MD_Constraints>
 			</gmd:resourceConstraints>
@@ -351,9 +378,14 @@
 					<gmd:useConstraints>
 						<gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
 					</gmd:useConstraints>
-					<gmd:otherConstraints>
-						<gco:CharacterString>I dati delle zone sono stati elaborati ai fini della gestione dell&apos;emergenza e dovranno essere utilizzati solo per scopi di protezione civile.</gco:CharacterString>
-					</gmd:otherConstraints>
+               <gmd:otherConstraints xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>I dati delle zone sono stati elaborati ai fini della gestione dell'emergenza e dovranno essere utilizzati solo per scopi di protezione civile.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Zone data have been processed for emergency management purposes and should only be used for civil protection purposes.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:otherConstraints>
 				</gmd:MD_LegalConstraints>
 			</gmd:resourceConstraints>
 			<gmd:spatialRepresentationType>
@@ -385,27 +417,30 @@
 			<gmd:extent>
 				<gmd:EX_Extent>
 					<gmd:geographicElement>
-						<gmd:EX_GeographicBoundingBox>
-							<gmd:westBoundLongitude>
-								<gco:Decimal>7.2422</gco:Decimal>
-							</gmd:westBoundLongitude>
-							<gmd:eastBoundLongitude>
-								<gco:Decimal>13.7289</gco:Decimal>
-							</gmd:eastBoundLongitude>
-							<gmd:southBoundLatitude>
-								<gco:Decimal>42.9919</gco:Decimal>
-							</gmd:southBoundLatitude>
-							<gmd:northBoundLatitude>
-								<gco:Decimal>46.4919</gco:Decimal>
-							</gmd:northBoundLatitude>
-						</gmd:EX_GeographicBoundingBox>
+                  <gmd:EX_GeographicBoundingBox>
+                     <gmd:westBoundLongitude>
+                        <gco:Decimal>5.8466</gco:Decimal>
+                     </gmd:westBoundLongitude>
+                     <gmd:eastBoundLongitude>
+                        <gco:Decimal>19.5511</gco:Decimal>
+                     </gmd:eastBoundLongitude>
+                     <gmd:southBoundLatitude>
+                        <gco:Decimal>35.677</gco:Decimal>
+                     </gmd:southBoundLatitude>
+                     <gmd:northBoundLatitude>
+                        <gco:Decimal>48.0008</gco:Decimal>
+                     </gmd:northBoundLatitude>
+                  </gmd:EX_GeographicBoundingBox>
 					</gmd:geographicElement>
 				</gmd:EX_Extent>
 			</gmd:extent>
-			<gmd:supplementalInformation>
-				<gco:CharacterString>DELIBERA DEL CONSIGLIO DEI MINISTRI 31 gennaio 2020 
-Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario connesso all&apos;insorgenza di patologie derivanti da agenti virali trasmissibili. (20A00737) (GU Serie Generale n.26 del 01-02-2020)</gco:CharacterString>
-			</gmd:supplementalInformation>
+         <gmd:supplementalInformation xsi:type="PT_FreeText_PropertyType">
+            <gco:CharacterString>DELIBERA DEL CONSIGLIO DEI MINISTRI 31 gennaio 2020.Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili. (20A00737) (GU Serie Generale n.26 del 01-02-2020)</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup><gmd:LocalisedCharacterString>RESOLUTION OF THE COUNCIL OF MINISTERS 31 January 2020 - Declaration of the state of emergency as a consequence of the health risk associated with the onset of diseases deriving from transmissible viral agents. (20A00737) (OJ General Series n.26 of 01-02-2020)</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:supplementalInformation>
 		</gmd:MD_DataIdentification>
 	</gmd:identificationInfo>
 	<gmd:distributionInfo>
@@ -424,9 +459,14 @@ Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario conn
 				<gmd:MD_Distributor>
 					<gmd:distributorContact>
 						<gmd:CI_ResponsibleParty>
-							<gmd:organisationName>
-								<gco:CharacterString>PCM - Dipartimento della Protezione Civile</gco:CharacterString>
-							</gmd:organisationName>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
 							<gmd:contactInfo>
 								<gmd:CI_Contact>
 									<gmd:address>
@@ -457,7 +497,7 @@ Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario conn
 					<gmd:onLine>
 						<gmd:CI_OnlineResource>
 							<gmd:linkage>
-								<gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/shape-aree-contenimento</gmd:URL>
+								<gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/aree/shp</gmd:URL>
 							</gmd:linkage>
 						</gmd:CI_OnlineResource>
 					</gmd:onLine>
@@ -499,9 +539,14 @@ Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario conn
 						<gmd:DQ_ConformanceResult>
 							<gmd:specification>
 								<gmd:CI_Citation>
-									<gmd:title>
-										<gco:CharacterString>REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l&apos;interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gco:CharacterString>
-									</gmd:title>
+                          <gmd:title xsi:type="PT_FreeText_PropertyType">
+                              <gco:CharacterString>REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l'interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-en">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
 									<gmd:date>
 										<gmd:CI_Date>
 											<gmd:date>
@@ -514,51 +559,31 @@ Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario conn
 									</gmd:date>
 								</gmd:CI_Citation>
 							</gmd:specification>
-							<gmd:explanation>
-								<gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>
-							</gmd:explanation>
-							<gmd:pass/>
+               <gmd:explanation xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Refer to the specifications shown</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:explanation>							
+							<gmd:pass gco:nilReason="unknown"/>
 						</gmd:DQ_ConformanceResult>
 					</gmd:result>
 				</gmd:DQ_DomainConsistency>
 			</gmd:report>
-			<gmd:report>
-				<gmd:DQ_DomainConsistency>
-					<gmd:result>
-						<gmd:DQ_ConformanceResult>
-							<gmd:specification>
-								<gmd:CI_Citation>
-									<gmd:title>
-										<gco:CharacterString>INSPIRE Data Specification on Area management/restriction/regulation zones and reporting units - Technical Guidelines</gco:CharacterString>
-									</gmd:title>
-									<gmd:date>
-										<gmd:CI_Date>
-											<gmd:date>
-												<gco:Date>2013-12-10</gco:Date>
-											</gmd:date>
-											<gmd:dateType>
-												<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">pubblicazione</gmd:CI_DateTypeCode>
-											</gmd:dateType>
-										</gmd:CI_Date>
-									</gmd:date>
-								</gmd:CI_Citation>
-							</gmd:specification>
-							<gmd:explanation>
-								<gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>
-							</gmd:explanation>
-							<gmd:pass/>
-						</gmd:DQ_ConformanceResult>
-					</gmd:result>
-				</gmd:DQ_DomainConsistency>
-			</gmd:report>
-			<gmd:lineage>
-				<gmd:LI_Lineage>
-					<gmd:statement>
-						<gco:CharacterString>Il dataset è stato generato dal Dipartimento della protezione civile sulla base delle indicazioni espresse negli allegat 1, 2 e 3 del DPCM 1-3-2020. Per aderire alle indicazioni delle Specifiche sui dati per il tema &quot;Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati&quot; il Dipartimento ha provveduto ad effettuare le necessarie trasformazioni.
-Gran parte delle geometrie degli oggetti spaziali è stata derivata da quelle dei poligoni delle unità amministrative ISTAT (aggiornamento 2019).</gco:CharacterString>
-					</gmd:statement>
-				</gmd:LI_Lineage>
-			</gmd:lineage>
+         <gmd:lineage>
+            <gmd:LI_Lineage>
+               <gmd:statement xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Il dataset è stato generato dal Dipartimento della protezione civile sulla base delle indicazioni espresse nell'art.1 del DPCM 10.4.2020. Per aderire alle indicazioni delle Specifiche sui dati per il tema Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati, il Dipartimento ha provveduto ad effettuare le necessarie trasformazioni.Il dataset contiene tutte le aree create dai diversi dispositivi giuridici che man mano sono stati predisposti per la gestione dell'emergenza. Mediante apposite query è possibile ricavare quello vigente. A questo proposito si fa presente che il comma 1 dell'art.7 recita: Le disposizioni del presente  decreto  producono  effetto  dalla data del 14 aprile 2020 e sono efficaci fino al 3 maggio 2020. La geometria degli oggetti spaziali è stata derivata da quella dei poligoni delle unità amministrative ISTAT (aggiornamento 2020).</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">The dataset was generated by the Civil Protection Department on the basis of the indications expressed in art.1 of the DPCM 10.4.2020. To comply with the indications of the Data Specifications for the subject Areas subject to management / limitations / regulation and units with the obligation to communicate data, the Department has carried out the necessary transformations. The dataset contains all the areas created by the different legal devices that hand have been prepared for emergency management. By using specific queries it is possible to obtain the current one. In this regard, it should be noted that paragraph 1 of article 7 reads: The provisions of this decree take effect from the date of April 14, 2020 and are effective until May 3, 2020. The geometry of the spatial objects was derived from that of the polygons of the ISTAT administrative units (update 2020).</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:statement>
+            </gmd:LI_Lineage>
+         </gmd:lineage>
 		</gmd:DQ_DataQuality>
 	</gmd:dataQualityInfo>
 </gmd:MD_Metadata>

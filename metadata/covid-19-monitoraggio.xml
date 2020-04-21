@@ -1,491 +1,557 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<gmd:fileIdentifier>
-		<gco:CharacterString>PCM:COVID-19:05032020:093000</gco:CharacterString>
-	</gmd:fileIdentifier>
-	<gmd:language>
-		<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#LanguageCode" codeListValue="ita">ita</gmd:LanguageCode>
-	</gmd:language>
-	<gmd:characterSet>
-		<gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
-	</gmd:characterSet>
-	<gmd:parentIdentifier>
-		<gco:CharacterString>PCM:COVID-19:05032020:093000</gco:CharacterString>
-	</gmd:parentIdentifier>
-	<gmd:hierarchyLevel>
-		<gmd:MD_ScopeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="series">series</gmd:MD_ScopeCode>
-	</gmd:hierarchyLevel>
-	<gmd:contact>
-		<gmd:CI_ResponsibleParty>
-			<gmd:organisationName>
-				<gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-			</gmd:organisationName>
-			<gmd:contactInfo>
-				<gmd:CI_Contact>
-					<gmd:phone>
-						<gmd:CI_Telephone>
-							<gmd:voice>
-								<gco:CharacterString>06-68202926</gco:CharacterString>
-							</gmd:voice>
-						</gmd:CI_Telephone>
-					</gmd:phone>
-					<gmd:address>
-						<gmd:CI_Address>
-							<gmd:electronicMailAddress>
-								<gco:CharacterString>sisterritoriale@protezionecivile.it</gco:CharacterString>
-							</gmd:electronicMailAddress>
-						</gmd:CI_Address>
-					</gmd:address>
-					<gmd:onlineResource>
-						<gmd:CI_OnlineResource>
-							<gmd:linkage>
-								<gmd:URL>www.protezionecivile.gov.it</gmd:URL>
-							</gmd:linkage>
-						</gmd:CI_OnlineResource>
-					</gmd:onlineResource>
-				</gmd:CI_Contact>
-			</gmd:contactInfo>
-			<gmd:role>
-				<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
-			</gmd:role>
-		</gmd:CI_ResponsibleParty>
-	</gmd:contact>
-	<gmd:dateStamp>
-		<gco:Date>2020-03-05</gco:Date>
-	</gmd:dateStamp>
-	<gmd:metadataStandardName>
-		<gco:CharacterString>DM - Regole tecniche RNDT</gco:CharacterString>
-	</gmd:metadataStandardName>
-	<gmd:metadataStandardVersion>
-		<gco:CharacterString>10 novembre 2011</gco:CharacterString>
-	</gmd:metadataStandardVersion>
-	<gmd:referenceSystemInfo>
-		<gmd:MD_ReferenceSystem>
-			<gmd:referenceSystemIdentifier>
-				<gmd:RS_Identifier>
-					<gmd:code>
-						<gco:CharacterString>ETRS89</gco:CharacterString>
-					</gmd:code>
-				</gmd:RS_Identifier>
-			</gmd:referenceSystemIdentifier>
-		</gmd:MD_ReferenceSystem>
-	</gmd:referenceSystemInfo>
-	<gmd:identificationInfo>
-		<gmd:MD_DataIdentification>
-			<gmd:citation>
-				<gmd:CI_Citation>
-					<gmd:title>
-						<gco:CharacterString>COVID-19 Monitoraggio situazione Italia</gco:CharacterString>
-					</gmd:title>
-					<gmd:date>
-						<gmd:CI_Date>
-							<gmd:date>
-								<gco:Date>2020-03-06</gco:Date>
-							</gmd:date>
-							<gmd:dateType>
-								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-							</gmd:dateType>
-						</gmd:CI_Date>
-					</gmd:date>
-					<gmd:identifier>
-						<gmd:MD_Identifier>
-							<gmd:code>
-								<gco:CharacterString>PCM:COVID-19</gco:CharacterString>
-							</gmd:code>
-						</gmd:MD_Identifier>
-					</gmd:identifier>
-					<gmd:citedResponsibleParty>
-						<gmd:CI_ResponsibleParty>
-							<gmd:organisationName>
-								<gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-							</gmd:organisationName>
-							<gmd:contactInfo>
-								<gmd:CI_Contact>
-									<gmd:phone>
-										<gmd:CI_Telephone>
-											<gmd:voice>
-												<gco:CharacterString>06-68202926</gco:CharacterString>
-											</gmd:voice>
-										</gmd:CI_Telephone>
-									</gmd:phone>
-									<gmd:address>
-										<gmd:CI_Address>
-											<gmd:electronicMailAddress>
-												<gco:CharacterString>sisterritoriale@protezionecivile.it</gco:CharacterString>
-											</gmd:electronicMailAddress>
-										</gmd:CI_Address>
-									</gmd:address>
-									<gmd:onlineResource>
-										<gmd:CI_OnlineResource>
-											<gmd:linkage>
-												<gmd:URL>www.protezionecivile.gov.it</gmd:URL>
-											</gmd:linkage>
-										</gmd:CI_OnlineResource>
-									</gmd:onlineResource>
-								</gmd:CI_Contact>
-							</gmd:contactInfo>
-							<gmd:role>
-								<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
-							</gmd:role>
-						</gmd:CI_ResponsibleParty>
-					</gmd:citedResponsibleParty>
-					<gmd:presentationForm>
-						<gmd:CI_PresentationFormCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="tableDigital">tableDigital</gmd:CI_PresentationFormCode>
-					</gmd:presentationForm>
-					<gmd:series>
-						<gmd:CI_Series>
-							<gmd:issueIdentification>
-								<gco:CharacterString>PCM:COVID-19</gco:CharacterString>
-							</gmd:issueIdentification>
-						</gmd:CI_Series>
-					</gmd:series>
-					<gmd:otherCitationDetails>
-						<gco:CharacterString>DELIBERA DEL CONSIGLIO DEI MINISTRI 31 gennaio 2020  Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario connesso all&apos;insorgenza di patologie derivanti da agenti virali trasmissibili.(GU Serie Generale n.26 del 01-02-2020)</gco:CharacterString>
-					</gmd:otherCitationDetails>
-				</gmd:CI_Citation>
-			</gmd:citation>
-			<gmd:abstract>
-				<gco:CharacterString>Riepilogo nazionale quotidiano del monitoraggio sanitario che descrive il quadro riepilogativo della situazione relativo alla stato di evoluzione dell&apos;infezione da Coronavirus (COVID-19).</gco:CharacterString>
-			</gmd:abstract>
-			<gmd:pointOfContact>
-				<gmd:CI_ResponsibleParty>
-					<gmd:organisationName>
-						<gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-					</gmd:organisationName>
-					<gmd:contactInfo>
-						<gmd:CI_Contact>
-							<gmd:phone>
-								<gmd:CI_Telephone>
-									<gmd:voice>
-										<gco:CharacterString>06-68202926</gco:CharacterString>
-									</gmd:voice>
-								</gmd:CI_Telephone>
-							</gmd:phone>
-							<gmd:address>
-								<gmd:CI_Address>
-									<gmd:electronicMailAddress>
-										<gco:CharacterString>sisterritoriale@protezionecivile.it</gco:CharacterString>
-									</gmd:electronicMailAddress>
-								</gmd:CI_Address>
-							</gmd:address>
-							<gmd:onlineResource>
-								<gmd:CI_OnlineResource>
-									<gmd:linkage>
-										<gmd:URL>www.protezionecivile.gov.it</gmd:URL>
-									</gmd:linkage>
-								</gmd:CI_OnlineResource>
-							</gmd:onlineResource>
-						</gmd:CI_Contact>
-					</gmd:contactInfo>
-					<gmd:role>
-						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
-					</gmd:role>
-				</gmd:CI_ResponsibleParty>
-			</gmd:pointOfContact>
-			<gmd:resourceMaintenance>
-				<gmd:MD_MaintenanceInformation>
-					<gmd:maintenanceAndUpdateFrequency>
-						<gmd:MD_MaintenanceFrequencyCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="daily">daily</gmd:MD_MaintenanceFrequencyCode>
-					</gmd:maintenanceAndUpdateFrequency>
-				</gmd:MD_MaintenanceInformation>
-			</gmd:resourceMaintenance>
-			<gmd:descriptiveKeywords>
-				<gmd:MD_Keywords>
-					<gmd:keyword>
-						<gco:CharacterString>Salute umana e sicurezza</gco:CharacterString>
-					</gmd:keyword>
-					<gmd:thesaurusName>
-						<gmd:CI_Citation>
-							<gmd:title>
-								<gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
-							</gmd:title>
-							<gmd:date>
-								<gmd:CI_Date>
-									<gmd:date>
-										<gco:Date>2008-06-01</gco:Date>
-									</gmd:date>
-									<gmd:dateType>
-										<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-									</gmd:dateType>
-								</gmd:CI_Date>
-							</gmd:date>
-						</gmd:CI_Citation>
-					</gmd:thesaurusName>
-				</gmd:MD_Keywords>
-			</gmd:descriptiveKeywords>
-			<gmd:descriptiveKeywords>
-				<gmd:MD_Keywords>
-					<gmd:keyword>
-						<gco:CharacterString>salute umana</gco:CharacterString>
-					</gmd:keyword>
-					<gmd:keyword>
-						<gco:CharacterString>virus</gco:CharacterString>
-					</gmd:keyword>
-					<gmd:thesaurusName>
-						<gmd:CI_Citation>
-							<gmd:title>
-								<gco:CharacterString>GEMET - Concepts, version 2.4</gco:CharacterString>
-							</gmd:title>
-							<gmd:date>
-								<gmd:CI_Date>
-									<gmd:date>
-										<gco:Date>2010-01-13</gco:Date>
-									</gmd:date>
-									<gmd:dateType>
-										<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-									</gmd:dateType>
-								</gmd:CI_Date>
-							</gmd:date>
-						</gmd:CI_Citation>
-					</gmd:thesaurusName>
-				</gmd:MD_Keywords>
-			</gmd:descriptiveKeywords>
-			<gmd:descriptiveKeywords>
-				<gmd:MD_Keywords>
-					<gmd:keyword>
-						<gco:CharacterString>COVID-19</gco:CharacterString>
-					</gmd:keyword>
-				</gmd:MD_Keywords>
-			</gmd:descriptiveKeywords>
-			<gmd:resourceConstraints>
-				<gmd:MD_SecurityConstraints>
-					<gmd:classification>
-						<gmd:MD_ClassificationCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
-					</gmd:classification>
-				</gmd:MD_SecurityConstraints>
-			</gmd:resourceConstraints>
-			<gmd:resourceConstraints>
-				<gmd:MD_Constraints>
-					<gmd:useLimitation>
-						<gco:CharacterString>http://dati.protezionecivile.it/Download/Licenze/CC_Attribution_4.0_International_COVID19.zip</gco:CharacterString>
-					</gmd:useLimitation>
-				</gmd:MD_Constraints>
-			</gmd:resourceConstraints>
-			<gmd:resourceConstraints>
-				<gmd:MD_LegalConstraints>
-					<gmd:accessConstraints>
-						<gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
-					</gmd:accessConstraints>
-					<gmd:useConstraints>
-						<gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
-					</gmd:useConstraints>
-				</gmd:MD_LegalConstraints>
-			</gmd:resourceConstraints>
-			<gmd:spatialRepresentationType>
-				<gmd:MD_SpatialRepresentationTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="textTable">textTable</gmd:MD_SpatialRepresentationTypeCode>
-			</gmd:spatialRepresentationType>
-			<gmd:spatialResolution>
-				<gmd:MD_Resolution>
-					<gmd:equivalentScale>
-						<gmd:MD_RepresentativeFraction>
-							<gmd:denominator>
-								<gco:Integer>500000</gco:Integer>
-							</gmd:denominator>
-						</gmd:MD_RepresentativeFraction>
-					</gmd:equivalentScale>
-				</gmd:MD_Resolution>
-			</gmd:spatialResolution>
-			<gmd:language>
-				<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#LanguageCode" codeListValue="ita">ita</gmd:LanguageCode>
-			</gmd:language>
-			<gmd:characterSet>
-				<gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
-			</gmd:characterSet>
-			<gmd:topicCategory>
-				<gmd:MD_TopicCategoryCode>health</gmd:MD_TopicCategoryCode>
-			</gmd:topicCategory>
-			<gmd:extent>
-				<gmd:EX_Extent>
-					<gmd:geographicElement>
-						<gmd:EX_GeographicBoundingBox>
-							<gmd:westBoundLongitude>
-								<gco:Decimal>5.8466</gco:Decimal>
-							</gmd:westBoundLongitude>
-							<gmd:eastBoundLongitude>
-								<gco:Decimal>19.5511</gco:Decimal>
-							</gmd:eastBoundLongitude>
-							<gmd:southBoundLatitude>
-								<gco:Decimal>35.677</gco:Decimal>
-							</gmd:southBoundLatitude>
-							<gmd:northBoundLatitude>
-								<gco:Decimal>48.0008</gco:Decimal>
-							</gmd:northBoundLatitude>
-						</gmd:EX_GeographicBoundingBox>
-					</gmd:geographicElement>
-				</gmd:EX_Extent>
-			</gmd:extent>
-			<gmd:supplementalInformation>
-				<gco:CharacterString>Nome campo	Descrizione
-data	Data dell’informazione
-stato	Stato di riferimento
-codice_regione	Codice della Regione (ISTAT 2019)
-denominazione_regione	Denominazione della Regione
-lat	Latitudine
-long	Longitudine
-ricoverati_con_sintomi	Ricoverati con sintomi
-terapia_intensiva	Ricoverati in terapia intensiva
-totale_ospedalizzati	Totale ospedalizzati
-isolamento_domiciliare	Persone in isolamento domiciliare
-totale_attualmente_positivi	Totale attualmente positivi
-dimessi_guariti	Persone dimesse guarite
-deceduti	Persone decedute
-totale_casi	Totale casi positivi
-tamponi	Totale tamponi</gco:CharacterString>
-			</gmd:supplementalInformation>
-		</gmd:MD_DataIdentification>
-	</gmd:identificationInfo>
-	<gmd:distributionInfo>
-		<gmd:MD_Distribution>
-			<gmd:distributionFormat>
-				<gmd:MD_Format>
-					<gmd:name>
-						<gco:CharacterString>csv</gco:CharacterString>
-					</gmd:name>
-					<gmd:version>
-						<gco:CharacterString>comma separated value</gco:CharacterString>
-					</gmd:version>
-				</gmd:MD_Format>
-			</gmd:distributionFormat>
-			<gmd:distributor>
-				<gmd:MD_Distributor>
-					<gmd:distributorContact>
-						<gmd:CI_ResponsibleParty>
-							<gmd:organisationName>
-								<gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-							</gmd:organisationName>
-							<gmd:contactInfo>
-								<gmd:CI_Contact>
-									<gmd:phone>
-										<gmd:CI_Telephone>
-											<gmd:voice>
-												<gco:CharacterString>06-68202926</gco:CharacterString>
-											</gmd:voice>
-										</gmd:CI_Telephone>
-									</gmd:phone>
-									<gmd:address>
-										<gmd:CI_Address>
-											<gmd:electronicMailAddress>
-												<gco:CharacterString>redazione@protezionecivile.it</gco:CharacterString>
-											</gmd:electronicMailAddress>
-										</gmd:CI_Address>
-									</gmd:address>
-									<gmd:onlineResource>
-										<gmd:CI_OnlineResource>
-											<gmd:linkage>
-												<gmd:URL>www.protezionecivile.gov.it</gmd:URL>
-											</gmd:linkage>
-										</gmd:CI_OnlineResource>
-									</gmd:onlineResource>
-								</gmd:CI_Contact>
-							</gmd:contactInfo>
-							<gmd:role>
-								<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
-							</gmd:role>
-						</gmd:CI_ResponsibleParty>
-					</gmd:distributorContact>
-				</gmd:MD_Distributor>
-			</gmd:distributor>
-			<gmd:transferOptions>
-				<gmd:MD_DigitalTransferOptions>
-					<gmd:onLine>
-						<gmd:CI_OnlineResource>
-							<gmd:linkage>
-								<gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni</gmd:URL>
-							</gmd:linkage>
-						</gmd:CI_OnlineResource>
-					</gmd:onLine>
-				</gmd:MD_DigitalTransferOptions>
-			</gmd:transferOptions>
-			<gmd:transferOptions>
-				<gmd:MD_DigitalTransferOptions>
-					<gmd:onLine>
-						<gmd:CI_OnlineResource>
-							<gmd:linkage>
-								<gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/dati-province</gmd:URL>
-							</gmd:linkage>
-						</gmd:CI_OnlineResource>
-					</gmd:onLine>
-				</gmd:MD_DigitalTransferOptions>
-			</gmd:transferOptions>
-			<gmd:transferOptions>
-				<gmd:MD_DigitalTransferOptions>
-					<gmd:onLine>
-						<gmd:CI_OnlineResource>
-							<gmd:linkage>
-								<gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale</gmd:URL>
-							</gmd:linkage>
-						</gmd:CI_OnlineResource>
-					</gmd:onLine>
-				</gmd:MD_DigitalTransferOptions>
-			</gmd:transferOptions>
-		</gmd:MD_Distribution>
-	</gmd:distributionInfo>
-	<gmd:dataQualityInfo>
-		<gmd:DQ_DataQuality>
-			<gmd:scope>
-				<gmd:DQ_Scope>
-					<gmd:level>
-						<gmd:MD_ScopeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="series">series</gmd:MD_ScopeCode>
-					</gmd:level>
-				</gmd:DQ_Scope>
-			</gmd:scope>
-			<gmd:report>
-				<gmd:DQ_AbsoluteExternalPositionalAccuracy>
-					<gmd:result>
-						<gmd:DQ_QuantitativeResult>
-							<gmd:valueUnit>
-								<gml:BaseUnit gml:id="m">
-									<gml:identifier codeSpace="http://www.bipm.org/en/si/base_units">m</gml:identifier>
-									<gml:unitsSystem xlink:href="http://www.bipm.org/en/si"/>
-								</gml:BaseUnit>
-							</gmd:valueUnit>
-							<gmd:value>
-								<gco:Record>
-									<gco:Real>100000</gco:Real>
-								</gco:Record>
-							</gmd:value>
-						</gmd:DQ_QuantitativeResult>
-					</gmd:result>
-				</gmd:DQ_AbsoluteExternalPositionalAccuracy>
-			</gmd:report>
-			<gmd:report>
-				<gmd:DQ_DomainConsistency>
-					<gmd:result>
-						<gmd:DQ_ConformanceResult>
-							<gmd:specification>
-								<gmd:CI_Citation>
-									<gmd:title>
-										<gco:CharacterString>REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l&apos;interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gco:CharacterString>
-									</gmd:title>
-									<gmd:date>
-										<gmd:CI_Date>
-											<gmd:date>
-												<gco:Date>2010-12-08</gco:Date>
-											</gmd:date>
-											<gmd:dateType>
-												<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">pubblicazione</gmd:CI_DateTypeCode>
-											</gmd:dateType>
-										</gmd:CI_Date>
-									</gmd:date>
-								</gmd:CI_Citation>
-							</gmd:specification>
-							<gmd:explanation>
-								<gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>
-							</gmd:explanation>
-							<gmd:pass/>
-						</gmd:DQ_ConformanceResult>
-					</gmd:result>
-				</gmd:DQ_DomainConsistency>
-			</gmd:report>
-			<gmd:lineage>
-				<gmd:LI_Lineage>
-					<gmd:statement>
-						<gco:CharacterString>Per il tramite del Comitato Operativo della protezione civile e in raccordo con il Ministero della Saluta viene effettuato giornalmente il monitoraggio della situazione e della sua evoluzione in previsione della comunicazione ufficiale tramite conferenza stampa alle ore 18.00 da parte del Capo del Dipartimento della protezione civile in qualità di Commissario  straordinario.
-A livello regionale, presso l&apos;UInità di crisi regionale e in stretto raccordo con la SOR - Sala Operativa Regionale ove c&apos;è la partecipazione del Referente Sanitario Regionale che, a sua volta, opera in raccordo con il Direttore sanitario delle aziende sanitarie locali e in contatto costante con un rappresentante della Prefettura Capoluogo per garantire il raccordo con le altre prefetture UTG del territorio regionale, viene effettuato il monitoraggio ai fini della comunicazione al livello nazionale.</gco:CharacterString>
-					</gmd:statement>
-				</gmd:LI_Lineage>
-			</gmd:lineage>
-		</gmd:DQ_DataQuality>
-	</gmd:dataQualityInfo>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns="http://www.isotc211.org/2005/gmd" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gfc="http://www.isotc211.org/2005/gfc" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:ogc="http://www.opengis.net/ogc" xmlns:ows="http://www.opengis.net/ows" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+   <gmd:fileIdentifier xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:CharacterString>PCM:COVID-19:05032020:093000</gco:CharacterString>
+   </gmd:fileIdentifier>
+   <gmd:language>
+      <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="ita">ita</gmd:LanguageCode>
+   </gmd:language>
+   <gmd:characterSet xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+   </gmd:characterSet>
+   <gmd:parentIdentifier xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:CharacterString>PCM:COVID-19:05032020:093000</gco:CharacterString>
+   </gmd:parentIdentifier>
+   <gmd:hierarchyLevel xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="series" codeSpace="ISOTC211/19115">series</gmd:MD_ScopeCode>
+   </gmd:hierarchyLevel>
+   <gmd:contact xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:CI_ResponsibleParty>
+         <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+            <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+           <gmd:PT_FreeText>
+              <gmd:textGroup>
+                 <gmd:LocalisedCharacterString locale="#locale-en">PCM - Civil Protection Department</gmd:LocalisedCharacterString>
+              </gmd:textGroup>
+           </gmd:PT_FreeText>
+		 </gmd:organisationName>
+         <gmd:contactInfo>
+            <gmd:CI_Contact>
+               <gmd:address>
+                  <gmd:CI_Address>
+                     <gmd:electronicMailAddress>
+                        <gco:CharacterString>sisterritoriale@protezionecivile.it</gco:CharacterString>
+                     </gmd:electronicMailAddress>
+                  </gmd:CI_Address>
+               </gmd:address>
+               <gmd:onlineResource>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>www.protezionecivile.gov.it</gmd:URL>
+                     </gmd:linkage>
+                  </gmd:CI_OnlineResource>
+               </gmd:onlineResource>
+            </gmd:CI_Contact>
+         </gmd:contactInfo>
+         <gmd:role>
+            <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+         </gmd:role>
+      </gmd:CI_ResponsibleParty>
+   </gmd:contact>
+   <gmd:dateStamp xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:Date>2020-03-05</gco:Date>
+   </gmd:dateStamp>
+   <gmd:metadataStandardName xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:CharacterString>DM - Regole tecniche RNDT</gco:CharacterString>
+   </gmd:metadataStandardName>
+   <gmd:metadataStandardVersion xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gco:CharacterString>10 novembre 2011</gco:CharacterString>
+   </gmd:metadataStandardVersion>
+   <gmd:locale>
+      <gmd:PT_Locale id="locale-en">
+         <gmd:languageCode>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">English</gmd:LanguageCode>
+         </gmd:languageCode>
+         <gmd:characterEncoding>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterEncoding>
+      </gmd:PT_Locale>
+   </gmd:locale>
+   <gmd:referenceSystemInfo xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_ReferenceSystem>
+         <gmd:referenceSystemIdentifier>
+            <gmd:RS_Identifier>
+               <gmd:code>
+                  <gco:CharacterString>ETRS89</gco:CharacterString>
+               </gmd:code>
+            </gmd:RS_Identifier>
+         </gmd:referenceSystemIdentifier>
+      </gmd:MD_ReferenceSystem>
+   </gmd:referenceSystemInfo>
+   <gmd:identificationInfo xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_DataIdentification>
+         <gmd:citation>
+            <gmd:CI_Citation>
+               <gmd:title xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>COVID-19 Monitoraggio situazione Italia (RNDT - Serie)</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">COVID-19 Monitoring of Italian situation (RNDT - Series)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:title>
+               <gmd:date>
+                  <gmd:CI_Date>
+                     <gmd:date>
+                        <gco:Date>2020-03-06</gco:Date>
+                     </gmd:date>
+                     <gmd:dateType>
+                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                     </gmd:dateType>
+                  </gmd:CI_Date>
+               </gmd:date>
+               <gmd:identifier>
+                  <gmd:MD_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>PCM:COVID-19</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:MD_Identifier>
+               </gmd:identifier>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">PCM - Civil Protection Department</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>sisterritoriale@protezionecivile.it</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>www.protezionecivile.gov.it</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="owner" codeSpace="ISOTC211/19115">owner</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:citedResponsibleParty>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>Soggetto attuatore MinSalute DCDPC n.4141 del 7.2.2020</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">Implementing body MinSalute DCDPC n.4141 of 7.2.2020</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>seggen@postacert.sanita.it</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.salute.gov.it/portale/home.html</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:citedResponsibleParty>
+               <gmd:presentationForm>
+                  <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="tableDigital" codeSpace="ISOTC211/19115">tableDigital</gmd:CI_PresentationFormCode>
+               </gmd:presentationForm>
+               <gmd:series>
+                  <gmd:CI_Series>
+                     <gmd:issueIdentification>
+                        <gco:CharacterString>PCM:COVID-19</gco:CharacterString>
+                     </gmd:issueIdentification>
+                  </gmd:CI_Series>
+               </gmd:series>
+               <gmd:otherCitationDetails xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>DELIBERA DEL CONSIGLIO DEI MINISTRI 31 gennaio 2020 Dichiarazione dello stato di emergenza in conseguenza del rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili.(GU Serie Generale n.26 del 01-02-2020)</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">RESOLUTION OF THE COUNCIL OF MINISTERS 31 January 2020 Declaration of the state of emergency as a consequence of the health risk associated with the onset of pathologies deriving from viral transmissible agents (OJ General Series n.26 of 01-02-2020)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:otherCitationDetails>
+            </gmd:CI_Citation>
+         </gmd:citation>
+         <gmd:abstract xsi:type="PT_FreeText_PropertyType">
+            <gco:CharacterString>Riepilogo nazionale quotidiano del monitoraggio sanitario che descrive il quadro riepilogativo della situazione relativo alla stato di evoluzione dell'infezione da Coronavirus (COVID-19).</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#locale-en">Daily national summary of health monitoring which describes the summary of the situation relating to the state of evolution of Coronavirus infection (COVID-19).</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:abstract>
+         <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">PCM - Civil Protection Department</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>sisterritoriale@protezionecivile.it</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>www.protezionecivile.gov.it</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:pointOfContact>
+         <gmd:resourceMaintenance>
+            <gmd:MD_MaintenanceInformation>
+               <gmd:maintenanceAndUpdateFrequency>
+                  <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="daily" codeSpace="ISOTC211/19115">daily</gmd:MD_MaintenanceFrequencyCode>
+               </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+         </gmd:resourceMaintenance>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Salute umana e sicurezza</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Human health and safety</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:thesaurusName>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2008-06-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                  </gmd:CI_Citation>
+               </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>salute umana</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Human health</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>virus</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:thesaurusName>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>GEMET - Concepts, version 2.4</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2010-01-13</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                  </gmd:CI_Citation>
+               </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+               <gmd:keyword>
+                  <gco:CharacterString>COVID-19</gco:CharacterString>
+               </gmd:keyword>
+               <gmd:keyword>
+                  <gco:CharacterString>open data</gco:CharacterString>
+               </gmd:keyword>
+            </gmd:MD_Keywords>
+         </gmd:descriptiveKeywords>
+         <gmd:resourceConstraints>
+            <gmd:MD_SecurityConstraints>
+               <gmd:classification>
+                  <gmd:MD_ClassificationCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
+               </gmd:classification>
+            </gmd:MD_SecurityConstraints>
+         </gmd:resourceConstraints>
+         <gmd:resourceConstraints>
+            <gmd:MD_Constraints>
+               <gmd:useLimitation>
+                  <gco:CharacterString>http://creativecommons.org/licenses/by/4.0/</gco:CharacterString>
+               </gmd:useLimitation>
+            </gmd:MD_Constraints>
+         </gmd:resourceConstraints>
+         <gmd:resourceConstraints>
+            <gmd:MD_LegalConstraints>
+               <gmd:accessConstraints>
+                  <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+               </gmd:accessConstraints>
+               <gmd:useConstraints>
+                  <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+               </gmd:useConstraints>
+            </gmd:MD_LegalConstraints>
+         </gmd:resourceConstraints>
+         <gmd:spatialRepresentationType>
+            <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="textTable" codeSpace="ISOTC211/19115">textTable</gmd:MD_SpatialRepresentationTypeCode>
+         </gmd:spatialRepresentationType>
+         <gmd:spatialResolution>
+            <gmd:MD_Resolution>
+               <gmd:equivalentScale>
+                  <gmd:MD_RepresentativeFraction>
+                     <gmd:denominator>
+                        <gco:Integer>500000</gco:Integer>
+                     </gmd:denominator>
+                  </gmd:MD_RepresentativeFraction>
+               </gmd:equivalentScale>
+            </gmd:MD_Resolution>
+         </gmd:spatialResolution>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="ita">ita</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterSet>
+         <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>health</gmd:MD_TopicCategoryCode>
+         </gmd:topicCategory>
+         <gmd:extent>
+            <gmd:EX_Extent>
+               <gmd:geographicElement>
+                  <gmd:EX_GeographicBoundingBox>
+                     <gmd:westBoundLongitude>
+                        <gco:Decimal>5.8466</gco:Decimal>
+                     </gmd:westBoundLongitude>
+                     <gmd:eastBoundLongitude>
+                        <gco:Decimal>19.5511</gco:Decimal>
+                     </gmd:eastBoundLongitude>
+                     <gmd:southBoundLatitude>
+                        <gco:Decimal>35.677</gco:Decimal>
+                     </gmd:southBoundLatitude>
+                     <gmd:northBoundLatitude>
+                        <gco:Decimal>48.0008</gco:Decimal>
+                     </gmd:northBoundLatitude>
+                  </gmd:EX_GeographicBoundingBox>
+               </gmd:geographicElement>
+            </gmd:EX_Extent>
+         </gmd:extent>
+         <gmd:supplementalInformation xsi:type="PT_FreeText_PropertyType">
+            <gco:CharacterString>Nome campo Descrizionedata Data dell’informazionestato Stato di riferimentocodice_regione Codice della Regione (ISTAT 2019)denominazione_regione Denominazione della Regionelat Latitudinelong Longitudinericoverati_con_sintomi Ricoverati con sintomiterapia_intensiva Ricoverati in terapia intensivatotale_ospedalizzati Totale ospedalizzatiisolamento_domiciliare Persone in isolamento domiciliaretotale_attualmente_positivi Totale attualmente positividimessi_guariti Persone dimesse guaritedeceduti Persone decedutetotale_casi Totale casi positivitamponi Totale tamponi</gco:CharacterString>
+            <gmd:PT_FreeText>
+               <gmd:textGroup>
+                  <gmd:LocalisedCharacterString locale="#locale-en">Field name Description: DATE Date of the information STATE Nation CODE_REGION Region code (ISTAT 2019) DENOMINATION_REGION Region name LAT Latitude LONG Longitude HOSPITALIZED_WITH_SYMPTOMS People hospitalized with symptoms INTENSIVE THERAPY People hospitalized in total intensive care unit HOSPITALIZED TOTAL People hospitalized plus people hospitalized in total intensive care unit INSULATION HOME CARE People in total home isolation_CURRENTLY POSITIVE Total currently positive DISCHARGED PERSONS People discharged and/or healed DECEASED People deceased TOTAL_CASES Total positive cases SWABS Total swabs</gmd:LocalisedCharacterString>
+               </gmd:textGroup>
+            </gmd:PT_FreeText>
+         </gmd:supplementalInformation>
+      </gmd:MD_DataIdentification>
+   </gmd:identificationInfo>
+   <gmd:distributionInfo xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:MD_Distribution>
+         <gmd:distributionFormat>
+            <gmd:MD_Format>
+               <gmd:name>
+                  <gco:CharacterString>csv</gco:CharacterString>
+               </gmd:name>
+               <gmd:version>
+                  <gco:CharacterString>comma separated value</gco:CharacterString>
+               </gmd:version>
+            </gmd:MD_Format>
+         </gmd:distributionFormat>
+         <gmd:distributor>
+            <gmd:MD_Distributor>
+               <gmd:distributorContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-en">PCM - Civil Protection Department</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>						
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>redazione@protezionecivile.it</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>www.protezionecivile.gov.it</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:distributorContact>
+            </gmd:MD_Distributor>
+         </gmd:distributor>
+         <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni</gmd:URL>
+                     </gmd:linkage>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+         </gmd:transferOptions>
+         <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/dati-province</gmd:URL>
+                     </gmd:linkage>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+         </gmd:transferOptions>
+         <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+               <gmd:onLine>
+                  <gmd:CI_OnlineResource>
+                     <gmd:linkage>
+                        <gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale</gmd:URL>
+                     </gmd:linkage>
+                  </gmd:CI_OnlineResource>
+               </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+         </gmd:transferOptions>
+      </gmd:MD_Distribution>
+   </gmd:distributionInfo>
+   <gmd:dataQualityInfo xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
+      <gmd:DQ_DataQuality>
+         <gmd:scope>
+            <gmd:DQ_Scope>
+               <gmd:level>
+                  <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="series" codeSpace="ISOTC211/19115">series</gmd:MD_ScopeCode>
+               </gmd:level>
+            </gmd:DQ_Scope>
+         </gmd:scope>
+         <gmd:report>
+            <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+               <gmd:result>
+                  <gmd:DQ_QuantitativeResult>
+                     <gmd:valueUnit>
+                        <gml:BaseUnit gml:id="m">
+                           <gml:identifier codeSpace="http://www.bipm.org/en/si/base_units">m</gml:identifier>
+                           <gml:unitsSystem xlink:href="http://www.bipm.org/en/si" />
+                        </gml:BaseUnit>
+                     </gmd:valueUnit>
+                     <gmd:value>
+                        <gco:Record>
+                           <gco:Real>100000</gco:Real>
+                        </gco:Record>
+                     </gmd:value>
+                  </gmd:DQ_QuantitativeResult>
+               </gmd:result>
+            </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+         </gmd:report>
+         <gmd:report>
+            <gmd:DQ_DomainConsistency>
+               <gmd:result>
+                  <gmd:DQ_ConformanceResult>
+                     <gmd:specification>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="PT_FreeText_PropertyType">
+                              <gco:CharacterString>REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l'interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-en">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2010-12-08</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">pubblicazione</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:specification>
+                     <gmd:explanation xsi:type="PT_FreeText_PropertyType">
+                        <gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>
+						        <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-en">Refer to the specification</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                     </gmd:explanation>
+                     <gmd:pass gco:nilReason="unknown" />
+                  </gmd:DQ_ConformanceResult>
+               </gmd:result>
+            </gmd:DQ_DomainConsistency>
+         </gmd:report>
+         <gmd:lineage>
+            <gmd:LI_Lineage>
+               <gmd:statement xsi:type="PT_FreeText_PropertyType">
+                  <gco:CharacterString>Per il tramite del Comitato Operativo della protezione civile e in raccordo con il Ministero della Saluta viene effettuato giornalmente il monitoraggio della situazione e della sua evoluzione in previsione della comunicazione ufficiale tramite conferenza stampa alle ore 18.00 da parte del Capo del Dipartimento della protezione civile in qualità di Commissario straordinario.A livello regionale, presso l'UInità di crisi regionale e in stretto raccordo con la SOR - Sala Operativa Regionale ove c'è la partecipazione del Referente Sanitario Regionale che, a sua volta, opera in raccordo con il Direttore sanitario delle aziende sanitarie locali e in contatto costante con un rappresentante della Prefettura Capoluogo per garantire il raccordo con le altre prefetture UTG del territorio regionale, viene effettuato il monitoraggio ai fini della comunicazione al livello nazionale.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-en">The Head of the Department of Civil Protection carries out daily the official communication regarding  monitoring of the situation about covid19 and its evolution via press conference at 18.00. The information come through the Civil Protection Operational Committee and in liaison with the Ministry of Health. At the regional level the information are collected by the Regional Crisis Unit in close connection with the SORs - Regional Operating Room. In the SORs there is the participation of the Regional Health Referent who, in turn, works in conjunction with the Health Director of the local health companies and in constant contact with a representative of the Capital Prefecture to guarantee the link with the other prefectures of the regional territory. The monitoring at regional level is carried out for the purpose of communication at the national level.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:statement>
+            </gmd:LI_Lineage>
+         </gmd:lineage>
+      </gmd:DQ_DataQuality>
+   </gmd:dataQualityInfo>
 </gmd:MD_Metadata>
-

@@ -4,8 +4,8 @@ All changes to the project, new features and information are documented in this 
 
 ## 2020-03-08
 
-- Modified dataset "dati-andamento-nazionale" by reporting the total data of the Regions
-- Removed directory "shape-aree-contenimento" with "shp" and "geojson"
+- Change: dataset "dati-andamento-nazionale" by reporting the total data of the Regions
+- Removed: directory "shape-aree-contenimento" with "shp" and "geojson"
 
 ## 2020-03-10
 
@@ -13,13 +13,13 @@ All changes to the project, new features and information are documented in this 
 
 ## 2020-03-11
 
-- Trento and Bolzano renamed in "dati-regioni and "dati-province" ("denominazione_regione") to "P.A. Bolzano" and "P.A. Trento"
-- Friuli V. G. renamed in "dati-regioni and "dati-province" ("denominazione_regione") to "Friuli Venezia Giulia"
+- Change: "Bolzano" and "Trento" renamed to "P.A. Bolzano" and "P.A. Trento" in "dati-regioni and "dati-province" ("denominazione_regione")
+- Change: "Friuli V.G." renamed to "Friuli Venezia Giulia" in "dati-regioni and "dati-province" ("denominazione_regione") to "Friuli Venezia Giulia"
 
 ## 2020-03-12
 
-- Add code of conduct in italian language (CODE_OF_CONDUCT.md) and in english language (CODE_OF_CONDUCT_EN.md)
-- Add changelog in italian language (CHANGELOG.md) and in english language (CHANGELOG_EN.md)
+- Add: code of conduct in italian language (CODE_OF_CONDUCT.md) and in english language (CODE_OF_CONDUCT_EN.md)
+- Add: changelog in italian language (CHANGELOG.md) and in english language (CHANGELOG_EN.md)
 - Areas updated according to the new Decree of the President of the Council of Ministers (DPCM) March 11, 2020
 
 ## 2020-03-19
@@ -27,7 +27,32 @@ All changes to the project, new features and information are documented in this 
 - Added latest data (latest) csv, into their respective directory, per national trend (dpc-covid19-ita-andamento-nazionale-latest.csv), regions (dpc-covid19-ita-regioni-latest.csv) and provinces (dpc-covid19-ita-province-latest.csv)
 - Added latest data (latest) json, in data-json directory, for national trend (dpc-covid19-ita-andamento-nazionale-latest.json), regions (dpc-covid19-ita-regioni-latest.json) and provinces ( dpc-covid19-ita-province-latest.json)
 
-## Next updates
+## 2020-03-25
 
 - Date in ISO8601 format UTC
-- Add "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
+- Add: "Note" (Notes) in "dati-regioni", "dati-province" and "dati-andamento-nazionale"
+- Add: "note" dataset
+
+## 2020-03-30
+
+- Change: "totale_attualmente_positivi" renamed to "totale_positivi" (ricoverati_con_sintomi + terapia_intensiva + isolamento domiciliare) in "dati_regioni" and "dati_andamento_nazionale"
+- Change: "nuovi_attualmente_positivi" renamed to "variazione_totale_positivi" (totale_attualmente positivi giorno corrente - totale_attualmente positivi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
+- Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
+- Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
+
+## 2020-04-20
+
+- Add: "casi_testati", total number of people tested from 2020-04-19
+
+##  2020-04-21
+
+- Add: new shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
+
+## Next updated
+
+- API Rest (Json)
+- GraphQL
+
+## hypothesis changes
+
+- Change codice_regione for P.A. Bolzano and P.A. Trento: from 04 to 21 for P.A. Bolzano and from 04 to 22 for P.A. Trento (province code)
