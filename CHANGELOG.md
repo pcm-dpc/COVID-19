@@ -48,6 +48,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni).
 
+## 2020-04-22
+
+- Aggiunta: nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato csv e json.  [link alla dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link al dataset ](avvisi.md)
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json)
