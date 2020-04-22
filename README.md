@@ -18,7 +18,6 @@ Le principali azioni coordinate dal Capo del Dipartimento sono volte al soccorso
 Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi  [http://arcg.is/C1unv](http://arcg.is/C1unv) (versione desktop) e [http://arcg.is/081a51](http://arcg.is/081a51) (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
 
 - Dati Andamento nazionale
-
 - Dati json
 - Dati regioni
 - Dati province
@@ -29,22 +28,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 
 ## Avvisi
 
-```diff
-- 21/04/2020: dati Regione Lombardia parziali (casi testati non aggiornati)
-- 20/04/2020: dati Regione Lombardia ricalcolati (ricalcolo di casi testati - eliminazione duplicati)
-- 15/04/2020: dati Regione Friuli Venezia Giulia ricalcolati (ricalcolo di isolamento domiciliare e dimessi/guariti)
-- 12/04/2020: dati P.A. Bolzano ricalcolati (ricalcolo dati guariti -110 rispetto a ieri)
-- 10/04/2020: dati Regione Molise parziali (dato tamponi non aggiornato)
-- 29/03/2020: dati Regione Emilia-Romagna parziali (dato tamponi non aggiornato)
-- 26/03/2020: dati Regione Piemonte parziali (-50 deceduti - comunicazione tardiva)
-- 18/03/2020: dati Regione Campania non pervenuti
-- 18/03/2020: dati Provincia di Parma non pervenuti
-- 17/03/2020: dati Provincia di Rimini non aggiornati
-- 16/03/2020: dati P.A. Trento e Puglia non pervenuti
-- 11/03/2020: dati Regione Abruzzo non pervenuti
-- 10/03/2020: dati Regione Lombardia parziali
-- 07/03/2020: dati Brescia +300 esiti positivi
-```
+[Avvisi sui dati andamento COVID-19 Italia](avvisi.md)<br>
 
 ## Struttura del repository
 ```
