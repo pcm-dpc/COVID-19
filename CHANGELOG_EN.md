@@ -50,7 +50,7 @@ All changes to the project, new features and information are documented in this 
 
 ## 2020-04-22
 
-- Add: new dataset dpc supplies contracts (contracts and payments) in csv and json format. [link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link to dataset ](avvisi.md)
+- Add: new dataset dpc supplies contracts (contracts and payments) in csv and json format. [link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link to dataset ](https://github.com/pcm-dpc/COVID-19/tree/master/dati-contratti-dpc-forniture)
 
 ## Next updated
 
