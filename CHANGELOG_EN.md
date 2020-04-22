@@ -48,6 +48,10 @@ All changes to the project, new features and information are documented in this 
 
 - Add: new shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
 
+## 2020-04-22
+
+- Add: new dataset dpc supplies contracts (contracts and payments) in csv and json format. [link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link to dataset ](avvisi.md)
+
 ## Next updated
 
 - API Rest (Json)
