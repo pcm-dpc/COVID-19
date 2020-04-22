@@ -1,0 +1,22 @@
+<img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
+
+# Dati COVID-19 Italia
+
+## Avvisi
+
+```diff
+- 21/04/2020: dati Regione Lombardia parziali (casi testati non aggiornati)
+- 20/04/2020: dati Regione Lombardia ricalcolati (ricalcolo di casi testati - eliminazione duplicati)
+- 15/04/2020: dati Regione Friuli Venezia Giulia ricalcolati (ricalcolo di isolamento domiciliare e dimessi/guariti)
+- 12/04/2020: dati P.A. Bolzano ricalcolati (ricalcolo dati guariti -110 rispetto a ieri)
+- 10/04/2020: dati Regione Molise parziali (dato tamponi non aggiornato)
+- 29/03/2020: dati Regione Emilia-Romagna parziali (dato tamponi non aggiornato)
+- 26/03/2020: dati Regione Piemonte parziali (-50 deceduti - comunicazione tardiva)
+- 18/03/2020: dati Regione Campania non pervenuti
+- 18/03/2020: dati Provincia di Parma non pervenuti
+- 17/03/2020: dati Provincia di Rimini non aggiornati
+- 16/03/2020: dati P.A. Trento e Puglia non pervenuti
+- 11/03/2020: dati Regione Abruzzo non pervenuti
+- 10/03/2020: dati Regione Lombardia parziali
+- 07/03/2020: dati Brescia +300 esiti positivi
+```
