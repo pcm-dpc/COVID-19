@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+	<!-- Distribution class that links to the dataset where dcatapit:Distribution/@rdf:about=dcatapit:Dataset/dcatapit:Distribution/@rdf:resource.  	Occurs: 1..n -->
+	<dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/COVID-19/tree/master/#COVID19IT_ContrattiDPC">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it">dpc-covid19-ita-Contratti</dct:title>
+		<dct:title xml:lang="en">dpc-covid19-ita-Contracts</dct:title>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it">Tabella dei contratti attivati dal Dipartimento della Protezione Civile per l'acquisto di dispositivi di protezione individuale, medicali e di ausilio in relazione all'emergenza collegata alla diffusione del Coronavirus in Italia.</dct:description>
+		<dct:description xml:lang="en">Table of contracts activated by the Department of Civil Protection for purchasing  of individual protection devices, medical and assistive devices in relation to the emergency connected to the spread of Coronavirus in Italy.</dct:description>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource="https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9"/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-contratti-dpc-forniture/dpc-covid19-dati-contratti-dpc-forniture.csv"/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</dcat:byteSize>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/legalcode.it"/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-22</dct:modified>
+	</dcatapit:Distribution>
+	
+		<!-- Distribution class that links to the dataset where dcatapit:Distribution/@rdf:about=dcatapit:Dataset/dcatapit:Distribution/@rdf:resource.  	Occurs: 1..n -->
+	<dcatapit:Distribution rdf:about="https://github.com/pcm-dpc/COVID-19/tree/master/#COVID19IT_PagamentiDPC">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+		<!-- Title for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:title xml:lang="it">dpc-covid19-ita-Pagamenti-DPC</dct:title>
+		<dct:title xml:lang="en">dpc-covid19-ita-Payments-DPC</dct:title>
+		<!-- Description for this distribution. Occurs: 0..n (n is only for multilingual) -->
+		<dct:description xml:lang="it">Tabella dei pagamenti relative ai contratti attivati dal Dipartimento della Protezione Civile per l'acquisto di dispositivi di protezione individuale, medicali e di ausilio in relazione all'emergenza collegata alla diffusione del Coronavirus in Italia.</dct:description>
+		<dct:description xml:lang="en">Table of payments related to contracts activated by the Department of Civil Protection for purchasing  of individual protection devices, medical and assistive devices in relation to the emergency connected to the spread of Coronavirus in Italy.</dct:description>
+		<!-- Format of the distribution. Occurs: 1..1 -->
+		<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+		<!-- URL for accessing the distribution. Occurs: 1..1 -->
+		<dcat:accessURL rdf:resource="https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9"/>
+		<!-- URL for downloading the distribution. Occurs: 0..n -->
+		<dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-contratti-dpc-forniture/dpc-covid19-dati-pagamenti-contratti-dpc-forniture.csv"/>
+		<!-- Bytesize of the download file. Occurs: 0..1 -->
+		<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dcat:byteSize>
+		<!-- License of the distribution. Occurs: 1..1 -->
+		<dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/legalcode.it"/>
+		<!-- The most recent date on which the Distribution was changed or modified. Occurs: 0..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-22</dct:modified>
+	</dcatapit:Distribution>
+	
+	
+	
+	
+	
+	<!-- License class that links to the Distribution through the rdf:about link -->
+	<dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/legalcode.it">
+		<rdf:type rdf:resource="http://purl.org/dc/terms/LicenseDocument"/>
+		<!-- Type of license, occurs 0..1 -->
+		<dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+		<!-- Name of license, occurs 0..n (n for multilingual) -->
+		<foaf:name>CC BY</foaf:name>
+		<!-- Version of license, occurs 0..1 -->
+		<owl:versionInfo>4.0</owl:versionInfo>
+	</dcatapit:LicenseDocument>
+	<!-- Agent class (publisher, creator or rightsHolder) that links to the Dataset through the rdf:about link -->
+	<dcatapit:Agent rdf:about="http://dati.protezionecivile.it/PCM#DPC">
+		<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<!-- Name of Agent. Occurs 1..1  -->
+		<foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+		<!-- Identifier of Agent. Occurs 1..1  -->
+		<dct:identifier>PCM - DPC</dct:identifier>
+		<!-- Contact Mail for this Agent. Not requested by DCAT-AP-IT but useful  -->
+		<foaf:mbox>protezionecivile@pec.governo.it</foaf:mbox>
+	</dcatapit:Agent>
+	<dcatapit:Agent rdf:about="http://dati.protezionecivile.it/PCM#redazione">
+		<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<!-- Name of Agent. Occurs 1..1  -->
+		<foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+		<!-- Identifier of Agent. Occurs 1..1  -->
+		<dct:identifier>PCM - DPC</dct:identifier>
+		<!-- Contact Mail for this Agent. Not requested by DCAT-AP-IT but useful  -->
+		<foaf:mbox>redazione@protezionecivile.it</foaf:mbox>
+	</dcatapit:Agent>
+	<!-- Agent class (publisher, creator or rightsHolder) that links to the Dataset through the rdf:about link -->
+	<dcatapit:Agent rdf:about="http://dati.protezionecivile.it/PCM">
+		<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+		<!-- Name of Agent. Occurs 1..1  -->
+		<foaf:name>PCM - Dipartimento della Protezione Civile</foaf:name>
+		<!-- Identifier of Agent. Occurs 1..1  -->
+		<dct:identifier>PCM - DPC</dct:identifier>
+		<!-- Contact Mail for this Agent. Not requested by DCAT-AP-IT but useful  -->
+		<foaf:mbox>protezionecivile@pec.governo.it</foaf:mbox>
+	</dcatapit:Agent>
+	<!-- Organization class (Point of contact) for the dataset class that links to the Dataset through the rdf:about link -->
+	<dcatapit:Organization rdf:about="http://dati.protezionecivile.it/PCM#sisterritoriale">
+		<rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+		<rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+		<!-- Name for this Organization. Occurs 1..1 -->
+		<vcard:fn>PCM - Dipartimento della Protezione Civile</vcard:fn>
+		<!-- email for this Organization. Occurs 1..1 -->
+		<vcard:hasEmail rdf:resource="sisterritoriale@protezionecivile.it"/>
+		<!-- Telephone for this Organization. Occurs 0..1 -->
+		<!-- Site for this Organization. Occurs 0..1 -->
+		<vcard:hasURL rdf:resource="http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus"/>
+	</dcatapit:Organization>
+	<!-- Bounding Box for the data linked to Dataset through the rdf:about link.  -->
+	<dct:Location rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPCPagamenti_Location">
+		<!-- Geometry (Bounding box) for this location. Occurs 0..1 It must be expressed as GeoSparql literal -->
+		<locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#gmlLiteral">&lt;gml:Envelope srsName="http://www.opengis.net/def/EPSG/0/4326"&gt;&lt;gml:lowerCorner&gt;6.5033 35.8935&lt;/gml:lowerCorner&gt;&lt;gml:upperCorner&gt;19.1033 48.0035&lt;/gml:upperCorner&gt;&lt;/gml:Envelope&gt;</locn:geometry>
+	</dct:Location>
+	<!-- Period of Time for the dataset. Linked to Dataset through the rdf:about link.  -->
+	<dct:PeriodOfTime rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPCPagamenti_PeriodOfTime">
+		<!-- Start of period. Occurs 1..1 -->
+		<dcatapit:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-02-26</dcatapit:startDate>
+		<!-- End of period. Occurs 0..1 -->
+		<dcatapit:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-24</dcatapit:endDate>
+	</dct:PeriodOfTime>
+	<!-- Description of the Dataset. The identifier is both in the about string (mandatory) and in dct:identifier.  	Usually is the same, but it depends on the clients. The rdf:about is used to join to the whole Catalog where  	dcat:Catalog/dcatapit:Dataset/@rdf:resource=dcatapit:Dataset/@rdf:about. It must be an URL-->
+	<dcatapit:Dataset rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPC">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+		<!-- Unique resource identifier. Occurs: 1..1. -->
+		<dct:identifier>COVID19IT_ContrattiDPC</dct:identifier>
+		<!-- Other identifier. Occurs: 0..n. -->
+		<!-- Resource title Occurs:  1..n (n for languages) -->
+		<dct:title xml:lang="it">COVID-19 Contratti DPC (Open Data)</dct:title>
+		<dct:title xml:lang="en">COVID-19 DPC Contracts</dct:title>
+		
+		
+		<!-- ****************** LEGAME CON IL FIGLI ******************* -->
+		<dct:hasPart rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_PagamentiDPC"/>
+
+		
+		<!-- Resource abstract. Occurs:  1..n (n for languages) -->
+		<dct:description xml:lang="it">Tabella riepilogativa dei contratti attivati dal Dipartimento della Protezione Civile per l'acquisto di dispositivi di protezione individuale, medicali e di ausilio in relazione all'emergenza collegata alla diffusione del Coronavirus in Italia.</dct:description>
+		<dct:description xml:lang="en">Table of contracts activated by the Department of Civil Protection for purchasing of individual protection devices, medical and assistive devices in relation to the emergency connected to the spread of Coronavirus in Italy.</dct:description>
+		<!-- Main theme must refer to EUROVOC themes. Occurs:  1..n -->
+		<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+		<!-- Subthemes. Occurs: 0..n -->
+		<dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
+		<!-- Creator of this Dataset. Occurs:  0..1 -->
+		<dct:creator rdf:resource="http://dati.protezionecivile.it/PCM#DPC"/>
+		<!-- Publisher of this Dataset. Occurs:  0..1.  -->
+		<dct:publisher rdf:resource="http://dati.protezionecivile.it/PCM#redazione"/>
+		<!-- RightsHolder of this Dataset. Occurs:  1..1.  -->
+		<dct:rightsHolder rdf:resource="http://dati.protezionecivile.it/PCM"/>
+		<!-- Point of contact. Occurs: 0..n -->
+		<dcat:contactPoint rdf:resource="http://dati.protezionecivile.it/PCM#sisterritoriale"/>
+		<!-- When this dataset was "published". Occurs: 0..1  -->
+		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-22</dct:issued>
+		<!-- When this dataset was last modified. Occurs: 1..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-22</dct:modified>
+		<!-- Page to obtain additional information. Not to use for download. Occurs:  0..1 -->
+		<!-- Keywords. Occurs:  1..n -->
+		<dcat:keyword xml:lang="it">COVID-19</dcat:keyword>
+		<!-- Geographic region that is covered by the Dataset.  Occurs: 0..n -->
+		<dct:spatial rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPCPagamenti_Location"/>
+		<!-- Language. Occurs: 0..n  -->
+		<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+		<!-- Temporal period that the Dataset covers. Occurs: 0..1 -->
+		<dct:temporal rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPCPagamenti_PeriodOfTime"/>
+		<!-- Frequency at which Dataset is updated. Occurs: 0..1 -->
+		<dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/UNKNOWN"/>
+		<!-- Distribution links to Distribution class.  Occurs: 0..n -->
+		<dcat:distribution rdf:resource="https://github.com/pcm-dpc/COVID-19/tree/master/#COVID19IT_ContrattiDPC"/>
+		<!-- Version of this Dataset. Occurs: 0..1 -->
+		<!-- Related Dataset. Occurs: 0..n -->
+		<!-- Reference Standard for this Dataset. Occurs: 0..n -->
+	</dcatapit:Dataset>
+	
+	
+	<!-- ******************* ATTENZIONE: COPIA DA MODIFICARE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!******************************************* -->
+	<dcatapit:Dataset rdf:about="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_PagamentiDPC">
+		<rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+		<!-- Unique resource identifier. Occurs: 1..1. -->
+		<dct:identifier>COVID19IT_PagamentiDPC</dct:identifier>
+		<!-- Other identifier. Occurs: 0..n. -->
+		<!-- Resource title Occurs:  1..n (n for languages) -->
+		<dct:title xml:lang="it">COVID-19 Pagamenti DPC (Open Data)</dct:title>
+		<dct:title xml:lang="en">COVID-19 DPC Payments</dct:title>
+		
+		<!-- ****************** LEGAME CON IL PADRE ******************* -->
+		<dct:isPartOf rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPC"/>
+		
+		<!-- Resource abstract. Occurs:  1..n (n for languages) -->
+		<dct:description xml:lang="it">Tabella riepilogativa dei pagamenti relativi ai contratti attivati dal Dipartimento della Protezione Civile per l'acquisto di dispositivi di protezione individuale, medicali e di ausilio in relazione all'emergenza collegata alla diffusione del Coronavirus in Italia.</dct:description>
+		<dct:description xml:lang="en">Table of payments related to contracts activated by Department of Civil Protection for purchasing  of individual protection devices, medical and assistive devices in relation to the emergency connected to the spread of Coronavirus in Italy.</dct:description>
+		<!-- Main theme must refer to EUROVOC themes. Occurs:  1..n -->
+		<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+		<!-- Subthemes. Occurs: 0..n -->
+		<dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
+		<!-- Creator of this Dataset. Occurs:  0..1 -->
+		<dct:creator rdf:resource="http://dati.protezionecivile.it/PCM#DPC"/>
+		<!-- Publisher of this Dataset. Occurs:  0..1.  -->
+		<dct:publisher rdf:resource="http://dati.protezionecivile.it/PCM#redazione"/>
+		<!-- RightsHolder of this Dataset. Occurs:  1..1.  -->
+		<dct:rightsHolder rdf:resource="http://dati.protezionecivile.it/PCM"/>
+		<!-- Point of contact. Occurs: 0..n -->
+		<dcat:contactPoint rdf:resource="http://dati.protezionecivile.it/PCM#sisterritoriale"/>
+		<!-- When this dataset was "published". Occurs: 0..1  -->
+		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-22</dct:issued>
+		<!-- When this dataset was last modified. Occurs: 1..1 -->
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-22</dct:modified>
+		<!-- Page to obtain additional information. Not to use for download. Occurs:  0..1 -->
+		<!-- Keywords. Occurs:  1..n -->
+		<dcat:keyword xml:lang="it">COVID-19</dcat:keyword>
+		<!-- Geographic region that is covered by the Dataset.  Occurs: 0..n -->
+		<dct:spatial rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPCPagamenti_Location"/>
+		<!-- Language. Occurs: 0..n  -->
+		<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+		<!-- Temporal period that the Dataset covers. Occurs: 0..1 -->
+		<dct:temporal rdf:resource="http://dati.protezionecivile.it/geoportalDPC/rest/document#COVID19IT_ContrattiDPCPagamenti_PeriodOfTime"/>
+		<!-- Frequency at which Dataset is updated. Occurs: 0..1 -->
+		<dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/UNKNOWN"/>
+		<!-- Distribution links to Distribution class.  Occurs: 0..n -->
+		<dcat:distribution rdf:resource="https://github.com/pcm-dpc/COVID-19/tree/master/#COVID19IT_PagamentiDPC"/>
+		<!-- Version of this Dataset. Occurs: 0..1 -->
+		<!-- Related Dataset. Occurs: 0..n -->
+		<!-- Reference Standard for this Dataset. Occurs: 0..n -->
+	</dcatapit:Dataset>
+	
+	
+	
+	<!-- For each subject there's a concept -->
+	<skos:Concept rdf:about="http://eurovoc.europa.eu/100215">
+		<skos:prefLabel xml:lang="it">salute</skos:prefLabel>
+	</skos:Concept>
+</rdf:RDF>
