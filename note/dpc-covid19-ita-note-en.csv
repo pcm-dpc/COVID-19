@@ -33,3 +33,5 @@ dc-EN-0006,2020-04-20T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,
 dc-EN-0007,2020-04-20T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of informations,recalculation of tested cases (duplicates removed)
 pd-EN-0012,2020-04-21T17:00:00,dati-regioni,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
 pd-EN-0013,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0014,2020-04-21T17:00:00,dati-regioni,ITA,15,Campania,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0015,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,partial data,partial communication of data,tested cases not updated
