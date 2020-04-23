@@ -94,8 +94,8 @@ COVID-19/
 ## Formato dei dati
 
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
-- [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
-- [Dati aree misure restrittive nazionali e subregionali COVID19] (dati_aree-nazionali-subregionali-misure-restrittive- covid19.md)
+- [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)<br>
+- [Dati aree misure restrittive nazionali e subregionali COVID19](dati_aree-nazionali-subregionali-misure-restrittive- covid19.md)<br>
 
 ## Licenza
 
