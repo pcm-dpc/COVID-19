@@ -474,5 +474,33 @@
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
         "note": "tested cases not updated"
+    },
+    {
+        "codice": "pd-EN-0014",
+        "data": "2020-04-21T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "tested cases not updated"
+    },
+    {
+        "codice": "pd-EN-0015",
+        "data": "2020-04-21T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "tested cases not updated"
     }
 ]
