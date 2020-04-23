@@ -52,6 +52,11 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato csv e json.  [link alla dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link al dataset ](https://github.com/pcm-dpc/COVID-19/tree/master/dati-contratti-dpc-forniture)
 
+## 2020-04-23
+
+- Aggiunta: metadati del nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato DCAT-AP-IT
+- Integrato README con specifiche per il data model dei dataset aree (nazionali e subregionali)
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json)
