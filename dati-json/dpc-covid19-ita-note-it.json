@@ -502,5 +502,33 @@
         "tipologia_avviso": "dati parziali",
         "avviso": "comunicazione parziale dei dati",
         "note": "casi testati non aggiornati"
+    },
+    {
+        "codice": "pd-IT-0016",
+        "data": "2020-04-21T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "casi testati non completi"
+    },
+    {
+        "codice": "pd-IT-0017",
+        "data": "2020-04-21T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "casi testati non completi"
     }
 ]
