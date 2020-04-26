@@ -37,3 +37,9 @@ pd-IT-0014,2020-04-21T17:00:00,dati-regioni,ITA,15,Campania,,,,dati parziali,com
 pd-IT-0015,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
 pd-IT-0016,2020-04-21T17:00:00,dati-regioni,ITA,12,Lazio,,,,dati parziali,comunicazione parziale dei dati,casi testati non completi
 pd-IT-0017,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,dati parziali,comunicazione parziale dei dati,casi testati non completi
+dc-IT-0008,2020-04-24T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,correzione dati,analisi delle informazioni, analisi delle informazioni (dimessi/guariti in fase di revisione)
+dc-IT-0009,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,correzione dati,analisi delle informazioni, analisi delle informazioni (dimessi/guariti in fase di revisione)
+dc-IT-0010,2020-04-24T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi (1.237 tamponi aggiunti)
+dc-IT-0011,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi (1.237 tamponi aggiunti)
+dc-IT-0012,2020-04-26T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
+dc-IT-0013,2020-04-26T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati

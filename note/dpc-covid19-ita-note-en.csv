@@ -35,3 +35,10 @@ pd-EN-0012,2020-04-21T17:00:00,dati-regioni,ITA,03,Lombardia,,,,partial data,par
 pd-EN-0013,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
 pd-EN-0014,2020-04-21T17:00:00,dati-regioni,ITA,15,Campania,,,,partial data,partial communication of data,tested cases not updated
 pd-EN-0015,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,partial data,partial communication of data,tested cases not updated
+dc-IT-0008,2020-04-24T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,data correction,information analysis, information analysis (recovered under revision)
+dc-IT-0009,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,data correction,information analysis, information analysis (recovered under revision)
+dc-IT-0010,2020-04-24T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati (1.237 tamponi aggiunti)
+dc-IT-0011,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of informations,recalculation of tests (1.237 tests added)
+dc-IT-0012,2020-04-26T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,data correction,recalculation of informations,recalculation of tested cases
+dc-IT-0013,2020-04-26T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,data correction,recalculation of informations,recalculation of tested cases
+
