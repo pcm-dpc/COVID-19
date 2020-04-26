@@ -27870,8 +27870,8 @@
         "totale_casi": 2882,
         "tamponi": 55502,
         "casi_testati": 35547,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "dc-IT-0008",
+        "note_en": "dc-EN-0008"
     },
     {
         "data": "2020-04-24T17:00:00",
@@ -28046,8 +28046,8 @@
         "totale_casi": 1257,
         "tamponi": 19889,
         "casi_testati": 18050,
-        "note_it": "",
-        "note_en": ""
+        "note_it": "dc-IT-0010",
+        "note_en": "dc-EN-0010"
     },
     {
         "data": "2020-04-24T17:00:00",
