@@ -5,7 +5,7 @@
 ## Avvisi
 
 ```diff
-- 25/04/2020: dati Regione Valle d'Aosta ricalcolati (casi testati)
+- 26/04/2020: dati Regione Valle d'Aosta ricalcolati (casi testati)
 - 24/04/2020: dati Regione Sardegna ricalcolati (1.237 tamponi aggiunti)
 - 24/04/2020: dati Regione Friuli Venezia Giulia in fase di revisione su dimessi/guariti
 - 23/04/2020: dati Regione Lazio parziali (casi testati non completi)
