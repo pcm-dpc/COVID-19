@@ -1,5 +1,7 @@
 <img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
 
+[Italiano](avvisi.md) - [English](avvisi_EN.md)<br><br>
+
 # Dati COVID-19 Italia
 
 ## Avvisi
