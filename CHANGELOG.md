@@ -57,6 +57,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Aggiunta: metadati del nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato DCAT-AP-IT
 - Integrato README con specifiche per il data model dei dataset aree (nazionali e subregionali)
 
+## 2020-04-27
+
+- Aggiunta: aggiornamento al26/4/2020 shape file con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json)
