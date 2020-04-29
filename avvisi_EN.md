@@ -7,23 +7,23 @@
 ## Notices
 
 ```diff
-- 26/04/2020: Valle d'Aosta Region data recalculated (cases tested)
-- 24/04/2020: Sardinia Region data recalculated (1,237 added tampons)
-- 24/04/2020: Friuli Venezia Giulia Region data undergoing review on discharged / healed patients
-- 23/04/2020: partial Lazio Region data (not complete tested cases)
-- 23/04/2020: partial Campania Region data (tested cases not updated)
-- 21/04/2020: partial Lombardy Region data (tested cases not updated)
-- 20/04/2020: Lombardy Region data recalculated (recalculation of tested cases - elimination of duplicates)
-- 15/04/2020: Friuli Venezia Giulia Region data recalculated (recalculation of home isolation and discharged / healed)
-- 12/04/2020: P.A. data Bolzano recalculated (recalculation of recovered data -110 compared to yesterday)
-- 10/04/2020: partial Molise Region data (buffer data not updated)
-- 29/03/2020: partial Emilia-Romagna Region data (buffer data not updated)
-- 26/03/2020: partial Piedmont Region data (-50 deceased - late communication)
-- 18/03/2020: Campania Region data not received
-- 18/03/2020: Parma Province data not received
-- 17/03/2020: Rimini Province data not updated
-- 16/03/2020: P.A. Trento and Puglia Region data not received
-- 11/03/2020: Abruzzo Region data not received
-- 10/03/2020: partial Lombardy Region data
-- 07/03/2020: Brescia data +300 positive results
-```
+- 26/04/2020: recalculated data from Valle d'Aosta Region  (cases tested)
+- 24/04/2020: recalculated data from Sardinia Region (1,237 added swabs)
+- 24/04/2020: Friuli Venezia Giulia Region data undergoing review on discharged / recovered patients
+- 23/04/2020: partial data from Lazio Region (tested cases not complete)
+- 23/04/2020: partial data from Campania Region (tested cases not updated)
+- 21/04/2020: partial data from Lombardy Region (tested cases not updated)
+- 20/04/2020: recalculated data from Lombardy Region (recalculation of tested cases - duplicates removed)
+- 15/04/2020: recalculated data from Friuli Venezia Giulia Region (recalculation of home isolation and discharged/recovered)
+- 12/04/2020: recalculated data from P.A. data Bolzano (recalculation of recovered data: -110 compared to yesterday)
+- 10/04/2020: partial data from Molise Region (testing data not updated)
+- 29/03/2020: partial data from Emilia-Romagna Region (testing data not updated)
+- 26/03/2020: partial data from Piedmont Region (-50 deceased - late communication)
+- 18/03/2020: not received data from Campania Region 
+- 18/03/2020: not received data from Parma Province 
+- 17/03/2020: not updated data from Rimini Province 
+- 16/03/2020: not received data from P.A. Trento and Puglia 
+- 11/03/2020: not received data from Abruzzo Region
+- 10/03/2020: partial data from Lombardy Region 
+- 07/03/2020: +300 positive results in data from Brescia 
+ ```
