@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 01/05/2020: dati Regione Lazio ricalcolati 41 decessi (8 nelle ultime 48 ore e 33 ad aprile)
 - 26/04/2020: dati Regione Valle d'Aosta ricalcolati (casi testati)
 - 24/04/2020: dati Regione Sardegna ricalcolati (1.237 tamponi aggiunti)
 - 24/04/2020: dati Regione Friuli Venezia Giulia in fase di revisione su dimessi/guariti

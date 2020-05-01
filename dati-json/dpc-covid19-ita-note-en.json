@@ -504,7 +504,7 @@
         "note": "tested cases not updated"
     },
     {
-        "codice": "dc-IT-0008",
+        "codice": "dc-EN-0008",
         "data": "2020-04-24T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
@@ -518,7 +518,7 @@
         "note": " information analysis (recovered under revision)"
     },
     {
-        "codice": "dc-IT-0009",
+        "codice": "dc-EN-0009",
         "data": "2020-04-24T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
@@ -532,7 +532,7 @@
         "note": " information analysis (recovered under revision)"
     },
     {
-        "codice": "dc-IT-0010",
+        "codice": "dc-EN-0010",
         "data": "2020-04-24T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
@@ -546,7 +546,7 @@
         "note": "ricalcolo casi testati (1.237 tamponi aggiunti)"
     },
     {
-        "codice": "dc-IT-0011",
+        "codice": "dc-EN-0011",
         "data": "2020-04-24T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
@@ -560,7 +560,7 @@
         "note": "recalculation of tests (1.237 tests added)"
     },
     {
-        "codice": "dc-IT-0012",
+        "codice": "dc-EN-0012",
         "data": "2020-04-26T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
@@ -574,7 +574,7 @@
         "note": "recalculation of tested cases"
     },
     {
-        "codice": "dc-IT-0013",
+        "codice": "dc-EN-0013",
         "data": "2020-04-26T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
@@ -586,5 +586,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of informations",
         "note": "recalculation of tested cases"
+    },
+    {
+        "codice": "dc-EN-0014",
+        "data": "2020-05-01T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deaths (41: 8 in the last 48 hours and 33 during April)"
+    },
+    {
+        "codice": "dc-EN-0015",
+        "data": "2020-05-01T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deaths (41: 8 in the last 48 hours and 33 during April)"
     }
 ]

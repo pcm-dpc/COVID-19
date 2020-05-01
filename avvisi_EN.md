@@ -7,6 +7,7 @@
 ## Notices
 
 ```diff
+- 01/05/2020: Lombardia Regione recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
 - 26/04/2020: Valle d'Aosta Region data recalculated (cases tested)
 - 24/04/2020: Sardinia Region data recalculated (1,237 added tampons)
 - 24/04/2020: Friuli Venezia Giulia Region data undergoing review on discharged / healed patients
