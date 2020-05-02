@@ -599,7 +599,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of deaths (41: 8 in the last 48 hours and 33 during April)"
+        "note": "recalculation of 41 deaths (8 in the last 48 hours and 33 during April)"
     },
     {
         "codice": "dc-EN-0015",
@@ -613,6 +613,34 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of deaths (41: 8 in the last 48 hours and 33 during April)"
+        "note": "recalculation of 41 deaths (8 in the last 48 hours and 33 during April)"
+    },
+    {
+        "codice": "dc-EN-0016",
+        "data": "2020-05-02T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of 329 deaths (47 today and 282 during April)"
+    },
+    {
+        "codice": "dc-EN-0017",
+        "data": "2020-05-02T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of 329 deaths (47 today and 282 during April)"
     }
 ]

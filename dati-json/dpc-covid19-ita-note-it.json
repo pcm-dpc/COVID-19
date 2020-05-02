@@ -627,7 +627,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
-        "note": "ricalcolo decessi (41: 8 nelle ultime 48 ore e 33 ad aprile)"
+        "note": "ricalcolo 41 decessi (8 nelle ultime 48 ore e 33 ad aprile)"
     },
     {
         "codice": "dc-IT-0015",
@@ -641,6 +641,34 @@
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
-        "note": "ricalcolo decessi (41: 8 nelle ultime 48 ore e 33 ad aprile)"
+        "note": "ricalcolo 41 decessi (8 nelle ultime 48 ore e 33 ad aprile)"
+    },
+    {
+        "codice": "dc-IT-0016",
+        "data": "2020-05-02T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo 329 decessi (47 di oggi e 282 da riconteggio di aprile)"
+    },
+    {
+        "codice": "dc-IT-0017",
+        "data": "2020-05-02T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo 329 decessi (47 di oggi e 282 da riconteggio di aprile)"
     }
 ]
