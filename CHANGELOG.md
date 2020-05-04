@@ -61,6 +61,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: aggiornamento al26/4/2020 shape file con misure di contenimento a livello subregionale (province, comuni e frazioni).
 
+## 2020-05-04
+
+- Aggiunta: aggiornamento al 4/5/2020 shape file con misure di contenimento a livello nazionale a seguito del DPCM 26/4/2020.
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json)
