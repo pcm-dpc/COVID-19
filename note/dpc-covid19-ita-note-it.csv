@@ -49,3 +49,5 @@ dc-IT-0016,2020-05-02T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,
 dc-IT-0017,2020-05-02T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo 329 decessi (47 di oggi e 282 da riconteggio di aprile)
 dc-IT-0018,2020-05-04T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo nuovi casi e guariti
 dc-IT-0019,2020-05-04T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo nuovi casi e guariti
+dc-IT-0020,2020-05-06T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,aggiornamento dimessi guariti (aumento)
+dc-IT-0021,2020-05-06T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,aggiornamento dimessi guariti (aumento)
