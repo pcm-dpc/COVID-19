@@ -49,3 +49,5 @@ dc-EN-0018,2020-05-04T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,r
 dc-EN-0019,2020-05-04T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of new positives and recovered
 dc-EN-0020,2020-05-06T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,recalculation of information,update of recovered people (increase)
 dc-EN-0021,2020-05-06T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of information,update of recovered people (increase)
+dc-EN-0022,2020-05-07T17:00:00,dati-regioni,ITA,17,Basilicata,,,,data correction,recalculation of information,recalculation of positives (decrease)
+dc-EN-0023,2020-05-07T17:00:00,dati-andamento-nazionale,ITA,17,Basilicata,,,,data correction,recalculation of information,recalculation of positives (decrease)

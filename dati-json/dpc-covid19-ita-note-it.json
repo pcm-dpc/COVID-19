@@ -726,5 +726,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "aggiornamento dimessi guariti (aumento)"
+    },
+    {
+        "codice": "dc-IT-0022",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (diminuzione)"
+    },
+    {
+        "codice": "dc-IT-0023",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (diminuzione)"
     }
 ]

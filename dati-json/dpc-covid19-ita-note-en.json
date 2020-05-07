@@ -683,7 +683,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of recovered people (increase)"
+        "note": "update of recovered people (increase)"
     },
     {
         "codice": "dc-EN-0021",
@@ -698,5 +698,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "update of recovered people (increase)"
+    },
+    {
+        "codice": "dc-EN-0022",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positives (decrease)"
+    },
+    {
+        "codice": "dc-EN-0023",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positives (decrease)"
     }
 ]
