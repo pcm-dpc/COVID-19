@@ -7,9 +7,13 @@
 ## Notices
 
 ```diff
-- 02/05/2020: Lombardia Region recalculation of 329 deaths (47 today and 282 during April)
-- 01/05/2020: Lazio Region recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
-- 26/04/2020: Valle d'Aosta Region data recalculated (cases tested)
+- 08/05/2020: Basilicata Region data recalculation of positives (decrease)
+- 07/05/2020: Basilicata Region data recalculation of positives (decrease)
+- 06/05/2020: Lombardia Region data update of recovered people (increase)
+- 04/05/2020: Sardegna Region data recalculation of new positives and recovered
+- 02/05/2020: Lombardia Region data recalculation of 329 deaths (47 today and 282 during April)
+- 01/05/2020: Lazio Region data recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
+- 26/04/2020: Valle d'Aosta data Region data recalculated (cases tested)
 - 24/04/2020: Sardinia Region data recalculated (1,237 added tampons)
 - 24/04/2020: Friuli Venezia Giulia Region data undergoing review on discharged / healed patients
 - 23/04/2020: partial Lazio Region data (not complete tested cases)
