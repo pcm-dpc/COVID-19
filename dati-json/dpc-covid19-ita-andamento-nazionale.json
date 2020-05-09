@@ -1348,5 +1348,23 @@
         "casi_testati": 1608985,
         "note_it": "dc-IT-0025",
         "note_en": "dc-EN-0025"
+    },
+    {
+        "data": "2020-05-09T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 13834,
+        "terapia_intensiva": 1034,
+        "totale_ospedalizzati": 14868,
+        "isolamento_domiciliare": 69974,
+        "totale_positivi": 84842,
+        "variazione_totale_positivi": -3119,
+        "nuovi_positivi": 1083,
+        "dimessi_guariti": 103031,
+        "deceduti": 30395,
+        "totale_casi": 218268,
+        "tamponi": 2514234,
+        "casi_testati": 1645076,
+        "note_it": "",
+        "note_en": ""
     }
 ]
