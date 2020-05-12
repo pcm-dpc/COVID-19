@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 12/05/2020: dati Regione Lombardia aggiunti 419 casi positivi con diagnosi prima
 - 08/05/2020: dati Regione Basilicata ricalcolo casi positivi (diminuzione)
 - 07/05/2020: dati Regione Basilicata ricalcolo casi positivi (diminuzione)
 - 06/05/2020: dati Regione Lombardia aggiornamento dimessi guariti (aumento)
