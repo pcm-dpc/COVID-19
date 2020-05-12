@@ -785,7 +785,7 @@
     },
     {
         "codice": "dc-IT-0026",
-        "data": "2020-05-06T17:00:00",
+        "data": "2020-05-12T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 3,
@@ -799,7 +799,7 @@
     },
     {
         "codice": "dc-IT-0027",
-        "data": "2020-05-06T17:00:00",
+        "data": "2020-05-12T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 3,
