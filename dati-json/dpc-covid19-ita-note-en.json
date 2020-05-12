@@ -754,5 +754,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of positives (decrease)"
+    },
+    {
+        "codice": "dc-EN-0026",
+        "data": "2020-05-06T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "add 419 positive cases diagnosed before the last 7 days"
+    },
+    {
+        "codice": "dc-EN-0027",
+        "data": "2020-05-06T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "add 419 positive cases diagnosed before the last 7 days"
     }
 ]
