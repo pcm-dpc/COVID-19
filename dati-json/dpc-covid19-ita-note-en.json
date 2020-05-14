@@ -782,5 +782,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "add 419 positive cases diagnosed before the last 7 days"
+    },
+    {
+        "codice": "dc-EN-0028",
+        "data": "2020-05-14T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deceased people (+5)"
+    },
+    {
+        "codice": "dc-EN-0029",
+        "data": "2020-05-14T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deceased people (+5)"
     }
 ]
