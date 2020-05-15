@@ -810,5 +810,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of deceased people (+5)"
+    },
+    {
+        "codice": "dc-EN-0030",
+        "data": "2020-04-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May"
+    },
+    {
+        "codice": "dc-EN-0031",
+        "data": "2020-04-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May"
     }
 ]
