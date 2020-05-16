@@ -1,0 +1,61 @@
+codice,data,dataset,stato,codice_regione,regione,codice_provincia,provincia,sigla_provincia,tipologia_avviso,avviso,note
+pd-EN-0001,2020-03-07T17:00:00,dati-province,ITA,03,Lombardia,017,Brescia,BS,partial data,partial communication of data,300 positive cases
+pd-EN-0002,2020-03-07T17:00:00,dati-regioni,ITA,03,Lombardia,017,Brescia,BS,partial data,partial communication of data,300 positive cases
+pd-EN-0003,2020-03-07T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,017,Brescia,BS,partial data,partial communication of data,300 positive cases
+pd-EN-0004,2020-03-10T17:00:00,dati-regioni,ITA,03,Lombardia,,,,partial data,partial communication of data,
+nd-EN-0005,2020-03-10T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,partial data,partial communication of data,
+nd-EN-0006,2020-03-11T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,no data,no data has been sent,
+nd-EN-0007,2020-03-11T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,no data,no data has been sent,
+nd-EN-0008,2020-03-16T17:00:00,dati-regioni,ITA,04,P.A. Trento,,,,no data,no data has been sent,
+nd-EN-0009,2020-03-16T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Trento,,,,no data,no data has been sent,
+nd-EN-0010,2020-03-16T17:00:00,dati-regioni,ITA,16,Puglia,,,,no data,no data has been sent,
+nd-EN-0011,2020-03-16T17:00:00,dati-andamento-nazionale,ITA,16,Puglia,,,,no data,no data has been sent,
+nd-EN-0012,2020-03-17T17:00:00,dati-province,ITA,08,Emilia-Romagna,099,Rimini,RN,no data,no data has been sent,
+nd-EN-0013,2020-03-17T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,099,Rimini,RN,no data,no data has been sent,
+nd-EN-0014,2020-03-17T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,099,Rimini,RN,no data,no data has been sent,
+nd-EN-0015,2020-03-18T17:00:00,dati-province,ITA,08,Emilia-Romagna,034,Parma,PR,no data,no data has been sent,
+nd-EN-0016,2020-03-18T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,034,Parma,PR,no data,no data has been sent,
+nd-EN-0017,2020-03-18T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,034,Parma,PR,no data,no data has been sent,
+nd-EN-0018,2020-03-18T17:00:00,dati-regioni,ITA,15,Campania,,,,no data,no data has been sent,
+nd-EN-0019,2020-03-18T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,no data,no data has been sent,
+pd-EN-0006,2020-03-26T17:00:00,dati-regioni,ITA,01,Piemonte,,,,partial data,partial communication of data,-50 death - late communication
+pd-EN-0007,2020-03-26T17:00:00,dati-andamento-nazionale,ITA,01,Piemonte,,,,partial data,partial communication of data,-50 - late communication
+pd-EN-0008,2020-03-29T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,,,,partial data,partial communication of data,tests data not updated
+pd-EN-0009,2020-03-29T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,,,,partial data,partial communication of data, tests data not updated
+pd-EN-0010,2020-04-10T17:00:00,dati-regioni,ITA,14,Molise,,,,partial data,partial communication of data,tests data not updated
+pd-EN-0011,2020-04-10T17:00:00,dati-andamento-nazionale,ITA,14,Molise,,,,partial data,partial communication of data, tests data not updated
+dc-EN-0001,2020-04-12T17:00:00,dati-province,ITA,04,P.A. Bolzano,021,Bolzano,BZ,data correction,recalculation of informations,recalculation recovered (-110 compared to yesterday)
+dc-EN-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,data correction,recalculation of informations,recalculation of recovered (-110 compared to yesterday)
+dc-EN-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,data correction,recalculation of informations,recalculation of recovered (-110 compared to yesterday)
+dc-EN-0004,2020-04-15T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,data correction,recalculation of informations,recalculation of home isolation and recovered
+dc-EN-0005,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,data correction,recalculation of informations,recalculation of home isolation and recovered
+dc-EN-0006,2020-04-20T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,recalculation of informations,recalculation of tested cases (duplicates removed)
+dc-EN-0007,2020-04-20T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of informations,recalculation of tested cases (duplicates removed)
+pd-EN-0012,2020-04-21T17:00:00,dati-regioni,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0013,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0014,2020-04-21T17:00:00,dati-regioni,ITA,15,Campania,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0015,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,partial data,partial communication of data,tested cases not updated
+dc-EN-0008,2020-04-24T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,data correction,information analysis, information analysis (recovered under revision)
+dc-EN-0009,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,data correction,information analysis, information analysis (recovered under revision)
+dc-EN-0010,2020-04-24T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati (1.237 tamponi aggiunti)
+dc-EN-0011,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of informations,recalculation of tests (1.237 tests added)
+dc-EN-0012,2020-04-26T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,data correction,recalculation of informations,recalculation of tested cases
+dc-EN-0013,2020-04-26T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,data correction,recalculation of informations,recalculation of tested cases
+dc-EN-0014,2020-05-01T17:00:00,dati-regioni,ITA,12,Lazio,,,,data correction,recalculation of information,recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
+dc-EN-0015,2020-05-01T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,data correction,recalculation of information,recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
+dc-EN-0016,2020-05-02T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,recalculation of information,recalculation of 329 deaths (47 today and 282 during April)
+dc-EN-0017,2020-05-02T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of information,recalculation of 329 deaths (47 today and 282 during April)
+dc-EN-0018,2020-05-04T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of new positives and recovered
+dc-EN-0019,2020-05-04T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of new positives and recovered
+dc-EN-0020,2020-05-06T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,recalculation of information,update of recovered people (increase)
+dc-EN-0021,2020-05-06T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of information,update of recovered people (increase)
+dc-EN-0022,2020-05-07T17:00:00,dati-regioni,ITA,17,Basilicata,,,,data correction,recalculation of information,recalculation of positives (decrease)
+dc-EN-0023,2020-05-07T17:00:00,dati-andamento-nazionale,ITA,17,Basilicata,,,,data correction,recalculation of information,recalculation of positives (decrease)
+dc-EN-0024,2020-05-07T17:00:00,dati-regioni,ITA,17,Basilicata,,,,data correction,recalculation of information,recalculation of positives (decrease)
+dc-EN-0025,2020-05-07T17:00:00,dati-andamento-nazionale,ITA,17,Basilicata,,,,data correction,recalculation of information,recalculation of positives (decrease)
+dc-EN-0026,2020-05-12T17:00:00,dati-regioni,ITA,03,Lombardia,,,,data correction,recalculation of information,add 419 positive cases diagnosed before the last 7 days
+dc-EN-0027,2020-05-12T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,data correction,recalculation of information,add 419 positive cases diagnosed before the last 7 days
+dc-EN-0028,2020-05-14T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of deceased people (+5)
+dc-EN-0029,2020-05-14T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of deceased people (+5)
+dc-EN-0030,2020-04-15T17:00:00,dati-regioni,ITA,12,Lazio,,,,data correction,recalculation of information,73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May
+dc-EN-0031,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,data correction,recalculation of information,73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May

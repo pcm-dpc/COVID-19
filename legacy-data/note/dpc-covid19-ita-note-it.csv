@@ -1,0 +1,63 @@
+codice,data,dataset,stato,codice_regione,regione,codice_provincia,provincia,sigla_provincia,tipologia_avviso,avviso,note
+pd-IT-0001,2020-03-07T17:00:00,dati-province,ITA,03,Lombardia,017,Brescia,BS,dati parziali,comunicazione parziale dei dati,300 positive cases
+pd-IT-0002,2020-03-07T17:00:00,dati-regioni,ITA,03,Lombardia,017,Brescia,BS,dati parziali,comunicazione parziale dei dati,300 positive cases
+pd-IT-0003,2020-03-07T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,017,Brescia,BS,dati parziali,comunicazione parziale dei dati,300 positive cases
+pd-IT-0004,2020-03-10T17:00:00,dati-regioni,ITA,03,Lombardia,,,,dati parziali,comunicazione parziale dei dati,
+pd-IT-0005,2020-03-10T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,dati parziali,comunicazione parziale dei dati,
+nd-IT-0001,2020-03-11T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0002,2020-03-11T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0003,2020-03-16T17:00:00,dati-regioni,ITA,04,P.A. Trento,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0004,2020-03-16T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Trento,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0005,2020-03-16T17:00:00,dati-regioni,ITA,16,Puglia,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0006,2020-03-16T17:00:00,dati-andamento-nazionale,ITA,16,Puglia,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0007,2020-03-17T17:00:00,dati-province,ITA,08,Emilia-Romagna,099,Rimini,RN,nessun dato,non sono stati comunicati dati,
+nd-IT-0008,2020-03-17T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,099,Rimini,RN,nessun dato,non sono stati comunicati dati,
+nd-IT-0009,2020-03-17T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,099,Rimini,RN,nessun dato,non sono stati comunicati dati,
+nd-IT-0010,2020-03-18T17:00:00,dati-province,ITA,08,Emilia-Romagna,034,Parma,PR,nessun dato,non sono stati comunicati dati,
+nd-IT-0011,2020-03-18T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,034,Parma,PR,nessun dato,non sono stati comunicati dati,
+nd-IT-0012,2020-03-18T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,034,Parma,PR,nessun dato,non sono stati comunicati dati,
+nd-IT-0013,2020-03-18T17:00:00,dati-regioni,ITA,15,Campania,,,,nessun dato,non sono stati comunicati dati,
+nd-IT-0014,2020-03-18T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,nessun dato,non sono stati comunicati dati,
+pd-IT-0006,2020-03-26T17:00:00,dati-regioni,ITA,01,Piemonte,,,,dati parziali,comunicazione parziale dei dati,-50 deceduti - comunicazione tardiva
+pd-IT-0007,2020-03-26T17:00:00,dati-andamento-nazionale,ITA,01,Piemonte,,,,dati parziali,comunicazione parziale dei dati,-50 deceduti - comunicazione tardiva
+pd-IT-0008,2020-03-29T17:00:00,dati-regioni,ITA,08,Emilia-Romagna,,,,dati parziali,comunicazione parziale dei dati,dato tamponi non aggiornato
+pd-IT-0009,2020-03-29T17:00:00,dati-andamento-nazionale,ITA,08,Emilia-Romagna,,,,dati parziali,comunicazione parziale dei dati, dato tamponi non aggiornato
+pd-IT-0010,2020-04-10T17:00:00,dati-regioni,ITA,14,Molise,,,,dati parziali,comunicazione parziale dei dati,dato tamponi non aggiornato
+pd-IT-0011,2020-04-10T17:00:00,dati-andamento-nazionale,ITA,14,Molise,,,,dati parziali,comunicazione parziale dei dati, dato tamponi non aggiornato
+dc-IT-0001,2020-04-12T17:00:00,dati-province,ITA,04,P.A. Bolzano,021,Bolzano,BZ,correzione dati,ricalcolo delle informazioni,ricalcolo guariti (-110 rispetto a ieri)
+dc-IT-0002,2020-04-12T17:00:00,dati-regioni,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo guariti (-110 rispetto a ieri)
+dc-IT-0003,2020-04-12T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni, ricalcolo guariti (-110 rispetto a ieri)
+dc-IT-0004,2020-04-15T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo di isolamento domiciliare e dimessi/guariti
+dc-IT-0005,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo di isolamento domiciliare e dimessi/guariti
+dc-IT-0006,2020-04-20T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati (emilinati duplicati)
+dc-IT-0007,2020-04-20T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati (emilinati duplicati)
+pd-IT-0012,2020-04-21T17:00:00,dati-regioni,ITA,03,Lombardia,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
+pd-IT-0013,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
+pd-IT-0014,2020-04-21T17:00:00,dati-regioni,ITA,15,Campania,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
+pd-IT-0015,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
+pd-IT-0016,2020-04-21T17:00:00,dati-regioni,ITA,12,Lazio,,,,dati parziali,comunicazione parziale dei dati,casi testati non completi
+pd-IT-0017,2020-04-21T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,dati parziali,comunicazione parziale dei dati,casi testati non completi
+dc-IT-0008,2020-04-24T17:00:00,dati-regioni,ITA,06,Friuli Venezia Giulia,,,,correzione dati,analisi delle informazioni, analisi delle informazioni (dimessi/guariti in fase di revisione)
+dc-IT-0009,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,06,Friuli Venezia Giulia,,,,correzione dati,analisi delle informazioni, analisi delle informazioni (dimessi/guariti in fase di revisione)
+dc-IT-0010,2020-04-24T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi (1.237 tamponi aggiunti)
+dc-IT-0011,2020-04-24T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi (1.237 tamponi aggiunti)
+dc-IT-0012,2020-04-26T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
+dc-IT-0013,2020-04-26T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
+dc-IT-0014,2020-05-01T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo 41 decessi (8 nelle ultime 48 ore e 33 ad aprile)
+dc-IT-0015,2020-05-01T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo 41 decessi (8 nelle ultime 48 ore e 33 ad aprile)
+dc-IT-0016,2020-05-02T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo 329 decessi (47 di oggi e 282 da riconteggio di aprile)
+dc-IT-0017,2020-05-02T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo 329 decessi (47 di oggi e 282 da riconteggio di aprile)
+dc-IT-0018,2020-05-04T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo nuovi casi e guariti
+dc-IT-0019,2020-05-04T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo nuovi casi e guariti
+dc-IT-0020,2020-05-06T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,aggiornamento dimessi guariti (aumento)
+dc-IT-0021,2020-05-06T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,aggiornamento dimessi guariti (aumento)
+dc-IT-0022,2020-05-07T17:00:00,dati-regioni,ITA,17,Basilicata,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (diminuzione)
+dc-IT-0023,2020-05-07T17:00:00,dati-andamento-nazionale,ITA,17,Basilicata,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (diminuzione)
+dc-IT-0024,2020-05-07T17:00:00,dati-regioni,ITA,17,Basilicata,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (diminuzione)
+dc-IT-0025,2020-05-07T17:00:00,dati-andamento-nazionale,ITA,17,Basilicata,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (diminuzione)
+dc-IT-0026,2020-05-12T17:00:00,dati-regioni,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,aggiunti 419 casi positivi con diagnosi prima degli ultimi 7 giorni
+dc-IT-0027,2020-05-12T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,correzione dati,ricalcolo delle informazioni,aggiunti 419 casi positivi con diagnosi prima degli ultimi 7 giorni
+dc-IT-0028,2020-05-14T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+5)
+dc-IT-0029,2020-05-14T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+5)
+dc-IT-0030,2020-04-15T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio
+dc-IT-0031,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio

@@ -114,7 +114,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "codice_provincia": 21,
         "denominazione_provincia": "Bolzano",
@@ -128,7 +128,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "codice_provincia": 981,
         "denominazione_provincia": "In fase di definizione/aggiornamento",
@@ -1584,7 +1584,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "codice_provincia": 22,
         "denominazione_provincia": "Trento",
@@ -1598,7 +1598,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "codice_provincia": 996,
         "denominazione_provincia": "In fase di definizione/aggiornamento",

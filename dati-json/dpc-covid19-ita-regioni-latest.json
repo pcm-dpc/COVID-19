@@ -46,7 +46,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -376,7 +376,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,

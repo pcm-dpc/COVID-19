@@ -8,7 +8,8 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
  
 ## Avviso modifiche 
-[https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625)<br><br>
+[https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625)<br>
+Modifiche effettuate - fino al 22 maggio 2020, nella cartella legacy-data, saranno caricati i dati giornalieri con i codice_regione 04 per P.A. Bolzano e P.A. Trento che da oggi assumeranno il nuovo valore codice_regione 21 per P.A. Bolzano e 22 per P.A. Trento<br>
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 

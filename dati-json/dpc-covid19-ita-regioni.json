@@ -46,7 +46,7 @@
     {
         "data": "2020-02-24T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -376,7 +376,7 @@
     {
         "data": "2020-02-24T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -508,7 +508,7 @@
     {
         "data": "2020-02-25T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -838,7 +838,7 @@
     {
         "data": "2020-02-25T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -970,7 +970,7 @@
     {
         "data": "2020-02-26T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -1300,7 +1300,7 @@
     {
         "data": "2020-02-26T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -1432,7 +1432,7 @@
     {
         "data": "2020-02-27T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -1762,7 +1762,7 @@
     {
         "data": "2020-02-27T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -1894,7 +1894,7 @@
     {
         "data": "2020-02-28T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -2224,7 +2224,7 @@
     {
         "data": "2020-02-28T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -2356,7 +2356,7 @@
     {
         "data": "2020-02-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -2686,7 +2686,7 @@
     {
         "data": "2020-02-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -2818,7 +2818,7 @@
     {
         "data": "2020-03-01T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -3148,7 +3148,7 @@
     {
         "data": "2020-03-01T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -3280,7 +3280,7 @@
     {
         "data": "2020-03-02T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -3610,7 +3610,7 @@
     {
         "data": "2020-03-02T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -3742,7 +3742,7 @@
     {
         "data": "2020-03-03T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -4072,7 +4072,7 @@
     {
         "data": "2020-03-03T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -4204,7 +4204,7 @@
     {
         "data": "2020-03-04T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -4534,7 +4534,7 @@
     {
         "data": "2020-03-04T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -4666,7 +4666,7 @@
     {
         "data": "2020-03-05T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -4996,7 +4996,7 @@
     {
         "data": "2020-03-05T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -5128,7 +5128,7 @@
     {
         "data": "2020-03-06T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -5458,7 +5458,7 @@
     {
         "data": "2020-03-06T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -5590,7 +5590,7 @@
     {
         "data": "2020-03-07T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -5920,7 +5920,7 @@
     {
         "data": "2020-03-07T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -6052,7 +6052,7 @@
     {
         "data": "2020-03-08T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -6382,7 +6382,7 @@
     {
         "data": "2020-03-08T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -6514,7 +6514,7 @@
     {
         "data": "2020-03-09T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -6844,7 +6844,7 @@
     {
         "data": "2020-03-09T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -6976,7 +6976,7 @@
     {
         "data": "2020-03-10T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -7306,7 +7306,7 @@
     {
         "data": "2020-03-10T18:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -7438,7 +7438,7 @@
     {
         "data": "2020-03-11T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -7768,7 +7768,7 @@
     {
         "data": "2020-03-11T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -7900,7 +7900,7 @@
     {
         "data": "2020-03-12T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -8230,7 +8230,7 @@
     {
         "data": "2020-03-12T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -8362,7 +8362,7 @@
     {
         "data": "2020-03-13T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -8692,7 +8692,7 @@
     {
         "data": "2020-03-13T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -8824,7 +8824,7 @@
     {
         "data": "2020-03-14T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -9154,7 +9154,7 @@
     {
         "data": "2020-03-14T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -9286,7 +9286,7 @@
     {
         "data": "2020-03-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -9616,7 +9616,7 @@
     {
         "data": "2020-03-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -9748,7 +9748,7 @@
     {
         "data": "2020-03-16T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -10078,7 +10078,7 @@
     {
         "data": "2020-03-16T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -10210,7 +10210,7 @@
     {
         "data": "2020-03-17T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -10540,7 +10540,7 @@
     {
         "data": "2020-03-17T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -10672,7 +10672,7 @@
     {
         "data": "2020-03-18T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -11002,7 +11002,7 @@
     {
         "data": "2020-03-18T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -11134,7 +11134,7 @@
     {
         "data": "2020-03-19T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -11464,7 +11464,7 @@
     {
         "data": "2020-03-19T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -11596,7 +11596,7 @@
     {
         "data": "2020-03-20T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -11926,7 +11926,7 @@
     {
         "data": "2020-03-20T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -12058,7 +12058,7 @@
     {
         "data": "2020-03-21T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -12388,7 +12388,7 @@
     {
         "data": "2020-03-21T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -12520,7 +12520,7 @@
     {
         "data": "2020-03-22T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -12850,7 +12850,7 @@
     {
         "data": "2020-03-22T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -12982,7 +12982,7 @@
     {
         "data": "2020-03-23T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -13312,7 +13312,7 @@
     {
         "data": "2020-03-23T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -13444,7 +13444,7 @@
     {
         "data": "2020-03-24T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -13774,7 +13774,7 @@
     {
         "data": "2020-03-24T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -13906,7 +13906,7 @@
     {
         "data": "2020-03-25T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -14236,7 +14236,7 @@
     {
         "data": "2020-03-25T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -14368,7 +14368,7 @@
     {
         "data": "2020-03-26T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -14698,7 +14698,7 @@
     {
         "data": "2020-03-26T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -14830,7 +14830,7 @@
     {
         "data": "2020-03-27T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -15160,7 +15160,7 @@
     {
         "data": "2020-03-27T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -15292,7 +15292,7 @@
     {
         "data": "2020-03-28T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -15622,7 +15622,7 @@
     {
         "data": "2020-03-28T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -15754,7 +15754,7 @@
     {
         "data": "2020-03-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -16084,7 +16084,7 @@
     {
         "data": "2020-03-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -16216,7 +16216,7 @@
     {
         "data": "2020-03-30T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -16546,7 +16546,7 @@
     {
         "data": "2020-03-30T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -16678,7 +16678,7 @@
     {
         "data": "2020-03-31T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -17008,7 +17008,7 @@
     {
         "data": "2020-03-31T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -17140,7 +17140,7 @@
     {
         "data": "2020-04-01T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -17470,7 +17470,7 @@
     {
         "data": "2020-04-01T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -17602,7 +17602,7 @@
     {
         "data": "2020-04-02T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -17932,7 +17932,7 @@
     {
         "data": "2020-04-02T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -18064,7 +18064,7 @@
     {
         "data": "2020-04-03T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -18394,7 +18394,7 @@
     {
         "data": "2020-04-03T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -18526,7 +18526,7 @@
     {
         "data": "2020-04-04T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -18856,7 +18856,7 @@
     {
         "data": "2020-04-04T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -18988,7 +18988,7 @@
     {
         "data": "2020-04-05T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -19318,7 +19318,7 @@
     {
         "data": "2020-04-05T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -19450,7 +19450,7 @@
     {
         "data": "2020-04-06T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -19780,7 +19780,7 @@
     {
         "data": "2020-04-06T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -19912,7 +19912,7 @@
     {
         "data": "2020-04-07T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -20242,7 +20242,7 @@
     {
         "data": "2020-04-07T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -20374,7 +20374,7 @@
     {
         "data": "2020-04-08T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -20704,7 +20704,7 @@
     {
         "data": "2020-04-08T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -20836,7 +20836,7 @@
     {
         "data": "2020-04-09T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -21166,7 +21166,7 @@
     {
         "data": "2020-04-09T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -21298,7 +21298,7 @@
     {
         "data": "2020-04-10T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -21628,7 +21628,7 @@
     {
         "data": "2020-04-10T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -21760,7 +21760,7 @@
     {
         "data": "2020-04-11T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -22090,7 +22090,7 @@
     {
         "data": "2020-04-11T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -22222,7 +22222,7 @@
     {
         "data": "2020-04-12T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -22552,7 +22552,7 @@
     {
         "data": "2020-04-12T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -22684,7 +22684,7 @@
     {
         "data": "2020-04-13T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -23014,7 +23014,7 @@
     {
         "data": "2020-04-13T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -23146,7 +23146,7 @@
     {
         "data": "2020-04-14T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -23476,7 +23476,7 @@
     {
         "data": "2020-04-14T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -23608,7 +23608,7 @@
     {
         "data": "2020-04-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -23938,7 +23938,7 @@
     {
         "data": "2020-04-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -24070,7 +24070,7 @@
     {
         "data": "2020-04-16T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -24400,7 +24400,7 @@
     {
         "data": "2020-04-16T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -24532,7 +24532,7 @@
     {
         "data": "2020-04-17T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -24862,7 +24862,7 @@
     {
         "data": "2020-04-17T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -24994,7 +24994,7 @@
     {
         "data": "2020-04-18T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -25324,7 +25324,7 @@
     {
         "data": "2020-04-18T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -25456,7 +25456,7 @@
     {
         "data": "2020-04-19T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -25786,7 +25786,7 @@
     {
         "data": "2020-04-19T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -25918,7 +25918,7 @@
     {
         "data": "2020-04-20T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -26248,7 +26248,7 @@
     {
         "data": "2020-04-20T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -26380,7 +26380,7 @@
     {
         "data": "2020-04-21T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -26710,7 +26710,7 @@
     {
         "data": "2020-04-21T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -26842,7 +26842,7 @@
     {
         "data": "2020-04-22T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -27172,7 +27172,7 @@
     {
         "data": "2020-04-22T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -27304,7 +27304,7 @@
     {
         "data": "2020-04-23T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -27634,7 +27634,7 @@
     {
         "data": "2020-04-23T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -27766,7 +27766,7 @@
     {
         "data": "2020-04-24T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -28096,7 +28096,7 @@
     {
         "data": "2020-04-24T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -28228,7 +28228,7 @@
     {
         "data": "2020-04-25T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -28558,7 +28558,7 @@
     {
         "data": "2020-04-25T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -28690,7 +28690,7 @@
     {
         "data": "2020-04-26T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -29020,7 +29020,7 @@
     {
         "data": "2020-04-26T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -29152,7 +29152,7 @@
     {
         "data": "2020-04-27T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -29482,7 +29482,7 @@
     {
         "data": "2020-04-27T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -29614,7 +29614,7 @@
     {
         "data": "2020-04-28T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -29944,7 +29944,7 @@
     {
         "data": "2020-04-28T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -30076,7 +30076,7 @@
     {
         "data": "2020-04-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -30406,7 +30406,7 @@
     {
         "data": "2020-04-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -30538,7 +30538,7 @@
     {
         "data": "2020-04-30T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -30868,7 +30868,7 @@
     {
         "data": "2020-04-30T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -31000,7 +31000,7 @@
     {
         "data": "2020-05-01T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -31330,7 +31330,7 @@
     {
         "data": "2020-05-01T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -31462,7 +31462,7 @@
     {
         "data": "2020-05-02T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -31792,7 +31792,7 @@
     {
         "data": "2020-05-02T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -31924,7 +31924,7 @@
     {
         "data": "2020-05-03T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -32254,7 +32254,7 @@
     {
         "data": "2020-05-03T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -32386,7 +32386,7 @@
     {
         "data": "2020-05-04T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -32716,7 +32716,7 @@
     {
         "data": "2020-05-04T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -32848,7 +32848,7 @@
     {
         "data": "2020-05-05T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -33178,7 +33178,7 @@
     {
         "data": "2020-05-05T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -33310,7 +33310,7 @@
     {
         "data": "2020-05-06T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -33640,7 +33640,7 @@
     {
         "data": "2020-05-06T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -33772,7 +33772,7 @@
     {
         "data": "2020-05-07T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -34102,7 +34102,7 @@
     {
         "data": "2020-05-07T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -34234,7 +34234,7 @@
     {
         "data": "2020-05-08T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -34564,7 +34564,7 @@
     {
         "data": "2020-05-08T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -34696,7 +34696,7 @@
     {
         "data": "2020-05-09T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -35026,7 +35026,7 @@
     {
         "data": "2020-05-09T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -35158,7 +35158,7 @@
     {
         "data": "2020-05-10T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -35488,7 +35488,7 @@
     {
         "data": "2020-05-10T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -35620,7 +35620,7 @@
     {
         "data": "2020-05-11T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -35950,7 +35950,7 @@
     {
         "data": "2020-05-11T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -36082,7 +36082,7 @@
     {
         "data": "2020-05-12T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -36412,7 +36412,7 @@
     {
         "data": "2020-05-12T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -36544,7 +36544,7 @@
     {
         "data": "2020-05-13T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -36874,7 +36874,7 @@
     {
         "data": "2020-05-13T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -37006,7 +37006,7 @@
     {
         "data": "2020-05-14T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -37336,7 +37336,7 @@
     {
         "data": "2020-05-14T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
@@ -37468,7 +37468,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": 46.49933453,
         "long": 11.35662422,
@@ -37798,7 +37798,7 @@
     {
         "data": "2020-05-15T17:00:00",
         "stato": "ITA",
-        "codice_regione": 4,
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": 46.06893511,
         "long": 11.12123097,
