@@ -75,6 +75,9 @@ All changes to the project, new features and information are documented in this 
 
 - Add: update to 03/05/2020 shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
 
+## 2020-05-18
+
+- Add: update at 18/5/2020 shape file with national containment measures according to DPCM 17/5/2020 with related metadata.
 
 ## Next update
 
