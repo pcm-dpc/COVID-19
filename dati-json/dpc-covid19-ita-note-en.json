@@ -838,5 +838,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May"
+    },
+    {
+        "codice": "pd-IT-0018",
+        "data": "2020-03-07T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "tested cases not updated"
+    },
+    {
+        "codice": "pd-IT-0019",
+        "data": "2020-03-07T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "tested cases not updated"
     }
 ]

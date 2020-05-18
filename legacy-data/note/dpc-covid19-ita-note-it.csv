@@ -61,3 +61,5 @@ dc-IT-0028,2020-05-14T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,r
 dc-IT-0029,2020-05-14T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+5)
 dc-IT-0030,2020-04-15T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio
 dc-IT-0031,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio
+pd-IT-0018,2020-05-18T17:00:00,dati-regioni,ITA,04,P.A. Trento,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
+pd-IT-0019,2020-05-18T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Trento,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati

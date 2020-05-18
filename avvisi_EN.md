@@ -7,6 +7,7 @@
 ## Notices
 
 ```diff
+- 18/05/2020: P.A. Trento data tested cases not updated
 - 15/05/2020: Lazio Region 73 new positives, of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March, April and May
 - 14/05/2020: Sardegna Region data recalculation of deceased people (+5)
 - 12/05/2020: Lombardia Region add 419 positive cases diagnosed before the last 7 days

@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 18/05/2020: dati P.A. Trento non aggiornati nei casi testati
 - 15/05/2020: dati Regione Lazio 73 nuovi positivi di cui 18 ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo, aprile e maggio
 - 14/05/2020: dati Regione Sardegna ricalcolo decessi (+5)
 - 12/05/2020: dati Regione Lombardia aggiunti 419 casi positivi con diagnosi prima

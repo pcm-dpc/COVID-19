@@ -866,5 +866,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio"
+    },
+    {
+        "codice": "pd-IT-0018",
+        "data": "2020-05-18T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 4,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "casi testati non aggiornati"
+    },
+    {
+        "codice": "pd-IT-0019",
+        "data": "2020-05-18T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 4,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "casi testati non aggiornati"
     }
 ]
