@@ -81,6 +81,7 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
+├── data-legacy
 ├── note/
 │   ├── dpc-covid19-ita-note-en.csv
 │   ├── dpc-covid19-ita-note-it.csv
@@ -100,7 +101,7 @@ COVID-19/
 
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
-- [Dati aree misure restrittive COVID19](dati_aree-nazionali-subregionali-misure-restrittive-covid19.md)
+- [Dati aree misure restrittive COVID19](dati-aree-covid19.md)
 
 ## Licenza
 

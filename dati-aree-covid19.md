@@ -15,8 +15,7 @@
 
 **Directory:**  aree<br>
 **Struttura file giornaliero: vedi seguito<br>
-**File complessivo:**  	dpc-covid-19-ita-aree e  	dpc-covid-19-ita-aree-comuni <br>
-
+**File complessivo:**  dpc-covid-19-ita-aree e dpc-covid-19-ita-aree-comuni<br>
 
 **Aree dove sono applicate misure restrittive a seguito di epidemia COVID-19**<br>
 Aree nazionali, provinciali, comunali e/o subcomunali dove, in applicazione di specifici dispositivi giuridici, sono applicate misure restrittive per il contenimento dell'epidemia COVID-19 (per quelle subregionali ai sensi dell'art. 32, comma 3, della legge 23 dicembre 1978, n. 833 in materia di igiene e sanità pubblica).Si fa riferimento al Data Model del Tema n.11 Annex III "Zone sottoposte a gestione/limitazione/regolamentazione e unità con obbligo di comunicare i dati" della Direttiva 2007/2/CE Inspire.
@@ -58,50 +57,7 @@ Aree nazionali, provinciali, comunali e/o subcomunali dove, in applicazione di s
 | **journalCitation** | Citazione del Bollettino Ufficiale della regione dove è pubblicato il provvedimento.
 | **officialJournalIdentification** | Riferimento al Bollettino Ufficiale della Regione dove è pubblicato il provvedimento.Si è utilizzata la combinazione di numero e data di pubblicazione.
 | **linkToJournal** | Link alla versione on line del Bollettino Ufficiale della regione dove è stato pubblicato il provvedimento.
-
-<br><br>
-**Areas where restrictive measures are applied following the COVID-19 epidemic**<br>
-National, provincial, municipal and / or sub-municipal areas where, in application of specific legal provisions, restrictive measures are applied for the containment of the COVID-19 epidemic (for sub-regional ones pursuant to art.32, paragraph 3, of law 23 833 of December 1978 on hygiene and public health). Reference is made to the Data Model of Theme 11 Annex III "Areas subject to management / limitation / regulation and units with obligation to communicate data" of Directive 2007 / 2 / CE Inspire.
-
-| Nome campo | Descrizione |
-|------------|-------------|
-| **ID** | Unique identifier of the individual features of the dataset.
-| **localId** | Unique identifier assigned by the data provider in the namespace that identifies the supplier of the dataset.
-| **namespace** | Name that uniquely identifies the provider of the dataset.
-| **versionId** | Identifier of a specific version of the feature to define a "life cycle" of the measures at national/regional level. The value is unique within the set of features of the same competent authority to issue the measures (i.e. Region). EXAMPLE: the same municipality or more municipalities, over time, are subject to restrictive measures with different measures. A specific version is associated with each measure and the territories indicated by it.
-| **ThematicID** | Name and identifier of the topic within which all the measures can be traced. In this case, these are regional measures taken during the emergency management of the COVID epidemic 19.
-| **Geographic Name** | Specification used to name features geographically.
-| **language** | Language used for the name, attributed with a three letter code, in accordance with ISO 639-3 or ISO 639-5.
-| **nameStatus** | Qualitative information to understand the degree of standardization to be attributed to the name used.
-| **nativeness** | Information to understand if the name adopted is the one actually used in the area to which it refers at the time of its use.
-| **pronunciation** | Correct pronunciation of the name used. In this case it was not populated because it was deemed unnecessary.
-| **sourceOfName** | Original source of the geographic names from which they were taken in full, in this case the names of the ISTAT administrative units were adopted.
-| **spelling** | How the name is written and code of letters taken to write it.
-| **Zone** | Set of information specifying the classification of the zone and other related information.
-| **zoneType** | High level classification to define the area to which the restrictive measures apply. The value comes from a controlled vocabulary.
-| **specializedZoneType** | Additional classification for further specification of the type of zone. The value derives from a controlled vocabulary.
-| **designationPeriod** | Time interval of application of the restrictive measures legally defined with a Regional provision. It is defined with a start and end date.
-| **environmentalDomain** | Classification of the environmental domain for which the adoption of measures represented the means to achieve specific protection objectives. The value derives from a controlled vocabulary.
-| **beginLifespanVersion** | Date of insertion or modification of the feature in the dataset.
-| **endLifespanVersion** | Date the feature was removed or from the dataset.
-| **relatedParty** | Organization that has the role of attributing restrictive measures.
-| **organisationlName** | Nome dell'organizzazione. In questo caso si tratta dell'autorità che emana il provvedimento.
-| **role** | Role of the organization.
-| **LegislationCitation Supertypes: DocumentCitation** | Citation of the legal provision.
-| **name** | Official name of the measure (in some cases, for brevity a part of the name deemed non-essential has been omitted).
-| **shortName** | Abbreviated name or alternative title of the measure.
-| **date** | Date of creation, publication or revision of the provision.
-| **link** | Link to the online version of the measure.
-| **specificReference** | Reference to a specific part of the measure.
-| **identificationNumber** | Code or abbreviation used to identify the measure (generally it is the combination of number and date).
-| **officialDocumentNumber** | Number that uniquely identifies the measure (the identification number has been used).
-| **dateEnteredIntoForce** | Date of application of the measure.
-| **dateRepealed** | Date of repeal of the provision.
-| **journalCitation** | Citation of the Official Bulletin of the region where the measure is published.
-| **officialJournalIdentification** | Citation of the Official Bulletin of the region where the measure is published.
-| **linkToJournal** | Link to the online version of the Official Bulletin of the region where the measure was published.
-
-<br><br>
+<br><br><br>
 
 ### Licenza
 **Licenza:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)<br>
