@@ -59,5 +59,7 @@ dc-EN-0028,2020-05-14T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,r
 dc-EN-0029,2020-05-14T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of deceased people (+5)
 dc-EN-0030,2020-04-15T17:00:00,dati-regioni,ITA,12,Lazio,,,,data correction,recalculation of information,73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May
 dc-EN-0031,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,data correction,recalculation of information,73 new positives of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March April and May
-pd-IT-0018,2020-03-07T17:00:00,dati-regioni,ITA,22,P.A. Trento,,,,partial data,partial communication of data,tested cases not updated
-pd-IT-0019,2020-03-07T17:00:00,dati-andamento-nazionale,ITA,22,P.A. Trento,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0018,2020-03-07T17:00:00,dati-regioni,ITA,22,P.A. Trento,,,,partial data,partial communication of data,tested cases not updated
+pd-EN-0019,2020-03-07T17:00:00,dati-andamento-nazionale,ITA,22,P.A. Trento,,,,partial data,partial communication of data,tested cases not updated
+dc-EN-0032,2020-04-19T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,recalculation of information,positive cases recalculation: -8 (-7 on 17/05/2020 and -1 on 18/05/2020)
+dc-EN-0033,2020-04-19T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of information,positive cases recalculation: -8 (-7 on 17/05/2020 and -1 on 18/05/2020)

@@ -63,3 +63,5 @@ dc-IT-0030,2020-04-15T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,rica
 dc-IT-0031,2020-04-15T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio
 pd-IT-0018,2020-05-18T17:00:00,dati-regioni,ITA,04,P.A. Trento,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
 pd-IT-0019,2020-05-18T17:00:00,dati-andamento-nazionale,ITA,04,P.A. Trento,,,,dati parziali,comunicazione parziale dei dati,casi testati non aggiornati
+dc-IT-0032,2020-04-19T17:00:00,dati-regioni,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)
+dc-IT-0033,2020-04-19T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)

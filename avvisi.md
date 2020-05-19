@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 19/05/2020: dati Regione Marche ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)
 - 18/05/2020: dati P.A. Trento non aggiornati nei casi testati
 - 15/05/2020: dati Regione Lazio 73 nuovi positivi di cui 18 ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo, aprile e maggio
 - 14/05/2020: dati Regione Sardegna ricalcolo decessi (+5)
