@@ -65,20 +65,19 @@ All changes to the project, new features and information are documented in this 
 
 - Add: update at 4/5/2020 shape file with national containment measures according to DPCM 26/4/2020 with related metadata.
 
-
-## 2020-05-05
-
-- API Rest (Json) private beta
-- GraphQL private beta
-
 ## 2020-05-06
 
 - Add: update to 03/05/2020 shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
+
+## 2020-05-16
+
+- Change codice_regione for P.A. Bolzano and P.A. Trento: from 04 to 21 for P.A. Bolzano and from 04 to 22 for P.A. Trento (province code)
 
 ## 2020-05-18
 
 - Add: update at 18/5/2020 shape file with national containment measures according to DPCM 17/5/2020 with related metadata.
 
-## Next update
+## Next updates
 
-- Change codice_regione for P.A. Bolzano and P.A. Trento: from 04 to 21 for P.A. Bolzano and from 04 to 22 for P.A. Trento (province code)
+- API Rest (Json) public beta
+- GraphQL public beta
