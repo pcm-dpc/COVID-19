@@ -922,5 +922,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)"
+    },
+    {
+        "codice": "pd-IT-0020",
+        "data": "2020-05-24T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "dato persone decedute non aggiornato"
+    },
+    {
+        "codice": "pd-IT-0021",
+        "data": "2020-05-24T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "dato persone decedute non aggiornato"
     }
 ]

@@ -894,5 +894,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "positive cases recalculation: -8 (-7 on 17/05/2020 and -1 on 18/05/2020)"
+    },
+    {
+        "codice": "pd-EN-0020",
+        "data": "2020-05-24T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "deceased people data not updated"
+    },
+    {
+        "codice": "pd-EN-0021",
+        "data": "2020-05-24T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "partial data",
+        "avviso": "partial communication of data",
+        "note": "deceased people data not updated"
     }
 ]

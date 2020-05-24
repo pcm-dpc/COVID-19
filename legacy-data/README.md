@@ -1,2 +1,0 @@
-I dati in questa cartella non saranno più aggiornati dal 23/05/2020, la cartella sarà cancellata il 25/05/2020<br>
-The data in this folder will no longer be updated from 23/05/2020, the folder will be deleted on 25/05/2020

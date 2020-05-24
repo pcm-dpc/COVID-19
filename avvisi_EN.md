@@ -7,6 +7,7 @@
 ## Notices
 
 ```diff
+- 24/05/2020: Lombardia Region deceased people data not updated
 - 19/05/2020: Marche Region positive cases recalculation: -8 (-7 on 17/05/2020 and -1 on 18/05/2020)
 - 18/05/2020: P.A. Trento data tested cases not updated
 - 15/05/2020: Lazio Region 73 new positives, of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March, April and May
