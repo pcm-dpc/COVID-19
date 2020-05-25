@@ -813,7 +813,7 @@
     },
     {
         "codice": "dc-EN-0030",
-        "data": "2020-04-15T17:00:00",
+        "data": "2020-05-15T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 12,
@@ -827,7 +827,7 @@
     },
     {
         "codice": "dc-EN-0031",
-        "data": "2020-04-15T17:00:00",
+        "data": "2020-05-15T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 12,
@@ -869,7 +869,7 @@
     },
     {
         "codice": "dc-EN-0032",
-        "data": "2020-04-19T17:00:00",
+        "data": "2020-05-19T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 11,
@@ -883,7 +883,7 @@
     },
     {
         "codice": "dc-EN-0033",
-        "data": "2020-04-19T17:00:00",
+        "data": "2020-05-19T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 11,
@@ -925,7 +925,7 @@
     },
     {
         "codice": "dc-EN-0034",
-        "data": "2020-04-25T17:00:00",
+        "data": "2020-05-25T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
         "codice_regione": 20,
@@ -939,7 +939,7 @@
     },
     {
         "codice": "dc-EN-0035",
-        "data": "2020-04-25T17:00:00",
+        "data": "2020-05-25T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
         "codice_regione": 20,
