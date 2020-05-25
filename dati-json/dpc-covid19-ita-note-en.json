@@ -922,5 +922,33 @@
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
         "note": "deceased people data not updated"
+    },
+    {
+        "codice": "dc-EN-0034",
+        "data": "2020-04-25T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-2 for false positives by the ASSL of Oristano and by the ASSL of Sassari)"
+    },
+    {
+        "codice": "dc-EN-0035",
+        "data": "2020-04-25T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-2 for false positives by the ASSL of Oristano and by the ASSL of Sassari)"
     }
 ]
