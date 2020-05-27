@@ -1672,5 +1672,23 @@
         "casi_testati": 2253252,
         "note_it": "",
         "note_en": ""
+    },
+        {
+        "data": "2020-05-27T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 7729,
+        "terapia_intensiva": 505,
+        "totale_ospedalizzati": 8234,
+        "isolamento_domiciliare": 42732,
+        "totale_positivi": 50966,
+        "variazione_totale_positivi": -1976,
+        "nuovi_positivi": 584,
+        "dimessi_guariti": 147101,
+        "deceduti": 33072,
+        "totale_casi": 231139,
+        "tamponi": 3607251,
+        "casi_testati": 2290551,
+        "note_it": "",
+        "note_en": ""
     }
 ]
