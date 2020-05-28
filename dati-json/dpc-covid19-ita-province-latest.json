@@ -1129,7 +1129,7 @@
         "sigla_provincia": "BT",
         "lat": 41.22705039,
         "long": 16.29520432,
-        "totale_casi": 652,
+        "totale_casi": 381,
         "note_it": "",
         "note_en": ""
     },
@@ -1143,7 +1143,7 @@
         "sigla_provincia": "BR",
         "lat": 40.63848545,
         "long": 17.94601575,
-        "totale_casi": 381,
+        "totale_casi": 652,
         "note_it": "",
         "note_en": ""
     },
