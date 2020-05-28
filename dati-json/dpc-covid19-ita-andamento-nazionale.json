@@ -1673,7 +1673,7 @@
         "note_it": "",
         "note_en": ""
     },
-        {
+    {
         "data": "2020-05-27T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 7729,
@@ -1688,6 +1688,24 @@
         "totale_casi": 231139,
         "tamponi": 3607251,
         "casi_testati": 2290551,
+        "note_it": "",
+        "note_en": ""
+    },
+    {
+        "data": "2020-05-28T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 7379,
+        "terapia_intensiva": 489,
+        "totale_ospedalizzati": 7868,
+        "isolamento_domiciliare": 40118,
+        "totale_positivi": 47986,
+        "variazione_totale_positivi": -2980,
+        "nuovi_positivi": 593,
+        "dimessi_guariti": 150604,
+        "deceduti": 33142,
+        "totale_casi": 231732,
+        "tamponi": 3683144,
+        "casi_testati": 2330389,
         "note_it": "",
         "note_en": ""
     }
