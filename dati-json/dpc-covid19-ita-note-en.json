@@ -952,7 +952,7 @@
         "note": "recalculation of positive cases (-2 for false positives by the ASSL of Oristano and by the ASSL of Sassari)"
     },
     {
-        "codice": "dc-IT-0035",
+        "codice": "dc-IT-0036",
         "data": "2020-05-29T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
@@ -966,7 +966,7 @@
         "note": "recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)"
     },
     {
-        "codice": "dc-IT-0036",
+        "codice": "dc-IT-0037",
         "data": "2020-05-29T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
