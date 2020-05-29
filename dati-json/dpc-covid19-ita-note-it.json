@@ -978,5 +978,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)"
+    },
+    {
+        "codice": "dc-IT-0035",
+        "data": "2020-05-29T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)"
+    },
+    {
+        "codice": "dc-IT-0036",
+        "data": "2020-05-29T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)"
     }
 ]

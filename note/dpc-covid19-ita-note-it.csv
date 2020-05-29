@@ -69,3 +69,5 @@ pd-IT-0020,2020-05-24T17:00:00,dati-regioni,ITA,03,Lombardia,,,,dati parziali,co
 pd-IT-0021,2020-05-24T17:00:00,dati-andamento-nazionale,ITA,03,Lombardia,,,,dati parziali,comunicazione parziale dei dati,dato persone decedute non aggiornato
 dc-IT-0034,2020-05-25T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)
 dc-IT-0035,2020-05-25T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)
+dc-IT-0035,2020-05-29T17:00:00,dati-regioni,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)
+dc-IT-0036,2020-05-29T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)

@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 29/05/2020: dati Regione Marche ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)
 - 25/05/2020: dati Regione Sardegna ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)
 - 24/05/2020: dati Regione Lombardia dato persone decedute non aggiornato
 - 19/05/2020: dati Regione Marche ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)
