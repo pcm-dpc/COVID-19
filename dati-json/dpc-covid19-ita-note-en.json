@@ -978,5 +978,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)"
+    },
+    {
+        "codice": "nd-IT-0015",
+        "data": "2020-05-30T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
+        "note": "data update not received"
+    },
+    {
+        "codice": "nd-IT-0016",
+        "data": "2020-05-30T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "no data",
+        "avviso": "no data has been sent",
+        "note": "data update not received"
     }
 ]
