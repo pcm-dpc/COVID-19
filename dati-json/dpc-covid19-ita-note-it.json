@@ -1034,5 +1034,33 @@
         "tipologia_avviso": "nessun dato",
         "avviso": "non sono stati comunicati dati",
         "note": "aggiornamento dati non pervenuto"
+    },
+    {
+        "codice": "pd-IT-0022",
+        "data": "2020-05-31T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "isolamento domiciliare e dimessi/guariti non aggiornati"
+    },
+    {
+        "codice": "pd-IT-0023",
+        "data": "2020-05-31T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "isolamento domiciliare e dimessi/guariti non aggiornati"
     }
 ]
