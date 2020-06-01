@@ -1,0 +1,375 @@
+{% extends "dashboard/index.html" %}
+{% load static %}
+
+{% block content %}
+
+<div class="container">
+    <h3>{{regionName}}</h3>
+
+    <div class="myChartDiv">
+      <canvas id="numeriSecchiChart" width="1280" height="720"></canvas>
+    </div>
+
+    <h3>{{regionName}} - Variazioni giornaliere </h3>
+    <div class="myChartDiv">
+      <canvas id="numeriSecchiNuoviChart" width="1280" height="720"></canvas>
+    </div>
+
+    <h3>{{regionName}} - Statistiche in percentuale </h3>
+    <div class="myChartDiv">
+      <canvas id="percChart" width="1280" height="720"></canvas>
+    </div>
+
+    <h3>{{regionName}} - Provincie (coming soon)</h3>
+    <div class="myChartDiv">
+      <canvas id="provinciaChart" width="1280" height="720"></canvas>
+    </div>
+
+    <h3>{{regionName}} - Trend provincie (coming soon)</h3>
+    <div class="myChartDiv">
+      <canvas id="trendProvinciaChart" width="1280" height="720"></canvas>
+    </div>
+
+
+</div>
+
+<script>
+    var labels = "{{labels|safe}}"
+    labels = labels.replace(/'/g, '')                                   // remove quotes
+    labels = labels.replace(/T[0-9][0-9]:[0-9][0-9]:[0-9][0-9]/g, '')   // remove time
+    labels = labels.substring(1, labels.length-1);                      // remove []
+    labels = labels.split(", ")
+
+
+    // numeri secchi
+    var ricoverati_con_sintomi = "{{ricoverati_con_sintomi|safe}}"
+    ricoverati_con_sintomi = ricoverati_con_sintomi.substring(1, ricoverati_con_sintomi.length-1);
+    ricoverati_con_sintomi = ricoverati_con_sintomi.split(", ")
+    var terapia_intensiva = "{{terapia_intensiva|safe}}"
+    terapia_intensiva = terapia_intensiva.substring(1, terapia_intensiva.length-1);
+    terapia_intensiva = terapia_intensiva.split(", ")
+    var totale_ospedalizzati = "{{totale_ospedalizzati|safe}}"
+    totale_ospedalizzati = totale_ospedalizzati.substring(1, totale_ospedalizzati.length-1);
+    totale_ospedalizzati = totale_ospedalizzati.split(", ")
+    var isolamento_domiciliare = "{{isolamento_domiciliare|safe}}"
+    isolamento_domiciliare = isolamento_domiciliare.substring(1, isolamento_domiciliare.length-1);
+    isolamento_domiciliare = isolamento_domiciliare.split(", ")
+    var attualmente_positivi = "{{attualmente_positivi|safe}}"
+    attualmente_positivi = attualmente_positivi.substring(1, attualmente_positivi.length-1);
+    attualmente_positivi = attualmente_positivi.split(", ")
+    var dimessi_guariti = "{{dimessi_guariti|safe}}"
+    dimessi_guariti = dimessi_guariti.substring(1, dimessi_guariti.length-1);
+    dimessi_guariti = dimessi_guariti.split(", ")
+    var deceduti = "{{deceduti|safe}}"
+    deceduti = deceduti.substring(1, deceduti.length-1);
+    deceduti = deceduti.split(", ")
+    var totale_casi = "{{totale_casi|safe}}"
+    totale_casi = totale_casi.substring(1, totale_casi.length-1);
+    totale_casi = totale_casi.split(", ")
+    var tamponi = "{{tamponi|safe}}"
+    tamponi = tamponi.substring(1, tamponi.length-1);
+    tamponi = tamponi.split(", ")
+
+    var nuovi_tamponi = "{{nuovi_tamponi|safe}}"
+    nuovi_tamponi = nuovi_tamponi.substring(1, nuovi_tamponi.length-1);
+    nuovi_tamponi = nuovi_tamponi.split(", ")
+    var nuovi_positivi = "{{nuovi_positivi|safe}}"
+    nuovi_positivi = nuovi_positivi.substring(1, nuovi_positivi.length-1);
+    nuovi_positivi = nuovi_positivi.split(", ")
+    var nuovi_guariti = "{{nuovi_guariti|safe}}"
+    nuovi_guariti = nuovi_guariti.substring(1, nuovi_guariti.length-1);
+    nuovi_guariti = nuovi_guariti.split(", ")
+    var nuovi_deceduti = "{{nuovi_deceduti|safe}}"
+    nuovi_deceduti = nuovi_deceduti.substring(1, nuovi_deceduti.length-1);
+    nuovi_deceduti = nuovi_deceduti.split(", ")
+
+    // percentuali
+
+    var perc_casi_conclusi = "{{perc_casi_conclusi|safe}}"
+    perc_casi_conclusi = perc_casi_conclusi.substring(1, perc_casi_conclusi.length-1);
+    perc_casi_conclusi = perc_casi_conclusi.split(", ")
+    var perc_guariti = "{{perc_guariti|safe}}"
+    perc_guariti = perc_guariti.substring(1, perc_guariti.length-1);
+    perc_guariti = perc_guariti.split(", ")
+    var perc_successo = "{{perc_successo|safe}}"
+    perc_successo = perc_successo.substring(1, perc_successo.length-1);
+    perc_successo = perc_successo.split(", ")
+    var perc_nuovi_positivi_per_tamponi = "{{perc_nuovi_positivi_per_tamponi|safe}}"
+    perc_nuovi_positivi_per_tamponi = perc_nuovi_positivi_per_tamponi.substring(1, perc_nuovi_positivi_per_tamponi.length-1);
+    perc_nuovi_positivi_per_tamponi = perc_nuovi_positivi_per_tamponi.split(", ")
+
+    colors = {
+        // orange
+        'orange_0_2': 'rgba(255, 128, 48, 0.2)',
+        'orange_1': 'rgba(255, 128, 48, 1)',
+
+        // green
+        'green_0_2': 'rgba(74, 184, 68, 0.2)',
+        'green_1': 'rgba(74, 184, 68, 1)',
+
+        // black
+        'black_0_2': 'rgba(0, 0, 0, 0.2)',
+        'black_1': 'rgba(0, 0, 0, 1)',
+
+        // grey
+        'grey_0_2': 'rgba(102,102,102,0.2)',
+        'grey_1': 'rgba(102,102,102,1)',
+
+        // blue
+        'blue_0_2': 'rgba(36, 108, 242, 0.2)',
+        'blue_1': 'rgba(36, 108, 242, 1)',
+    }
+
+    var datasets_numeri_secchi = [
+        // {label: 'ricoverati_con_sintomi', data: ricoverati_con_sintomi, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1'], hidden: true},      // color 1 *
+        // {label: 'terapia_intensiva', data: terapia_intensiva, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1'], hidden: true},                // color 1 *
+        // {label: 'totale_ospedalizzati', data: totale_ospedalizzati, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1'], hidden: true},          // color 1 **
+        // {label: 'isolamento_domiciliare', data: isolamento_domiciliare, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1'], hidden: true},      // color 1 *
+        {label: 'Attualmente positivi', data: attualmente_positivi, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1'], hidden: false},          // color 1 *
+        {label: 'Guariti', data: dimessi_guariti, backgroundColor: colors['green_0_2'], borderColor: colors['green_1']},                                            // color 2 ***
+        {label: 'Deceduti', data: deceduti, backgroundColor: colors['black_0_2'], borderColor: colors['black_1']},                                                  // color 3 ***
+        {label: 'Totale positivi', data: totale_casi, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1']},                                      // color 1 ***
+        {label: 'Tamponi totali', data: tamponi, backgroundColor: colors['grey_0_2'], borderColor: colors['grey_1'], hidden: true},                                 // color 4 ***
+    ]
+
+    var datasets_numeri_secchi_nuovi = [
+        {label: 'Nuovi tamponi', data: nuovi_tamponi, backgroundColor: colors['grey_0_2'], borderColor: colors['grey_1'], hidden: true},                        // color 4 **
+        {label: 'Nuovi positivi', data: nuovi_positivi, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1'], hidden: false},                  // color 1 **
+        {label: 'Nuovi guariti', data: nuovi_guariti, backgroundColor: colors['green_0_2'], borderColor: colors['green_1'], hidden: false},                      // color 2 **
+        {label: 'Nuovi deceduti', data: nuovi_deceduti, backgroundColor: colors['black_0_2'], borderColor: colors['black_1'], hidden: false},                    // color 3 **
+    ]
+
+    var datasets_percentuali = [
+        {label: '% casi conclusi', data: perc_casi_conclusi, backgroundColor: colors['blue_0_2'], borderColor: colors['blue_1']},                                // color 5 **
+        {label: '% guariti/positivi totali', data: perc_guariti, backgroundColor: colors['green_0_2'], borderColor: colors['green_1']},                                          // color 2 **
+        {label: '% successo (guariti/positivi totali)', data: perc_successo, backgroundColor: colors['green_0_2'], borderColor: colors['green_1']},                                        // color 2 **
+        {label: '% nuovi positivi/nuovi tamponi', data: perc_nuovi_positivi_per_tamponi, backgroundColor: colors['orange_0_2'], borderColor: colors['orange_1']},  // color 1 **
+    ]
+
+    var datasets_provincie = []
+
+    var datasets_trend_provincie = []
+
+    var numeriSecchiCanvas = document.getElementById("numeriSecchiChart");
+    var numeriSecchiConfig = {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets_numeri_secchi
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+                }]
+            },
+            plugins: {
+                zoom: {
+                    // Container for pan options
+                    pan: {
+                        // Boolean to enable panning
+                        enabled: true,
+
+                        // Panning directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow panning in the y direction
+                        mode: 'x',
+
+                    },
+
+                    // Container for zoom options
+                    zoom: {
+                        // Boolean to enable zooming
+                        enabled: true,
+
+                        speed: 1,
+
+                        // Zooming directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow zooming in the y direction
+                        mode: 'x',
+                    }
+                }
+            }
+        }
+    };
+    var numeriSecchiChart = new Chart(numeriSecchiCanvas, numeriSecchiConfig);
+
+    var numeriSecchiNuoviCanvas = document.getElementById("numeriSecchiNuoviChart");
+    var numeriSecchiNuoviConfig = {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets_numeri_secchi_nuovi
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+                }]
+            },
+            plugins: {
+                zoom: {
+                    // Container for pan options
+                    pan: {
+                        // Boolean to enable panning
+                        enabled: true,
+
+                        // Panning directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow panning in the y direction
+                        mode: 'x'
+                    },
+
+                    // Container for zoom options
+                    zoom: {
+                        // Boolean to enable zooming
+                        enabled: true,
+
+                        // Zooming directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow zooming in the y direction
+                        mode: 'x',
+
+                        speed: 1,
+                    }
+                }
+            }
+        }
+    };
+    var numeriSecchiNuoviChart = new Chart(numeriSecchiNuoviCanvas, numeriSecchiNuoviConfig);
+
+    var percChartCanvas = document.getElementById("percChart");
+    var percChartConfig = {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets_percentuali
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+                }]
+            },
+            plugins: {
+                zoom: {
+                    // Container for pan options
+                    pan: {
+                        // Boolean to enable panning
+                        enabled: true,
+
+                        // Panning directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow panning in the y direction
+                        mode: 'x'
+                    },
+
+                    // Container for zoom options
+                    zoom: {
+                        // Boolean to enable zooming
+                        enabled: true,
+
+                        // Zooming directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow zooming in the y direction
+                        mode: 'x',
+                        
+                        speed: 1,
+                    }
+                }
+            }
+        }
+    };
+    var percChart = new Chart(percChartCanvas, percChartConfig);
+
+    var provinciaChartCanvas = document.getElementById("provinciaChart");
+    var provinciaChartConfig = {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets_provincie
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+                }]
+            },
+            plugins: {
+                zoom: {
+                    // Container for pan options
+                    pan: {
+                        // Boolean to enable panning
+                        enabled: true,
+
+                        // Panning directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow panning in the y direction
+                        mode: 'x'
+                    },
+
+                    // Container for zoom options
+                    zoom: {
+                        // Boolean to enable zooming
+                        enabled: true,
+
+                        // Zooming directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow zooming in the y direction
+                        mode: 'x',
+
+                        speed: 1,
+                    }
+                }
+            }
+        }
+    };
+    var provinciaChart = new Chart(provinciaChartCanvas, provinciaChartConfig);
+
+    var trendProvinciaChartCanvas = document.getElementById("trendProvinciaChart");
+    var trendProvinciaChartConfig = {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets_trend_provincie
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+                }]
+            },
+            plugins: {
+                zoom: {
+                    // Container for pan options
+                    pan: {
+                        // Boolean to enable panning
+                        enabled: true,
+
+                        // Panning directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow panning in the y direction
+                        mode: 'x'
+                    },
+
+                    // Container for zoom options
+                    zoom: {
+                        // Boolean to enable zooming
+                        enabled: true,
+
+                        // Zooming directions. Remove the appropriate direction to disable
+                        // Eg. 'y' would only allow zooming in the y direction
+                        mode: 'x',
+
+                        speed: 1,
+                    }
+                }
+            }
+        }
+    };
+    var trendProvinciaChart = new Chart(trendProvinciaChartCanvas, trendProvinciaChartConfig);
+</script>
+
+{% endblock content %}
