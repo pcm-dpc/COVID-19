@@ -1019,7 +1019,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
-        "note": "home isolation and discharged/healed people data not updated"
+        "note": "discharged/healed people data not updated"
     },
     {
         "codice": "pd-EN-0023",
@@ -1033,34 +1033,6 @@
         "sigla_provincia": "",
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
-        "note": "home isolation and discharged/healed people data not updated"
-    },
-    {
-        "codice": "dc-EN-0037",
-        "data": "2020-06-01T17:00:00",
-        "dataset": "dati-regioni",
-        "stato": "ITA",
-        "codice_regione": 13,
-        "regione": "Abruzzo",
-        "codice_provincia": null,
-        "provincia": "",
-        "sigla_provincia": "",
-        "tipologia_avviso": "data correction",
-        "avviso": "recalculation of information",
-        "note": "recalculation of total cases data +22 referring to 2020-05-31"
-    },
-    {
-        "codice": "dc-EN-0038",
-        "data": "2020-06-01T17:00:00",
-        "dataset": "dati-andamento-nazionale",
-        "stato": "ITA",
-        "codice_regione": 13,
-        "regione": "Abruzzo",
-        "codice_provincia": null,
-        "provincia": "",
-        "sigla_provincia": "",
-        "tipologia_avviso": "data correction",
-        "avviso": "recalculation of information",
-        "note": "recalculation of total cases data +22 referring to 2020-05-31"
+        "note": "discharged/healed people data not updated"
     }
 ]

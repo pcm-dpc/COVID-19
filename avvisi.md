@@ -7,8 +7,7 @@
 ## Avvisi
 
 ```diff
-- 01/06/2020: dati Regione Abruzzo ricalcolo dati casi totali +22 riferiti al 31/05/2020
-- 31/05/2020: dati Regione Abruzzo isolamento domiciliare e dimessi/guariti non aggiornati
+- 31/05/2020: dati Regione Abruzzo dimessi/guariti non aggiornati
 - 30/05/2020: dati Regione Abruzzo aggiornamento non pervenuto
 - 29/05/2020: dati Regione Marche ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)
 - 25/05/2020: dati Regione Sardegna ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)

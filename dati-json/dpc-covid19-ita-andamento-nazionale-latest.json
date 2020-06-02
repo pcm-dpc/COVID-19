@@ -7,14 +7,14 @@
         "totale_ospedalizzati": 6523,
         "isolamento_domiciliare": 34844,
         "totale_positivi": 41367,
-        "variazione_totale_positivi": -708,
+        "variazione_totale_positivi": -730,
         "nuovi_positivi": 178,
         "dimessi_guariti": 158355,
         "deceduti": 33475,
         "totale_casi": 233197,
         "tamponi": 3910133,
         "casi_testati": 2451674,
-        "note_it": "dc-IT-0038",
-        "note_en": "dc-EN-0038"
+        "note_it": "",
+        "note_en": ""
     }
 ]

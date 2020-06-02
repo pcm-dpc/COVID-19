@@ -71,7 +71,5 @@ dc-EN-0036,2020-05-29T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,rec
 dc-EN-0037,2020-05-29T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)
 nd-EN-0015,2020-05-30T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
 nd-EN-0016,2020-05-30T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
-pd-EN-0022,2020-05-31T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,partial data,partial communication of data,home isolation and discharged/healed people data not updated
-pd-EN-0023,2020-05-31T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,partial data,partial communication of data,home isolation and discharged/healed people data not updated
-dc-EN-0037,2020-06-01T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of total cases data +22 referring to 2020-05-31
-dc-EN-0038,2020-06-01T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of total cases data +22 referring to 2020-05-31
+pd-EN-0022,2020-05-31T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,partial data,partial communication of data,discharged/healed people data not updated
+pd-EN-0023,2020-05-31T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,partial data,partial communication of data,discharged/healed people data not updated
