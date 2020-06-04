@@ -1034,5 +1034,33 @@
         "tipologia_avviso": "partial data",
         "avviso": "partial communication of data",
         "note": "discharged/healed people data not updated"
+    },
+    {
+        "codice": "dc-EN-0038",
+        "data": "2020-06-04T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of tested cases",
+        "note": ""
+    },
+    {
+        "codice": "dc-EN-0039",
+        "data": "2020-06-04T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of tested cases",
+        "note": ""
     }
 ]

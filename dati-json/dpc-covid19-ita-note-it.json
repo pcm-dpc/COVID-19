@@ -1047,7 +1047,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "dati parziali",
         "avviso": "comunicazione parziale dei dati",
-        "note": "isolamento domiciliare e dimessi/guariti non aggiornati"
+        "note": "dati dimessi/guariti non aggiornati"
     },
     {
         "codice": "pd-IT-0023",
@@ -1061,6 +1061,34 @@
         "sigla_provincia": "",
         "tipologia_avviso": "dati parziali",
         "avviso": "comunicazione parziale dei dati",
-        "note": "isolamento domiciliare e dimessi/guariti non aggiornati"
+        "note": "dati dimessi/guariti non aggiornati"
+    },
+    {
+        "codice": "dc-IT-0038",
+        "data": "2020-06-04T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo casi testati",
+        "note": ""
+    },
+    {
+        "codice": "dc-IT-0039",
+        "data": "2020-06-04T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo casi testati",
+        "note": ""
     }
 ]

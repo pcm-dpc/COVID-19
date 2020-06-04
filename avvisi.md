@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 04/06/2020: dati Regione Marche ricalcolo casi testati
 - 31/05/2020: dati Regione Abruzzo dimessi/guariti non aggiornati
 - 30/05/2020: dati Regione Abruzzo aggiornamento non pervenuto
 - 29/05/2020: dati Regione Marche ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)
