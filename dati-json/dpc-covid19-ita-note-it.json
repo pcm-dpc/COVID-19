@@ -1074,8 +1074,8 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
-        "avviso": "ricalcolo casi testati",
-        "note": ""
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi testati"
     },
     {
         "codice": "dc-IT-0039",
@@ -1088,7 +1088,7 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
-        "avviso": "ricalcolo casi testati",
-        "note": ""
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi testati"
     }
 ]
