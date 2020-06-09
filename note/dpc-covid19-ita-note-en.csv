@@ -73,5 +73,9 @@ nd-EN-0015,2020-05-30T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,no data,no data ha
 nd-EN-0016,2020-05-30T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,no data,no data has been sent,data update not received
 pd-EN-0022,2020-05-31T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,partial data,partial communication of data,discharged/healed people data not updated
 pd-EN-0023,2020-05-31T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,partial data,partial communication of data,discharged/healed people data not updated
-dc-EN-0038,2020-06-04T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,recalculation of tested cases
-dc-EN-0039,2020-06-04T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of tested cases
+dc-EN-0038,2020-06-04T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of tested cases
+dc-EN-0039,2020-06-04T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of tested cases
+dc-EN-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,recalculation of information,1 death attributable to today and 32 deaths occurred in previous periods
+dc-EN-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,1 death attributable to today and 32 deaths occurred in previous periods
+dc-EN-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,recalculation of information,-1 positive case compared to yesterday
+dc-EN-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,-1 positive case compared to yesterday

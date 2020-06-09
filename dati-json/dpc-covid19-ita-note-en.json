@@ -1046,8 +1046,8 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
-        "avviso": "recalculation of tested cases",
-        "note": ""
+        "avviso": "recalculation of information",
+        "note": "recalculation of tested cases"
     },
     {
         "codice": "dc-EN-0039",
@@ -1060,7 +1060,63 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
-        "avviso": "recalculation of tested cases",
-        "note": ""
+        "avviso": "recalculation of information",
+        "note": "recalculation of tested cases"
+    },
+    {
+        "codice": "dc-EN-0040",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "1 death attributable to today and 32 deaths occurred in previous periods"
+    },
+    {
+        "codice": "dc-EN-0041",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "1 death attributable to today and 32 deaths occurred in previous periods"
+    },
+    {
+        "codice": "dc-EN-0042",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "-1 positive case compared to yesterday"
+    },
+    {
+        "codice": "dc-EN-0043",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "-1 positive case compared to yesterday"
     }
 ]

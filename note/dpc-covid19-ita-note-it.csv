@@ -77,3 +77,7 @@ pd-IT-0022,2020-05-31T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,dati parziali,comu
 pd-IT-0023,2020-05-31T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,dati parziali,comunicazione parziale dei dati,dati dimessi/guariti non aggiornati
 dc-IT-0038,2020-06-04T17:00:00,dati-regioni,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
 dc-IT-0039,2020-06-04T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
+dc-IT-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
+dc-IT-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
+dc-IT-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
+dc-IT-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri

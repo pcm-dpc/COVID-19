@@ -1090,5 +1090,61 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi testati"
+    },
+    {
+        "codice": "dc-IT-0040",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti"
+    },
+    {
+        "codice": "dc-IT-0041",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti"
+    },
+    {
+        "codice": "dc-IT-0042",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "-1 caso positivo rispetto a ieri"
+    },
+    {
+        "codice": "dc-IT-0043",
+        "data": "2020-06-09T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "-1 caso positivo rispetto a ieri"
     }
 ]
