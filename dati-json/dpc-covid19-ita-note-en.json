@@ -1131,7 +1131,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of deceased"
+        "note": "recalculation of deceased (-1 related to yesterday)"
     },
     {
         "codice": "dc-EN-0045",
@@ -1145,7 +1145,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of deceased"
+        "note": "recalculation of deceased (-1 related to yesterday)"
     },
     {
         "codice": "dc-EN-0046",
@@ -1159,7 +1159,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of positive cases"
+        "note": "recalculation of positive cases (-230)"
     },
     {
         "codice": "dc-EN-0047",
@@ -1173,6 +1173,6 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation of positive cases"
+        "note": "recalculation of positive cases (-230)"
     }
 ]

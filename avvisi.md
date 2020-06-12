@@ -7,7 +7,7 @@
 ## Avvisi
 
 ```diff
-- 12/06/2020: dati P.A. Bolzano ricalcolo deceduti (-1)
+- 12/06/2020: dati P.A. Bolzano ricalcolo deceduti (-1 relativo a ieri)
 - 12/06/2020: dati Regione Campania ricalcolo casi positivi (-230)
 - 09/06/2020: dati Regione Abruzzo ricalcolo dati 1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
 - 09/06/2020: dati Regione Sardegna ricalcolo dei casi (-1 giorno precedente)

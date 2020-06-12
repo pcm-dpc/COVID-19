@@ -1159,7 +1159,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
-        "note": "ricalcolo deceduti"
+        "note": "ricalcolo deceduti (-1 relativo a ieri)"
     },
     {
         "codice": "dc-IT-0045",
@@ -1173,7 +1173,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
-        "note": "ricalcolo deceduti"
+        "note": "ricalcolo deceduti (-1 relativo a ieri)"
     },
     {
         "codice": "dc-IT-0046",
@@ -1187,7 +1187,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
-        "note": "ricalcolo casi positivi"
+        "note": "ricalcolo casi positivi (-230)"
     },
     {
         "codice": "dc-IT-0047",
@@ -1201,6 +1201,6 @@
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
-        "note": "ricalcolo casi positivi"
+        "note": "ricalcolo casi positivi (-230)"
     }
 ]

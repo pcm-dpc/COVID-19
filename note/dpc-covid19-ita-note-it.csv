@@ -81,7 +81,7 @@ dc-IT-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ri
 dc-IT-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
 dc-IT-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
 dc-IT-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
-dc-IT-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1)
-dc-IT-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1)
+dc-IT-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1 relativo a ieri)
+dc-IT-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1 relativo a ieri)
 dc-IT-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
 dc-IT-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
