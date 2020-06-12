@@ -1146,5 +1146,61 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "-1 caso positivo rispetto a ieri"
+    },
+    {
+        "codice": "dc-IT-0044",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo deceduti"
+    },
+    {
+        "codice": "dc-IT-0045",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo deceduti"
+    },
+    {
+        "codice": "dc-IT-0046",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi"
+    },
+    {
+        "codice": "dc-IT-0047",
+        "data": "2020-06-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 15,
+        "regione": "Campania",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi"
     }
 ]

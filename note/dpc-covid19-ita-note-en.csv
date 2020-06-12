@@ -79,3 +79,7 @@ dc-EN-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,re
 dc-EN-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,1 death attributable to today and 32 deaths occurred in previous periods
 dc-EN-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,recalculation of information,-1 positive case compared to yesterday
 dc-EN-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,-1 positive case compared to yesterday
+dc-EN-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of deceased
+dc-EN-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of deceased
+dc-EN-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,data correction,recalculation of information,recalculation of positive cases
+dc-EN-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,data correction,recalculation of information,recalculation of positive cases
