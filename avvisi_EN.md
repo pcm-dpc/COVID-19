@@ -7,6 +7,8 @@
 ## Notices
 
 ```diff
+- 12/06/2020: P.A. Bolzano recalculation of deceased
+- 12/06/2020: dati Regione Campania recalculation of positive cases
 - 09/06/2020: Abruzzo Region data recalculation 1 death attributable to today and 32 deaths occurred in previous periods
 - 09/06/2020: Sardegna Region recalculation of data (-1 positive case compared to yesterday)
 - 04/06/2020: Marche Region recalculation of tested cases
