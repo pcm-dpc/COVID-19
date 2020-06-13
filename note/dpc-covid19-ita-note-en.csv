@@ -83,3 +83,5 @@ dc-EN-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,data correcti
 dc-EN-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of deceased (-1 related to yesterday)
 dc-EN-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,data correction,recalculation of information,recalculation of positive cases (-230)
 dc-EN-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,data correction,recalculation of information,recalculation of positive cases (-230)
+dc-EN-0048,2020-06-13T17:00:00,dati-regioni,ITA,12,Lazio,,,,data correction,recalculation of information,recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)
+dc-EN-0049,2020-06-13T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,data correction,recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)

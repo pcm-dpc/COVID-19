@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 13/06/2020: dati Regione Lazio ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
 - 12/06/2020: dati P.A. Bolzano ricalcolo deceduti (-1 relativo a ieri)
 - 12/06/2020: dati Regione Campania ricalcolo casi positivi (-230)
 - 09/06/2020: dati Regione Abruzzo ricalcolo dati 1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti

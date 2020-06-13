@@ -7,8 +7,9 @@
 ## Notices
 
 ```diff
+- 13/06/2020: Lazio Region data recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)
 - 12/06/2020: P.A. Bolzano recalculation of deceased (-1 related to yesterday)
-- 12/06/2020: dati Regione Campania recalculation of positive cases (-230)
+- 12/06/2020: Campania Region data recalculation of positive cases (-230)
 - 09/06/2020: Abruzzo Region data recalculation 1 death attributable to today and 32 deaths occurred in previous periods
 - 09/06/2020: Sardegna Region recalculation of data (-1 positive case compared to yesterday)
 - 04/06/2020: Marche Region recalculation of tested cases

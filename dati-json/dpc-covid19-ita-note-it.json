@@ -1202,5 +1202,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi (-230)"
+    },
+    {
+        "codice": "dc-IT-0048",
+        "data": "2020-06-13T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)"
+    },
+    {
+        "codice": "dc-IT-0049",
+        "data": "2020-06-13T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)"
     }
 ]
