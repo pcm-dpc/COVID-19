@@ -7,6 +7,7 @@
 ## Notices
 
 ```diff
+- 15/06/2020: P.A. Bolzano recalculation of positive cases (-2)
 - 13/06/2020: Lazio Region data recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)
 - 12/06/2020: P.A. Bolzano recalculation of deceased (-1 related to yesterday)
 - 12/06/2020: Campania Region data recalculation of positive cases (-230)

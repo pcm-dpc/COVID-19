@@ -1200,7 +1200,35 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
-        "avviso": "recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)",
-        "note": ""
+        "avviso": "recalculation of information",
+        "note": "recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)"
+    },
+    {
+        "codice": "dc-EN-0050",
+        "data": "2020-06-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation o positive cases (-2)"
+    },
+    {
+        "codice": "dc-EN-0051",
+        "data": "2020-06-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation o positive cases (-2)"
     }
 ]

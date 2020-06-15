@@ -87,3 +87,5 @@ dc-IT-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,correzione dati,r
 dc-IT-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
 dc-IT-0048,2020-06-13T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
 dc-IT-0049,2020-06-13T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+dc-IT-0050,2020-06-15T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2)
+dc-IT-0051,2020-06-15T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2)
