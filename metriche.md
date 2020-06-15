@@ -13,10 +13,8 @@
 
 ### Dati per Regione
 ,,,,
-**Directory:**  dati-regioni<br>
-**Struttura file giornaliero:** dpc-covid19-ita-regioni-yyyymmdd.csv (dpc-covid19-ita-regioni-20200224.csv)<br>
-**File complessivo:** dpc-covid19-ita-regioni.csv<br>
-**File ultimi dati (latest):** dpc-covid19-ita-regioni-latest.csv
+**Directory:**  metriche<br>
+**File complessivo:** dpc-covid19-ita-metriche-dashboard-*
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|
@@ -26,7 +24,7 @@
 | **totale_visitatori_progressivo**       | Totale visitatori progressivo       | Progressive total number of visitors                       | Numero                         |
 | **note**       | Note       | Notes                    | Testo                         | 
 
-<br><br><br>
+<br><br>
 
 ### Licenza
 **Licenza:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)<br>
