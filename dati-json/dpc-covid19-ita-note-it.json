@@ -1258,5 +1258,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi (-2)"
+    },
+    {
+        "codice": "dc-IT-0052",
+        "data": "2020-06-17T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-1 riferito al 14/06/2020)"
+    },
+    {
+        "codice": "dc-IT-0053",
+        "data": "2020-06-17T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-1 riferito al 14/06/2020)"
     }
 ]

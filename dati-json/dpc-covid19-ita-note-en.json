@@ -1215,7 +1215,7 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation o positive cases (-2)"
+        "note": "recalculation of positive cases (-2)"
     },
     {
         "codice": "dc-EN-0051",
@@ -1229,6 +1229,34 @@
         "sigla_provincia": "",
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
-        "note": "recalculation o positive cases (-2)"
+        "note": "recalculation of positive cases (-2)"
+    },
+    {
+        "codice": "dc-EN-0052",
+        "data": "2020-06-17T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-1 referred to 14/06/2020)"
+    },
+    {
+        "codice": "dc-EN-0053",
+        "data": "2020-06-17T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-1 referred to 14/06/2020)"
     }
 ]
