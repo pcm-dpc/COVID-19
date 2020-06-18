@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 18/06/2020: dati Regione Abruzzo ricalcolo casi positivi (-2 riferito ai giorni 06/04/2020 e 14/06/2020)
 - 17/06/2020: dati Regione Abruzzo ricalcolo casi positivi (-1 riferito al 14/06/2020)
 - 15/06/2020: dati P.A. Bolzano ricalcolo casi positivi (-2)
 - 13/06/2020: dati Regione Lazio ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
