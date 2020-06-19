@@ -1286,5 +1286,61 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of positive cases (-2 referred to 06/04/2020 and 14/06/2020)"
+    },
+    {
+        "codice": "dc-EN-0056",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-2 referred to 14/06/2020)"
+    },
+    {
+        "codice": "dc-EN-0057",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 13,
+        "regione": "Abruzzo",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-2 referred to 14/06/2020)"
+    },
+    {
+        "codice": "dc-EN-0058",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 19,
+        "regione": "Sicilia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-397)"
+    },
+    {
+        "codice": "dc-EN-0059",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 19,
+        "regione": "Sicilia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-397)"
     }
 ]

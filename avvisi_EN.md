@@ -7,6 +7,8 @@
 ## Notices
 
 ```diff
+- 19/06/2020: Sicilia Region data recalculation of positive cases (-397)
+- 19/06/2020: Abruzzo Region data recalculation of positive cases (-2 referred to 14/06/2020)
 - 18/06/2020: Abruzzo Region data recalculation of positive cases (-2 referred to 06/04/2020 and 14/06/2020)
 - 17/06/2020: Abruzzo Region data recalculation of positive cases (-1 referred to 14/06/2020)
 - 15/06/2020: P.A. Bolzano recalculation of positive cases (-2)
