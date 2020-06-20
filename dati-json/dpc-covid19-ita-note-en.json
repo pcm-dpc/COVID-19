@@ -1342,5 +1342,61 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of positive cases (-397)"
+    },
+    {
+        "codice": "dc-EN-0060",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (+3 already recovered)"
+    },
+    {
+        "codice": "dc-EN-0061",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 21,
+        "regione": "P.A. Bolzano",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (+3 already recovered)"
+    },
+    {
+        "codice": "dc-EN-0062",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 18,
+        "regione": "Calabria",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-1 referred to 18/06/2020)"
+    },
+    {
+        "codice": "dc-EN-0063",
+        "data": "2020-06-19T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 18,
+        "regione": "Calabria",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of positive cases (-1 referred to 18/06/2020)"
     }
 ]
