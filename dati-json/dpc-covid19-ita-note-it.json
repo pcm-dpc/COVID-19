@@ -1426,5 +1426,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)"
+    },
+    {
+        "codice": "dc-IT-0064",
+        "data": "2020-06-22T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (+3)"
+    },
+    {
+        "codice": "dc-IT-0065",
+        "data": "2020-06-22T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (+3)"
     }
 ]
