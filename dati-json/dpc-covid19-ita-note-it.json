@@ -1454,5 +1454,61 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo casi positivi (+3)"
+    },
+    {
+        "codice": "dc-IT-0066",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-9)"
+    },
+    {
+        "codice": "dc-IT-0067",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (-9)"
+    },
+    {
+        "codice": "dc-IT-0068",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 2,
+        "regione": "Valle d'Aosta",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo tamponi"
+    },
+    {
+        "codice": "dc-IT-0069",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 2,
+        "regione": "Valle d'Aosta",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo tamponi"
     }
 ]

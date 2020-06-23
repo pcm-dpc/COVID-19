@@ -7,6 +7,8 @@
 ## Notices
 
 ```diff
+- 23/06/2020: Sardegna Region data recalculation of positive cases (-9)
+- 23/06/2020: Valle d'Aosta Region data recalculation of tests
 - 22/06/2020: Marche Region data recalculation of positive cases (+3)
 - 20/06/2020: Calabria Region data recalculation of positive cases (-1 referred to 18/06/2020)
 - 20/06/2020: P.A. Bolzano data recalculation of positive cases (+3 already recovered)

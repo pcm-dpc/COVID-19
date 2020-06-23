@@ -103,3 +103,7 @@ dc-IT-0062,2020-06-20T17:00:00,dati-regioni,ITA,18,Calabria,,,,correzione dati,r
 dc-IT-0063,2020-06-20T17:00:00,dati-andamento-nazionale,ITA,18,Calabria,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)
 dc-IT-0064,2020-06-22T17:00:00,dati-regioni,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (+3)
 dc-IT-0065,2020-06-22T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (+3)
+dc-IT-0066,2020-06-23T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-9)
+dc-IT-0067,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-9)
+dc-IT-0068,2020-06-23T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi
+dc-IT-0069,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi

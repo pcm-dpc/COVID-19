@@ -7,6 +7,8 @@
 ## Avvisi
 
 ```diff
+- 23/06/2020: dati Regione Sardegna ricalcolo casi positivi (-9)
+- 23/06/2020: dati Regione Valle d'Aosta ricalcolo tamponi
 - 22/06/2020: dati Regione Marche ricalcolo casi positivi (+3)
 - 20/06/2020: dati Regione Calabria ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)
 - 20/06/2020: dati P.A. Bolzano ricalcolo casi positivi (+3 già guariti)
