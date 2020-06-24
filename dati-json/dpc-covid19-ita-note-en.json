@@ -1482,5 +1482,33 @@
         "tipologia_avviso": "data correction",
         "avviso": "recalculation of information",
         "note": "recalculation of tests"
+    },
+    {
+        "codice": "dc-IT-0070",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deceased and recovered"
+    },
+    {
+        "codice": "dc-IT-0071",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "data correction",
+        "avviso": "recalculation of information",
+        "note": "recalculation of deceased and recovered"
     }
 ]

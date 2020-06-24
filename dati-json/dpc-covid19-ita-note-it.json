@@ -1510,5 +1510,33 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo tamponi"
+    },
+    {
+        "codice": "dc-IT-0070",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi deceduti e guariti"
+    },
+    {
+        "codice": "dc-IT-0071",
+        "data": "2020-06-23T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi deceduti e guariti"
     }
 ]

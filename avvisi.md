@@ -7,6 +7,7 @@
 ## Avvisi
 
 ```diff
+- 24/06/2020: dati P.A. Trento ricalcolo casi deceduti e guariti
 - 23/06/2020: dati Regione Sardegna ricalcolo casi positivi (-9)
 - 23/06/2020: dati Regione Valle d'Aosta ricalcolo tamponi
 - 22/06/2020: dati Regione Marche ricalcolo casi positivi (+3)

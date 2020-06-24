@@ -7,6 +7,7 @@
 ## Notices
 
 ```diff
+- 24/06/2020: P.A. Trento data recalculation of deceased and recovered
 - 23/06/2020: Sardegna Region data recalculation of positive cases (-9)
 - 23/06/2020: Valle d'Aosta Region data recalculation of tests
 - 22/06/2020: Marche Region data recalculation of positive cases (+3)

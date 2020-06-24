@@ -105,3 +105,5 @@ dc-EN-0066,2020-06-23T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,r
 dc-EN-0067,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of positive cases (-9)
 dc-EN-0068,2020-06-23T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,data correction,recalculation of information,recalculation of tests
 dc-EN-0069,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,data correction,recalculation of information,recalculation of tests
+dc-IT-0070,2020-06-23T17:00:00,dati-regioni,ITA,22,P.A. Trento,,,,data correction,recalculation of information,recalculation of deceased and recovered
+dc-IT-0071,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,22,P.A. Trento,,,,data correction,recalculation of information,recalculation of deceased and recovered
