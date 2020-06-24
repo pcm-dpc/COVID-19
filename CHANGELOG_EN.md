@@ -81,3 +81,4 @@ All changes to the project, new features and information are documented in this 
 
 - API Rest (Json) public beta
 - GraphQL public beta
+- Add new data on dataset regioni and andamento nazionale (preview new dataset from Thursday 25/06)

@@ -81,3 +81,4 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - API Rest (Json) public beta
 - GraphQL public beta
+- Aggiunta dati al dataset regioni e andamento nazionale (preview nuovo dataset da giovedì 25/06)
