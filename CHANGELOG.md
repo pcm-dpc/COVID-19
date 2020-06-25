@@ -81,4 +81,5 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - API Rest (Json) public beta
 - GraphQL public beta
-- Aggiunta dati al dataset regioni e andamento nazionale (preview nuovo dataset da giovedì 25/06)
+- Aggiunta dati al dataset regioni e andamento nazionale (preview nuovo dataset da sabato 27/06)
+- Modifica note aggiunta note su tamponi e casi con informazioni inserite direttamente sul dataset (preview nuovo dataset da venerdì 27/06)
