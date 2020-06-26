@@ -20,10 +20,11 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 - Dati regioni
 - Dati province
 - Schede riepilogative
+- Schede ISS
+- Schede MDS
 - Aree
 - Note
 - Dati contratti DPC forniture
-- Metriche
 
 ## Avvisi
 
