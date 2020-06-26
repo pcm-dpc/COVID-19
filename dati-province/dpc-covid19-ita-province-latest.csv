@@ -1,4 +1,4 @@
-data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,latitudine,longitudine,totale_casi,note_it,note_en
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note_it,note_en
 2020-06-25T17:00:00,ITA,01,Piemonte,001,Torino,TO,45.0732745,7.680687483,15870,,
 2020-06-25T17:00:00,ITA,01,Piemonte,002,Vercelli,VC,45.32398135,8.423234312,1321,,
 2020-06-25T17:00:00,ITA,01,Piemonte,003,Novara,NO,45.44588506,8.621915884,2785,,
