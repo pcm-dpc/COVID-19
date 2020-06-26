@@ -75,7 +75,13 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
-├── metriche
+├── metadata/
+│   ├── covid-19-aree -comuni.xml
+│   ├── covid-19-aree.xml
+│   ├── covid-19-ita-ContrattiDPCPagamenti.xml
+│   ├── covid-19-ita-andamento-nazionale.xml
+│   ├── covid-19-monitoraggio.xml
+├── metriche/
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.json
 │   ├── dpc-covid19-ita-metriche-dashboard-mobile.csv
@@ -83,6 +89,45 @@ COVID-19/
 ├── note/
 │   ├── dpc-covid19-ita-note-en.csv
 │   ├── dpc-covid19-ita-note-it.csv
+├── pubblicazioni-documenti-progetti-dati-covid19-ita/
+│   ├── dpc-covid19-ita-documenti-e-pubblicazioni.csv
+│   ├── dpc-covid19-ita-software-e-progetti.csv
+├── schede-iss/
+│   ├── appendici/
+│   │   ├── iss-covid19-appendice-*.pdf
+│   │   ├── iss-covid19-appendice-latest.pdf
+│   ├── bollettini/
+│   │   ├── iss-covid19-bollettino-*.pdf
+│   │   ├── iss-covid19-bollettino-latest.pdf
+│   ├── infografiche/
+│   │   ├── iss-covid19-infografica-en-*.pdf
+│   │   ├── iss-covid19-infografica-en-latest.pdf
+│   │   ├── iss-covid19-infografica-it-*.pdf
+│   │   ├── iss-covid19-infografica-it-latest.pdf
+├── schede-mds/
+│   ├── MDS-COVID19-SorveglianzaSettimanale-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Abruzzo-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Basilicata-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Bolzano-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Calabria-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Campania-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-EmiliaRomagna-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-FriuliVeneziaGiulia-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Lazio-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Liguria-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Lombardia-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Marche-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Molise-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Piemonte-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Puglia-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Sardegna-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Sicilia-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Toscana-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Trento-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Umbria-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-ValledAosta-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-Veneto-*.pdf
+│   ├── MDS-COVID19-SorveglianzaSettimanale-latest.pdf
 ├── schede-riepilogative/
 │   ├── province
 │   │   ├── dpc-covid19-ita-scheda-province-*.pdf
