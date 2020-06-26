@@ -25,6 +25,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 - Aree
 - Note
 - Dati contratti DPC forniture
+- Metriche
 
 ## Avvisi
 
