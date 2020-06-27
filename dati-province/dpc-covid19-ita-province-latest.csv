@@ -1,4 +1,4 @@
-data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,latitudine,longitudine,totale_casi,note_it,note_en
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note_it,note_en
 2020-06-26T17:00:00,ITA,13,Abruzzo,066,L'Aquila,AQ,42.35122196,13.39843823,225,,
 2020-06-26T17:00:00,ITA,13,Abruzzo,067,Teramo,TE,42.6589177,13.70439971,631,,
 2020-06-26T17:00:00,ITA,13,Abruzzo,068,Pescara,PE,42.46458398,14.21364822,1586,,
