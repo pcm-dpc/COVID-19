@@ -32,6 +32,8 @@
 | **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
+| **casi_da_sospetto_diagnostico**                    | Casi positivi al tampone emersi da attività clinica                  | Positive cases emerged from clinical activity                                  | Numero                        | 3                   |
+| **casi_da_screening**                    | Casi positivi emersi da indagini e test, pianificati a livello nazionale o regionale                  | Positive cases emerging from surveys and tests, planned at national or regional level                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 | **casi_testati**                     | Totale dei soggetti sottoposti al test                    | Total number of people tested                        | Numero                        | 3                   |
@@ -61,11 +63,10 @@
 | **lat**                     | Latitudine                          | Latitude                        | WGS84              | 42.6589177           |
 | **long**                    | Longitudine                         | Longitude                       | WGS84              | 13.70439971          |
 | **totale_casi**             | Totale casi positivi                | Total amount of positive cases  | Numero             | 3                    |
-| **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
-| **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
+| **note**                     | Note in lingua italiana                   | Notes in italian language                       | Testo                        | Lorem ipsum...                   |
 
 *Le Province autonome di Trento e Bolzano sono indicate in "denominazione regione" e con il codice 04 del Trentino Alto Adige.*<br>
-*Ogni Regione ha una Provincia denominata "In fase di definizione/aggiornamento" con il codice provincia da 979 a 999, utile ad indicare i dati ancora non assegnati alle Province.*<br>
+*Ogni Regione ha due "Province" denominate "Fuori Regione / Provincia Autonoma", con il codice provincia da 879 a 899, utile ad indicare dati relativi a soggetti fuori Regione o Provincia Autonoma e "In fase di definizione/aggiornamento", con il codice provincia da 979 a 999, utile ad indicare i dati ancora non assegnati alle Province.*<br>
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-province.json* e rispettivo file ultimi dati (latest) dpc-covid19-ita-province-latest.json
 
 ### Andamento nazionale
@@ -89,11 +90,12 @@
 | **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
+| **casi_da_sospetto_diagnostico**                    | Casi positivi al tampone emersi da attività clinica                  | Positive cases emerged from clinical activity                                  | Numero                        | 3                   |
+| **casi_da_screening**                    | Casi positivi emersi da indagini e test, pianificati a livello nazionale o regionale                  | Positive cases emerging from surveys and tests, planned at national or regional level                                  | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 | **casi_testati**                     | Totale dei soggetti sottoposti al test                    | Total number of people tested                        | Numero                        | 3                   |
-| **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
-| **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
+| **note**                     | Note in lingua italiana                   | Notes in italian language                       | Testo                        | Lorem ipsum...                   |
 
 
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json* e rispettivo file ultimi dati (latest) dpc-covid19-ita-andamento-nazionale-latest.json
@@ -101,21 +103,12 @@
 ### Note
 
 **Directory:**  note<br>
-**Struttura file:** dpc-covid19-ita-note-*<br>
+**Struttura file:** dpc-covid19-ita-note<br>
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
-| **codice**                       | Codice nota (nd - nodata / pd - partialdata / dc datacorrection)             | Note code (nd - nodata / pd - partialdata / datacorrection)                   | Testo      | nd-EN-0006                 |
 | **data**                        | Data dell'informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
-| **dataset**                       | Dataset di riferimento              | Reference dataset                   | Testo      | andamento-nazionale                 |
-| **stato**                       | Stato di riferimento              | Country of reference                   | XYZ (ISO 3166-1 alpha-3)      | ITA                 |
-| **codice_regione**          | Codice della Regione (ISTAT 2019)   | Code of the Region (ISTAT 2019) | Numero             | 13                   |
-| **denominazione_regione**   | Denominazione della Regione         | Name of the Region              | Testo              | Abruzzo              |
-| **codice_provincia**        | Codice della Provincia (ISTAT 2019) | Code of the Province            | Numero             | 067                  |
-| **denominazione_provincia** | Denominazione della provincia       | Name of the Province            | Testo              | Teramo               |
-| **tipologia_avviso** | Tipologia avviso (dati parziali / nessun dato / correzione dato) | Notice type (partial data / no data / data correction)            | Testo              | dati parziali               |
-| **avviso** | Testo di avviso       | Notice text            | Testo              | dati parziali               |
-| **note** | Altre informazioni       | Other informations            | Testo              | dato tamponi non aggiornato               |
+| **note** | Note       | Notes            | Testo              | Lorem ipsum               |
 <br><br><br>
 
 

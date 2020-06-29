@@ -11,11 +11,12 @@
         "nuovi_positivi": 221,
         "dimessi_guariti": 1,
         "deceduti": 7,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 229,
         "tamponi": 4324,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-02-25T18:00:00",
@@ -29,11 +30,12 @@
         "nuovi_positivi": 93,
         "dimessi_guariti": 1,
         "deceduti": 10,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 322,
         "tamponi": 8623,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-02-26T18:00:00",
@@ -47,11 +49,12 @@
         "nuovi_positivi": 78,
         "dimessi_guariti": 3,
         "deceduti": 12,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 400,
         "tamponi": 9587,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-02-27T18:00:00",
@@ -65,11 +68,12 @@
         "nuovi_positivi": 250,
         "dimessi_guariti": 45,
         "deceduti": 17,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 650,
         "tamponi": 12014,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-02-28T18:00:00",
@@ -83,11 +87,12 @@
         "nuovi_positivi": 238,
         "dimessi_guariti": 46,
         "deceduti": 21,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 888,
         "tamponi": 15695,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-02-29T18:00:00",
@@ -101,11 +106,12 @@
         "nuovi_positivi": 240,
         "dimessi_guariti": 50,
         "deceduti": 29,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 1128,
         "tamponi": 18661,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-01T18:00:00",
@@ -119,11 +125,12 @@
         "nuovi_positivi": 566,
         "dimessi_guariti": 83,
         "deceduti": 34,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 1694,
         "tamponi": 21127,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-02T18:00:00",
@@ -137,11 +144,12 @@
         "nuovi_positivi": 342,
         "dimessi_guariti": 149,
         "deceduti": 52,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 2036,
         "tamponi": 23345,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-03T18:00:00",
@@ -155,11 +163,12 @@
         "nuovi_positivi": 466,
         "dimessi_guariti": 160,
         "deceduti": 79,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 2502,
         "tamponi": 25856,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-04T18:00:00",
@@ -173,11 +182,12 @@
         "nuovi_positivi": 587,
         "dimessi_guariti": 276,
         "deceduti": 107,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 3089,
         "tamponi": 29837,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-05T18:00:00",
@@ -191,11 +201,12 @@
         "nuovi_positivi": 769,
         "dimessi_guariti": 414,
         "deceduti": 148,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 3858,
         "tamponi": 32362,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-06T18:00:00",
@@ -209,11 +220,12 @@
         "nuovi_positivi": 778,
         "dimessi_guariti": 523,
         "deceduti": 197,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 4636,
         "tamponi": 36359,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-07T18:00:00",
@@ -227,11 +239,12 @@
         "nuovi_positivi": 1247,
         "dimessi_guariti": 589,
         "deceduti": 233,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 5883,
         "tamponi": 42062,
         "casi_testati": null,
-        "note_it": "pd-IT-0003",
-        "note_en": "pd-EN-0003"
+        "note": "pd-IT-0003"
     },
     {
         "data": "2020-03-08T18:00:00",
@@ -245,11 +258,12 @@
         "nuovi_positivi": 1492,
         "dimessi_guariti": 622,
         "deceduti": 366,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 7375,
         "tamponi": 49937,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-09T18:00:00",
@@ -263,11 +277,12 @@
         "nuovi_positivi": 1797,
         "dimessi_guariti": 724,
         "deceduti": 463,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 9172,
         "tamponi": 53826,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-10T18:00:00",
@@ -281,11 +296,12 @@
         "nuovi_positivi": 977,
         "dimessi_guariti": 1004,
         "deceduti": 631,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 10149,
         "tamponi": 60761,
         "casi_testati": null,
-        "note_it": "pd-IT-0005",
-        "note_en": "pd-EN-0005"
+        "note": "pd-IT-0005"
     },
     {
         "data": "2020-03-11T17:00:00",
@@ -299,11 +315,12 @@
         "nuovi_positivi": 2313,
         "dimessi_guariti": 1045,
         "deceduti": 827,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 12462,
         "tamponi": 73154,
         "casi_testati": null,
-        "note_it": "nd-IT-0002",
-        "note_en": "nd-EN-0002"
+        "note": "nd-IT-0002"
     },
     {
         "data": "2020-03-12T17:00:00",
@@ -317,11 +334,12 @@
         "nuovi_positivi": 2651,
         "dimessi_guariti": 1258,
         "deceduti": 1016,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 15113,
         "tamponi": 86011,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-13T17:00:00",
@@ -335,11 +353,12 @@
         "nuovi_positivi": 2547,
         "dimessi_guariti": 1439,
         "deceduti": 1266,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 17660,
         "tamponi": 97488,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-14T17:00:00",
@@ -353,11 +372,12 @@
         "nuovi_positivi": 3497,
         "dimessi_guariti": 1966,
         "deceduti": 1441,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 21157,
         "tamponi": 109170,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-15T17:00:00",
@@ -371,11 +391,12 @@
         "nuovi_positivi": 3590,
         "dimessi_guariti": 2335,
         "deceduti": 1809,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 24747,
         "tamponi": 124899,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-16T17:00:00",
@@ -389,11 +410,12 @@
         "nuovi_positivi": 3233,
         "dimessi_guariti": 2749,
         "deceduti": 2158,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 27980,
         "tamponi": 137962,
         "casi_testati": null,
-        "note_it": "nd-IT-0004;nd-IT-0006",
-        "note_en": "nd-EN-0004;nd-EN-0006"
+        "note": "nd-IT-0004;nd-IT-0006"
     },
     {
         "data": "2020-03-17T17:00:00",
@@ -407,11 +429,12 @@
         "nuovi_positivi": 3526,
         "dimessi_guariti": 2941,
         "deceduti": 2503,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 31506,
         "tamponi": 148657,
         "casi_testati": null,
-        "note_it": "nd-IT-0009",
-        "note_en": "nd-EN-0009"
+        "note": "nd-IT-0009"
     },
     {
         "data": "2020-03-18T17:00:00",
@@ -425,11 +448,12 @@
         "nuovi_positivi": 4207,
         "dimessi_guariti": 4025,
         "deceduti": 2978,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 35713,
         "tamponi": 165541,
         "casi_testati": null,
-        "note_it": "nd-IT-0012;nd-IT-0014",
-        "note_en": "nd-EN-0012;nd-EN-0014"
+        "note": "nd-IT-0012;nd-IT-0014"
     },
     {
         "data": "2020-03-19T17:00:00",
@@ -443,11 +467,12 @@
         "nuovi_positivi": 5322,
         "dimessi_guariti": 4440,
         "deceduti": 3405,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 41035,
         "tamponi": 182777,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-20T17:00:00",
@@ -461,11 +486,12 @@
         "nuovi_positivi": 5986,
         "dimessi_guariti": 5129,
         "deceduti": 4032,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 47021,
         "tamponi": 206886,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-21T17:00:00",
@@ -479,11 +505,12 @@
         "nuovi_positivi": 6557,
         "dimessi_guariti": 6072,
         "deceduti": 4825,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 53578,
         "tamponi": 233222,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-22T17:00:00",
@@ -497,11 +524,12 @@
         "nuovi_positivi": 5560,
         "dimessi_guariti": 7024,
         "deceduti": 5476,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 59138,
         "tamponi": 258402,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-23T17:00:00",
@@ -515,11 +543,12 @@
         "nuovi_positivi": 4789,
         "dimessi_guariti": 7432,
         "deceduti": 6077,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 63927,
         "tamponi": 275468,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-24T17:00:00",
@@ -533,11 +562,12 @@
         "nuovi_positivi": 5249,
         "dimessi_guariti": 8326,
         "deceduti": 6820,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 69176,
         "tamponi": 296964,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-25T17:00:00",
@@ -551,11 +581,12 @@
         "nuovi_positivi": 5210,
         "dimessi_guariti": 9362,
         "deceduti": 7503,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 74386,
         "tamponi": 324445,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-26T17:00:00",
@@ -569,11 +600,12 @@
         "nuovi_positivi": 6153,
         "dimessi_guariti": 10361,
         "deceduti": 8165,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 80539,
         "tamponi": 361060,
         "casi_testati": null,
-        "note_it": "pd-IT-0007",
-        "note_en": "pd-EN-0007"
+        "note": "pd-IT-0007"
     },
     {
         "data": "2020-03-27T17:00:00",
@@ -587,11 +619,12 @@
         "nuovi_positivi": 5959,
         "dimessi_guariti": 10950,
         "deceduti": 9134,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 86498,
         "tamponi": 394079,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-28T17:00:00",
@@ -605,11 +638,12 @@
         "nuovi_positivi": 5974,
         "dimessi_guariti": 12384,
         "deceduti": 10023,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 92472,
         "tamponi": 429526,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-29T17:00:00",
@@ -623,11 +657,12 @@
         "nuovi_positivi": 5217,
         "dimessi_guariti": 13030,
         "deceduti": 10779,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 97689,
         "tamponi": 454030,
         "casi_testati": null,
-        "note_it": "pd-IT-0009",
-        "note_en": "pd-EN-0009"
+        "note": "pd-IT-0009"
     },
     {
         "data": "2020-03-30T17:00:00",
@@ -641,11 +676,12 @@
         "nuovi_positivi": 4050,
         "dimessi_guariti": 14620,
         "deceduti": 11591,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 101739,
         "tamponi": 477359,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-03-31T17:00:00",
@@ -659,11 +695,12 @@
         "nuovi_positivi": 4053,
         "dimessi_guariti": 15729,
         "deceduti": 12428,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 105792,
         "tamponi": 506968,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-01T17:00:00",
@@ -677,11 +714,12 @@
         "nuovi_positivi": 4782,
         "dimessi_guariti": 16847,
         "deceduti": 13155,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 110574,
         "tamponi": 541423,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-02T17:00:00",
@@ -695,11 +733,12 @@
         "nuovi_positivi": 4668,
         "dimessi_guariti": 18278,
         "deceduti": 13915,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 115242,
         "tamponi": 581232,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-03T17:00:00",
@@ -713,11 +752,12 @@
         "nuovi_positivi": 4585,
         "dimessi_guariti": 19758,
         "deceduti": 14681,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 119827,
         "tamponi": 619849,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-04T17:00:00",
@@ -731,11 +771,12 @@
         "nuovi_positivi": 4805,
         "dimessi_guariti": 20996,
         "deceduti": 15362,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 124632,
         "tamponi": 657224,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-05T17:00:00",
@@ -749,11 +790,12 @@
         "nuovi_positivi": 4316,
         "dimessi_guariti": 21815,
         "deceduti": 15887,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 128948,
         "tamponi": 691461,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-06T17:00:00",
@@ -767,11 +809,12 @@
         "nuovi_positivi": 3599,
         "dimessi_guariti": 22837,
         "deceduti": 16523,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 132547,
         "tamponi": 721732,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-07T17:00:00",
@@ -785,11 +828,12 @@
         "nuovi_positivi": 3039,
         "dimessi_guariti": 24392,
         "deceduti": 17127,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 135586,
         "tamponi": 755445,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-08T17:00:00",
@@ -803,11 +847,12 @@
         "nuovi_positivi": 3836,
         "dimessi_guariti": 26491,
         "deceduti": 17669,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 139422,
         "tamponi": 807125,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-09T17:00:00",
@@ -821,11 +866,12 @@
         "nuovi_positivi": 4204,
         "dimessi_guariti": 28470,
         "deceduti": 18279,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 143626,
         "tamponi": 853369,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-10T17:00:00",
@@ -839,11 +885,12 @@
         "nuovi_positivi": 3951,
         "dimessi_guariti": 30455,
         "deceduti": 18849,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 147577,
         "tamponi": 906864,
         "casi_testati": null,
-        "note_it": "pd-IT-0011",
-        "note_en": "pd-EN-0011"
+        "note": "pd-IT-0011"
     },
     {
         "data": "2020-04-11T17:00:00",
@@ -857,11 +904,12 @@
         "nuovi_positivi": 4694,
         "dimessi_guariti": 32534,
         "deceduti": 19468,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 152271,
         "tamponi": 963473,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-12T17:00:00",
@@ -875,11 +923,12 @@
         "nuovi_positivi": 4092,
         "dimessi_guariti": 34211,
         "deceduti": 19899,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 156363,
         "tamponi": 1010193,
         "casi_testati": null,
-        "note_it": "dc-IT-0003",
-        "note_en": "dc-EN-0003"
+        "note": "dc-IT-0003"
     },
     {
         "data": "2020-04-13T17:00:00",
@@ -893,11 +942,12 @@
         "nuovi_positivi": 3153,
         "dimessi_guariti": 35435,
         "deceduti": 20465,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 159516,
         "tamponi": 1046910,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-14T17:00:00",
@@ -911,11 +961,12 @@
         "nuovi_positivi": 2972,
         "dimessi_guariti": 37130,
         "deceduti": 21067,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 162488,
         "tamponi": 1073689,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-15T17:00:00",
@@ -929,11 +980,12 @@
         "nuovi_positivi": 2667,
         "dimessi_guariti": 38092,
         "deceduti": 21645,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 165155,
         "tamponi": 1117404,
         "casi_testati": null,
-        "note_it": "dc-IT-0005",
-        "note_en": "dc-EN-0005"
+        "note": "dc-IT-0005"
     },
     {
         "data": "2020-04-16T17:00:00",
@@ -947,11 +999,12 @@
         "nuovi_positivi": 3786,
         "dimessi_guariti": 40164,
         "deceduti": 22170,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 168941,
         "tamponi": 1178403,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-17T17:00:00",
@@ -965,11 +1018,12 @@
         "nuovi_positivi": 3493,
         "dimessi_guariti": 42727,
         "deceduti": 22745,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 172434,
         "tamponi": 1244108,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-18T17:00:00",
@@ -983,11 +1037,12 @@
         "nuovi_positivi": 3491,
         "dimessi_guariti": 44927,
         "deceduti": 23227,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 175925,
         "tamponi": 1305833,
         "casi_testati": null,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-19T17:00:00",
@@ -1001,11 +1056,12 @@
         "nuovi_positivi": 3047,
         "dimessi_guariti": 47055,
         "deceduti": 23660,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 178972,
         "tamponi": 1356541,
         "casi_testati": 935310,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-20T17:00:00",
@@ -1019,11 +1075,12 @@
         "nuovi_positivi": 2256,
         "dimessi_guariti": 48877,
         "deceduti": 24114,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 181228,
         "tamponi": 1398024,
         "casi_testati": 943151,
-        "note_it": "",
-        "note_en": ""
+        "note": "dc-IT-0007"
     },
     {
         "data": "2020-04-21T17:00:00",
@@ -1037,11 +1094,12 @@
         "nuovi_positivi": 2729,
         "dimessi_guariti": 51600,
         "deceduti": 24648,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 183957,
         "tamponi": 1450150,
         "casi_testati": 971246,
-        "note_it": "pd-IT-0013",
-        "note_en": "pd-EN-0013"
+        "note": "pd-IT-0013"
     },
     {
         "data": "2020-04-22T17:00:00",
@@ -1055,11 +1113,12 @@
         "nuovi_positivi": 3370,
         "dimessi_guariti": 54543,
         "deceduti": 25085,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 187327,
         "tamponi": 1513251,
         "casi_testati": 1015494,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-23T17:00:00",
@@ -1073,11 +1132,12 @@
         "nuovi_positivi": 2646,
         "dimessi_guariti": 57576,
         "deceduti": 25549,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 189973,
         "tamponi": 1579909,
         "casi_testati": 1052577,
-        "note_it": "pd-IT-0015;pd-IT-0017",
-        "note_en": "pd-IT-0015;pd-EN-0017"
+        "note": "pd-IT-0015;pd-IT-0017"
     },
     {
         "data": "2020-04-24T17:00:00",
@@ -1091,11 +1151,12 @@
         "nuovi_positivi": 3021,
         "dimessi_guariti": 60498,
         "deceduti": 25969,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 192994,
         "tamponi": 1642356,
         "casi_testati": 1147850,
-        "note_it": "dc-IT-0009;dc-IT-0011",
-        "note_en": "dc-EN-0009;dc-EN-0011"
+        "note": "dc-IT-0009;dc-IT-0011"
     },
     {
         "data": "2020-04-25T17:00:00",
@@ -1109,11 +1170,12 @@
         "nuovi_positivi": 2357,
         "dimessi_guariti": 63120,
         "deceduti": 26384,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 195351,
         "tamponi": 1707743,
         "casi_testati": 1186526,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-26T17:00:00",
@@ -1127,11 +1189,12 @@
         "nuovi_positivi": 2324,
         "dimessi_guariti": 64928,
         "deceduti": 26644,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 197675,
         "tamponi": 1757659,
         "casi_testati": 1210639,
-        "note_it": "dc-IT-0013",
-        "note_en": "dc-EN-0013"
+        "note": "dc-IT-0013"
     },
     {
         "data": "2020-04-27T17:00:00",
@@ -1145,11 +1208,12 @@
         "nuovi_positivi": 1739,
         "dimessi_guariti": 66624,
         "deceduti": 26977,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 199414,
         "tamponi": 1789662,
         "casi_testati": 1237317,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-28T17:00:00",
@@ -1163,11 +1227,12 @@
         "nuovi_positivi": 2091,
         "dimessi_guariti": 68941,
         "deceduti": 27359,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 201505,
         "tamponi": 1846934,
         "casi_testati": 1274871,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-29T17:00:00",
@@ -1181,11 +1246,12 @@
         "nuovi_positivi": 2086,
         "dimessi_guariti": 71252,
         "deceduti": 27682,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 203591,
         "tamponi": 1910761,
         "casi_testati": 1313460,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-04-30T17:00:00",
@@ -1199,11 +1265,12 @@
         "nuovi_positivi": 1872,
         "dimessi_guariti": 75945,
         "deceduti": 27967,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 205463,
         "tamponi": 1979217,
         "casi_testati": 1354901,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-01T17:00:00",
@@ -1217,11 +1284,12 @@
         "nuovi_positivi": 1965,
         "dimessi_guariti": 78249,
         "deceduti": 28236,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 207428,
         "tamponi": 2053425,
         "casi_testati": 1398633,
-        "note_it": "dc-IT-0015",
-        "note_en": "dc-EN-0015"
+        "note": "dc-IT-0015"
     },
     {
         "data": "2020-05-02T17:00:00",
@@ -1235,11 +1303,12 @@
         "nuovi_positivi": 1900,
         "dimessi_guariti": 79914,
         "deceduti": 28710,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 209328,
         "tamponi": 2108837,
         "casi_testati": 1429864,
-        "note_it": "dc-IT-0017",
-        "note_en": "dc-EN-0017"
+        "note": "dc-IT-0017"
     },
     {
         "data": "2020-05-03T17:00:00",
@@ -1253,11 +1322,12 @@
         "nuovi_positivi": 1389,
         "dimessi_guariti": 81654,
         "deceduti": 28884,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 210717,
         "tamponi": 2153772,
         "casi_testati": 1456911,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-04T17:00:00",
@@ -1271,11 +1341,12 @@
         "nuovi_positivi": 1221,
         "dimessi_guariti": 82879,
         "deceduti": 29079,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 211938,
         "tamponi": 2191403,
         "casi_testati": 1479910,
-        "note_it": "dc-IT-0019",
-        "note_en": "dc-EN-0019"
+        "note": "dc-IT-0019"
     },
     {
         "data": "2020-05-05T17:00:00",
@@ -1289,11 +1360,12 @@
         "nuovi_positivi": 1075,
         "dimessi_guariti": 85231,
         "deceduti": 29315,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 213013,
         "tamponi": 2246666,
         "casi_testati": 1512121,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-06T17:00:00",
@@ -1307,11 +1379,12 @@
         "nuovi_positivi": 1444,
         "dimessi_guariti": 93245,
         "deceduti": 29684,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 214457,
         "tamponi": 2310929,
         "casi_testati": 1549892,
-        "note_it": "dc-IT-0021",
-        "note_en": "dc-EN-0021"
+        "note": "dc-IT-0021"
     },
     {
         "data": "2020-05-07T17:00:00",
@@ -1325,11 +1398,12 @@
         "nuovi_positivi": 1401,
         "dimessi_guariti": 96276,
         "deceduti": 29958,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 215858,
         "tamponi": 2381288,
         "casi_testati": 1563557,
-        "note_it": "dc-IT-0023",
-        "note_en": "dc-EN-0023"
+        "note": "dc-IT-0023"
     },
     {
         "data": "2020-05-08T17:00:00",
@@ -1343,11 +1417,12 @@
         "nuovi_positivi": 1327,
         "dimessi_guariti": 99023,
         "deceduti": 30201,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 217185,
         "tamponi": 2445063,
         "casi_testati": 1608985,
-        "note_it": "dc-IT-0025",
-        "note_en": "dc-EN-0025"
+        "note": "dc-IT-0025"
     },
     {
         "data": "2020-05-09T17:00:00",
@@ -1361,11 +1436,12 @@
         "nuovi_positivi": 1083,
         "dimessi_guariti": 103031,
         "deceduti": 30395,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 218268,
         "tamponi": 2514234,
         "casi_testati": 1645076,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-10T17:00:00",
@@ -1379,11 +1455,12 @@
         "nuovi_positivi": 802,
         "dimessi_guariti": 105186,
         "deceduti": 30560,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 219070,
         "tamponi": 2565912,
         "casi_testati": 1676460,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-11T17:00:00",
@@ -1397,11 +1474,12 @@
         "nuovi_positivi": 744,
         "dimessi_guariti": 106587,
         "deceduti": 30739,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 219814,
         "tamponi": 2606652,
         "casi_testati": 1702283,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-12T17:00:00",
@@ -1415,11 +1493,12 @@
         "nuovi_positivi": 1402,
         "dimessi_guariti": 109039,
         "deceduti": 30911,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 221216,
         "tamponi": 2673655,
         "casi_testati": 1741903,
-        "note_it": "dc-IT-0027",
-        "note_en": "dc-EN-0027"
+        "note": "dc-IT-0027"
     },
     {
         "data": "2020-05-13T17:00:00",
@@ -1433,11 +1512,12 @@
         "nuovi_positivi": 888,
         "dimessi_guariti": 112541,
         "deceduti": 31106,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 222104,
         "tamponi": 2735628,
         "casi_testati": 1778952,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-14T17:00:00",
@@ -1451,11 +1531,12 @@
         "nuovi_positivi": 992,
         "dimessi_guariti": 115288,
         "deceduti": 31368,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 223096,
         "tamponi": 2807504,
         "casi_testati": 1820083,
-        "note_it": "dc-IT-0029",
-        "note_en": "dc-EN-0029"
+        "note": "dc-IT-0029"
     },
     {
         "data": "2020-05-15T17:00:00",
@@ -1469,11 +1550,12 @@
         "nuovi_positivi": 789,
         "dimessi_guariti": 120205,
         "deceduti": 31610,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 223885,
         "tamponi": 2875680,
         "casi_testati": 1859110,
-        "note_it": "dc-IT-0031",
-        "note_en": "dc-EN-0031"
+        "note": "dc-IT-0031"
     },
     {
         "data": "2020-05-16T17:00:00",
@@ -1487,11 +1569,12 @@
         "nuovi_positivi": 875,
         "dimessi_guariti": 122810,
         "deceduti": 31763,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 224760,
         "tamponi": 2944859,
         "casi_testati": 1899767,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-17T17:00:00",
@@ -1505,11 +1588,12 @@
         "nuovi_positivi": 675,
         "dimessi_guariti": 125176,
         "deceduti": 31908,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 225435,
         "tamponi": 3004960,
         "casi_testati": 1933272,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-18T17:00:00",
@@ -1523,11 +1607,12 @@
         "nuovi_positivi": 451,
         "dimessi_guariti": 127326,
         "deceduti": 32007,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 225886,
         "tamponi": 3041366,
         "casi_testati": 1959373,
-        "note_it": "pd-IT-0019",
-        "note_en": "pd-EN-0019"
+        "note": "pd-IT-0019"
     },
     {
         "data": "2020-05-19T17:00:00",
@@ -1541,11 +1626,12 @@
         "nuovi_positivi": 813,
         "dimessi_guariti": 129401,
         "deceduti": 32169,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 226699,
         "tamponi": 3104524,
         "casi_testati": 1999599,
-        "note_it": "dc-IT-0033",
-        "note_en": "dc-EN-0033"
+        "note": "dc-IT-0033"
     },
     {
         "data": "2020-05-20T17:00:00",
@@ -1559,11 +1645,12 @@
         "nuovi_positivi": 665,
         "dimessi_guariti": 132282,
         "deceduti": 32330,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 227364,
         "tamponi": 3171719,
         "casi_testati": 2038216,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-21T17:00:00",
@@ -1577,11 +1664,12 @@
         "nuovi_positivi": 642,
         "dimessi_guariti": 134560,
         "deceduti": 32486,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 228006,
         "tamponi": 3243398,
         "casi_testati": 2078860,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-22T17:00:00",
@@ -1595,11 +1683,12 @@
         "nuovi_positivi": 652,
         "dimessi_guariti": 136720,
         "deceduti": 32616,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 228658,
         "tamponi": 3318778,
         "casi_testati": 2121847,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-23T17:00:00",
@@ -1613,11 +1702,12 @@
         "nuovi_positivi": 669,
         "dimessi_guariti": 138840,
         "deceduti": 32735,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 229327,
         "tamponi": 3391188,
         "casi_testati": 2164426,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-24T17:00:00",
@@ -1631,11 +1721,12 @@
         "nuovi_positivi": 531,
         "dimessi_guariti": 140479,
         "deceduti": 32785,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 229858,
         "tamponi": 3447012,
         "casi_testati": 2198632,
-        "note_it": "pd-IT-0021",
-        "note_en": "pd-EN-0021"
+        "note": "pd-IT-0021"
     },
     {
         "data": "2020-05-25T17:00:00",
@@ -1649,11 +1740,12 @@
         "nuovi_positivi": 300,
         "dimessi_guariti": 141981,
         "deceduti": 32877,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 230158,
         "tamponi": 3482253,
         "casi_testati": 2219308,
-        "note_it": "dc-IT-0035",
-        "note_en": "dc-EN-0035"
+        "note": "dc-IT-0035"
     },
     {
         "data": "2020-05-26T17:00:00",
@@ -1667,11 +1759,12 @@
         "nuovi_positivi": 397,
         "dimessi_guariti": 144658,
         "deceduti": 32955,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 230555,
         "tamponi": 3539927,
         "casi_testati": 2253252,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-27T17:00:00",
@@ -1685,11 +1778,12 @@
         "nuovi_positivi": 584,
         "dimessi_guariti": 147101,
         "deceduti": 33072,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 231139,
         "tamponi": 3607251,
         "casi_testati": 2290551,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-28T17:00:00",
@@ -1703,11 +1797,12 @@
         "nuovi_positivi": 593,
         "dimessi_guariti": 150604,
         "deceduti": 33142,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 231732,
         "tamponi": 3683144,
         "casi_testati": 2330389,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-05-29T17:00:00",
@@ -1721,11 +1816,12 @@
         "nuovi_positivi": 516,
         "dimessi_guariti": 152844,
         "deceduti": 33229,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 232248,
         "tamponi": 3755279,
         "casi_testati": 2368622,
-        "note_it": "dc-IT-0036",
-        "note_en": "dc-EN-0036"
+        "note": "dc-IT-0037"
     },
     {
         "data": "2020-05-30T17:00:00",
@@ -1739,11 +1835,12 @@
         "nuovi_positivi": 416,
         "dimessi_guariti": 155633,
         "deceduti": 33340,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 232664,
         "tamponi": 3824621,
         "casi_testati": 2404673,
-        "note_it": "nd-IT-0016",
-        "note_en": "nd-EN-0016"
+        "note": "nd-IT-0016"
     },
     {
         "data": "2020-05-31T17:00:00",
@@ -1757,11 +1854,12 @@
         "nuovi_positivi": 355,
         "dimessi_guariti": 157507,
         "deceduti": 33415,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 233019,
         "tamponi": 3878739,
         "casi_testati": 2433621,
-        "note_it": "pd-IT-0023",
-        "note_en": "pd-EN-0023"
+        "note": "pd-IT-0023"
     },
     {
         "data": "2020-06-01T17:00:00",
@@ -1775,11 +1873,12 @@
         "nuovi_positivi": 178,
         "dimessi_guariti": 158355,
         "deceduti": 33475,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 233197,
         "tamponi": 3910133,
         "casi_testati": 2451674,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-02T17:00:00",
@@ -1793,11 +1892,12 @@
         "nuovi_positivi": 318,
         "dimessi_guariti": 160092,
         "deceduti": 33530,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 233515,
         "tamponi": 3962292,
         "casi_testati": 2477302,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-03T17:00:00",
@@ -1811,11 +1911,12 @@
         "nuovi_positivi": 321,
         "dimessi_guariti": 160938,
         "deceduti": 33601,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 233836,
         "tamponi": 3999591,
         "casi_testati": 2497337,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-04T17:00:00",
@@ -1829,11 +1930,12 @@
         "nuovi_positivi": 177,
         "dimessi_guariti": 161895,
         "deceduti": 33689,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 234013,
         "tamponi": 4049544,
         "casi_testati": 2524788,
-        "note_it": "dc-IT-0039",
-        "note_en": "dc-IT-0039"
+        "note": "dc-IT-0039"
     },
     {
         "data": "2020-06-05T17:00:00",
@@ -1847,11 +1949,12 @@
         "nuovi_positivi": 518,
         "dimessi_guariti": 163781,
         "deceduti": 33774,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 234531,
         "tamponi": 4114572,
         "casi_testati": 2565258,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-06T17:00:00",
@@ -1865,11 +1968,12 @@
         "nuovi_positivi": 270,
         "dimessi_guariti": 165078,
         "deceduti": 33846,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 234801,
         "tamponi": 4187057,
         "casi_testati": 2599294,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-07T17:00:00",
@@ -1883,11 +1987,12 @@
         "nuovi_positivi": 197,
         "dimessi_guariti": 165837,
         "deceduti": 33899,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 234998,
         "tamponi": 4236535,
         "casi_testati": 2627188,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-08T17:00:00",
@@ -1901,11 +2006,12 @@
         "nuovi_positivi": 280,
         "dimessi_guariti": 166584,
         "deceduti": 33964,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 235278,
         "tamponi": 4263647,
         "casi_testati": 2643489,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-09T17:00:00",
@@ -1919,11 +2025,12 @@
         "nuovi_positivi": 283,
         "dimessi_guariti": 168646,
         "deceduti": 34043,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 235561,
         "tamponi": 4318650,
         "casi_testati": 2675689,
-        "note_it": "dc-IT-0041;dc-IT-0043",
-        "note_en": "dc-EN-0041;dc-EN-0043"
+        "note": "dc-IT-0041;dc-IT-0043"
     },
     {
         "data": "2020-06-10T17:00:00",
@@ -1937,11 +2044,12 @@
         "nuovi_positivi": 202,
         "dimessi_guariti": 169939,
         "deceduti": 34114,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 235763,
         "tamponi": 4381349,
         "casi_testati": 2713554,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-11T17:00:00",
@@ -1955,11 +2063,12 @@
         "nuovi_positivi": 379,
         "dimessi_guariti": 171338,
         "deceduti": 34167,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 236142,
         "tamponi": 4443821,
         "casi_testati": 2746545,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-12T17:00:00",
@@ -1973,11 +2082,12 @@
         "nuovi_positivi": 163,
         "dimessi_guariti": 173085,
         "deceduti": 34223,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 236305,
         "tamponi": 4514441,
         "casi_testati": 2784196,
-        "note_it": "dc-IT-0045;dc-IT-0047",
-        "note_en": "dc-EN-0045;dc-EN-0047"
+        "note": "dc-IT-0045;dc-IT-0047"
     },
     {
         "data": "2020-06-13T17:00:00",
@@ -1991,11 +2101,12 @@
         "nuovi_positivi": 346,
         "dimessi_guariti": 174865,
         "deceduti": 34301,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 236651,
         "tamponi": 4564191,
         "casi_testati": 2817076,
-        "note_it": "dc-IT-0049",
-        "note_en": "dc-EN-0049"
+        "note": "dc-IT-0049"
     },
     {
         "data": "2020-06-14T17:00:00",
@@ -2009,11 +2120,12 @@
         "nuovi_positivi": 338,
         "dimessi_guariti": 176370,
         "deceduti": 34345,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 236989,
         "tamponi": 4620718,
         "casi_testati": 2846621,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-15T17:00:00",
@@ -2027,11 +2139,12 @@
         "nuovi_positivi": 303,
         "dimessi_guariti": 177010,
         "deceduti": 34371,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 237290,
         "tamponi": 4648825,
         "casi_testati": 2864084,
-        "note_it": "dc-IT-0051",
-        "note_en": "dc-EN-0051"
+        "note": "dc-IT-0051"
     },
     {
         "data": "2020-06-16T17:00:00",
@@ -2045,11 +2158,12 @@
         "nuovi_positivi": 210,
         "dimessi_guariti": 178526,
         "deceduti": 34405,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 237500,
         "tamponi": 4695707,
         "casi_testati": 2891846,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-17T17:00:00",
@@ -2063,11 +2177,12 @@
         "nuovi_positivi": 329,
         "dimessi_guariti": 179455,
         "deceduti": 34448,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 237828,
         "tamponi": 4773408,
         "casi_testati": 2925803,
-        "note_it": "dc-IT-0053",
-        "note_en": "dc-EN-0053"
+        "note": "dc-IT-0053"
     },
     {
         "data": "2020-06-18T17:00:00",
@@ -2081,11 +2196,12 @@
         "nuovi_positivi": 333,
         "dimessi_guariti": 180544,
         "deceduti": 34514,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 238159,
         "tamponi": 4831562,
         "casi_testati": 2958724,
-        "note_it": "dc-IT-0055",
-        "note_en": "dc-EN-0055"
+        "note": "dc-IT-0055"
     },
     {
         "data": "2020-06-19T17:00:00",
@@ -2099,11 +2215,12 @@
         "nuovi_positivi": 251,
         "dimessi_guariti": 181907,
         "deceduti": 34561,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 238011,
         "tamponi": 4889103,
         "casi_testati": 2987294,
-        "note_it": "dc-IT-0057;dc-IT-0059",
-        "note_en": "dc-EN-0057;dc-EN-0059"
+        "note": "dc-IT-0057;dc-IT-0059"
     },
     {
         "data": "2020-06-20T17:00:00",
@@ -2117,11 +2234,12 @@
         "nuovi_positivi": 262,
         "dimessi_guariti": 182453,
         "deceduti": 34610,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 238275,
         "tamponi": 4943825,
         "casi_testati": 3017169,
-        "note_it": "dc-IT-0061;dc-IT-0063",
-        "note_en": "dc-EN-0061;dc-EN-0063"
+        "note": "dc-IT-0061;dc-IT-0063"
     },
     {
         "data": "2020-06-21T17:00:00",
@@ -2135,11 +2253,12 @@
         "nuovi_positivi": 224,
         "dimessi_guariti": 182893,
         "deceduti": 34634,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 238499,
         "tamponi": 4984370,
         "casi_testati": 3041750,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-22T17:00:00",
@@ -2153,11 +2272,12 @@
         "nuovi_positivi": 218,
         "dimessi_guariti": 183426,
         "deceduti": 34657,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 238720,
         "tamponi": 5013342,
         "casi_testati": 3057902,
-        "note_it": "dc-IT-0065",
-        "note_en": "dc-EN-0065"
+        "note": "dc-IT-0065"
     },
     {
         "data": "2020-06-23T17:00:00",
@@ -2171,11 +2291,12 @@
         "nuovi_positivi": 122,
         "dimessi_guariti": 184585,
         "deceduti": 34675,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 238833,
         "tamponi": 5053827,
         "casi_testati": 3081127,
-        "note_it": "dc-IT-0067;dc-IT-0069",
-        "note_en": "dc-EN-0067;dc-EN-0069"
+        "note": "dc-IT-0067;dc-IT-0069"
     },
     {
         "data": "2020-06-24T17:00:00",
@@ -2189,11 +2310,12 @@
         "nuovi_positivi": 190,
         "dimessi_guariti": 186111,
         "deceduti": 34644,
+        "casi_da_sospetto_diagnostico": null,
+        "casi_da_screening": null,
         "totale_casi": 239410,
         "tamponi": 5107093,
         "casi_testati": 3111364,
-        "note_it": "dc-IT-0071",
-        "note_en": "dc-EN-0071"
+        "note": "dc-IT-0071"
     },
     {
         "data": "2020-06-25T17:00:00",
@@ -2207,11 +2329,12 @@
         "nuovi_positivi": 296,
         "dimessi_guariti": 186725,
         "deceduti": 34678,
+        "casi_da_sospetto_diagnostico": 223905,
+        "casi_da_screening": 15801,
         "totale_casi": 239706,
         "tamponi": 5163154,
         "casi_testati": 3140785,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-26T17:00:00",
@@ -2225,11 +2348,12 @@
         "nuovi_positivi": 259,
         "dimessi_guariti": 187615,
         "deceduti": 34708,
+        "casi_da_sospetto_diagnostico": 223440,
+        "casi_da_screening": 16521,
         "totale_casi": 239961,
         "tamponi": 5215922,
         "casi_testati": 3169116,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-27T17:00:00",
@@ -2243,11 +2367,12 @@
         "nuovi_positivi": 175,
         "dimessi_guariti": 188584,
         "deceduti": 34716,
+        "casi_da_sospetto_diagnostico": 223262,
+        "casi_da_screening": 16874,
         "totale_casi": 240136,
         "tamponi": 5277273,
         "casi_testati": 3198837,
-        "note_it": "",
-        "note_en": ""
+        "note": null
     },
     {
         "data": "2020-06-28T17:00:00",
@@ -2261,10 +2386,29 @@
         "nuovi_positivi": 174,
         "dimessi_guariti": 188891,
         "deceduti": 34738,
+        "casi_da_sospetto_diagnostico": 223272,
+        "casi_da_screening": 17038,
         "totale_casi": 240310,
         "tamponi": 5314619,
         "casi_testati": 3220020,
-        "note_it": "",
-        "note_en": ""
+        "note": null
+    },
+        {
+        "data": "2020-06-29T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 1120,
+        "terapia_intensiva": 96,
+        "totale_ospedalizzati": 1216,
+        "isolamento_domiciliare": 15280,
+        "totale_positivi": 16496,
+        "variazione_totale_positivi": -185,
+        "nuovi_positivi": 126,
+        "dimessi_guariti": 189196,
+        "deceduti": 34744,
+        "casi_da_sospetto_diagnostico": 223254,
+        "casi_da_screening": 17182,
+        "totale_casi": 240436,
+        "tamponi": 5341837,
+        "casi_testati": 3235504,
+        "note": null
     }
-]

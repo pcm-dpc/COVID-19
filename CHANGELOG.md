@@ -77,9 +77,11 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: aggiornamento al 18/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 17/5/2020.
 
+## 2020-06-29
+
+- Modifica: nuovo dataset che aggiunge i dati "casi_da_sospetto_diagnostico" e "casi_da_screening", i campi note_it e note_en vengono rimossi includendo un solo campo "note", in dati Province aggiunto il valore "Fuori Regione / Provincia Autonoma", tutti i dati storici sono stati allineati e fino al 31/07 viene tenuto un repository legacy con i vecchi dataset nella directory "legacy"
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json) public beta
 - GraphQL public beta
-- Aggiunta dati al dataset regioni e andamento nazionale (preview nuovo dataset da sabato 27/06)
-- Modifica note aggiunta note su tamponi e casi con informazioni inserite direttamente sul dataset (preview nuovo dataset da venerdì 27/06)
