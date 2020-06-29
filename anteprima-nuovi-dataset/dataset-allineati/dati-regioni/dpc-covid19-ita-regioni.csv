@@ -2586,9 +2586,7 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-06-26T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,1,0,1,6,7,0,0,367,27,401,0,401,38690,37910,NEI CASI POSITIVI COMPRESI N. 2 PAZIENTI IN ISOLAMENTO DOMICILIARE PROVENIENTI DA ALTRA REGIONE
 2020-06-26T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,9,0,9,21,30,2,3,1051,97,1175,3,1178,92448,90414,
 2020-06-26T17:00:00,ITA,15,Campania,40.83956555,14.25084984,41,1,42,122,164,0,3,4070,431,4664,1,4665,272874,131984,
-2020-06-26T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.3417208,109,12,121,923,1044,-24,46,23097,4252,27944,449,28393,478941,285701,"In seguito a verifica sono stati eliminati 4 casi da Ferrara
-in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Il numero totale di ieri (25/06) pertanto è di 28347 e non 28351.
-"
+2020-06-26T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.3417208,109,12,121,923,1044,-24,46,23097,4252,27944,449,28393,478941,285701,"In seguito a verifica sono stati eliminati 4 casi da Ferrara in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Il numero totale di ieri (25/06) pertanto è di 28347 e non 28351."
 2020-06-26T17:00:00,ITA,06,Friuli Venezia Giulia,45.6494354,13.76813649,13,0,13,35,48,-5,2,2914,345,3306,1,3307,183824,104501,
 2020-06-26T17:00:00,ITA,12,Lazio,41.89277044,12.48366722,185,13,198,618,816,-46,13,6412,836,5971,2093,8064,329074,269189,
 2020-06-26T17:00:00,ITA,07,Liguria,44.41149315,8.9326992,54,3,57,207,264,5,4,8138,1556,9014,944,9958,142669,76437,
