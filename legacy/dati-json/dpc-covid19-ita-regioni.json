@@ -58214,7 +58214,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "13",
+        "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
         "lat": "42.35122196",
         "long": "13.39843823",
@@ -58236,7 +58236,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "17",
+        "codice_regione": 17,
         "denominazione_regione": "Basilicata",
         "lat": "40.63947052",
         "long": "15.80514834",
@@ -58258,7 +58258,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "18",
+        "codice_regione": 18,
         "denominazione_regione": "Calabria",
         "lat": "38.90597598",
         "long": "16.59440194",
@@ -58280,7 +58280,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "15",
+        "codice_regione": 15,
         "denominazione_regione": "Campania",
         "lat": "40.83956555",
         "long": "14.25084984",
@@ -58302,7 +58302,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "08",
+        "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
         "lat": "44.49436681",
         "long": "11.3417208",
@@ -58324,7 +58324,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "06",
+        "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
         "lat": "45.6494354",
         "long": "13.76813649",
@@ -58346,7 +58346,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "12",
+        "codice_regione": 12,
         "denominazione_regione": "Lazio",
         "lat": "41.89277044",
         "long": "12.48366722",
@@ -58368,7 +58368,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "07",
+        "codice_regione": 7,
         "denominazione_regione": "Liguria",
         "lat": "44.41149315",
         "long": "8.9326992",
@@ -58390,7 +58390,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "03",
+        "codice_regione": 3,
         "denominazione_regione": "Lombardia",
         "lat": "45.46679409",
         "long": "9.190347404",
@@ -58412,7 +58412,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "11",
+        "codice_regione": 11,
         "denominazione_regione": "Marche",
         "lat": "43.61675973",
         "long": "13.5188753",
@@ -58434,7 +58434,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "14",
+        "codice_regione": 14,
         "denominazione_regione": "Molise",
         "lat": "41.55774754",
         "long": "14.65916051",
@@ -58456,7 +58456,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "21",
+        "codice_regione": 21,
         "denominazione_regione": "P.A. Bolzano",
         "lat": "46.49933453",
         "long": "11.35662422",
@@ -58478,7 +58478,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "22",
+        "codice_regione": 22,
         "denominazione_regione": "P.A. Trento",
         "lat": "46.06893511",
         "long": "11.12123097",
@@ -58500,7 +58500,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "01",
+        "codice_regione": 1,
         "denominazione_regione": "Piemonte",
         "lat": "45.0732745",
         "long": "7.680687483",
@@ -58522,7 +58522,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "16",
+        "codice_regione": 16,
         "denominazione_regione": "Puglia",
         "lat": "41.12559576",
         "long": "16.86736689",
@@ -58544,7 +58544,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "20",
+        "codice_regione": 20,
         "denominazione_regione": "Sardegna",
         "lat": "39.21531192",
         "long": "9.110616306",
@@ -58566,7 +58566,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "19",
+        "codice_regione": 19,
         "denominazione_regione": "Sicilia",
         "lat": "38.11569725",
         "long": "13.3623567",
@@ -58588,7 +58588,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "09",
+        "codice_regione": 9,
         "denominazione_regione": "Toscana",
         "lat": "43.76923077",
         "long": "11.25588885",
@@ -58610,7 +58610,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "10",
+        "codice_regione": 10,
         "denominazione_regione": "Umbria",
         "lat": "43.10675841",
         "long": "12.38824698",
@@ -58632,7 +58632,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "02",
+        "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
         "lat": "45.73750286",
         "long": "7.320149366",
@@ -58654,7 +58654,7 @@
     {
         "data": "2020-06-29T17:00:00",
         "stato": "ITA",
-        "codice_regione": "05",
+        "codice_regione": 5,
         "denominazione_regione": "Veneto",
         "lat": "45.43490485",
         "long": "12.33845213",
