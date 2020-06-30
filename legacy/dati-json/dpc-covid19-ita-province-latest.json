@@ -272,7 +272,7 @@
         "denominazione_regione": "Campania",
         "codice_provincia": 63,
         "denominazione_provincia": "Napoli",
-        "sigla_provincia": null,
+        "sigla_provincia": "NA",
         "lat": 40.83956555,
         "long": 14.25084984,
         "totale_casi": 2651,
