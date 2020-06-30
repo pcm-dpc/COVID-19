@@ -1,7 +1,7 @@
 [
     {
         "data": "2020-02-24T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 101,
         "terapia_intensiva": 26,
         "totale_ospedalizzati": 127,
@@ -20,7 +20,7 @@
     },
     {
         "data": "2020-02-25T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 114,
         "terapia_intensiva": 35,
         "totale_ospedalizzati": 150,
@@ -39,7 +39,7 @@
     },
     {
         "data": "2020-02-26T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 128,
         "terapia_intensiva": 36,
         "totale_ospedalizzati": 164,
@@ -58,7 +58,7 @@
     },
     {
         "data": "2020-02-27T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 248,
         "terapia_intensiva": 56,
         "totale_ospedalizzati": 304,
@@ -77,7 +77,7 @@
     },
     {
         "data": "2020-02-28T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 345,
         "terapia_intensiva": 64,
         "totale_ospedalizzati": 409,
@@ -96,7 +96,7 @@
     },
     {
         "data": "2020-02-29T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 401,
         "terapia_intensiva": 105,
         "totale_ospedalizzati": 506,
@@ -115,7 +115,7 @@
     },
     {
         "data": "2020-03-01T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 639,
         "terapia_intensiva": 140,
         "totale_ospedalizzati": 779,
@@ -134,7 +134,7 @@
     },
     {
         "data": "2020-03-02T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 742,
         "terapia_intensiva": 166,
         "totale_ospedalizzati": 908,
@@ -153,7 +153,7 @@
     },
     {
         "data": "2020-03-03T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1034,
         "terapia_intensiva": 229,
         "totale_ospedalizzati": 1263,
@@ -172,7 +172,7 @@
     },
     {
         "data": "2020-03-04T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1346,
         "terapia_intensiva": 295,
         "totale_ospedalizzati": 1641,
@@ -191,7 +191,7 @@
     },
     {
         "data": "2020-03-05T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1790,
         "terapia_intensiva": 351,
         "totale_ospedalizzati": 2141,
@@ -210,7 +210,7 @@
     },
     {
         "data": "2020-03-06T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2394,
         "terapia_intensiva": 462,
         "totale_ospedalizzati": 2856,
@@ -229,7 +229,7 @@
     },
     {
         "data": "2020-03-07T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2651,
         "terapia_intensiva": 567,
         "totale_ospedalizzati": 3218,
@@ -248,7 +248,7 @@
     },
     {
         "data": "2020-03-08T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3557,
         "terapia_intensiva": 650,
         "totale_ospedalizzati": 4207,
@@ -267,7 +267,7 @@
     },
     {
         "data": "2020-03-09T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 4316,
         "terapia_intensiva": 733,
         "totale_ospedalizzati": 5049,
@@ -286,7 +286,7 @@
     },
     {
         "data": "2020-03-10T18:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5038,
         "terapia_intensiva": 877,
         "totale_ospedalizzati": 5915,
@@ -305,7 +305,7 @@
     },
     {
         "data": "2020-03-11T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5838,
         "terapia_intensiva": 1028,
         "totale_ospedalizzati": 6866,
@@ -324,7 +324,7 @@
     },
     {
         "data": "2020-03-12T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 6650,
         "terapia_intensiva": 1153,
         "totale_ospedalizzati": 7803,
@@ -343,7 +343,7 @@
     },
     {
         "data": "2020-03-13T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 7426,
         "terapia_intensiva": 1328,
         "totale_ospedalizzati": 8754,
@@ -362,7 +362,7 @@
     },
     {
         "data": "2020-03-14T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 8372,
         "terapia_intensiva": 1518,
         "totale_ospedalizzati": 9890,
@@ -381,7 +381,7 @@
     },
     {
         "data": "2020-03-15T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 9663,
         "terapia_intensiva": 1672,
         "totale_ospedalizzati": 11335,
@@ -400,7 +400,7 @@
     },
     {
         "data": "2020-03-16T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 11025,
         "terapia_intensiva": 1851,
         "totale_ospedalizzati": 12876,
@@ -419,7 +419,7 @@
     },
     {
         "data": "2020-03-17T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 12894,
         "terapia_intensiva": 2060,
         "totale_ospedalizzati": 14954,
@@ -438,7 +438,7 @@
     },
     {
         "data": "2020-03-18T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 14363,
         "terapia_intensiva": 2257,
         "totale_ospedalizzati": 16620,
@@ -457,7 +457,7 @@
     },
     {
         "data": "2020-03-19T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 15757,
         "terapia_intensiva": 2498,
         "totale_ospedalizzati": 18255,
@@ -476,7 +476,7 @@
     },
     {
         "data": "2020-03-20T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 16020,
         "terapia_intensiva": 2655,
         "totale_ospedalizzati": 18675,
@@ -495,7 +495,7 @@
     },
     {
         "data": "2020-03-21T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 17708,
         "terapia_intensiva": 2857,
         "totale_ospedalizzati": 20565,
@@ -514,7 +514,7 @@
     },
     {
         "data": "2020-03-22T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 19846,
         "terapia_intensiva": 3009,
         "totale_ospedalizzati": 22855,
@@ -533,7 +533,7 @@
     },
     {
         "data": "2020-03-23T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 20692,
         "terapia_intensiva": 3204,
         "totale_ospedalizzati": 23896,
@@ -552,7 +552,7 @@
     },
     {
         "data": "2020-03-24T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 21937,
         "terapia_intensiva": 3396,
         "totale_ospedalizzati": 25333,
@@ -571,7 +571,7 @@
     },
     {
         "data": "2020-03-25T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 23112,
         "terapia_intensiva": 3489,
         "totale_ospedalizzati": 26601,
@@ -590,7 +590,7 @@
     },
     {
         "data": "2020-03-26T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 24753,
         "terapia_intensiva": 3612,
         "totale_ospedalizzati": 28365,
@@ -609,7 +609,7 @@
     },
     {
         "data": "2020-03-27T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 26029,
         "terapia_intensiva": 3732,
         "totale_ospedalizzati": 29761,
@@ -628,7 +628,7 @@
     },
     {
         "data": "2020-03-28T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 26676,
         "terapia_intensiva": 3856,
         "totale_ospedalizzati": 30532,
@@ -647,7 +647,7 @@
     },
     {
         "data": "2020-03-29T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 27386,
         "terapia_intensiva": 3906,
         "totale_ospedalizzati": 31292,
@@ -666,7 +666,7 @@
     },
     {
         "data": "2020-03-30T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 27795,
         "terapia_intensiva": 3981,
         "totale_ospedalizzati": 31776,
@@ -685,7 +685,7 @@
     },
     {
         "data": "2020-03-31T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28192,
         "terapia_intensiva": 4023,
         "totale_ospedalizzati": 32215,
@@ -704,7 +704,7 @@
     },
     {
         "data": "2020-04-01T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28403,
         "terapia_intensiva": 4035,
         "totale_ospedalizzati": 32438,
@@ -723,7 +723,7 @@
     },
     {
         "data": "2020-04-02T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28540,
         "terapia_intensiva": 4053,
         "totale_ospedalizzati": 32593,
@@ -742,7 +742,7 @@
     },
     {
         "data": "2020-04-03T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28741,
         "terapia_intensiva": 4068,
         "totale_ospedalizzati": 32809,
@@ -761,7 +761,7 @@
     },
     {
         "data": "2020-04-04T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 29010,
         "terapia_intensiva": 3994,
         "totale_ospedalizzati": 33004,
@@ -780,7 +780,7 @@
     },
     {
         "data": "2020-04-05T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28949,
         "terapia_intensiva": 3977,
         "totale_ospedalizzati": 32926,
@@ -799,7 +799,7 @@
     },
     {
         "data": "2020-04-06T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28976,
         "terapia_intensiva": 3898,
         "totale_ospedalizzati": 32874,
@@ -818,7 +818,7 @@
     },
     {
         "data": "2020-04-07T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28718,
         "terapia_intensiva": 3792,
         "totale_ospedalizzati": 32510,
@@ -837,7 +837,7 @@
     },
     {
         "data": "2020-04-08T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28485,
         "terapia_intensiva": 3693,
         "totale_ospedalizzati": 32178,
@@ -856,7 +856,7 @@
     },
     {
         "data": "2020-04-09T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28399,
         "terapia_intensiva": 3605,
         "totale_ospedalizzati": 32004,
@@ -875,7 +875,7 @@
     },
     {
         "data": "2020-04-10T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28242,
         "terapia_intensiva": 3497,
         "totale_ospedalizzati": 31739,
@@ -894,7 +894,7 @@
     },
     {
         "data": "2020-04-11T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28144,
         "terapia_intensiva": 3381,
         "totale_ospedalizzati": 31525,
@@ -913,7 +913,7 @@
     },
     {
         "data": "2020-04-12T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 27847,
         "terapia_intensiva": 3343,
         "totale_ospedalizzati": 31190,
@@ -932,7 +932,7 @@
     },
     {
         "data": "2020-04-13T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28023,
         "terapia_intensiva": 3260,
         "totale_ospedalizzati": 31283,
@@ -951,7 +951,7 @@
     },
     {
         "data": "2020-04-14T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 28011,
         "terapia_intensiva": 3186,
         "totale_ospedalizzati": 31197,
@@ -970,7 +970,7 @@
     },
     {
         "data": "2020-04-15T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 27643,
         "terapia_intensiva": 3079,
         "totale_ospedalizzati": 30722,
@@ -989,7 +989,7 @@
     },
     {
         "data": "2020-04-16T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 26893,
         "terapia_intensiva": 2936,
         "totale_ospedalizzati": 29829,
@@ -1008,7 +1008,7 @@
     },
     {
         "data": "2020-04-17T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 25786,
         "terapia_intensiva": 2812,
         "totale_ospedalizzati": 28598,
@@ -1027,7 +1027,7 @@
     },
     {
         "data": "2020-04-18T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 25007,
         "terapia_intensiva": 2733,
         "totale_ospedalizzati": 27740,
@@ -1046,7 +1046,7 @@
     },
     {
         "data": "2020-04-19T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 25033,
         "terapia_intensiva": 2635,
         "totale_ospedalizzati": 27668,
@@ -1065,7 +1065,7 @@
     },
     {
         "data": "2020-04-20T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 24906,
         "terapia_intensiva": 2573,
         "totale_ospedalizzati": 27479,
@@ -1084,7 +1084,7 @@
     },
     {
         "data": "2020-04-21T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 24134,
         "terapia_intensiva": 2471,
         "totale_ospedalizzati": 26605,
@@ -1103,7 +1103,7 @@
     },
     {
         "data": "2020-04-22T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 23805,
         "terapia_intensiva": 2384,
         "totale_ospedalizzati": 26189,
@@ -1122,7 +1122,7 @@
     },
     {
         "data": "2020-04-23T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 22871,
         "terapia_intensiva": 2267,
         "totale_ospedalizzati": 25138,
@@ -1141,7 +1141,7 @@
     },
     {
         "data": "2020-04-24T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 22068,
         "terapia_intensiva": 2173,
         "totale_ospedalizzati": 24241,
@@ -1160,7 +1160,7 @@
     },
     {
         "data": "2020-04-25T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 21533,
         "terapia_intensiva": 2102,
         "totale_ospedalizzati": 23635,
@@ -1179,7 +1179,7 @@
     },
     {
         "data": "2020-04-26T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 21372,
         "terapia_intensiva": 2009,
         "totale_ospedalizzati": 23381,
@@ -1198,7 +1198,7 @@
     },
     {
         "data": "2020-04-27T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 20353,
         "terapia_intensiva": 1956,
         "totale_ospedalizzati": 22309,
@@ -1217,7 +1217,7 @@
     },
     {
         "data": "2020-04-28T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 19723,
         "terapia_intensiva": 1863,
         "totale_ospedalizzati": 21586,
@@ -1236,7 +1236,7 @@
     },
     {
         "data": "2020-04-29T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 19210,
         "terapia_intensiva": 1795,
         "totale_ospedalizzati": 21005,
@@ -1255,7 +1255,7 @@
     },
     {
         "data": "2020-04-30T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 18149,
         "terapia_intensiva": 1694,
         "totale_ospedalizzati": 19843,
@@ -1274,7 +1274,7 @@
     },
     {
         "data": "2020-05-01T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 17569,
         "terapia_intensiva": 1578,
         "totale_ospedalizzati": 19147,
@@ -1293,7 +1293,7 @@
     },
     {
         "data": "2020-05-02T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 17357,
         "terapia_intensiva": 1539,
         "totale_ospedalizzati": 18896,
@@ -1312,7 +1312,7 @@
     },
     {
         "data": "2020-05-03T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 17242,
         "terapia_intensiva": 1501,
         "totale_ospedalizzati": 18743,
@@ -1331,7 +1331,7 @@
     },
     {
         "data": "2020-05-04T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 16823,
         "terapia_intensiva": 1479,
         "totale_ospedalizzati": 18302,
@@ -1350,7 +1350,7 @@
     },
     {
         "data": "2020-05-05T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 16270,
         "terapia_intensiva": 1427,
         "totale_ospedalizzati": 17697,
@@ -1369,7 +1369,7 @@
     },
     {
         "data": "2020-05-06T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 15769,
         "terapia_intensiva": 1333,
         "totale_ospedalizzati": 17102,
@@ -1388,7 +1388,7 @@
     },
     {
         "data": "2020-05-07T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 15174,
         "terapia_intensiva": 1311,
         "totale_ospedalizzati": 16485,
@@ -1407,7 +1407,7 @@
     },
     {
         "data": "2020-05-08T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 14636,
         "terapia_intensiva": 1168,
         "totale_ospedalizzati": 15804,
@@ -1426,7 +1426,7 @@
     },
     {
         "data": "2020-05-09T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 13834,
         "terapia_intensiva": 1034,
         "totale_ospedalizzati": 14868,
@@ -1445,7 +1445,7 @@
     },
     {
         "data": "2020-05-10T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 13618,
         "terapia_intensiva": 1027,
         "totale_ospedalizzati": 14645,
@@ -1464,7 +1464,7 @@
     },
     {
         "data": "2020-05-11T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 13539,
         "terapia_intensiva": 999,
         "totale_ospedalizzati": 14538,
@@ -1483,7 +1483,7 @@
     },
     {
         "data": "2020-05-12T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 12865,
         "terapia_intensiva": 952,
         "totale_ospedalizzati": 13817,
@@ -1502,7 +1502,7 @@
     },
     {
         "data": "2020-05-13T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 12172,
         "terapia_intensiva": 893,
         "totale_ospedalizzati": 13065,
@@ -1521,7 +1521,7 @@
     },
     {
         "data": "2020-05-14T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 11453,
         "terapia_intensiva": 855,
         "totale_ospedalizzati": 12308,
@@ -1540,7 +1540,7 @@
     },
     {
         "data": "2020-05-15T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 10792,
         "terapia_intensiva": 808,
         "totale_ospedalizzati": 11600,
@@ -1559,7 +1559,7 @@
     },
     {
         "data": "2020-05-16T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 10400,
         "terapia_intensiva": 775,
         "totale_ospedalizzati": 11175,
@@ -1578,7 +1578,7 @@
     },
     {
         "data": "2020-05-17T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 10311,
         "terapia_intensiva": 762,
         "totale_ospedalizzati": 11073,
@@ -1597,7 +1597,7 @@
     },
     {
         "data": "2020-05-18T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 10207,
         "terapia_intensiva": 749,
         "totale_ospedalizzati": 10956,
@@ -1616,7 +1616,7 @@
     },
     {
         "data": "2020-05-19T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 9991,
         "terapia_intensiva": 716,
         "totale_ospedalizzati": 10707,
@@ -1635,7 +1635,7 @@
     },
     {
         "data": "2020-05-20T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 9624,
         "terapia_intensiva": 676,
         "totale_ospedalizzati": 10300,
@@ -1654,7 +1654,7 @@
     },
     {
         "data": "2020-05-21T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 9269,
         "terapia_intensiva": 640,
         "totale_ospedalizzati": 9909,
@@ -1673,7 +1673,7 @@
     },
     {
         "data": "2020-05-22T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 8957,
         "terapia_intensiva": 595,
         "totale_ospedalizzati": 9552,
@@ -1692,7 +1692,7 @@
     },
     {
         "data": "2020-05-23T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 8695,
         "terapia_intensiva": 572,
         "totale_ospedalizzati": 9267,
@@ -1711,7 +1711,7 @@
     },
     {
         "data": "2020-05-24T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 8613,
         "terapia_intensiva": 553,
         "totale_ospedalizzati": 9166,
@@ -1730,7 +1730,7 @@
     },
     {
         "data": "2020-05-25T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 8185,
         "terapia_intensiva": 541,
         "totale_ospedalizzati": 8726,
@@ -1749,7 +1749,7 @@
     },
     {
         "data": "2020-05-26T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 7917,
         "terapia_intensiva": 521,
         "totale_ospedalizzati": 8438,
@@ -1768,7 +1768,7 @@
     },
     {
         "data": "2020-05-27T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 7729,
         "terapia_intensiva": 505,
         "totale_ospedalizzati": 8234,
@@ -1787,7 +1787,7 @@
     },
     {
         "data": "2020-05-28T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 7379,
         "terapia_intensiva": 489,
         "totale_ospedalizzati": 7868,
@@ -1806,7 +1806,7 @@
     },
     {
         "data": "2020-05-29T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 7094,
         "terapia_intensiva": 475,
         "totale_ospedalizzati": 7569,
@@ -1825,7 +1825,7 @@
     },
     {
         "data": "2020-05-30T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 6680,
         "terapia_intensiva": 450,
         "totale_ospedalizzati": 7130,
@@ -1844,7 +1844,7 @@
     },
     {
         "data": "2020-05-31T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 6387,
         "terapia_intensiva": 435,
         "totale_ospedalizzati": 6822,
@@ -1863,7 +1863,7 @@
     },
     {
         "data": "2020-06-01T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 6099,
         "terapia_intensiva": 424,
         "totale_ospedalizzati": 6523,
@@ -1882,7 +1882,7 @@
     },
     {
         "data": "2020-06-02T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5916,
         "terapia_intensiva": 408,
         "totale_ospedalizzati": 6324,
@@ -1901,7 +1901,7 @@
     },
     {
         "data": "2020-06-03T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5742,
         "terapia_intensiva": 353,
         "totale_ospedalizzati": 6095,
@@ -1920,7 +1920,7 @@
     },
     {
         "data": "2020-06-04T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5503,
         "terapia_intensiva": 338,
         "totale_ospedalizzati": 5841,
@@ -1939,7 +1939,7 @@
     },
     {
         "data": "2020-06-05T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5301,
         "terapia_intensiva": 316,
         "totale_ospedalizzati": 5617,
@@ -1958,7 +1958,7 @@
     },
     {
         "data": "2020-06-06T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 5002,
         "terapia_intensiva": 293,
         "totale_ospedalizzati": 5295,
@@ -1977,7 +1977,7 @@
     },
     {
         "data": "2020-06-07T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 4864,
         "terapia_intensiva": 287,
         "totale_ospedalizzati": 5151,
@@ -1996,7 +1996,7 @@
     },
     {
         "data": "2020-06-08T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 4729,
         "terapia_intensiva": 283,
         "totale_ospedalizzati": 5012,
@@ -2015,7 +2015,7 @@
     },
     {
         "data": "2020-06-09T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 4581,
         "terapia_intensiva": 263,
         "totale_ospedalizzati": 4844,
@@ -2034,7 +2034,7 @@
     },
     {
         "data": "2020-06-10T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 4320,
         "terapia_intensiva": 249,
         "totale_ospedalizzati": 4569,
@@ -2053,7 +2053,7 @@
     },
     {
         "data": "2020-06-11T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 4131,
         "terapia_intensiva": 236,
         "totale_ospedalizzati": 4367,
@@ -2072,7 +2072,7 @@
     },
     {
         "data": "2020-06-12T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3893,
         "terapia_intensiva": 227,
         "totale_ospedalizzati": 4120,
@@ -2091,7 +2091,7 @@
     },
     {
         "data": "2020-06-13T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3747,
         "terapia_intensiva": 220,
         "totale_ospedalizzati": 3967,
@@ -2110,7 +2110,7 @@
     },
     {
         "data": "2020-06-14T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3594,
         "terapia_intensiva": 209,
         "totale_ospedalizzati": 3803,
@@ -2129,7 +2129,7 @@
     },
     {
         "data": "2020-06-15T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3489,
         "terapia_intensiva": 207,
         "totale_ospedalizzati": 3696,
@@ -2148,7 +2148,7 @@
     },
     {
         "data": "2020-06-16T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3301,
         "terapia_intensiva": 177,
         "totale_ospedalizzati": 3478,
@@ -2167,7 +2167,7 @@
     },
     {
         "data": "2020-06-17T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 3113,
         "terapia_intensiva": 163,
         "totale_ospedalizzati": 3276,
@@ -2186,7 +2186,7 @@
     },
     {
         "data": "2020-06-18T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2867,
         "terapia_intensiva": 168,
         "totale_ospedalizzati": 3035,
@@ -2205,7 +2205,7 @@
     },
     {
         "data": "2020-06-19T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2632,
         "terapia_intensiva": 161,
         "totale_ospedalizzati": 2793,
@@ -2224,7 +2224,7 @@
     },
     {
         "data": "2020-06-20T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2474,
         "terapia_intensiva": 152,
         "totale_ospedalizzati": 2626,
@@ -2243,7 +2243,7 @@
     },
     {
         "data": "2020-06-21T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2314,
         "terapia_intensiva": 148,
         "totale_ospedalizzati": 2462,
@@ -2262,7 +2262,7 @@
     },
     {
         "data": "2020-06-22T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 2038,
         "terapia_intensiva": 127,
         "totale_ospedalizzati": 2165,
@@ -2281,7 +2281,7 @@
     },
     {
         "data": "2020-06-23T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1853,
         "terapia_intensiva": 115,
         "totale_ospedalizzati": 1968,
@@ -2300,7 +2300,7 @@
     },
     {
         "data": "2020-06-24T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1610,
         "terapia_intensiva": 107,
         "totale_ospedalizzati": 1717,
@@ -2319,7 +2319,7 @@
     },
     {
         "data": "2020-06-25T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1515,
         "terapia_intensiva": 103,
         "totale_ospedalizzati": 1618,
@@ -2338,7 +2338,7 @@
     },
     {
         "data": "2020-06-26T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1356,
         "terapia_intensiva": 105,
         "totale_ospedalizzati": 1461,
@@ -2357,7 +2357,7 @@
     },
     {
         "data": "2020-06-27T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1260,
         "terapia_intensiva": 97,
         "totale_ospedalizzati": 1357,
@@ -2376,7 +2376,7 @@
     },
     {
         "data": "2020-06-28T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1160,
         "terapia_intensiva": 98,
         "totale_ospedalizzati": 1258,

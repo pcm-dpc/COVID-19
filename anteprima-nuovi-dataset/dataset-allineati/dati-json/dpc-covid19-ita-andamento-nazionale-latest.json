@@ -1,7 +1,7 @@
 [
     {
         "data": "2020-06-28T17:00:00",
-        "stato": "ITA",
+        "stato": "ITA,
         "ricoverati_con_sintomi": 1160,
         "terapia_intensiva": 98,
         "totale_ospedalizzati": 1258,
