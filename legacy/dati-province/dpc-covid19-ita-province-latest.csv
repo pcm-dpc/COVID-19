@@ -18,7 +18,7 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-06-29T17:00:00,ITA,18,Calabria,982,In fase di definizione,,,,0,,
 2020-06-29T17:00:00,ITA,15,Campania,061,Caserta,CE,41.07465878,14.33240464,530,,
 2020-06-29T17:00:00,ITA,15,Campania,062,Benevento,BN,41.12969987,14.78151683,209,,
-2020-06-29T17:00:00,ITA,15,Campania,063,Napoli,,40.83956555,14.25084984,2651,,
+2020-06-29T17:00:00,ITA,15,Campania,063,Napoli,NA,40.83956555,14.25084984,2651,,
 2020-06-29T17:00:00,ITA,15,Campania,064,Avellino,AV,40.91404699,14.79528803,552,,
 2020-06-29T17:00:00,ITA,15,Campania,065,Salerno,SA,40.67821961,14.7594026,692,,
 2020-06-29T17:00:00,ITA,15,Campania,883,Fuori Regione / Provincia Autonoma,,,,0,,
