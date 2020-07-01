@@ -6,6 +6,9 @@
 
 ## Avvisi
 
+01/07/2020
+La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato
+
 ```diff
 - 24/06/2020: dati P.A. Trento ricalcolo casi deceduti e guariti
 - 23/06/2020: dati Regione Sardegna ricalcolo casi positivi (-9)
