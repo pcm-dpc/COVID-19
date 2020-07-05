@@ -2374,5 +2374,23 @@
         "casi_testati": 3377073,
         "note_it": null,
         "note_en": null
+    },
+    {
+        "data": "2020-07-05T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 945,
+        "terapia_intensiva": 74,
+        "totale_ospedalizzati": 1019,
+        "isolamento_domiciliare": 13623,
+        "totale_positivi": 14642,
+        "variazione_totale_positivi": 21,
+        "nuovi_positivi": 192,
+        "dimessi_guariti": 192108,
+        "deceduti": 34861,
+        "totale_casi": 241611,
+        "tamponi": 5638288,
+        "casi_testati": 3398239,
+        "note_it": null,
+        "note_en": null
     }
 ]
