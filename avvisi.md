@@ -6,6 +6,9 @@
 
 ## Avvisi
 
+06/07/2020
+Il FVG riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione
+
 01/07/2020
 La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato
 
