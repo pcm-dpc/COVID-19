@@ -22,5 +22,9 @@
     {
         "data": "2020-07-01T17:00:00",
         "note": "La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato"
+    },
+    {
+        "data": "2020-06-06T17:00:00",
+        "note": "La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening"
     }
 ]
