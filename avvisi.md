@@ -7,7 +7,7 @@
 ## Avvisi
 
 07/07/2020
-La Puglia ha un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato
+La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA –FCO atterrato il 6/06/2020 alle 17.45 presso l’aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale
 
 06/07/2020
 La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening
