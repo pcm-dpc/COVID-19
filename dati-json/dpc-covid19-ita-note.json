@@ -26,5 +26,9 @@
     {
         "data": "2020-07-06T17:00:00",
         "note": "La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening"
+    },
+    {
+        "data": "2020-07-07T17:00:00",
+        "note": "La Puglia ha un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato"
     }
 ]
