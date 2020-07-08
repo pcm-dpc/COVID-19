@@ -29,6 +29,10 @@
     },
     {
         "data": "2020-07-07T17:00:00",
-        "note": "La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA –FCO atterrato il 6/06/2020 alle 17.45 presso l’aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale"
+        "note": "La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale"
+    },
+    {
+        "data": "2020-07-08T17:00:00",
+        "note": "La Regione Lazio segnala che al totale dei casi positivi si aggiunge un totale di 37 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza\nregionale"
     }
 ]
