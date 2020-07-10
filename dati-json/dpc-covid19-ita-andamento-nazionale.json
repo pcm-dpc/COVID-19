@@ -2600,6 +2600,25 @@
         "totale_casi": 242363,
         "tamponi": 5806668,
         "casi_testati": 3493126,
-        "note": ""
+        "note": null
+    },
+        {
+        "data": "2020-07-10T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 844,
+        "terapia_intensiva": 65,
+        "totale_ospedalizzati": 909,
+        "isolamento_domiciliare": 12519,
+        "totale_positivi": 13428,
+        "variazione_totale_positivi": -31,
+        "nuovi_positivi": 276,
+        "dimessi_guariti": 194273,
+        "deceduti": 34938,
+        "casi_da_sospetto_diagnostico": 222079,
+        "casi_da_screening": 20560,
+        "totale_casi": 242639,
+        "tamponi": 5854621,
+        "casi_testati": 3520377,
+        "note": null
     }
 ]
