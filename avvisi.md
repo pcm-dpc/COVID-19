@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+12/07/2020
+La Regione Calabria segnala che dallo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica sono stati intercettati 26 soggetti positivi dal laboratorio dell'ASP di Reggio Calabria; in strutture dedicate, appositamente individuate dalla Prefettura
+
 10/07/2020
 La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48
 
