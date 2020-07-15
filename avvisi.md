@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+15/07/2020
+La regione Basilicata ha comunicato un ricalcolo: ha eliminato 1 caso inserito erroneamente come nuovo positivo, la regione Calabria ha comunicato che dei 54 soggetti positivi posti in isolamento domiciliare, 13 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
+
 12/07/2020
 La Regione Calabria segnala che dallo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica sono stati intercettati 26 soggetti positivi dal laboratorio dell'ASP di Reggio Calabria; in strutture dedicate, appositamente individuate dalla Prefettura
 
