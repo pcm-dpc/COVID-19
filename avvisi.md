@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+17/07/2020
+La Regione Emilia Romagna comunica il seguente ricalcolo: in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi (1 da Parma e 1 da Ferrara) in quanto ri-classificati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n. corretto 29.033
+
 15/07/2020
 La regione Basilicata ha comunicato un ricalcolo: ha eliminato 1 caso inserito erroneamente come nuovo positivo, la regione Calabria ha comunicato che dei 54 soggetti positivi posti in isolamento domiciliare, 13 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
 
