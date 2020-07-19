@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+19/07/2020
+La Regione Molise segnala che 1 caso del 18 luglio riusulta essere negativo confermato, la Regione Basilicata segnala che nella giornata di domani comunicherà il numero esatto dei casi testati e dei tamponi effettuati
+
 17/07/2020
 La Regione Emilia Romagna comunica il seguente ricalcolo: in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi (1 da Parma e 1 da Ferrara) in quanto ri-classificati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n. corretto 29.033
 

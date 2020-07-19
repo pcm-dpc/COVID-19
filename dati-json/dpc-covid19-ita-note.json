@@ -52,7 +52,11 @@
         "note": "La regione Basilicata ha comunicato un ricalcolo: ha eliminato 1 caso inserito erroneamente come nuovo positivo, la regione Calabria ha comunicato che dei 54 soggetti positivi posti in isolamento domiciliare, 13 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)"
     },
     {
-        "data": "2020-07-15T17:00:00",
+        "data": "2020-07-17T17:00:00",
         "note": "La Regione Emilia Romagna comunica il seguente ricalcolo: in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi (1 da Parma e 1 da Ferrara) in quanto ri-classificati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n. corretto 29.033"
+    },
+    {
+        "data": "2020-07-19T17:00:00",
+        "note": "La Regione Molise segnala che 1 caso del 18 luglio riusulta essere negativo confermato, la Regione Basilicata segnala che nella giornata di domani comunicherà il numero esatto dei casi testati e dei tamponi effettuati"
     }
 ]
