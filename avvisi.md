@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+21/07/2020
+La Regione Puglia comunica il seguente ricalcolo: è stato eliminato un caso a seguito di verifica con il laboratorio
+
 19/07/2020
 La Regione Molise segnala che 1 caso del 18 luglio riusulta essere negativo confermato, la Regione Basilicata segnala che nella giornata di domani comunicherà il numero esatto dei casi testati e dei tamponi effettuati
 
