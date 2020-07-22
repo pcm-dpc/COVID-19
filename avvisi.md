@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+22/07/2020
+La regione Abruzzo comunica il seguente ricalcolo: Sono stati sottratti 2 casi positivi erroneamente conteggiati nei giorni precedenti. La regione Basilicata comunica che dei 36 nuovi casi positivi, 33 sono stati riscontrati in un gruppo di migranti già sottoposti a quarantena.
+
 21/07/2020
 La Regione Puglia comunica il seguente ricalcolo: è stato eliminato un caso a seguito di verifica con il laboratorio
 
