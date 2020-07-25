@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+25/07/2020
+La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso (da Bologna) in quanto giudicato non caso COVID-19.
+
 22/07/2020
 La regione Abruzzo comunica il seguente ricalcolo: Sono stati sottratti 2 casi positivi erroneamente conteggiati nei giorni precedenti. La regione Basilicata comunica che dei 36 nuovi casi positivi, 33 sono stati riscontrati in un gruppo di migranti già sottoposti a quarantena.
 
