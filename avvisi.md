@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+26/07/2020
+La Regione Abruzzo comunica il seguente ricalcolo: è stato eliminato n. 1 caso positivo erroneamente comunicato in precedenza. La Regione Basilicata comunica che per la data odierna si confermano i dati del 25 luglio; il 27 luglio sarà comunicato il totale dei tamponi effettuati il 26 e 27 luglio.
+
 25/07/2020
 La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso (da Bologna) in quanto giudicato non caso COVID-19.
 
