@@ -3212,7 +3212,6 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-07-25T17:00:00,ITA,10,Umbria,43.10675841,12.38824698,7,0,7,10,17,-2,0,1368,80,1444,21,1465,116596,75819,
 2020-07-25T17:00:00,ITA,02,Valle d'Aosta,45.73750286,7.320149366,1,0,1,0,1,0,0,1049,146,1079,117,1196,20776,15193,
 2020-07-25T17:00:00,ITA,05,Veneto,45.43490485,12.33845213,30,1,31,674,705,20,31,17021,2064,19355,435,19790,1170795,471262,
-data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
 2020-07-26T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,13,2,15,97,112,0,1,2777,470,3129,230,3359,127354,83616,"E' stato eliminato n. 1 caso positivo erroneamente comunicato in precedenza"
 2020-07-26T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,2,0,2,44,46,0,0,374,28,402,46,448,45706,44921,"PER LA DATA ODIERNA SI CONFERMANO I DATI DEL 25 LUGLIO 2020."
 2020-07-26T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,3,0,3,76,79,0,0,1071,97,1159,88,1247,116590,114556,
