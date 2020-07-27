@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+27/07/2020
+L'ABRUZZO segnala che i dati di ieri (domenica) sui casi testati e tamponi erano errati. I numeri corretti erano 82245 casi e 124891 tamponi, pertanto il reale incremento rispetto a ieri è (178 casi e 264 tamponi). La SARDEGNA segnala che ha fatto un ricalcolo sul totale dei casi. Due casi dell'Area di Sassari erano stati inseriti erroneamente due volte,pertanto l'incremento dei casi positivi di oggi è 0. Si inserisce un decesso della scorsa settimana rilevato in data odierna appartenente all'Area di Nuoro.
+
 26/07/2020
 La Regione Abruzzo comunica il seguente ricalcolo: è stato eliminato n. 1 caso positivo erroneamente comunicato in precedenza. La Regione Basilicata comunica che per la data odierna si confermano i dati del 25 luglio; il 27 luglio sarà comunicato il totale dei tamponi effettuati il 26 e 27 luglio.
 
