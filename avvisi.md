@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+28/07/2020
+La Regione BASILICATA segnala che il notevole incremento dei casi dell'ultima settimana è dovuta a casi di importazione e non autoctoni derivati da attività di screening (N. 38 migranti del Bangladesh, 11 dei quali trasferiti a Roma in apposita struttura (Osp. Celio)+ n. 5 cittadini stranieri e n. 1 residente in Basilicata rientrati rispettivamente da Paesi Esteri e dall'Emilia Romagna. La Regione CALABRIA segnala che l'incremento dei contagi è da correlarsi a 5 casi positivi rilevati tra i migranti sbarcati a Crotone il 25 luglio. La P.A.BOLZANO segnala che i positivi sono 2.692 (oggi + 2 nuovi casi di nuovi positivi rispetto al giorno precedente ma vanno sottratti -10 casi di persone che a seguito di un controllo dei dati sono state conteggiate 2 volte ); quindi il dato dei positivi aggiornato da oggi è 2.700 + 2 -10 = 2.692. La Regione SARDEGNA segnala che il numero dei deceduti si riduce di una unità in seguito a ricalcolo, successivo alla comunicazione dei dati dello stato del caso (da deceduto a guarito) appartenente all'Area di Nuoro e segnalato ieri come deceduto. Si aumenta pertanto il numero dei guariti di una unità.
+
 27/07/2020
 L'ABRUZZO segnala che i dati di ieri (domenica) sui casi testati e tamponi erano errati. I numeri corretti erano 82245 casi e 124891 tamponi, pertanto il reale incremento rispetto a ieri è (178 casi e 264 tamponi). La SARDEGNA segnala che ha fatto un ricalcolo sul totale dei casi. Due casi dell'Area di Sassari erano stati inseriti erroneamente due volte,pertanto l'incremento dei casi positivi di oggi è 0. Si inserisce un decesso della scorsa settimana rilevato in data odierna appartenente all'Area di Nuoro.
 
