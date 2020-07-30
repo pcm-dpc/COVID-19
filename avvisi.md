@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+30/07/2020
+La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sono stati eliminati 4 casi (1 da Parma, 1 da Reggio Emilia, 1 da Bologna e 1 da Imola) in quanto inserimenti duplicati dello stesso paziente. Si corregge pertanto il numero dei casi comunicato ieri: n. corretto 29599.
+
 29/07/2020
 La P.A. BOLZANO comunica che ha effettuato un ricalcolo: ha eliminato 1 caso perché inserito due volte; l'incremento odierno dei nuovi casi positivi è +5.
 

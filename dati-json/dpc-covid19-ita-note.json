@@ -86,6 +86,9 @@
     {
         "data": "2020-07-29T17:00:00",
         "note": "La P.A. BOLZANO comunica che ha effettuato un ricalcolo: ha eliminato 1 caso perché inserito due volte; l'incremento odierno dei nuovi casi positivi è +5."
+    },
+    {
+        "data": "2020-07-30T17:00:00",
+        "note": "La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sono stati eliminati 4 casi (1 da Parma, 1 da Reggio Emilia, 1 da Bologna e 1 da Imola) in quanto inserimenti duplicati dello stesso paziente. Si corregge pertanto il numero dei casi comunicato ieri: n. corretto 29599"
     }
-
 ]
