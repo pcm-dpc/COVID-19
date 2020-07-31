@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+31/07/2020
+La Regione Sardegna comunica che i 10 casi positivi di oggi sono di importazione dall'Algeria in giovani migranti
+
 30/07/2020
 La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sono stati eliminati 4 casi (1 da Parma, 1 da Reggio Emilia, 1 da Bologna e 1 da Imola) in quanto inserimenti duplicati dello stesso paziente. Si corregge pertanto il numero dei casi comunicato ieri: n. corretto 29599.
 

@@ -9,10 +9,7 @@
 
 **Modifiche ai dataset completate - [Avviso](https://github.com/pcm-dpc/COVID-19/issues/747)**<br>
 **I dati legacy, con la strutturazione delle cartelle dei vari dataset, sono disponibili nella directory "legacy" e saranno alimentate fino a venerdì 31/07**<br><br>
-**Dataset changes complete - [Notice](https://github.com/pcm-dpc/COVID-19/issues/747)**<br>
 **The legacy data, with the structure of the dataset folders, are available in the "legacy" directory and will be fed until Friday 31/07**<br><br>
-** Note storiche in fase di allineamento al nuovo dataset **<br>
-** Historical notes in phase of alignment with the new dataset **<br><br>
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
