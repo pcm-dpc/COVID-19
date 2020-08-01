@@ -7,7 +7,6 @@
 ## Avvisi
 01/08/2020
 La Regione Calabria comunica che i tre nuovi positivi sono stati intercettati dallo screening condotto su 79 migranti a Crotone. La Regione Emilia Romagna riporta la seguente comunicazione - Si rettifica il numero dei tamponi effettuati comunicato ieri: il numero corretto è di 655.330 (e NON 662.830). 
-Comunicazione del Ministero della Salute: per motivi tecnici non è possibile aggiornare il numero dei tamponi di ieri della Regione Emilia Romagna, da cui scaturire l'incremento odierno corretto regionale e nazionale; motivo per cui vengono riportati i valori corretti qui di seguito: incremento tamponi Emilia Romagna: 10.411, incremento tamponi nazionale: 60.383
 
 31/07/2020
 La Regione Sardegna comunica che i 10 casi positivi di oggi sono di importazione dall'Algeria in giovani migranti
