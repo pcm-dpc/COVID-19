@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+02/08/2020
+La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica è stato eliminato 1 caso (da Modena) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 29725.
+
 01/08/2020
 La Regione Calabria comunica che i tre nuovi positivi sono stati intercettati dallo screening condotto su 79 migranti a Crotone. La Regione Emilia Romagna riporta la seguente comunicazione - Si rettifica il numero dei tamponi effettuati comunicato ieri: il numero corretto è di 655.330 (e NON 662.830). 
 
