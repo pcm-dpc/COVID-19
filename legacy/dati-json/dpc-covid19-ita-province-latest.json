@@ -1,6 +1,6 @@
 [
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -9,12 +9,12 @@
         "sigla_provincia": "AQ",
         "lat": 42.35122196,
         "long": 13.39843823,
-        "totale_casi": 259,
+        "totale_casi": 260,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -28,7 +28,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -37,12 +37,12 @@
         "sigla_provincia": "PE",
         "lat": 42.46458398,
         "long": 14.21364822,
-        "totale_casi": 1620,
+        "totale_casi": 1628,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -56,7 +56,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -70,7 +70,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 13,
         "denominazione_regione": "Abruzzo",
@@ -84,7 +84,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -98,7 +98,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -112,7 +112,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -126,7 +126,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 17,
         "denominazione_regione": "Basilicata",
@@ -140,7 +140,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -154,7 +154,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -168,7 +168,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -182,7 +182,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -196,7 +196,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -210,7 +210,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -224,7 +224,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 18,
         "denominazione_regione": "Calabria",
@@ -238,7 +238,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -247,12 +247,12 @@
         "sigla_provincia": "CE",
         "lat": 41.07465878,
         "long": 14.33240464,
-        "totale_casi": 618,
+        "totale_casi": 620,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -266,7 +266,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -275,12 +275,12 @@
         "sigla_provincia": "NA",
         "lat": 40.83956555,
         "long": 14.25084984,
-        "totale_casi": 2775,
+        "totale_casi": 2777,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -294,7 +294,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -303,12 +303,12 @@
         "sigla_provincia": "SA",
         "lat": 40.67821961,
         "long": 14.7594026,
-        "totale_casi": 788,
+        "totale_casi": 789,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -322,7 +322,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 15,
         "denominazione_regione": "Campania",
@@ -331,12 +331,12 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 46,
+        "totale_casi": 45,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -345,12 +345,12 @@
         "sigla_provincia": "PC",
         "lat": 45.05193462,
         "long": 9.692632596,
-        "totale_casi": 4511,
+        "totale_casi": 4488,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -359,12 +359,12 @@
         "sigla_provincia": "PR",
         "lat": 44.80107394,
         "long": 10.32834985,
-        "totale_casi": 3765,
+        "totale_casi": 3759,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -373,12 +373,12 @@
         "sigla_provincia": "RE",
         "lat": 44.69735289,
         "long": 10.63007973,
-        "totale_casi": 5037,
+        "totale_casi": 5028,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -387,12 +387,12 @@
         "sigla_provincia": "MO",
         "lat": 44.64600009,
         "long": 10.92615487,
-        "totale_casi": 4064,
+        "totale_casi": 4039,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -401,12 +401,12 @@
         "sigla_provincia": "BO",
         "lat": 44.49436681,
         "long": 11.3417208,
-        "totale_casi": 5620,
+        "totale_casi": 5622,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -415,12 +415,12 @@
         "sigla_provincia": "FE",
         "lat": 44.83599085,
         "long": 11.61868934,
-        "totale_casi": 1124,
+        "totale_casi": 1117,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -429,12 +429,12 @@
         "sigla_provincia": "RA",
         "lat": 44.41722493,
         "long": 12.19913936,
-        "totale_casi": 1153,
+        "totale_casi": 1154,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -443,12 +443,12 @@
         "sigla_provincia": "FC",
         "lat": 44.22268559,
         "long": 12.04068608,
-        "totale_casi": 1800,
+        "totale_casi": 1789,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -457,12 +457,12 @@
         "sigla_provincia": "RN",
         "lat": 44.06090087,
         "long": 12.5656295,
-        "totale_casi": 2254,
+        "totale_casi": 2256,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -471,12 +471,12 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 428,
+        "totale_casi": 548,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 8,
         "denominazione_regione": "Emilia-Romagna",
@@ -485,12 +485,12 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 18,
+        "totale_casi": 8,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -504,7 +504,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -518,7 +518,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -532,7 +532,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -546,7 +546,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -560,7 +560,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 6,
         "denominazione_regione": "Friuli Venezia Giulia",
@@ -574,7 +574,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -588,7 +588,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -602,7 +602,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -611,12 +611,12 @@
         "sigla_provincia": "RM",
         "lat": 41.89277044,
         "long": 12.48366722,
-        "totale_casi": 6355,
+        "totale_casi": 6367,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -625,12 +625,12 @@
         "sigla_provincia": "LT",
         "lat": 41.46759465,
         "long": 12.90368482,
-        "totale_casi": 660,
+        "totale_casi": 662,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -639,12 +639,12 @@
         "sigla_provincia": "FR",
         "lat": 41.63964569,
         "long": 13.35117161,
-        "totale_casi": 674,
+        "totale_casi": 675,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -658,7 +658,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 12,
         "denominazione_regione": "Lazio",
@@ -672,7 +672,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -686,7 +686,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -700,7 +700,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -709,12 +709,12 @@
         "sigla_provincia": "GE",
         "lat": 44.41149314,
         "long": 8.9326992,
-        "totale_casi": 5695,
+        "totale_casi": 5697,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -728,7 +728,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -742,7 +742,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 7,
         "denominazione_regione": "Liguria",
@@ -756,7 +756,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -770,7 +770,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -784,7 +784,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -798,7 +798,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -807,12 +807,12 @@
         "sigla_provincia": "MI",
         "lat": 45.46679409,
         "long": 9.190347404,
-        "totale_casi": 24954,
+        "totale_casi": 24966,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -821,12 +821,12 @@
         "sigla_provincia": "BG",
         "lat": 45.69441368,
         "long": 9.668424528,
-        "totale_casi": 15045,
+        "totale_casi": 15049,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -835,12 +835,12 @@
         "sigla_provincia": "BS",
         "lat": 45.53993052,
         "long": 10.21910323,
-        "totale_casi": 15952,
+        "totale_casi": 15957,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -854,7 +854,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -868,7 +868,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -882,7 +882,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -896,7 +896,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -910,7 +910,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -919,12 +919,12 @@
         "sigla_provincia": "MB",
         "lat": 45.58439043,
         "long": 9.273582472,
-        "totale_casi": 5886,
+        "totale_casi": 5889,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -938,7 +938,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 3,
         "denominazione_regione": "Lombardia",
@@ -947,12 +947,12 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 1477,
+        "totale_casi": 1478,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -966,7 +966,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -980,7 +980,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -994,7 +994,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1008,7 +1008,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1022,7 +1022,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1036,7 +1036,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 11,
         "denominazione_regione": "Marche",
@@ -1050,7 +1050,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1059,12 +1059,12 @@
         "sigla_provincia": "CB",
         "lat": 41.55774754,
         "long": 14.65916051,
-        "totale_casi": 388,
+        "totale_casi": 390,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1078,7 +1078,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1092,7 +1092,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 14,
         "denominazione_regione": "Molise",
@@ -1106,7 +1106,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -1115,12 +1115,12 @@
         "sigla_provincia": "BZ",
         "lat": 46.49933453,
         "long": 11.35662422,
-        "totale_casi": 2728,
+        "totale_casi": 2734,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -1134,7 +1134,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Bolzano",
@@ -1148,7 +1148,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -1157,12 +1157,12 @@
         "sigla_provincia": "TN",
         "lat": 46.06893511,
         "long": 11.12123097,
-        "totale_casi": 4979,
+        "totale_casi": 4981,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -1176,7 +1176,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 4,
         "denominazione_regione": "P.A. Trento",
@@ -1190,7 +1190,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1199,12 +1199,12 @@
         "sigla_provincia": "TO",
         "lat": 45.0732745,
         "long": 7.680687483,
-        "totale_casi": 15994,
+        "totale_casi": 15997,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1213,12 +1213,12 @@
         "sigla_provincia": "VC",
         "lat": 45.32398135,
         "long": 8.423234312,
-        "totale_casi": 1353,
+        "totale_casi": 1355,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1227,12 +1227,12 @@
         "sigla_provincia": "NO",
         "lat": 45.44588506,
         "long": 8.621915884,
-        "totale_casi": 2819,
+        "totale_casi": 2821,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1246,7 +1246,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1260,7 +1260,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1274,7 +1274,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1288,7 +1288,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1302,7 +1302,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1316,7 +1316,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 1,
         "denominazione_regione": "Piemonte",
@@ -1325,12 +1325,12 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 127,
+        "totale_casi": 133,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1339,12 +1339,12 @@
         "sigla_provincia": "FG",
         "lat": 41.46226865,
         "long": 15.54305094,
-        "totale_casi": 1204,
+        "totale_casi": 1205,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1353,12 +1353,12 @@
         "sigla_provincia": "BA",
         "lat": 41.12559576,
         "long": 16.86736689,
-        "totale_casi": 1508,
+        "totale_casi": 1511,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1372,7 +1372,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1386,7 +1386,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1395,12 +1395,12 @@
         "sigla_provincia": "LE",
         "lat": 40.35354285,
         "long": 18.1718973,
-        "totale_casi": 562,
+        "totale_casi": 567,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1414,7 +1414,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1428,7 +1428,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 16,
         "denominazione_regione": "Puglia",
@@ -1442,7 +1442,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1451,12 +1451,12 @@
         "sigla_provincia": "SS",
         "lat": 40.72667657,
         "long": 8.559667131,
-        "totale_casi": 886,
+        "totale_casi": 887,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1470,7 +1470,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1479,12 +1479,12 @@
         "sigla_provincia": "CA",
         "lat": 39.21531192,
         "long": 9.110616306,
-        "totale_casi": 261,
+        "totale_casi": 262,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1498,7 +1498,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1512,7 +1512,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1526,7 +1526,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 20,
         "denominazione_regione": "Sardegna",
@@ -1540,7 +1540,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1554,7 +1554,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1568,7 +1568,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1582,7 +1582,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1596,7 +1596,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1610,7 +1610,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1624,7 +1624,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1633,12 +1633,12 @@
         "sigla_provincia": "CT",
         "lat": 37.50287803,
         "long": 15.08704691,
-        "totale_casi": 853,
+        "totale_casi": 855,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1647,12 +1647,12 @@
         "sigla_provincia": "RG",
         "lat": 36.92509198,
         "long": 14.73069891,
-        "totale_casi": 145,
+        "totale_casi": 146,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1666,7 +1666,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1680,7 +1680,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 19,
         "denominazione_regione": "Sicilia",
@@ -1694,7 +1694,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1708,7 +1708,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1717,12 +1717,12 @@
         "sigla_provincia": "LU",
         "lat": 43.84432283,
         "long": 10.50151366,
-        "totale_casi": 1388,
+        "totale_casi": 1391,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1736,7 +1736,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1745,12 +1745,12 @@
         "sigla_provincia": "FI",
         "lat": 43.76923077,
         "long": 11.25588885,
-        "totale_casi": 3296,
+        "totale_casi": 3298,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1764,7 +1764,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1773,12 +1773,12 @@
         "sigla_provincia": "PI",
         "lat": 43.71553206,
         "long": 10.40127259,
-        "totale_casi": 954,
+        "totale_casi": 957,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1787,12 +1787,12 @@
         "sigla_provincia": "AR",
         "lat": 43.46642752,
         "long": 11.88228844,
-        "totale_casi": 693,
+        "totale_casi": 695,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1806,7 +1806,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1820,7 +1820,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1834,7 +1834,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1848,7 +1848,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 9,
         "denominazione_regione": "Toscana",
@@ -1862,7 +1862,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -1871,12 +1871,12 @@
         "sigla_provincia": "PG",
         "lat": 43.10675841,
         "long": 12.38824698,
-        "totale_casi": 1028,
+        "totale_casi": 1027,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -1885,12 +1885,12 @@
         "sigla_provincia": "TR",
         "lat": 42.56071258,
         "long": 12.6466875,
-        "totale_casi": 386,
+        "totale_casi": 387,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -1899,12 +1899,12 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 60,
+        "totale_casi": 61,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 10,
         "denominazione_regione": "Umbria",
@@ -1918,7 +1918,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -1932,7 +1932,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -1946,7 +1946,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 2,
         "denominazione_regione": "Valle d'Aosta",
@@ -1960,7 +1960,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -1969,12 +1969,12 @@
         "sigla_provincia": "VR",
         "lat": 45.43839046,
         "long": 10.99352685,
-        "totale_casi": 5211,
+        "totale_casi": 5212,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -1988,7 +1988,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2002,7 +2002,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2016,7 +2016,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2025,12 +2025,12 @@
         "sigla_provincia": "VE",
         "lat": 45.43490485,
         "long": 12.33845213,
-        "totale_casi": 2858,
+        "totale_casi": 2863,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2039,12 +2039,12 @@
         "sigla_provincia": "PD",
         "lat": 45.40692987,
         "long": 11.87608718,
-        "totale_casi": 4272,
+        "totale_casi": 4282,
         "note_it": null,
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2058,7 +2058,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2072,7 +2072,7 @@
         "note_en": null
     },
     {
-        "data": "2020-08-02T17:00:00",
+        "data": "2020-08-03T17:00:00",
         "stato": "ITA",
         "codice_regione": 5,
         "denominazione_regione": "Veneto",
@@ -2081,7 +2081,7 @@
         "sigla_provincia": "",
         "lat": null,
         "long": null,
-        "totale_casi": 31,
+        "totale_casi": 37,
         "note_it": null,
         "note_en": null
     }
