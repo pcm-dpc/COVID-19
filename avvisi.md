@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+04/08/2020
+La regione Basilicata ha comunicato che dei 49 soggetti positivi posti in isolamento domiciliare, 10 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
+
 03/08/2020
 La Regione FRIULI VENEZIA GIULIA segnala che a seguito di una verifica interna sulla correttezza e completezza dei dati relativi a COVID-19, sono emersi i seguenti ricalcoli: un decesso occorso in data 22/06 non precedentemente comunicato e 6 casi positivi indicati come casi da screening, in realtà casi da sospetto diagnostico. Si correggono quindi sia il totale dei decessi sia la distribuzione dei casi nelle categorie Casi da sospetto diagnostico e Casi da screening.
 
