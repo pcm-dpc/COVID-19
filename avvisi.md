@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+06/08/2020
+La Regione EMILIA ROMAGNA segnala che in seguito a verifica è stato eliminato 1 casi da Ferrara, in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti.
+
 04/08/2020
 La regione Basilicata ha comunicato che dei 49 soggetti positivi posti in isolamento domiciliare, 10 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
 
