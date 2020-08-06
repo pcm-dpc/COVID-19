@@ -3447,8 +3447,7 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-08-06T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,2,0,2,51,53,0,0,373,28,402,52,454,48573,47783,
 2020-08-06T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,7,1,8,83,91,-10,2,1088,97,1159,117,1276,125393,123359,  Il caso positivo rilevato dal laboratorio dell'AO di Cosenza  è un turista proveniente dalla Campania .  Il caso positivo di oggi rilevato dall'AO di Reggio Calabria appartiene allo sbarco di Roccella del 11/07
 2020-08-06T17:00:00,ITA,15,Campania,40.83956555,14.25084984,20,1,21,364,385,-9,5,4212,438,4957,78,5035,343950,179583,
-2020-08-06T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.341720800000001,78,4,82,1570,1652,43,58,24011,4291,28454,1500,29954,704622,423543,"In seguito a verifica è stato eliminato 1 casi da Ferrara, in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 29.897-1.
-"
+2020-08-06T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.341720800000001,78,4,82,1570,1652,43,58,24011,4291,28454,1500,29954,704622,423543,"In seguito a verifica è stato eliminato 1 casi da Ferrara, in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 29.897-1."
 2020-08-06T17:00:00,ITA,06,Friuli Venezia Giulia,45.6494354,13.76813649,11,2,13,140,153,6,7,2933,346,3404,28,3432,263885,129283,
 2020-08-06T17:00:00,ITA,12,Lazio,41.89277044,12.48366722,185,8,193,800,993,10,18,6886,865,6223,2521,8744,433176,355838,
 2020-08-06T17:00:00,ITA,07,Liguria,44.41149315,8.9326992,20,0,20,190,210,3,13,8485,1568,8443,1820,10263,196917,105218,
