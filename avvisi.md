@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+09/08/2020
+La Regione Basilicata segnala che in assenza di casi positivi e variazioni delle altre voci, i dati esatti verranno comunicati nella giornata del 10/08.
+
 06/08/2020
 La Regione EMILIA ROMAGNA segnala che in seguito a verifica è stato eliminato 1 casi da Ferrara, in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti.
 
