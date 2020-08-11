@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+11/08/2020
+La regione CALABRIA segnala che: I due casi di Crotone sono del focolaio del CARA (migranti). Il caso di Cosenza è riconducibile  ai giovani rientrati da Corfù. La regione FRIULI VENEZIA GIULIA segnala che: a seguito di una verifica interna sulla correttezza dei dati relativi a COVID-19, è emerso un decesso occorso in data 12/07 non precedentemente comunicato. Si corregge quindi il totale dei decessi. La regione SICILIA segnala che:  che degli 89 soggetti, nuovi positivi al tampone, 71 sono extracomunitari sbarcati sulle coste regionali.
+
 09/08/2020
 La Regione Basilicata segnala che in assenza di casi positivi e variazioni delle altre voci, i dati esatti verranno comunicati nella giornata del 10/08.
 

@@ -114,5 +114,9 @@
     {
         "data": "2020-08-05T17:00:00",
         "note": "La Regione EMILIA ROMAGNA segnala che in seguito a verifica è stato eliminato 1 casi da Ferrara, in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti."
+    },
+    {
+        "data": "2020-08-11T17:00:00",
+        "note": "La regione CALABRIA segnala che: I due casi di Crotone sono del focolaio del CARA (migranti). Il caso di Cosenza è riconducibile  ai giovani rientrati da Corfù. La regione FRIULI VENEZIA GIULIA segnala che: a seguito di una verifica interna sulla correttezza dei dati relativi a COVID-19, è emerso un decesso occorso in data 12/07 non precedentemente comunicato. Si corregge quindi il totale dei decessi. La regione SICILIA segnala che:  che degli 89 soggetti, nuovi positivi al tampone, 71 sono extracomunitari sbarcati sulle coste regionali."
     }
 ]
