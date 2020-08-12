@@ -5,84 +5,87 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
-11/08/2020
+<b>12/08/2020</b><br>
+La Regione Abruzzo comunica che oggi sono risultati 9 nuovi casi positivi. Dal totale però sono stati sottratti 5 casi dei giorni passati, in quanto già in carico ad altre Regioni.
+
+<b>11/08/2020</b><br>
 La regione CALABRIA segnala che: I due casi di Crotone sono del focolaio del CARA (migranti). Il caso di Cosenza è riconducibile  ai giovani rientrati da Corfù. La regione FRIULI VENEZIA GIULIA segnala che: a seguito di una verifica interna sulla correttezza dei dati relativi a COVID-19, è emerso un decesso occorso in data 12/07 non precedentemente comunicato. Si corregge quindi il totale dei decessi. La regione SICILIA segnala che:  che degli 89 soggetti, nuovi positivi al tampone, 71 sono extracomunitari sbarcati sulle coste regionali.
 
-09/08/2020
+<b>09/08/2020</b><br>
 La Regione Basilicata segnala che in assenza di casi positivi e variazioni delle altre voci, i dati esatti verranno comunicati nella giornata del 10/08.
 
-06/08/2020
+<b>06/08/2020</b><br>
 La Regione EMILIA ROMAGNA segnala che in seguito a verifica è stato eliminato 1 casi da Ferrara, in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti.
 
-04/08/2020
+<b>04/08/2020</b><br>
 La regione Basilicata ha comunicato che dei 49 soggetti positivi posti in isolamento domiciliare, 10 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
 
-03/08/2020
+<b>03/08/2020</b><br>
 La Regione FRIULI VENEZIA GIULIA segnala che a seguito di una verifica interna sulla correttezza e completezza dei dati relativi a COVID-19, sono emersi i seguenti ricalcoli: un decesso occorso in data 22/06 non precedentemente comunicato e 6 casi positivi indicati come casi da screening, in realtà casi da sospetto diagnostico. Si correggono quindi sia il totale dei decessi sia la distribuzione dei casi nelle categorie Casi da sospetto diagnostico e Casi da screening.
 
-02/08/2020
+<b>02/08/2020</b><br>
 La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica è stato eliminato 1 caso (da Modena) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 29725.
 
-01/08/2020
+<b>01/08/2020</b><br>
 La Regione Calabria comunica che i tre nuovi positivi sono stati intercettati dallo screening condotto su 79 migranti a Crotone. La Regione Emilia Romagna riporta la seguente comunicazione - Si rettifica il numero dei tamponi effettuati comunicato ieri: il numero corretto è di 655.330 (e NON 662.830). 
 
-31/07/2020
+<b>31/07/2020</b><br>
 La Regione Sardegna comunica che i 10 casi positivi di oggi sono di importazione dall'Algeria in giovani migranti
 
-30/07/2020
+<b>30/07/2020</b><br>
 La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sono stati eliminati 4 casi (1 da Parma, 1 da Reggio Emilia, 1 da Bologna e 1 da Imola) in quanto inserimenti duplicati dello stesso paziente. Si corregge pertanto il numero dei casi comunicato ieri: n. corretto 29599.
 
-29/07/2020
+<b>29/07/2020</b><br>
 La P.A. BOLZANO comunica che ha effettuato un ricalcolo: ha eliminato 1 caso perché inserito due volte; l'incremento odierno dei nuovi casi positivi è +5.
 
-28/07/2020
+<b>28/07/2020</b><br>
 La Regione BASILICATA segnala che il notevole incremento dei casi dell'ultima settimana è dovuta a casi di importazione e non autoctoni derivati da attività di screening (N. 38 migranti del Bangladesh, 11 dei quali trasferiti a Roma in apposita struttura (Osp. Celio)+ n. 5 cittadini stranieri e n. 1 residente in Basilicata rientrati
 rispettivamente da Paesi Esteri e dall'Emilia Romagna. La Regione CALABRIA segnala che l'incremento dei contagi è da correlarsi a 5 casi positivi rilevati tra i migranti sbarcati a Crotone il 25 luglio. La P.A.BOLZANO segnala che i positivi sono 2.692 (oggi + 2 nuovi casi di nuovi positivi rispetto al giorno precedente ma vanno sottratti -10 casi di persone che a seguito di un controllo dei dati sono state conteggiate 2 volte ); quindi il dato dei positivi aggiornato da oggi è 2.700 + 2 -10 = 2.692. La Regione SARDEGNA segnala che il numero dei deceduti si riduce di una unità in seguito a ricalcolo, successivo alla comunicazione dei dati dello stato del caso (da deceduto a guarito) appartenente all'Area di Nuoro e segnalato ieri come deceduto. Si aumenta pertanto il numero dei guariti di una unità.
 
-27/07/2020
+<b>27/07/2020</b><br>
 L'ABRUZZO segnala che i dati di ieri (domenica) sui casi testati e tamponi erano errati. I numeri corretti erano 82245 casi e 124891 tamponi, pertanto il reale incremento rispetto a ieri è (178 casi e 264 tamponi). La SARDEGNA segnala che ha fatto un ricalcolo sul totale dei casi. Due casi dell'Area di Sassari erano stati inseriti erroneamente due volte,pertanto l'incremento dei casi positivi di oggi è 0. Si inserisce un decesso della scorsa settimana rilevato in data odierna appartenente all'Area di Nuoro.
 
-26/07/2020
+<b>26/07/2020</b><br>
 La Regione Abruzzo comunica il seguente ricalcolo: è stato eliminato n. 1 caso positivo erroneamente comunicato in precedenza. La Regione Basilicata comunica che per la data odierna si confermano i dati del 25 luglio; il 27 luglio sarà comunicato il totale dei tamponi effettuati il 26 e 27 luglio.
 
-25/07/2020
+<b>25/07/2020</b><br>
 La Regione Emilia Romagna ha comunicato il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso (da Bologna) in quanto giudicato non caso COVID-19.
 
-22/07/2020
+<b>22/07/2020</b><br>
 La regione Abruzzo comunica il seguente ricalcolo: Sono stati sottratti 2 casi positivi erroneamente conteggiati nei giorni precedenti. La regione Basilicata comunica che dei 36 nuovi casi positivi, 33 sono stati riscontrati in un gruppo di migranti già sottoposti a quarantena.
 
-21/07/2020
+<b>21/07/2020</b><br>
 La Regione Puglia comunica il seguente ricalcolo: è stato eliminato un caso a seguito di verifica con il laboratorio
 
-19/07/2020
+<b>19/07/2020</b><br>
 La Regione Molise segnala che 1 caso del 18 luglio riusulta essere negativo confermato, la Regione Basilicata segnala che nella giornata di domani comunicherà il numero esatto dei casi testati e dei tamponi effettuati
 
-17/07/2020
+<b>17/07/2020</b><br>
 La Regione Emilia Romagna comunica il seguente ricalcolo: in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi (1 da Parma e 1 da Ferrara) in quanto ri-classificati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n. corretto 29.033
 
-15/07/2020
+<b>15/07/2020</b><br>
 La regione Basilicata ha comunicato un ricalcolo: ha eliminato 1 caso inserito erroneamente come nuovo positivo, la regione Calabria ha comunicato che dei 54 soggetti positivi posti in isolamento domiciliare, 13 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
 
-12/07/2020
+<b>12/07/2020</b><br>
 La Regione Calabria segnala che dallo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica sono stati intercettati 26 soggetti positivi dal laboratorio dell'ASP di Reggio Calabria; in strutture dedicate, appositamente individuate dalla Prefettura
 
-10/07/2020
+<b>10/07/2020</b><br>
 La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48
 
-09/07/2020
+<b>09/07/2020</b><br>
 Le Regioni Liguria, Piemonte e Valle d'Aosta riportano un numero inferiore di casi diagnostici rispetto a ieri, per un ricalcolo, sono aumentati infatti gli screening. La regione Emilia Romagna comunica che a seguito di un ricontrollo, sono stati eliminati dall'AUsl di Reggio Emilia 16 casi: 15 casi erano doppi inserimenti, un caso è stato riattribuito all'AUsl di Cesena. Il totale dei casi all'08.07 era di 28.740, pertanto l'incremento reale dei casi di oggi è +29
 
-08/07/2020
+<b>08/07/2020</b><br>
 La Regione Lazio segnala che al totale dei casi positivi si aggiunge un totale di 37 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza
 regionale
 
-07/07/2020
+<b>07/07/2020</b><br>
 La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA –FCO atterrato il 6/06/2020 alle 17.45 presso l’aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale
 
-06/07/2020
+<b>06/07/2020</b><br>
 La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening
 
-01/07/2020
+<b>01/07/2020</b><br>
 La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato
 
 ```diff
