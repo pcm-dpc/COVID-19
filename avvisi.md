@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>13/08/2020</b><br>
+La PA Bolzano comunica che oggi è stato eliminato un caso positivo a causa di un doppio inserimento. La Regione Sicilia comunica che dei 42 nuovi positivi di oggi, 5 risultano essere immigrati sbarcati sulle coste siciliane.
+
 <b>12/08/2020</b><br>
 La Regione Abruzzo comunica che oggi sono risultati 9 nuovi casi positivi. Dal totale però sono stati sottratti 5 casi dei giorni passati, in quanto già in carico ad altre Regioni.
 
