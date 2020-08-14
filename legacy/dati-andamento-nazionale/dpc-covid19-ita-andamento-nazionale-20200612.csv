@@ -1,0 +1,2 @@
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note_it,note_en
+2020-06-12T17:00:00,ITA,3893,227,4120,24877,28997,-1640,163,173085,34223,236305,4514441,2784196,dc-IT-0045;dc-IT-0047,dc-EN-0045;dc-EN-0047

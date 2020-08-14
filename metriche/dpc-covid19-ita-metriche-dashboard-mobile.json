@@ -1,0 +1,702 @@
+[
+    {
+        "data": "2020-03-08",
+        "totale_visitatori_giorno": 771423,
+        "visitatori_picco_ore_18": 93000,
+        "totale_visitatori_progressivo": 509274,
+        "note": ""
+    },
+    {
+        "data": "2020-03-09",
+        "totale_visitatori_giorno": 607409,
+        "visitatori_picco_ore_18": 95000,
+        "totale_visitatori_progressivo": 1116683,
+        "note": ""
+    },
+    {
+        "data": "2020-03-10",
+        "totale_visitatori_giorno": 672436,
+        "visitatori_picco_ore_18": 95000,
+        "totale_visitatori_progressivo": 1763165,
+        "note": ""
+    },
+    {
+        "data": "2020-03-11",
+        "totale_visitatori_giorno": 555540,
+        "visitatori_picco_ore_18": 91000,
+        "totale_visitatori_progressivo": 2319801,
+        "note": ""
+    },
+    {
+        "data": "2020-03-12",
+        "totale_visitatori_giorno": 609824,
+        "visitatori_picco_ore_18": 145000,
+        "totale_visitatori_progressivo": 2921430,
+        "note": ""
+    },
+    {
+        "data": "2020-03-13",
+        "totale_visitatori_giorno": 502824,
+        "visitatori_picco_ore_18": 90000,
+        "totale_visitatori_progressivo": 3413377,
+        "note": ""
+    },
+    {
+        "data": "2020-03-14",
+        "totale_visitatori_giorno": 691015,
+        "visitatori_picco_ore_18": 122000,
+        "totale_visitatori_progressivo": 4104070,
+        "note": ""
+    },
+    {
+        "data": "2020-03-15",
+        "totale_visitatori_giorno": 675961,
+        "visitatori_picco_ore_18": 112000,
+        "totale_visitatori_progressivo": 4754514,
+        "note": ""
+    },
+    {
+        "data": "2020-03-16",
+        "totale_visitatori_giorno": 644550,
+        "visitatori_picco_ore_18": 122000,
+        "totale_visitatori_progressivo": 5396075,
+        "note": ""
+    },
+    {
+        "data": "2020-03-17",
+        "totale_visitatori_giorno": 509428,
+        "visitatori_picco_ore_18": 87000,
+        "totale_visitatori_progressivo": 5896814,
+        "note": ""
+    },
+    {
+        "data": "2020-03-18",
+        "totale_visitatori_giorno": 663570,
+        "visitatori_picco_ore_18": 108000,
+        "totale_visitatori_progressivo": 6556035,
+        "note": ""
+    },
+    {
+        "data": "2020-03-19",
+        "totale_visitatori_giorno": 618349,
+        "visitatori_picco_ore_18": 99000,
+        "totale_visitatori_progressivo": 7169934,
+        "note": ""
+    },
+    {
+        "data": "2020-03-20",
+        "totale_visitatori_giorno": 621598,
+        "visitatori_picco_ore_18": 114000,
+        "totale_visitatori_progressivo": 7779797,
+        "note": ""
+    },
+    {
+        "data": "2020-03-21",
+        "totale_visitatori_giorno": 541809,
+        "visitatori_picco_ore_18": 106000,
+        "totale_visitatori_progressivo": 8367704,
+        "note": ""
+    },
+    {
+        "data": "2020-03-22",
+        "totale_visitatori_giorno": 577936,
+        "visitatori_picco_ore_18": 137000,
+        "totale_visitatori_progressivo": 8939126,
+        "note": ""
+    },
+    {
+        "data": "2020-03-23",
+        "totale_visitatori_giorno": 594099,
+        "visitatori_picco_ore_18": 128000,
+        "totale_visitatori_progressivo": 9504512,
+        "note": ""
+    },
+    {
+        "data": "2020-03-24",
+        "totale_visitatori_giorno": 647005,
+        "visitatori_picco_ore_18": 167000,
+        "totale_visitatori_progressivo": 10151979,
+        "note": ""
+    },
+    {
+        "data": "2020-03-25",
+        "totale_visitatori_giorno": 553844,
+        "visitatori_picco_ore_18": 117000,
+        "totale_visitatori_progressivo": 10695593,
+        "note": ""
+    },
+    {
+        "data": "2020-03-26",
+        "totale_visitatori_giorno": 603236,
+        "visitatori_picco_ore_18": 118000,
+        "totale_visitatori_progressivo": 11299413,
+        "note": ""
+    },
+    {
+        "data": "2020-03-27",
+        "totale_visitatori_giorno": 511614,
+        "visitatori_picco_ore_18": 102000,
+        "totale_visitatori_progressivo": 11802508,
+        "note": ""
+    },
+    {
+        "data": "2020-03-28",
+        "totale_visitatori_giorno": 448914,
+        "visitatori_picco_ore_18": 69000,
+        "totale_visitatori_progressivo": 12257092,
+        "note": ""
+    },
+    {
+        "data": "2020-03-29",
+        "totale_visitatori_giorno": 416620,
+        "visitatori_picco_ore_18": 80000,
+        "totale_visitatori_progressivo": 12661318,
+        "note": ""
+    },
+    {
+        "data": "2020-03-30",
+        "totale_visitatori_giorno": 413282,
+        "visitatori_picco_ore_18": 90000,
+        "totale_visitatori_progressivo": 13071415,
+        "note": ""
+    },
+    {
+        "data": "2020-03-31",
+        "totale_visitatori_giorno": 454586,
+        "visitatori_picco_ore_18": 89000,
+        "totale_visitatori_progressivo": 13517636,
+        "note": ""
+    },
+    {
+        "data": "2020-04-01",
+        "totale_visitatori_giorno": 451391,
+        "visitatori_picco_ore_18": 81000,
+        "totale_visitatori_progressivo": 13963485,
+        "note": ""
+    },
+    {
+        "data": "2020-04-02",
+        "totale_visitatori_giorno": 475571,
+        "visitatori_picco_ore_18": 103000,
+        "totale_visitatori_progressivo": 14438319,
+        "note": ""
+    },
+    {
+        "data": "2020-04-03",
+        "totale_visitatori_giorno": 386987,
+        "visitatori_picco_ore_18": 68000,
+        "totale_visitatori_progressivo": 14819174,
+        "note": ""
+    },
+    {
+        "data": "2020-04-04",
+        "totale_visitatori_giorno": 441281,
+        "visitatori_picco_ore_18": 85000,
+        "totale_visitatori_progressivo": 15265023,
+        "note": ""
+    },
+    {
+        "data": "2020-04-05",
+        "totale_visitatori_giorno": 351326,
+        "visitatori_picco_ore_18": 64000,
+        "totale_visitatori_progressivo": 15611805,
+        "note": ""
+    },
+    {
+        "data": "2020-04-06",
+        "totale_visitatori_giorno": 349420,
+        "visitatori_picco_ore_18": 64000,
+        "totale_visitatori_progressivo": 15958061,
+        "note": ""
+    },
+    {
+        "data": "2020-04-07",
+        "totale_visitatori_giorno": 358105,
+        "visitatori_picco_ore_18": 55000,
+        "totale_visitatori_progressivo": 16313113,
+        "note": ""
+    },
+    {
+        "data": "2020-04-08",
+        "totale_visitatori_giorno": 374814,
+        "visitatori_picco_ore_18": 64000,
+        "totale_visitatori_progressivo": 16687951,
+        "note": ""
+    },
+    {
+        "data": "2020-04-09",
+        "totale_visitatori_giorno": 363418,
+        "visitatori_picco_ore_18": 62000,
+        "totale_visitatori_progressivo": 17050835,
+        "note": ""
+    },
+    {
+        "data": "2020-04-10",
+        "totale_visitatori_giorno": 317598,
+        "visitatori_picco_ore_18": 50000,
+        "totale_visitatori_progressivo": 17370019,
+        "note": ""
+    },
+    {
+        "data": "2020-04-11",
+        "totale_visitatori_giorno": 259633,
+        "visitatori_picco_ore_18": 42000,
+        "totale_visitatori_progressivo": 17632781,
+        "note": ""
+    },
+    {
+        "data": "2020-04-12",
+        "totale_visitatori_giorno": 212663,
+        "visitatori_picco_ore_18": 38000,
+        "totale_visitatori_progressivo": 17849035,
+        "note": ""
+    },
+    {
+        "data": "2020-04-13",
+        "totale_visitatori_giorno": 219600,
+        "visitatori_picco_ore_18": 36000,
+        "totale_visitatori_progressivo": 18036726,
+        "note": ""
+    },
+    {
+        "data": "2020-04-14",
+        "totale_visitatori_giorno": 352532,
+        "visitatori_picco_ore_18": 52000,
+        "totale_visitatori_progressivo": 18384316,
+        "note": ""
+    },
+    {
+        "data": "2020-04-15",
+        "totale_visitatori_giorno": 417593,
+        "visitatori_picco_ore_18": 56000,
+        "totale_visitatori_progressivo": 18731906,
+        "note": ""
+    },
+    {
+        "data": "2020-04-16",
+        "totale_visitatori_giorno": 402713,
+        "visitatori_picco_ore_18": 64000,
+        "totale_visitatori_progressivo": 19145542,
+        "note": ""
+    },
+    {
+        "data": "2020-04-17",
+        "totale_visitatori_giorno": 399564,
+        "visitatori_picco_ore_18": 64000,
+        "totale_visitatori_progressivo": 19544928,
+        "note": ""
+    },
+    {
+        "data": "2020-04-18",
+        "totale_visitatori_giorno": 387628,
+        "visitatori_picco_ore_18": 57000,
+        "totale_visitatori_progressivo": 19939693,
+        "note": "ultima conferenza stampa giornaliera (17/4)"
+    },
+    {
+        "data": "2020-04-19",
+        "totale_visitatori_giorno": 388736,
+        "visitatori_picco_ore_18": 50000,
+        "totale_visitatori_progressivo": 20329896,
+        "note": ""
+    },
+    {
+        "data": "2020-04-20",
+        "totale_visitatori_giorno": 401166,
+        "visitatori_picco_ore_18": 66000,
+        "totale_visitatori_progressivo": 20708800,
+        "note": "conferenza stampa"
+    },
+    {
+        "data": "2020-04-21",
+        "totale_visitatori_giorno": 435528,
+        "visitatori_picco_ore_18": 66000,
+        "totale_visitatori_progressivo": 21108824,
+        "note": ""
+    },
+    {
+        "data": "2020-04-22",
+        "totale_visitatori_giorno": 457480,
+        "visitatori_picco_ore_18": 69000,
+        "totale_visitatori_progressivo": 21541279,
+        "note": ""
+    },
+    {
+        "data": "2020-04-23",
+        "totale_visitatori_giorno": 427649,
+        "visitatori_picco_ore_18": 55000,
+        "totale_visitatori_progressivo": 21994626,
+        "note": "conferenza stampa"
+    },
+    {
+        "data": "2020-04-24",
+        "totale_visitatori_giorno": 393338,
+        "visitatori_picco_ore_18": 51000,
+        "totale_visitatori_progressivo": 22418867,
+        "note": ""
+    },
+    {
+        "data": "2020-04-25",
+        "totale_visitatori_giorno": 346075,
+        "visitatori_picco_ore_18": 42000,
+        "totale_visitatori_progressivo": 22812205,
+        "note": ""
+    },
+    {
+        "data": "2020-04-26",
+        "totale_visitatori_giorno": 333245,
+        "visitatori_picco_ore_18": 43000,
+        "totale_visitatori_progressivo": 23151926,
+        "note": ""
+    },
+    {
+        "data": "2020-04-27",
+        "totale_visitatori_giorno": 353023,
+        "visitatori_picco_ore_18": 52000,
+        "totale_visitatori_progressivo": 23476837,
+        "note": "conferenza stampa"
+    },
+    {
+        "data": "2020-04-28",
+        "totale_visitatori_giorno": 365243,
+        "visitatori_picco_ore_18": 51000,
+        "totale_visitatori_progressivo": 23823927,
+        "note": ""
+    },
+    {
+        "data": "2020-04-29",
+        "totale_visitatori_giorno": 278535,
+        "visitatori_picco_ore_18": 34000,
+        "totale_visitatori_progressivo": 24182524,
+        "note": ""
+    },
+    {
+        "data": "2020-04-30",
+        "totale_visitatori_giorno": 232444,
+        "visitatori_picco_ore_18": 29000,
+        "totale_visitatori_progressivo": 24464476,
+        "note": "ultima conferenza stampa"
+    },
+    {
+        "data": "2020-05-01",
+        "totale_visitatori_giorno": 202907,
+        "visitatori_picco_ore_18": 31000,
+        "totale_visitatori_progressivo": 24692821,
+        "note": ""
+    },
+    {
+        "data": "2020-05-02",
+        "totale_visitatori_giorno": 227805,
+        "visitatori_picco_ore_18": 39000,
+        "totale_visitatori_progressivo": 24895728,
+        "note": ""
+    },
+    {
+        "data": "2020-05-03",
+        "totale_visitatori_giorno": 212465,
+        "visitatori_picco_ore_18": 33000,
+        "totale_visitatori_progressivo": 25123553,
+        "note": ""
+    },
+    {
+        "data": "2020-05-04",
+        "totale_visitatori_giorno": 211102,
+        "visitatori_picco_ore_18": 34000,
+        "totale_visitatori_progressivo": 25336018,
+        "note": ""
+    },
+    {
+        "data": "2020-05-05",
+        "totale_visitatori_giorno": 201209,
+        "visitatori_picco_ore_18": 27000,
+        "totale_visitatori_progressivo": 25547120,
+        "note": ""
+    },
+    {
+        "data": "2020-05-06",
+        "totale_visitatori_giorno": 192058,
+        "visitatori_picco_ore_18": 27000,
+        "totale_visitatori_progressivo": 25748329,
+        "note": ""
+    },
+    {
+        "data": "2020-05-07",
+        "totale_visitatori_giorno": 205162,
+        "visitatori_picco_ore_18": 31000,
+        "totale_visitatori_progressivo": 25940387,
+        "note": ""
+    },
+    {
+        "data": "2020-05-08",
+        "totale_visitatori_giorno": 192071,
+        "visitatori_picco_ore_18": 26000,
+        "totale_visitatori_progressivo": 26133358,
+        "note": ""
+    },
+    {
+        "data": "2020-05-09",
+        "totale_visitatori_giorno": 184253,
+        "visitatori_picco_ore_18": 26000,
+        "totale_visitatori_progressivo": 26317611,
+        "note": ""
+    },
+    {
+        "data": "2020-05-10",
+        "totale_visitatori_giorno": 175969,
+        "visitatori_picco_ore_18": 25000,
+        "totale_visitatori_progressivo": 26493580,
+        "note": ""
+    },
+    {
+        "data": "2020-05-11",
+        "totale_visitatori_giorno": 184885,
+        "visitatori_picco_ore_18": 29000,
+        "totale_visitatori_progressivo": 26678465,
+        "note": ""
+    },
+    {
+        "data": "2020-05-12",
+        "totale_visitatori_giorno": 188575,
+        "visitatori_picco_ore_18": 27000,
+        "totale_visitatori_progressivo": 26867040,
+        "note": ""
+    },
+    {
+        "data": "2020-05-13",
+        "totale_visitatori_giorno": 196899,
+        "visitatori_picco_ore_18": 34000,
+        "totale_visitatori_progressivo": 27063939,
+        "note": ""
+    },
+    {
+        "data": "2020-05-14",
+        "totale_visitatori_giorno": 188675,
+        "visitatori_picco_ore_18": 27000,
+        "totale_visitatori_progressivo": 27252614,
+        "note": ""
+    },
+    {
+        "data": "2020-05-15",
+        "totale_visitatori_giorno": 172594,
+        "visitatori_picco_ore_18": 24000,
+        "totale_visitatori_progressivo": 27425208,
+        "note": ""
+    },
+    {
+        "data": "2020-05-16",
+        "totale_visitatori_giorno": 170143,
+        "visitatori_picco_ore_18": 25000,
+        "totale_visitatori_progressivo": 27595351,
+        "note": ""
+    },
+    {
+        "data": "2020-05-17",
+        "totale_visitatori_giorno": 160174,
+        "visitatori_picco_ore_18": 24000,
+        "totale_visitatori_progressivo": 27755525,
+        "note": ""
+    },
+    {
+        "data": "2020-05-18",
+        "totale_visitatori_giorno": 151440,
+        "visitatori_picco_ore_18": 22000,
+        "totale_visitatori_progressivo": 27906965,
+        "note": "Fase2"
+    },
+    {
+        "data": "2020-05-19",
+        "totale_visitatori_giorno": 153526,
+        "visitatori_picco_ore_18": 21000,
+        "totale_visitatori_progressivo": 28060491,
+        "note": ""
+    },
+    {
+        "data": "2020-05-20",
+        "totale_visitatori_giorno": 151983,
+        "visitatori_picco_ore_18": 22000,
+        "totale_visitatori_progressivo": 28212474,
+        "note": ""
+    },
+    {
+        "data": "2020-05-21",
+        "totale_visitatori_giorno": 145177,
+        "visitatori_picco_ore_18": 20000,
+        "totale_visitatori_progressivo": 28357651,
+        "note": ""
+    },
+    {
+        "data": "2020-05-22",
+        "totale_visitatori_giorno": 136018,
+        "visitatori_picco_ore_18": 17000,
+        "totale_visitatori_progressivo": 28493669,
+        "note": ""
+    },
+    {
+        "data": "2020-05-23",
+        "totale_visitatori_giorno": 123061,
+        "visitatori_picco_ore_18": 17000,
+        "totale_visitatori_progressivo": 28616730,
+        "note": ""
+    },
+    {
+        "data": "2020-05-24",
+        "totale_visitatori_giorno": 116542,
+        "visitatori_picco_ore_18": 16000,
+        "totale_visitatori_progressivo": 28733272,
+        "note": ""
+    },
+    {
+        "data": "2020-05-25",
+        "totale_visitatori_giorno": 134373,
+        "visitatori_picco_ore_18": 19000,
+        "totale_visitatori_progressivo": 28867645,
+        "note": ""
+    },
+    {
+        "data": "2020-05-26",
+        "totale_visitatori_giorno": 135006,
+        "visitatori_picco_ore_18": 17000,
+        "totale_visitatori_progressivo": 29002651,
+        "note": ""
+    },
+    {
+        "data": "2020-05-27",
+        "totale_visitatori_giorno": 129562,
+        "visitatori_picco_ore_18": 18000,
+        "totale_visitatori_progressivo": 29132213,
+        "note": ""
+    },
+    {
+        "data": "2020-05-28",
+        "totale_visitatori_giorno": 126648,
+        "visitatori_picco_ore_18": 16000,
+        "totale_visitatori_progressivo": 29258861,
+        "note": ""
+    },
+    {
+        "data": "2020-05-29",
+        "totale_visitatori_giorno": 121510,
+        "visitatori_picco_ore_18": 18000,
+        "totale_visitatori_progressivo": 29380371,
+        "note": ""
+    },
+    {
+        "data": "2020-05-30",
+        "totale_visitatori_giorno": 107539,
+        "visitatori_picco_ore_18": 15000,
+        "totale_visitatori_progressivo": 29487910,
+        "note": ""
+    },
+    {
+        "data": "2020-05-31",
+        "totale_visitatori_giorno": 100362,
+        "visitatori_picco_ore_18": 14000,
+        "totale_visitatori_progressivo": 29588272,
+        "note": ""
+    },
+    {
+        "data": "2020-06-01",
+        "totale_visitatori_giorno": 111904,
+        "visitatori_picco_ore_18": 15000,
+        "totale_visitatori_progressivo": 29700176,
+        "note": ""
+    },
+    {
+        "data": "2020-06-02",
+        "totale_visitatori_giorno": 106440,
+        "visitatori_picco_ore_18": 16000,
+        "totale_visitatori_progressivo": 29806616,
+        "note": ""
+    },
+    {
+        "data": "2020-06-03",
+        "totale_visitatori_giorno": 110922,
+        "visitatori_picco_ore_18": 16000,
+        "totale_visitatori_progressivo": 29917538,
+        "note": ""
+    },
+    {
+        "data": "2020-06-04",
+        "totale_visitatori_giorno": 89780,
+        "visitatori_picco_ore_18": 12000,
+        "totale_visitatori_progressivo": 30007318,
+        "note": "Fase3"
+    },
+    {
+        "data": "2020-06-05",
+        "totale_visitatori_giorno": 103041,
+        "visitatori_picco_ore_18": 14000,
+        "totale_visitatori_progressivo": 30110359,
+        "note": ""
+    },
+    {
+        "data": "2020-06-06",
+        "totale_visitatori_giorno": 99532,
+        "visitatori_picco_ore_18": 12000,
+        "totale_visitatori_progressivo": 30209891,
+        "note": ""
+    },
+    {
+        "data": "2020-06-07",
+        "totale_visitatori_giorno": 91266,
+        "visitatori_picco_ore_18": 12000,
+        "totale_visitatori_progressivo": 30301157,
+        "note": ""
+    },
+    {
+        "data": "2020-06-08",
+        "totale_visitatori_giorno": 96315,
+        "visitatori_picco_ore_18": 13000,
+        "totale_visitatori_progressivo": 30397472,
+        "note": ""
+    },
+    {
+        "data": "2020-06-09",
+        "totale_visitatori_giorno": 86853,
+        "visitatori_picco_ore_18": 12000,
+        "totale_visitatori_progressivo": 30484325,
+        "note": ""
+    },
+    {
+        "data": "2020-06-10",
+        "totale_visitatori_giorno": 85207,
+        "visitatori_picco_ore_18": 11000,
+        "totale_visitatori_progressivo": 30569532,
+        "note": ""
+    },
+    {
+        "data": "2020-06-11",
+        "totale_visitatori_giorno": 81256,
+        "visitatori_picco_ore_18": 10000,
+        "totale_visitatori_progressivo": 30650788,
+        "note": ""
+    },
+    {
+        "data": "2020-06-12",
+        "totale_visitatori_giorno": 80261,
+        "visitatori_picco_ore_18": 10000,
+        "totale_visitatori_progressivo": 30731049,
+        "note": ""
+    },
+    {
+        "data": "2020-06-13",
+        "totale_visitatori_giorno": 76106,
+        "visitatori_picco_ore_18": 9000,
+        "totale_visitatori_progressivo": 30807155,
+        "note": ""
+    },
+    {
+        "data": "2020-06-14",
+        "totale_visitatori_giorno": 71685,
+        "visitatori_picco_ore_18": 9000,
+        "totale_visitatori_progressivo": 30878840,
+        "note": ""
+    },
+    {
+        "data": "2020-06-15",
+        "totale_visitatori_giorno": 76920,
+        "visitatori_picco_ore_18": 11000,
+        "totale_visitatori_progressivo": 30955760,
+        "note": ""
+    }
+]

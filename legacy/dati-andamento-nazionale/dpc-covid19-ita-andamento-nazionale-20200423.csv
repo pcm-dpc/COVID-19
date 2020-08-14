@@ -1,0 +1,2 @@
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note_it,note_en
+2020-04-23T17:00:00,ITA,22871,2267,25138,81710,106848,-851,2646,57576,25549,189973,1579909,1052577,pd-IT-0015;pd-IT-0017,pd-EN-0015;pd-EN-0017
