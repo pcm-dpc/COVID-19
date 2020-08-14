@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>14/08/2020</b><br>
+La Regione Sicilia comunica che dei 36 nuovi positivi, 21 risultano essere immigrati sbarcati sulle coste regionali. La Regione Piemonte comunica che a causa di un guasto tecnico della rete dei sistemi informativi regionali, i nuovi casi positivi di oggi potrebbero essere sottostimati.
+
 <b>13/08/2020</b><br>
 La PA Bolzano comunica che oggi è stato eliminato un caso positivo a causa di un doppio inserimento. La Regione Sicilia comunica che dei 42 nuovi positivi di oggi, 5 risultano essere immigrati sbarcati sulle coste siciliane.
 
