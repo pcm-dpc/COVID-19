@@ -1,8 +1,6 @@
 data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
 2020-08-15T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,25,1,26,226,252,10,13,2834,472,3196,362,3558,140692,91060,
-2020-08-15T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,0,0,0,66,66,2,4,392,28,402,84,486,50856,50066,"PER N. 3 CASI RISULTATI POSITIVI E DICHIARATI IN DATA ODIERNA  SONO IN CORSO
-INDAGINI DI CONFERMA PRESSO LABORATORIO DI 
-DI II LIVELLO."
+2020-08-15T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,0,0,0,66,66,2,4,392,28,402,84,486,50856,50066,"PER N. 3 CASI RISULTATI POSITIVI E DICHIARATI IN DATA ODIERNA  SONO IN CORSO INDAGINI DI CONFERMA PRESSO LABORATORIO DI  DI II LIVELLO."
 2020-08-15T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,8,1,9,134,143,10,10,1105,97,1159,186,1345,134064,132030,
 2020-08-15T17:00:00,ITA,15,Campania,40.83956555,14.25084984,34,1,35,454,489,2,18,4303,440,5142,90,5232,358504,189377,
 2020-08-15T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.341720800000001,75,4,79,1675,1754,-112,71,24178,4453,28642,1743,30385,765122,456025,"A seguito di una verifica interna dei dati sui decessi, la Ausl di Parma ha comunicato 154 decessi avvenuti in marzo, aprile e maggio e finora non conteggiati."
