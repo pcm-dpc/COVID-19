@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>16/08/2020</b><br>
+La Regione Sicilia comunica che dei 39 nuovi casi positivi, 5 sono migranti sbarcati sulle coste regionali e 10 risultano correlati con casi provenienti da Malta. La Regione Basilicata comunica che il numero dei tamponi effettuati e dei casi testati odierni sarà comunicato con i dati del 17/08 e che 1 caso risultato positivo e segnalato il 15/08 è risultato negativo ai test per SARS Cov2 di II livello eseguito in data odierna. La Regione Sardegna comunica il seguente ricalcolo: è stato eliminato 1 caso della Provincia di Oristano segnalato nei giorni scorsi.
+
+<b>15/08/2020</b><br>
+La Regione Emilia Romagna comunica che a seguito di una verifica interna dei dati sui decessi, la Ausl di Parma ha comunicato 154 decessi avvenuti in marzo, aprile e maggio e finora non conteggiati. La Regione Piemonte comunica che dei 47 nuovi casi positivi, 15 sono diagnosi del 13 agosto inserite in ritardo a causa di un guasto tecnico che ha riguardato la Piattaforma COVID-19 Regione Piemonte. La Sardegna comunica che dei 5 nuovi casi positivi, 4 casi sono attribuibili in migranti del sud Sardegna e 1 caso nella città metropolitana di Cagliari in cittadino di rientro dalla Spagna. La Regione Sicilia comunica che dei 46 nuovi casi positivi, 13 provengono da Malta.
+
 <b>14/08/2020</b><br>
 La Regione Sicilia comunica che dei 36 nuovi positivi, 21 risultano essere immigrati sbarcati sulle coste regionali. La Regione Piemonte comunica che a causa di un guasto tecnico della rete dei sistemi informativi regionali, i nuovi casi positivi di oggi potrebbero essere sottostimati.
 
