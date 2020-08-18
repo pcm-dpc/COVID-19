@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>18/08/2020</b><br>
+La Regione Basilicata comunica che 2 casi già risultati positivi e segnalati il 15.08.2020, sono risultati negativi ai test di conferma per SARS CoV-2 di II livello e detratti dal computo totale.
+
 <b>16/08/2020</b><br>
 La Regione Sicilia comunica che dei 39 nuovi casi positivi, 5 sono migranti sbarcati sulle coste regionali e 10 risultano correlati con casi provenienti da Malta. La Regione Basilicata comunica che il numero dei tamponi effettuati e dei casi testati odierni sarà comunicato con i dati del 17/08 e che 1 caso risultato positivo e segnalato il 15/08 è risultato negativo ai test per SARS Cov2 di II livello eseguito in data odierna. La Regione Sardegna comunica il seguente ricalcolo: è stato eliminato 1 caso della Provincia di Oristano segnalato nei giorni scorsi.
 

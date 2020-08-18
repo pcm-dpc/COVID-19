@@ -1003,7 +1003,7 @@
         "deceduti": 23660,
         "totale_casi": 178972,
         "tamponi": 1356541,
-        "casi_testati": 935310.0,
+        "casi_testati": 935310,
         "note_it": null,
         "note_en": null
     },
@@ -1021,7 +1021,7 @@
         "deceduti": 24114,
         "totale_casi": 181228,
         "tamponi": 1398024,
-        "casi_testati": 943151.0,
+        "casi_testati": 943151,
         "note_it": "dc-IT-0007",
         "note_en": "dc-EN-0007"
     },
@@ -1039,7 +1039,7 @@
         "deceduti": 24648,
         "totale_casi": 183957,
         "tamponi": 1450150,
-        "casi_testati": 971246.0,
+        "casi_testati": 971246,
         "note_it": "pd-IT-0013",
         "note_en": "pd-EN-0013"
     },
@@ -1057,7 +1057,7 @@
         "deceduti": 25085,
         "totale_casi": 187327,
         "tamponi": 1513251,
-        "casi_testati": 1015494.0,
+        "casi_testati": 1015494,
         "note_it": null,
         "note_en": null
     },
@@ -1075,7 +1075,7 @@
         "deceduti": 25549,
         "totale_casi": 189973,
         "tamponi": 1579909,
-        "casi_testati": 1052577.0,
+        "casi_testati": 1052577,
         "note_it": "pd-IT-0015;pd-IT-0017",
         "note_en": "pd-EN-0015;pd-EN-0017"
     },
@@ -1093,7 +1093,7 @@
         "deceduti": 25969,
         "totale_casi": 192994,
         "tamponi": 1642356,
-        "casi_testati": 1147850.0,
+        "casi_testati": 1147850,
         "note_it": "dc-IT-0009;dc-IT-0011",
         "note_en": "dc-EN-0009;dc-EN-0011"
     },
@@ -1111,7 +1111,7 @@
         "deceduti": 26384,
         "totale_casi": 195351,
         "tamponi": 1707743,
-        "casi_testati": 1186526.0,
+        "casi_testati": 1186526,
         "note_it": null,
         "note_en": null
     },
@@ -1129,7 +1129,7 @@
         "deceduti": 26644,
         "totale_casi": 197675,
         "tamponi": 1757659,
-        "casi_testati": 1210639.0,
+        "casi_testati": 1210639,
         "note_it": "dc-IT-0013",
         "note_en": "dc-EN-0013"
     },
@@ -1147,7 +1147,7 @@
         "deceduti": 26977,
         "totale_casi": 199414,
         "tamponi": 1789662,
-        "casi_testati": 1237317.0,
+        "casi_testati": 1237317,
         "note_it": null,
         "note_en": null
     },
@@ -1165,7 +1165,7 @@
         "deceduti": 27359,
         "totale_casi": 201505,
         "tamponi": 1846934,
-        "casi_testati": 1274871.0,
+        "casi_testati": 1274871,
         "note_it": null,
         "note_en": null
     },
@@ -1183,7 +1183,7 @@
         "deceduti": 27682,
         "totale_casi": 203591,
         "tamponi": 1910761,
-        "casi_testati": 1313460.0,
+        "casi_testati": 1313460,
         "note_it": null,
         "note_en": null
     },
@@ -1201,7 +1201,7 @@
         "deceduti": 27967,
         "totale_casi": 205463,
         "tamponi": 1979217,
-        "casi_testati": 1354901.0,
+        "casi_testati": 1354901,
         "note_it": null,
         "note_en": null
     },
@@ -1219,7 +1219,7 @@
         "deceduti": 28236,
         "totale_casi": 207428,
         "tamponi": 2053425,
-        "casi_testati": 1398633.0,
+        "casi_testati": 1398633,
         "note_it": "dc-IT-0015",
         "note_en": "dc-EN-0015"
     },
@@ -1237,7 +1237,7 @@
         "deceduti": 28710,
         "totale_casi": 209328,
         "tamponi": 2108837,
-        "casi_testati": 1429864.0,
+        "casi_testati": 1429864,
         "note_it": "dc-IT-0017",
         "note_en": "dc-EN-0017"
     },
@@ -1255,7 +1255,7 @@
         "deceduti": 28884,
         "totale_casi": 210717,
         "tamponi": 2153772,
-        "casi_testati": 1456911.0,
+        "casi_testati": 1456911,
         "note_it": null,
         "note_en": null
     },
@@ -1273,7 +1273,7 @@
         "deceduti": 29079,
         "totale_casi": 211938,
         "tamponi": 2191403,
-        "casi_testati": 1479910.0,
+        "casi_testati": 1479910,
         "note_it": "dc-IT-0019",
         "note_en": "dc-EN-0019"
     },
@@ -1291,7 +1291,7 @@
         "deceduti": 29315,
         "totale_casi": 213013,
         "tamponi": 2246666,
-        "casi_testati": 1512121.0,
+        "casi_testati": 1512121,
         "note_it": null,
         "note_en": null
     },
@@ -1309,7 +1309,7 @@
         "deceduti": 29684,
         "totale_casi": 214457,
         "tamponi": 2310929,
-        "casi_testati": 1549892.0,
+        "casi_testati": 1549892,
         "note_it": "dc-IT-0021",
         "note_en": "dc-EN-0021"
     },
@@ -1327,7 +1327,7 @@
         "deceduti": 29958,
         "totale_casi": 215858,
         "tamponi": 2381288,
-        "casi_testati": 1563557.0,
+        "casi_testati": 1563557,
         "note_it": "dc-IT-0023",
         "note_en": "dc-EN-0023"
     },
@@ -1345,7 +1345,7 @@
         "deceduti": 30201,
         "totale_casi": 217185,
         "tamponi": 2445063,
-        "casi_testati": 1608985.0,
+        "casi_testati": 1608985,
         "note_it": "dc-IT-0025",
         "note_en": "dc-EN-0025"
     },
@@ -1363,7 +1363,7 @@
         "deceduti": 30395,
         "totale_casi": 218268,
         "tamponi": 2514234,
-        "casi_testati": 1645076.0,
+        "casi_testati": 1645076,
         "note_it": null,
         "note_en": null
     },
@@ -1381,7 +1381,7 @@
         "deceduti": 30560,
         "totale_casi": 219070,
         "tamponi": 2565912,
-        "casi_testati": 1676460.0,
+        "casi_testati": 1676460,
         "note_it": null,
         "note_en": null
     },
@@ -1399,7 +1399,7 @@
         "deceduti": 30739,
         "totale_casi": 219814,
         "tamponi": 2606652,
-        "casi_testati": 1702283.0,
+        "casi_testati": 1702283,
         "note_it": null,
         "note_en": null
     },
@@ -1417,7 +1417,7 @@
         "deceduti": 30911,
         "totale_casi": 221216,
         "tamponi": 2673655,
-        "casi_testati": 1741903.0,
+        "casi_testati": 1741903,
         "note_it": "dc-IT-0027",
         "note_en": "dc-EN-0027"
     },
@@ -1435,7 +1435,7 @@
         "deceduti": 31106,
         "totale_casi": 222104,
         "tamponi": 2735628,
-        "casi_testati": 1778952.0,
+        "casi_testati": 1778952,
         "note_it": null,
         "note_en": null
     },
@@ -1453,7 +1453,7 @@
         "deceduti": 31368,
         "totale_casi": 223096,
         "tamponi": 2807504,
-        "casi_testati": 1820083.0,
+        "casi_testati": 1820083,
         "note_it": "dc-IT-0029",
         "note_en": "dc-EN-0029"
     },
@@ -1471,7 +1471,7 @@
         "deceduti": 31610,
         "totale_casi": 223885,
         "tamponi": 2875680,
-        "casi_testati": 1859110.0,
+        "casi_testati": 1859110,
         "note_it": "dc-IT-0031",
         "note_en": "dc-EN-0031"
     },
@@ -1489,7 +1489,7 @@
         "deceduti": 31763,
         "totale_casi": 224760,
         "tamponi": 2944859,
-        "casi_testati": 1899767.0,
+        "casi_testati": 1899767,
         "note_it": null,
         "note_en": null
     },
@@ -1507,7 +1507,7 @@
         "deceduti": 31908,
         "totale_casi": 225435,
         "tamponi": 3004960,
-        "casi_testati": 1933272.0,
+        "casi_testati": 1933272,
         "note_it": null,
         "note_en": null
     },
@@ -1525,7 +1525,7 @@
         "deceduti": 32007,
         "totale_casi": 225886,
         "tamponi": 3041366,
-        "casi_testati": 1959373.0,
+        "casi_testati": 1959373,
         "note_it": "pd-IT-0019",
         "note_en": "pd-EN-0019"
     },
@@ -1543,7 +1543,7 @@
         "deceduti": 32169,
         "totale_casi": 226699,
         "tamponi": 3104524,
-        "casi_testati": 1999599.0,
+        "casi_testati": 1999599,
         "note_it": "dc-IT-0033",
         "note_en": "dc-EN-0033"
     },
@@ -1561,7 +1561,7 @@
         "deceduti": 32330,
         "totale_casi": 227364,
         "tamponi": 3171719,
-        "casi_testati": 2038216.0,
+        "casi_testati": 2038216,
         "note_it": null,
         "note_en": null
     },
@@ -1579,7 +1579,7 @@
         "deceduti": 32486,
         "totale_casi": 228006,
         "tamponi": 3243398,
-        "casi_testati": 2078860.0,
+        "casi_testati": 2078860,
         "note_it": null,
         "note_en": null
     },
@@ -1597,7 +1597,7 @@
         "deceduti": 32616,
         "totale_casi": 228658,
         "tamponi": 3318778,
-        "casi_testati": 2121847.0,
+        "casi_testati": 2121847,
         "note_it": null,
         "note_en": null
     },
@@ -1615,7 +1615,7 @@
         "deceduti": 32735,
         "totale_casi": 229327,
         "tamponi": 3391188,
-        "casi_testati": 2164426.0,
+        "casi_testati": 2164426,
         "note_it": null,
         "note_en": null
     },
@@ -1633,7 +1633,7 @@
         "deceduti": 32785,
         "totale_casi": 229858,
         "tamponi": 3447012,
-        "casi_testati": 2198632.0,
+        "casi_testati": 2198632,
         "note_it": "pd-IT-0021",
         "note_en": "pd-EN-0021"
     },
@@ -1651,7 +1651,7 @@
         "deceduti": 32877,
         "totale_casi": 230158,
         "tamponi": 3482253,
-        "casi_testati": 2219308.0,
+        "casi_testati": 2219308,
         "note_it": "dc-IT-0035",
         "note_en": "dc-EN-0035"
     },
@@ -1669,7 +1669,7 @@
         "deceduti": 32955,
         "totale_casi": 230555,
         "tamponi": 3539927,
-        "casi_testati": 2253252.0,
+        "casi_testati": 2253252,
         "note_it": null,
         "note_en": null
     },
@@ -1687,7 +1687,7 @@
         "deceduti": 33072,
         "totale_casi": 231139,
         "tamponi": 3607251,
-        "casi_testati": 2290551.0,
+        "casi_testati": 2290551,
         "note_it": null,
         "note_en": null
     },
@@ -1705,7 +1705,7 @@
         "deceduti": 33142,
         "totale_casi": 231732,
         "tamponi": 3683144,
-        "casi_testati": 2330389.0,
+        "casi_testati": 2330389,
         "note_it": null,
         "note_en": null
     },
@@ -1723,7 +1723,7 @@
         "deceduti": 33229,
         "totale_casi": 232248,
         "tamponi": 3755279,
-        "casi_testati": 2368622.0,
+        "casi_testati": 2368622,
         "note_it": "dc-IT-0037",
         "note_en": "dc-EN-0037"
     },
@@ -1741,7 +1741,7 @@
         "deceduti": 33340,
         "totale_casi": 232664,
         "tamponi": 3824621,
-        "casi_testati": 2404673.0,
+        "casi_testati": 2404673,
         "note_it": "nd-IT-0016",
         "note_en": "nd-EN-0016"
     },
@@ -1759,7 +1759,7 @@
         "deceduti": 33415,
         "totale_casi": 233019,
         "tamponi": 3878739,
-        "casi_testati": 2433621.0,
+        "casi_testati": 2433621,
         "note_it": "pd-IT-0023",
         "note_en": "pd-EN-0023"
     },
@@ -1777,7 +1777,7 @@
         "deceduti": 33475,
         "totale_casi": 233197,
         "tamponi": 3910133,
-        "casi_testati": 2451674.0,
+        "casi_testati": 2451674,
         "note_it": null,
         "note_en": null
     },
@@ -1795,7 +1795,7 @@
         "deceduti": 33530,
         "totale_casi": 233515,
         "tamponi": 3962292,
-        "casi_testati": 2477302.0,
+        "casi_testati": 2477302,
         "note_it": null,
         "note_en": null
     },
@@ -1813,7 +1813,7 @@
         "deceduti": 33601,
         "totale_casi": 233836,
         "tamponi": 3999591,
-        "casi_testati": 2497337.0,
+        "casi_testati": 2497337,
         "note_it": null,
         "note_en": null
     },
@@ -1831,7 +1831,7 @@
         "deceduti": 33689,
         "totale_casi": 234013,
         "tamponi": 4049544,
-        "casi_testati": 2524788.0,
+        "casi_testati": 2524788,
         "note_it": "dc-IT-0039",
         "note_en": "dc-IT-0039"
     },
@@ -1849,7 +1849,7 @@
         "deceduti": 33774,
         "totale_casi": 234531,
         "tamponi": 4114572,
-        "casi_testati": 2565258.0,
+        "casi_testati": 2565258,
         "note_it": null,
         "note_en": null
     },
@@ -1867,7 +1867,7 @@
         "deceduti": 33846,
         "totale_casi": 234801,
         "tamponi": 4187057,
-        "casi_testati": 2599294.0,
+        "casi_testati": 2599294,
         "note_it": null,
         "note_en": null
     },
@@ -1885,7 +1885,7 @@
         "deceduti": 33899,
         "totale_casi": 234998,
         "tamponi": 4236535,
-        "casi_testati": 2627188.0,
+        "casi_testati": 2627188,
         "note_it": null,
         "note_en": null
     },
@@ -1903,7 +1903,7 @@
         "deceduti": 33964,
         "totale_casi": 235278,
         "tamponi": 4263647,
-        "casi_testati": 2643489.0,
+        "casi_testati": 2643489,
         "note_it": null,
         "note_en": null
     },
@@ -1921,7 +1921,7 @@
         "deceduti": 34043,
         "totale_casi": 235561,
         "tamponi": 4318650,
-        "casi_testati": 2675689.0,
+        "casi_testati": 2675689,
         "note_it": "dc-IT-0041;dc-IT-0043",
         "note_en": "dc-EN-0041;dc-EN-0043"
     },
@@ -1939,7 +1939,7 @@
         "deceduti": 34114,
         "totale_casi": 235763,
         "tamponi": 4381349,
-        "casi_testati": 2713554.0,
+        "casi_testati": 2713554,
         "note_it": null,
         "note_en": null
     },
@@ -1957,7 +1957,7 @@
         "deceduti": 34167,
         "totale_casi": 236142,
         "tamponi": 4443821,
-        "casi_testati": 2746545.0,
+        "casi_testati": 2746545,
         "note_it": null,
         "note_en": null
     },
@@ -1975,7 +1975,7 @@
         "deceduti": 34223,
         "totale_casi": 236305,
         "tamponi": 4514441,
-        "casi_testati": 2784196.0,
+        "casi_testati": 2784196,
         "note_it": "dc-IT-0045;dc-IT-0047",
         "note_en": "dc-EN-0045;dc-EN-0047"
     },
@@ -1993,7 +1993,7 @@
         "deceduti": 34301,
         "totale_casi": 236651,
         "tamponi": 4564191,
-        "casi_testati": 2817076.0,
+        "casi_testati": 2817076,
         "note_it": "dc-IT-0049",
         "note_en": "dc-EN-0049"
     },
@@ -2011,7 +2011,7 @@
         "deceduti": 34345,
         "totale_casi": 236989,
         "tamponi": 4620718,
-        "casi_testati": 2846621.0,
+        "casi_testati": 2846621,
         "note_it": null,
         "note_en": null
     },
@@ -2029,7 +2029,7 @@
         "deceduti": 34371,
         "totale_casi": 237290,
         "tamponi": 4648825,
-        "casi_testati": 2864084.0,
+        "casi_testati": 2864084,
         "note_it": "dc-IT-0051",
         "note_en": "dc-EN-0051"
     },
@@ -2047,7 +2047,7 @@
         "deceduti": 34405,
         "totale_casi": 237500,
         "tamponi": 4695707,
-        "casi_testati": 2891846.0,
+        "casi_testati": 2891846,
         "note_it": null,
         "note_en": null
     },
@@ -2065,7 +2065,7 @@
         "deceduti": 34448,
         "totale_casi": 237828,
         "tamponi": 4773408,
-        "casi_testati": 2925803.0,
+        "casi_testati": 2925803,
         "note_it": "dc-IT-0053",
         "note_en": "dc-EN-0053"
     },
@@ -2083,7 +2083,7 @@
         "deceduti": 34514,
         "totale_casi": 238159,
         "tamponi": 4831562,
-        "casi_testati": 2958724.0,
+        "casi_testati": 2958724,
         "note_it": "dc-IT-0055",
         "note_en": "dc-EN-0055"
     },
@@ -2101,7 +2101,7 @@
         "deceduti": 34561,
         "totale_casi": 238011,
         "tamponi": 4889103,
-        "casi_testati": 2987294.0,
+        "casi_testati": 2987294,
         "note_it": "dc-IT-0057;dc-IT-0059",
         "note_en": "dc-EN-0057;dc-EN-0059"
     },
@@ -2119,7 +2119,7 @@
         "deceduti": 34610,
         "totale_casi": 238275,
         "tamponi": 4943825,
-        "casi_testati": 3017169.0,
+        "casi_testati": 3017169,
         "note_it": "dc-IT-0061;dc-IT-0063",
         "note_en": "dc-EN-0061;dc-EN-0063"
     },
@@ -2137,7 +2137,7 @@
         "deceduti": 34634,
         "totale_casi": 238499,
         "tamponi": 4984370,
-        "casi_testati": 3041750.0,
+        "casi_testati": 3041750,
         "note_it": null,
         "note_en": null
     },
@@ -2155,7 +2155,7 @@
         "deceduti": 34657,
         "totale_casi": 238720,
         "tamponi": 5013342,
-        "casi_testati": 3057902.0,
+        "casi_testati": 3057902,
         "note_it": "dc-IT-0065",
         "note_en": "dc-EN-0065"
     },
@@ -2173,7 +2173,7 @@
         "deceduti": 34675,
         "totale_casi": 238833,
         "tamponi": 5053827,
-        "casi_testati": 3081127.0,
+        "casi_testati": 3081127,
         "note_it": "dc-IT-0067;dc-IT-0069",
         "note_en": "dc-EN-0067;dc-EN-0069"
     },
@@ -2191,7 +2191,7 @@
         "deceduti": 34644,
         "totale_casi": 239410,
         "tamponi": 5107093,
-        "casi_testati": 3111364.0,
+        "casi_testati": 3111364,
         "note_it": "dc-IT-0071",
         "note_en": "dc-EN-0071"
     },
@@ -2209,7 +2209,7 @@
         "deceduti": 34678,
         "totale_casi": 239706,
         "tamponi": 5163154,
-        "casi_testati": 3140785.0,
+        "casi_testati": 3140785,
         "note_it": null,
         "note_en": null
     },
@@ -2227,7 +2227,7 @@
         "deceduti": 34708,
         "totale_casi": 239961,
         "tamponi": 5215922,
-        "casi_testati": 3169116.0,
+        "casi_testati": 3169116,
         "note_it": null,
         "note_en": null
     },
@@ -2245,7 +2245,7 @@
         "deceduti": 34716,
         "totale_casi": 240136,
         "tamponi": 5277273,
-        "casi_testati": 3198837.0,
+        "casi_testati": 3198837,
         "note_it": null,
         "note_en": null
     },
@@ -2263,7 +2263,7 @@
         "deceduti": 34738,
         "totale_casi": 240310,
         "tamponi": 5314619,
-        "casi_testati": 3220020.0,
+        "casi_testati": 3220020,
         "note_it": null,
         "note_en": null
     },
@@ -2281,7 +2281,7 @@
         "deceduti": 34744,
         "totale_casi": 240436,
         "tamponi": 5341837,
-        "casi_testati": 3235504.0,
+        "casi_testati": 3235504,
         "note_it": null,
         "note_en": null
     },
@@ -2299,7 +2299,7 @@
         "deceduti": 34767,
         "totale_casi": 240578,
         "tamponi": 5390110,
-        "casi_testati": 3263975.0,
+        "casi_testati": 3263975,
         "note_it": null,
         "note_en": null
     },
@@ -2317,7 +2317,7 @@
         "deceduti": 34788,
         "totale_casi": 240760,
         "tamponi": 5445476,
-        "casi_testati": 3293300.0,
+        "casi_testati": 3293300,
         "note_it": null,
         "note_en": null
     },
@@ -2335,7 +2335,7 @@
         "deceduti": 34818,
         "totale_casi": 240961,
         "tamponi": 5498719,
-        "casi_testati": 3322447.0,
+        "casi_testati": 3322447,
         "note_it": null,
         "note_en": null
     },
@@ -2353,7 +2353,7 @@
         "deceduti": 34833,
         "totale_casi": 241184,
         "tamponi": 5548815,
-        "casi_testati": 3348127.0,
+        "casi_testati": 3348127,
         "note_it": null,
         "note_en": null
     },
@@ -2371,7 +2371,7 @@
         "deceduti": 34854,
         "totale_casi": 241419,
         "tamponi": 5600826,
-        "casi_testati": 3377073.0,
+        "casi_testati": 3377073,
         "note_it": null,
         "note_en": null
     },
@@ -2389,7 +2389,7 @@
         "deceduti": 34861,
         "totale_casi": 241611,
         "tamponi": 5638288,
-        "casi_testati": 3398239.0,
+        "casi_testati": 3398239,
         "note_it": null,
         "note_en": null
     },
@@ -2407,7 +2407,7 @@
         "deceduti": 34869,
         "totale_casi": 241819,
         "tamponi": 5660454,
-        "casi_testati": 3412010.0,
+        "casi_testati": 3412010,
         "note_it": null,
         "note_en": null
     },
@@ -2425,7 +2425,7 @@
         "deceduti": 34899,
         "totale_casi": 241956,
         "tamponi": 5703673,
-        "casi_testati": 3434500.0,
+        "casi_testati": 3434500,
         "note_it": null,
         "note_en": null
     },
@@ -2443,7 +2443,7 @@
         "deceduti": 34914,
         "totale_casi": 242149,
         "tamponi": 5754116,
-        "casi_testati": 3463179.0,
+        "casi_testati": 3463179,
         "note_it": null,
         "note_en": null
     },
@@ -2461,7 +2461,7 @@
         "deceduti": 34926,
         "totale_casi": 242363,
         "tamponi": 5806668,
-        "casi_testati": 3493126.0,
+        "casi_testati": 3493126,
         "note_it": null,
         "note_en": null
     },
@@ -2479,7 +2479,7 @@
         "deceduti": 34938,
         "totale_casi": 242639,
         "tamponi": 5854621,
-        "casi_testati": 3520377.0,
+        "casi_testati": 3520377,
         "note_it": null,
         "note_en": null
     },
@@ -2497,7 +2497,7 @@
         "deceduti": 34945,
         "totale_casi": 242827,
         "tamponi": 5900552,
-        "casi_testati": 3545826.0,
+        "casi_testati": 3545826,
         "note_it": null,
         "note_en": null
     },
@@ -2515,7 +2515,7 @@
         "deceduti": 34954,
         "totale_casi": 243061,
         "tamponi": 5938811,
-        "casi_testati": 3568887.0,
+        "casi_testati": 3568887,
         "note_it": null,
         "note_en": null
     },
@@ -2533,7 +2533,7 @@
         "deceduti": 34967,
         "totale_casi": 243230,
         "tamponi": 5962744,
-        "casi_testati": 3582893.0,
+        "casi_testati": 3582893,
         "note_it": null,
         "note_en": null
     },
@@ -2551,7 +2551,7 @@
         "deceduti": 34984,
         "totale_casi": 243344,
         "tamponi": 6004611,
-        "casi_testati": 3607115.0,
+        "casi_testati": 3607115,
         "note_it": null,
         "note_en": null
     },
@@ -2569,7 +2569,7 @@
         "deceduti": 34997,
         "totale_casi": 243506,
         "tamponi": 6053060,
-        "casi_testati": 3635507.0,
+        "casi_testati": 3635507,
         "note_it": null,
         "note_en": null
     },
@@ -2587,7 +2587,7 @@
         "deceduti": 35017,
         "totale_casi": 243736,
         "tamponi": 6103492,
-        "casi_testati": 3663596.0,
+        "casi_testati": 3663596,
         "note_it": null,
         "note_en": null
     },
@@ -2605,7 +2605,7 @@
         "deceduti": 35028,
         "totale_casi": 243967,
         "tamponi": 6154259,
-        "casi_testati": 3692257.0,
+        "casi_testati": 3692257,
         "note_it": null,
         "note_en": null
     },
@@ -2623,7 +2623,7 @@
         "deceduti": 35042,
         "totale_casi": 244216,
         "tamponi": 6202524,
-        "casi_testati": 3719826.0,
+        "casi_testati": 3719826,
         "note_it": null,
         "note_en": null
     },
@@ -2641,7 +2641,7 @@
         "deceduti": 35045,
         "totale_casi": 244434,
         "tamponi": 6238049,
-        "casi_testati": 3740447.0,
+        "casi_testati": 3740447,
         "note_it": null,
         "note_en": null
     },
@@ -2659,7 +2659,7 @@
         "deceduti": 35058,
         "totale_casi": 244624,
         "tamponi": 6262302,
-        "casi_testati": 3754568.0,
+        "casi_testati": 3754568,
         "note_it": null,
         "note_en": null
     },
@@ -2677,7 +2677,7 @@
         "deceduti": 35073,
         "totale_casi": 244752,
         "tamponi": 6305412,
-        "casi_testati": 3778483.0,
+        "casi_testati": 3778483,
         "note_it": null,
         "note_en": null
     },
@@ -2695,7 +2695,7 @@
         "deceduti": 35082,
         "totale_casi": 245032,
         "tamponi": 6354730,
-        "casi_testati": 3807771.0,
+        "casi_testati": 3807771,
         "note_it": null,
         "note_en": null
     },
@@ -2713,7 +2713,7 @@
         "deceduti": 35092,
         "totale_casi": 245338,
         "tamponi": 6415041,
-        "casi_testati": 3840789.0,
+        "casi_testati": 3840789,
         "note_it": null,
         "note_en": null
     },
@@ -2731,7 +2731,7 @@
         "deceduti": 35097,
         "totale_casi": 245590,
         "tamponi": 6468375,
-        "casi_testati": 3869759.0,
+        "casi_testati": 3869759,
         "note_it": null,
         "note_en": null
     },
@@ -2749,7 +2749,7 @@
         "deceduti": 35102,
         "totale_casi": 245864,
         "tamponi": 6520046,
-        "casi_testati": 3897818.0,
+        "casi_testati": 3897818,
         "note_it": null,
         "note_en": null
     },
@@ -2767,7 +2767,7 @@
         "deceduti": 35107,
         "totale_casi": 246118,
         "tamponi": 6560572,
-        "casi_testati": 3922995.0,
+        "casi_testati": 3922995,
         "note_it": null,
         "note_en": null
     },
@@ -2785,7 +2785,7 @@
         "deceduti": 35112,
         "totale_casi": 246286,
         "tamponi": 6586123,
-        "casi_testati": 3942369.0,
+        "casi_testati": 3942369,
         "note_it": null,
         "note_en": null
     },
@@ -2803,7 +2803,7 @@
         "deceduti": 35123,
         "totale_casi": 246488,
         "tamponi": 6634293,
-        "casi_testati": 3967710.0,
+        "casi_testati": 3967710,
         "note_it": null,
         "note_en": null
     },
@@ -2821,7 +2821,7 @@
         "deceduti": 35129,
         "totale_casi": 246776,
         "tamponi": 6690311,
-        "casi_testati": 3998585.0,
+        "casi_testati": 3998585,
         "note_it": null,
         "note_en": null
     },
@@ -2839,7 +2839,7 @@
         "deceduti": 35132,
         "totale_casi": 247158,
         "tamponi": 6752169,
-        "casi_testati": 4031981.0,
+        "casi_testati": 4031981,
         "note_it": null,
         "note_en": null
     },
@@ -2857,7 +2857,7 @@
         "deceduti": 35141,
         "totale_casi": 247537,
         "tamponi": 6813113,
-        "casi_testati": 4061667.0,
+        "casi_testati": 4061667,
         "note_it": null,
         "note_en": null
     },
@@ -2875,7 +2875,7 @@
         "deceduti": 35146,
         "totale_casi": 247832,
         "tamponi": 6873496,
-        "casi_testati": 4093572.0,
+        "casi_testati": 4093572,
         "note_it": null,
         "note_en": null
     },
@@ -2893,7 +2893,7 @@
         "deceduti": 35154,
         "totale_casi": 248070,
         "tamponi": 6916765,
-        "casi_testati": 4118068.0,
+        "casi_testati": 4118068,
         "note_it": null,
         "note_en": null
     },
@@ -2911,7 +2911,7 @@
         "deceduti": 35166,
         "totale_casi": 248229,
         "tamponi": 6940801,
-        "casi_testati": 4131535.0,
+        "casi_testati": 4131535,
         "note_it": null,
         "note_en": null
     },
@@ -2929,7 +2929,7 @@
         "deceduti": 35171,
         "totale_casi": 248419,
         "tamponi": 6984589,
-        "casi_testati": 4155026.0,
+        "casi_testati": 4155026,
         "note_it": null,
         "note_en": null
     },
@@ -2947,7 +2947,7 @@
         "deceduti": 35181,
         "totale_casi": 248803,
         "tamponi": 7041040,
-        "casi_testati": 4184765.0,
+        "casi_testati": 4184765,
         "note_it": null,
         "note_en": null
     },
@@ -2965,7 +2965,7 @@
         "deceduti": 35187,
         "totale_casi": 249204,
         "tamponi": 7099713,
-        "casi_testati": 4216934.0,
+        "casi_testati": 4216934,
         "note_it": null,
         "note_en": null
     },
@@ -2983,7 +2983,7 @@
         "deceduti": 35190,
         "totale_casi": 249756,
         "tamponi": 7158909,
-        "casi_testati": 4247326.0,
+        "casi_testati": 4247326,
         "note_it": null,
         "note_en": null
     },
@@ -3001,7 +3001,7 @@
         "deceduti": 35203,
         "totale_casi": 250103,
         "tamponi": 7212207,
-        "casi_testati": 4273957.0,
+        "casi_testati": 4273957,
         "note_it": null,
         "note_en": null
     },
@@ -3019,7 +3019,7 @@
         "deceduti": 35205,
         "totale_casi": 250566,
         "tamponi": 7249844,
-        "casi_testati": 4296730.0,
+        "casi_testati": 4296730,
         "note_it": null,
         "note_en": null
     },
@@ -3037,7 +3037,7 @@
         "deceduti": 35209,
         "totale_casi": 250825,
         "tamponi": 7276276,
-        "casi_testati": 4307634.0,
+        "casi_testati": 4307634,
         "note_it": null,
         "note_en": null
     },
@@ -3055,7 +3055,7 @@
         "deceduti": 35215,
         "totale_casi": 251237,
         "tamponi": 7316918,
-        "casi_testati": 4329697.0,
+        "casi_testati": 4329697,
         "note_it": null,
         "note_en": null
     },
@@ -3073,7 +3073,7 @@
         "deceduti": 35225,
         "totale_casi": 251713,
         "tamponi": 7369576,
-        "casi_testati": 4357027.0,
+        "casi_testati": 4357027,
         "note_it": null,
         "note_en": null
     },
@@ -3091,7 +3091,7 @@
         "deceduti": 35231,
         "totale_casi": 252235,
         "tamponi": 7420764,
-        "casi_testati": 4382656.0,
+        "casi_testati": 4382656,
         "note_it": null,
         "note_en": null
     },
@@ -3109,7 +3109,7 @@
         "deceduti": 35234,
         "totale_casi": 252809,
         "tamponi": 7467487,
-        "casi_testati": 4407524.0,
+        "casi_testati": 4407524,
         "note_it": null,
         "note_en": null
     },
@@ -3127,7 +3127,7 @@
         "deceduti": 35392,
         "totale_casi": 253438,
         "tamponi": 7520610,
-        "casi_testati": 4433461.0,
+        "casi_testati": 4433461,
         "note_it": null,
         "note_en": null
     },
@@ -3145,7 +3145,7 @@
         "deceduti": 35396,
         "totale_casi": 253915,
         "tamponi": 7557417,
-        "casi_testati": 4455931.0,
+        "casi_testati": 4455931,
         "note_it": null,
         "note_en": null
     },
@@ -3163,7 +3163,25 @@
         "deceduti": 35400,
         "totale_casi": 254235,
         "tamponi": 7588083,
-        "casi_testati": 4477310.0,
+        "casi_testati": 4477310,
+        "note_it": null,
+        "note_en": null
+    },
+    {
+        "data": "2020-08-18T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 843,
+        "terapia_intensiva": 58,
+        "totale_ospedalizzati": 901,
+        "isolamento_domiciliare": 14188,
+        "totale_positivi": 15089,
+        "variazione_totale_positivi": 222,
+        "nuovi_positivi": 403,
+        "dimessi_guariti": 204142,
+        "deceduti": 35405,
+        "totale_casi": 254636,
+        "tamponi": 7642059,
+        "casi_testati": 4509997,
         "note_it": null,
         "note_en": null
     }
