@@ -3361,5 +3361,24 @@
         "tamponi": 7642059,
         "casi_testati": 4509997,
         "note": null
+    },
+    {
+        "data": "2020-08-19T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 866,
+        "terapia_intensiva": 66,
+        "totale_ospedalizzati": 932,
+        "isolamento_domiciliare": 14428,
+        "totale_positivi": 15360,
+        "variazione_totale_positivi": 271,
+        "nuovi_positivi": 642,
+        "dimessi_guariti": 204506,
+        "deceduti": 35412,
+        "casi_da_sospetto_diagnostico": 225215,
+        "casi_da_screening": 30063,
+        "totale_casi": 255278,
+        "tamponi": 7713154,
+        "casi_testati": 4551287,
+        "note": null
     }
 ]
