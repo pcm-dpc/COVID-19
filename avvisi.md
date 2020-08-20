@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>20/08/2020</b><br>
+La Regione Sardegna comunica il seguente ricalcolo: dal totale di ieri sono stati eliminati 5 casi in provincia di Nuoro poichè duplicati.
+
 <b>18/08/2020</b><br>
 La Regione Basilicata comunica che 2 casi già risultati positivi e segnalati il 15.08.2020, sono risultati negativi ai test di conferma per SARS CoV-2 di II livello e detratti dal computo totale.
 
