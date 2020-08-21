@@ -18,7 +18,7 @@ Before you open an issue:
   - remove the commented text above here
 -->
 
-**Type of issue**: <!-- eliminare tutti non-relativi --> richiesta di informazione | richiesta di dati | suggerimento di enhancement (documentazione, label, _etc_)
+**Type of issue**: <!-- eliminare tutti non-relativi --> request for information | request for data | enhancement's suggestion (documentation, label, _etc_)
 
 ## Summary
 

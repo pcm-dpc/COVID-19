@@ -31,7 +31,7 @@ Aree nazionali, provinciali, comunali e/o subcomunali dove, in applicazione di s
 | **language** | Lingua utilizzata per il nome, attribuita con un codice di tre lettere, in accord con ISO 639-3 o ISO 639-5.
 | **nameStatus** | Informazione qualitativa per comprendere il grado di standardizzazione da attribuire al nome utilizzato.
 | **nativeness** | Informazione per comprendere se il nome adottato è quello effettivamente utilizzato nell'area a cui esso è riferito nel momento della sua utilizzazione.
-| **pronunciation** | Pronuncia corretta del nome utilizzat0. In questo caso non è stato popolato perché ritenuto non necessario.
+| **pronunciation** | Pronuncia corretta del nome utilizzato. In questo caso non è stato popolato perché ritenuto non necessario.
 | **sourceOfName** | Fonte originale dei nomi geografici da cui sono stati integralmente presi.In questo caso sono stati adottati i nomi delle unità amministrative ISTAT.
 | **spelling** | Modo in cui il nome è scritto e codice di lettere adottate per scriverlo.
 | **Zone** | Insieme delle informazioni che specificano la classificazione della zone e altre informazioni ad essa relative.
