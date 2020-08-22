@@ -146,5 +146,9 @@
     {
         "data": "2020-08-20T17:00:00",
         "note": "La Regione Sardegna comunica il seguente ricalcolo: dal totale di ieri sono stati eliminati 5 casi in provincia di Nuoro poichè duplicati."
+    },
+    {
+        "data": "2020-08-22T17:00:00",
+        "note": "La regione sicilia segnala che di 48 soggetti positivi al tampone, 16 sono extracomunitari sbarcati a Pozzallo il 19-20 agosto."
     }
 ]
