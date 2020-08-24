@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>24/08/2020</b><br>
+La Regione Sicilia comunica che dei 65 nuovi casi positivi, 58 sono immigrati ospiti dell'Hotspot di Lampedusa.
+
 <b>20/08/2020</b><br>
 La Regione Sardegna comunica il seguente ricalcolo: dal totale di ieri sono stati eliminati 5 casi in provincia di Nuoro poichè duplicati.
 
