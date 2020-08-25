@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>25/08/2020</b><br>
+La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sono stati eliminati 2 casi ( 1 da Forlì e 1 da Parma) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 31029. La Regione Lazio comunica che ai tamponi riportati si aggiungono 8.495 tamponi rapidi eseguiti dal 17/08 presso gli aeroporti di Fiumicino e Ciampino.
+
 <b>24/08/2020</b><br>
 La Regione Sicilia comunica che dei 65 nuovi casi positivi, 58 sono immigrati ospiti dell'Hotspot di Lampedusa.
 
