@@ -3310,5 +3310,23 @@
         "casi_testati": 4819124,
         "note_it": null,
         "note_en": null
+    },
+    {
+        "data": "2020-08-26T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 1055,
+        "terapia_intensiva": 69,
+        "totale_ospedalizzati": 1124,
+        "isolamento_domiciliare": 19629,
+        "totale_positivi": 20753,
+        "variazione_totale_positivi": 1039,
+        "nuovi_positivi": 1367,
+        "dimessi_guariti": 206329,
+        "deceduti": 35458,
+        "totale_casi": 262540,
+        "tamponi": 8219421,
+        "casi_testati": 4877178,
+        "note_it": null,
+        "note_en": null
     }
 ]
