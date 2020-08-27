@@ -162,5 +162,13 @@
     {
         "data": "2020-08-25T17:00:00",
         "note": "La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sono stati eliminati 2 casi ( 1 da Forlì e 1 da Parma) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 31029. La Regione Lazio comunica che ai tamponi riportati si aggiungono 8.495 tamponi rapidi eseguiti dal 17/08 presso gli aeroporti di Fiumicino e Ciampino."
+    },
+    {
+        "data": "2020-08-26T17:00:00",
+        "note": "La Regione Abruzzo comunica il seguente ricalcolo: dal totale è stato sottratto 1 caso di lunedì scorso, in quanto già in carico ad altra Regione. La Regione Sicilia comunica che dei 33 nuovi positivi, 3 sono ospiti dell'hotspot di Lampedusa"
+    },
+    {
+        "data": "2020-08-27T17:00:00",
+        "note": "La Regione Sardegna comunica che dal totale dei casi vengono sottratte due unità nella provincia di Nuoro, già dichiarati in data 23/08 ma con ripetuti tamponi negativi."
     }
 ]
