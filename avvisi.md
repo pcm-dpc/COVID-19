@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>27/08/2020</b><br>
+La Regione Sardegna comunica che dal totale dei casi vengono sottratte due unità nella provincia di Nuoro, già dichiarati in data 23/08 ma con ripetuti tamponi negativi.
+
 <b>26/08/2020</b><br>
 La Regione Abruzzo comunica il seguente ricalcolo: dal totale è stato sottratto 1 caso di lunedì scorso, in quanto già in carico ad altra Regione. La Regione Sicilia comunica che dei 33 nuovi positivi, 3 sono ospiti dell'hotspot di Lampedusa
 
