@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>28/08/2020</b><br>
+La Regione Abruzzo segnala che: Oggi sono risultati 21 nuovi casi positivi. Dal totale però è stato sottratto 1 caso dei giorni passati, in quanto già in carico ad altra Regione. La Regione Calabria segnala che : Dei cinque positivi di oggi dieci sono del CARA di Crotone. La Regione Emilia Romagna segnala che : In seguito a verifica sono stati eliminati 2 casi (entrambi da Bologna) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 31.383. La Regione Sicilia segnala che:DEI NUOVI 54 SOGGETTI POSITIVI AL TAMPONE, 5 SONO IMMIGRATI OSPITI DEL CENTRO DI ACCOGLIENZA DI AGRIGENTO, 5 PROVENIENTI DALLA REGIONE CAMPANIA ED UNO DAL VENEZUELA.
+
 <b>27/08/2020</b><br>
 La Regione Sardegna comunica che dal totale dei casi vengono sottratte due unità nella provincia di Nuoro, già dichiarati in data 23/08 ma con ripetuti tamponi negativi.
 
