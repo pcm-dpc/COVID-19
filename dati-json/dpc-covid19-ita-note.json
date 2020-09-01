@@ -186,5 +186,9 @@
     {
         "data": "2020-08-31T17:00:00",
         "note": "La Calabria comunica il seguente ricalcolo: il numero corretto dei tamponi effettuati il 30.08.2020 è 154.919; La Regione Sicilia comunica che dei 26 soggetti positivi, 2 sono migranti ospiti dei centri di accoglienza di Lampedusa e Catania; La Regione Veneto comunica il seguente ricalcolo: il numero corretto dei guariti e dell'isolamento domiciliare del giorno 29.08.20 è rispettivamente 18.290 e 2.285; il numero corretto dei guariti e dell'isolamento domiciliare del giorno 30.08.20 è rispettivamente 18.399 e 2.286;"
+    },
+    {
+        "data": "2020-09-01T17:00:00",
+        "note": "La Regione Abruzzo comunica il seguente ricalcolo: sono stati sottratti 2 casi positivi segnalati nei giorni passati, in quanto già in carico ad altre Regioni. La Regione Basilicata comunica il seguente ricalcolo: è stato sottratto 1 caso positivo in un soggetto residente in Basilicata ma proveniente da Stato estero, segnalato il 28.08.2020 ma non confermato dai 2 tamponi di controllo processati presso il laboratorio regionale di riferimento. La Regione Calabria comunica che dei ventidue soggetti positivi di oggi, 17 sono migranti e 2 residenti fuori regione. La Regione Sicilia comunica che dei 33 positivi di oggi, 5 sono migranti"
     }
 ]
