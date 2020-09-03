@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>03/09/2020</b><br>
+La regione Calabria segnala che dei tredici positivi di oggi due sono migranti
+
 <b>02/09/2020</b><br>
 La Regione Calabria comunica che dei 32 nuovi casi positivi rilevati oggi, 27 sono migranti. La Regione Sicilia comunica che degli 83 nuovi casi positivi rilevati oggi, 26 sono migranti (n.16 centro accoglienza Agrigento, n.1 Trapani, n. 9 Lampedusa)
 
