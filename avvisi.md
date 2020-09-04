@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>04/09/2020</b><br>
+La Regione Calabria segnala che di 19 positivi di oggi sei sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso da Bologna in quanto giudicato non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32246-1. La Regione Sicilia segnala che dei 78 casi positivi, si rilevano n.6 migranti (n.4 Pozzallo, n.2 Siracusa)La Regione Veneto segnala che 50 casi sono riferiti ad un laboratorio che ha caricato i casi successivamente e che risalgono ai primi 15 gg di agosto.
+
 <b>03/09/2020</b><br>
 La regione Calabria segnala che dei tredici positivi di oggi due sono migranti
 
