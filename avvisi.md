@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>06/09/2020</b><br>
+La Regione CALABRIA segnala che dei 27 positivi di oggi 8 sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni scorsi è stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504. In seguito a verifica, un decesso precedentemente comunicato è stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463. La Regione Sicilia segnala che DEI NUOVI 37 SOGGETTI POSITIVI AL TAMPONE, 8 sono Immigrati ospiti nei Centri di Accoglienza
+
 <b>05/09/2020</b><br>
 La Regione Abruzzo segnala che dal totale dei positivi è stato sottratto 1 caso precedentemente conteggiato 2 volte. La Regione Calabria segnala che dei 19 positivi di oggi 6 sono migranti. La Regione Sicilia segnala che dei nuovi 114 soggetti positivi , 10 sono immigrati ospiti sulla motonave Allegra nel porto di Tapani.
 
