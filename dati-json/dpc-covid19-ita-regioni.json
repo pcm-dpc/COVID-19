@@ -93722,7 +93722,7 @@
         "totale_casi": 3865,
         "tamponi": 164140,
         "casi_testati": 106544,
-        "note": "Dal totale dei positivi è stato sottratto 1 caso precedentemente conteggiato 2 volte"
+        "note": "Dal totale dei positivi è stato sottratto 1 caso precedentemente conteggiato 2 volte\r\n"
     },
     {
         "data": "2020-09-05T17:00:00",
@@ -93806,12 +93806,12 @@
         "isolamento_domiciliare": 3117,
         "totale_positivi": 3251,
         "variazione_totale_positivi": 62,
-        "nuovi_positivi": 134,
+        "nuovi_positivi": 133,
         "dimessi_guariti": 24790,
-        "deceduti": 4464,
-        "casi_da_sospetto_diagnostico": 29640,
+        "deceduti": 4463,
+        "casi_da_sospetto_diagnostico": 29639,
         "casi_da_screening": 2865,
-        "totale_casi": 32505,
+        "totale_casi": 32504,
         "tamponi": 952511,
         "casi_testati": 556876,
         "note": null
@@ -94291,7 +94291,7 @@
         "variazione_totale_positivi": 119,
         "nuovi_positivi": 124,
         "dimessi_guariti": 24794,
-        "deceduti": 4465,
+        "deceduti": 4464,
         "casi_da_sospetto_diagnostico": 29703,
         "casi_da_screening": 2925,
         "totale_casi": 32628,
