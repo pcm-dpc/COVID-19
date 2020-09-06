@@ -3,8 +3,7 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2020-09-06T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,4,1,5,118,123,8,9,413,28,411,153,564,59798,58988,
 2020-09-06T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,25,0,25,324,349,24,27,1176,98,1159,464,1623,165950,163844,
 2020-09-06T17:00:00,ITA,15,Campania,40.83956555,14.25084984,221,7,228,2714,2942,98,100,4478,448,6932,936,7868,454878,268075,
-2020-09-06T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.341720800000001,124,14,138,3232,3370,119,124,24794,4464,29703,2925,32628,962743,563905,"In seguito a verifica sui dati comunicati nei giorni scorsi è stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504.
-In seguito a verifica, un decesso precedentemente comunicato è stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463."
+2020-09-06T17:00:00,ITA,08,Emilia-Romagna,44.49436681,11.341720800000001,124,14,138,3232,3370,119,124,24794,4464,29703,2925,32628,962743,563905,"In seguito a verifica sui dati comunicati nei giorni scorsi è stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504. In seguito a verifica, un decesso precedentemente comunicato è stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463."
 2020-09-06T17:00:00,ITA,06,Friuli Venezia Giulia,45.6494354,13.76813649,15,4,19,440,459,14,20,3115,349,3743,180,3923,342676,158395,
 2020-09-06T17:00:00,ITA,12,Lazio,41.89277044,12.48366722,355,10,365,3548,3913,106,122,7257,881,6853,5198,12051,650695,536609,
 2020-09-06T17:00:00,ITA,07,Liguria,44.41149315,8.9326992,62,9,71,697,768,61,111,8949,1575,8824,2468,11292,250867,135222,
