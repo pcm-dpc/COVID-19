@@ -214,5 +214,9 @@
     {
         "data": "2020-09-07T17:00:00",
         "note": "La Regione Sicilia comunica che dei 49 nuovi positivi di oggi, 15 sono ospiti dell'hotspot di Lampedusa; La Regione Campania comunica che l'incremento odierno dei casi positivi è 218, sebbene la differenza tra il totale dei casi positivi di oggi e quello di ieri è 260 poiché 42 casi positivi sono da attribuire ai giorni scorsi (residuo screening); La Regione Calabria comunica che dei 17 nuovi positivi di oggi, 3 sono migranti;"
+    },
+    {
+        "data": "2020-09-08T17:00:00",
+        "note": "La Regione Abruzzo comunica che dal totale dei casi positivi è stato sottratto 1 caso segnalato nei giorni passati, in quanto già in carico ad altra Regione."
     }
 ]
