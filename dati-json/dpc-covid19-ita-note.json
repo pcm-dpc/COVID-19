@@ -218,5 +218,9 @@
     {
         "data": "2020-09-08T17:00:00",
         "note": "La Regione Abruzzo comunica che dal totale dei casi positivi è stato sottratto 1 caso segnalato nei giorni passati, in quanto già in carico ad altra Regione."
+    },
+    {
+        "data": "2020-09-09T17:00:00",
+        "note": "La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 3 casi di ieri, in quanto in carico ad altra Regione. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto TOT 32.853."
     }
 ]
