@@ -5,6 +5,18 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>11/09/2020</b><br>
+La Regione Sicilia comunica che dei 104 nuovi positivi di oggi, 11 sono migranti ospiti presso la nave Azzurra in rada al porto di Augusta.
+
+<b>09/09/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 3 casi di ieri, in quanto in carico ad altra Regione. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto TOT 32.853.
+
+<b>08/09/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi è stato sottratto 1 caso segnalato nei giorni passati, in quanto già in carico ad altra Regione.
+
+<b>07/09/2020</b><br>
+La Regione Sicilia comunica che dei 49 nuovi positivi di oggi, 15 sono ospiti dell'hotspot di Lampedusa; La Regione Campania comunica che l'incremento odierno dei casi positivi è 218, sebbene la differenza tra il totale dei casi positivi di oggi e quello di ieri è 260 poiché 42 casi positivi sono da attribuire ai giorni scorsi (residuo screening); La Regione Calabria comunica che dei 17 nuovi positivi di oggi, 3 sono migranti;
+
 <b>06/09/2020</b><br>
 La Regione CALABRIA segnala che dei 27 positivi di oggi 8 sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni scorsi è stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504. In seguito a verifica, un decesso precedentemente comunicato è stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463. La Regione Sicilia segnala che DEI NUOVI 37 SOGGETTI POSITIVI AL TAMPONE, 8 sono Immigrati ospiti nei Centri di Accoglienza
 

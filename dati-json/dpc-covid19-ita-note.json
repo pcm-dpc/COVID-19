@@ -222,5 +222,9 @@
     {
         "data": "2020-09-09T17:00:00",
         "note": "La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 3 casi di ieri, in quanto in carico ad altra Regione. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto TOT 32.853."
+    },
+    {
+        "data": "2020-09-11T17:00:00",
+        "note": "La Regione Sicilia comunica che dei 104 nuovi positivi di oggi, 11 sono migranti ospiti presso la nave Azzurra in rada al porto di Augusta."
     }
 ]
