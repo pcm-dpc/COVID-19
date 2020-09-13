@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>13/09/2020</b><br>
+La Regione Calabria comunica che dei 14 positivi di oggi, 2 sono migranti. La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 33.361. La Regione Sicilia comunica che dei 61 positivi di oggi, 3 sono migranti (1 a Siracusa e 2 a Ragusa). La Regione Sardegna comunica che il numero totale dei ricoverati non in T.I. è stato aggiornato con i dati reperiti in data odierna dal P.O. San Francesco di Nuoro.
+
+<b>12/09/2020</b><br>
+La Regione Calabria comunica che dei 18 soggetti positivi di oggi, 7 sono migranti e 1 è un soggetto residente fuori Regione
+
 <b>11/09/2020</b><br>
 La Regione Sicilia comunica che dei 104 nuovi positivi di oggi, 11 sono migranti ospiti presso la nave Azzurra in rada al porto di Augusta.
 
