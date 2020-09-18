@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>18/09/2020</b><br>
+La Regione Sicilia comunica che dei 179 nuovi casi positivi di oggi, 21 sono ospiti della Comunità "Biagio Conte" e 37 sono migranti ospiti degli hotspot siciliani. La Regione Calabria comunica che dei 28 nuovi casi positivi di oggi, 12 sono migranti.
+
+<b>17/09/2020</b><br>
+La Regione Sicilia comunica che dei 96 nuovi casi positivi di oggi, 2 sono migranti ospiti presso l'hotspot di Lampedusa. La Regione Calabria comunica che dei 16 nuovi casi positivi di oggi, 3 sono migranti. La Regione Abruzzo comunica che oggi sono risultati 33 nuovi casi positivi. Dal totale però sono stati sottratti 2 casi dei giorni passati, in quanto già in carico ad altre Regioni.
+
 <b>16/09/2020</b><br>
 La Regione Calabria comunica che dei 19 nuovi casi positivi di oggi, 8 sono migranti. La Valle D'Aosta comunica che ieri, 15 settembre, per mero errore materiale sono stati inseriti n. 131 casi da screening anziché 130, pertanto oggi tale dato è stato aggiornato correttamente.
 
