@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>19/09/2020</b><br>
+La Regione Abruzzo comunica che non sarà possibile elaborare i dati COVID per i giorni 19 e 20 settembre. Per questi giorni verrano riportati gli stessi valori del 18 settembre; l'aggiornamento avverrà il 21 settembre. La Regione Calabria comunica che dei 25 nuovi casi positivi di oggi, 4 sono migranti. La Regione Sicilia comunica che dei 98 nuovi casi positivi di oggi, 1 è migrante. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 casi (da Reggio Emilia) in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto di ieri 34.092.
+
 <b>18/09/2020</b><br>
 La Regione Sicilia comunica che dei 179 nuovi casi positivi di oggi, 21 sono ospiti della Comunità "Biagio Conte" e 37 sono migranti ospiti degli hotspot siciliani. La Regione Calabria comunica che dei 28 nuovi casi positivi di oggi, 12 sono migranti.
 
