@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>21/09/2020</b><br>
+La Regione Abruzzo comunica che l'aggiornamento riportato fa riferimento a 3 giorni (sabato, domenica e lunedì). La Regione Sicilia comunica che dei 75 nuovi casi positivi di oggi, 21 sono ospiti della comunità 'Biagio Conte' di Palermo.
+
 <b>20/09/2020</b><br>
 La Regione Abruzzo comunica che non sarà possibile elaborare i dati COVID per i giorni 19 e 20 settembre. Per questi giorni verrano riportati gli stessi valori del 18 settembre; l'aggiornamento avverrà il 21 settembre. La Regione Sicilia comunica che dei nuovi 116 soggetti positivi al tampone,66 sono ospiti della comunità 'Biagio Conte' di Palermo.
 
