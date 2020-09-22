@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>22/09/2020</b><br>
+La Regione Calabria comunica che dei 24 nuovi casi positivi di oggi, 20 sono migranti. La Regione Emilia Romagna comunica che in seguito a verifica è stato eliminato 1 caso in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 34.455. La Regione Sicilia comunica che dei 108 nuovi casi positivi di oggi, 5 sono ospiti della comunità 'Biagio Conte' (Palermo)
+
 <b>21/09/2020</b><br>
 La Regione Abruzzo comunica che l'aggiornamento riportato fa riferimento a 3 giorni (sabato, domenica e lunedì). La Regione Sicilia comunica che dei 75 nuovi casi positivi di oggi, 21 sono ospiti della comunità 'Biagio Conte' di Palermo.
 

@@ -3796,5 +3796,23 @@
         "casi_testati": 6342654,
         "note_it": null,
         "note_en": null
+    },
+    {
+        "data": "2020-09-22T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 2604,
+        "terapia_intensiva": 239,
+        "totale_ospedalizzati": 2843,
+        "isolamento_domiciliare": 42646,
+        "totale_positivi": 45489,
+        "variazione_totale_positivi": 410,
+        "nuovi_positivi": 1392,
+        "dimessi_guariti": 219670,
+        "deceduti": 35738,
+        "totale_casi": 300897,
+        "tamponi": 10575979,
+        "casi_testati": 6391999,
+        "note_it": null,
+        "note_en": null
     }
 ]

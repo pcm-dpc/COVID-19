@@ -266,5 +266,9 @@
     {
         "data": "2020-09-21T17:00:00",
         "note": "La Regione Abruzzo comunica che l'aggiornamento riportato fa riferimento a 3 giorni (sabato, domenica e lunedì). La Regione Sicilia comunica che dei 75 nuovi casi positivi di oggi, 21 sono ospiti della comunità 'Biagio Conte' di Palermo."
+    },
+    {
+        "data": "2020-09-21T17:00:00",
+        "note": "La Regione Calabria comunica che dei 24 nuovi casi positivi di oggi, 20 sono migranti. La Regione Emilia Romagna comunica che in seguito a verifica è stato eliminato 1 caso in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 34.455. La Regione Sicilia comunica che dei 108 nuovi casi positivi di oggi, 5 sono ospiti della comunità 'Biagio Conte' (Palermo)"
     }
 ]
