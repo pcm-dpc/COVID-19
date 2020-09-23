@@ -5,6 +5,111 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>23/09/2020</b><br>
+La Regione Sicilia comunica che degli 89 nuovi casi positivi di oggi, 9 risultano ospiti della comunità "Biagio Conte" e 1 migrante (Hotspot Lampedusa). La Regione Calabria comunica che dei 19 nuovi casi positivi di oggi, 1 è migrante
+
+<b>22/09/2020</b><br>
+La Regione Calabria comunica che dei 24 nuovi casi positivi di oggi, 20 sono migranti. La Regione Emilia Romagna comunica che in seguito a verifica è stato eliminato 1 caso in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 34.455. La Regione Sicilia comunica che dei 108 nuovi casi positivi di oggi, 5 sono ospiti della comunità 'Biagio Conte' (Palermo)
+
+<b>21/09/2020</b><br>
+La Regione Abruzzo comunica che l'aggiornamento riportato fa riferimento a 3 giorni (sabato, domenica e lunedì). La Regione Sicilia comunica che dei 75 nuovi casi positivi di oggi, 21 sono ospiti della comunità 'Biagio Conte' di Palermo.
+
+<b>20/09/2020</b><br>
+La Regione Abruzzo comunica che non sarà possibile elaborare i dati COVID per i giorni 19 e 20 settembre. Per questi giorni verrano riportati gli stessi valori del 18 settembre; l'aggiornamento avverrà il 21 settembre. La Regione Sicilia comunica che dei nuovi 116 soggetti positivi al tampone,66 sono ospiti della comunità 'Biagio Conte' di Palermo.
+
+<b>19/09/2020</b><br>
+La Regione Abruzzo comunica che non sarà possibile elaborare i dati COVID per i giorni 19 e 20 settembre. Per questi giorni verrano riportati gli stessi valori del 18 settembre; l'aggiornamento avverrà il 21 settembre. La Regione Calabria comunica che dei 25 nuovi casi positivi di oggi, 4 sono migranti. La Regione Sicilia comunica che dei 98 nuovi casi positivi di oggi, 1 è migrante. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 casi (da Reggio Emilia) in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto di ieri 34.092.
+
+<b>18/09/2020</b><br>
+La Regione Sicilia comunica che dei 179 nuovi casi positivi di oggi, 21 sono ospiti della Comunità "Biagio Conte" e 37 sono migranti ospiti degli hotspot siciliani. La Regione Calabria comunica che dei 28 nuovi casi positivi di oggi, 12 sono migranti.
+
+<b>17/09/2020</b><br>
+La Regione Sicilia comunica che dei 96 nuovi casi positivi di oggi, 2 sono migranti ospiti presso l'hotspot di Lampedusa. La Regione Calabria comunica che dei 16 nuovi casi positivi di oggi, 3 sono migranti. La Regione Abruzzo comunica che oggi sono risultati 33 nuovi casi positivi. Dal totale però sono stati sottratti 2 casi dei giorni passati, in quanto già in carico ad altre Regioni.
+
+<b>16/09/2020</b><br>
+La Regione Calabria comunica che dei 19 nuovi casi positivi di oggi, 8 sono migranti. La Valle D'Aosta comunica che ieri, 15 settembre, per mero errore materiale sono stati inseriti n. 131 casi da screening anziché 130, pertanto oggi tale dato è stato aggiornato correttamente.
+
+<b>15/09/2020</b><br>
+La Regione Sicilia comunica che dei 77 nuovi casi positivi di oggi, 2 sono migranti ospiti presso l'hotspot di Lampedusa.
+
+<b>14/09/2020</b><br>
+La Regione Sicilia comunica che dei 65 nuovi casi positivi di oggi, 6 sono migranti ospiti presso l'hotspot di Lampedusa.
+
+<b>13/09/2020</b><br>
+La Regione Calabria comunica che dei 14 positivi di oggi, 2 sono migranti. La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 33.361. La Regione Sicilia comunica che dei 61 positivi di oggi, 3 sono migranti (1 a Siracusa e 2 a Ragusa). La Regione Sardegna comunica che il numero totale dei ricoverati non in T.I. è stato aggiornato con i dati reperiti in data odierna dal P.O. San Francesco di Nuoro.
+
+<b>12/09/2020</b><br>
+La Regione Calabria comunica che dei 18 soggetti positivi di oggi, 7 sono migranti e 1 è un soggetto residente fuori Regione
+
+<b>11/09/2020</b><br>
+La Regione Sicilia comunica che dei 104 nuovi positivi di oggi, 11 sono migranti ospiti presso la nave Azzurra in rada al porto di Augusta.
+
+<b>09/09/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 3 casi di ieri, in quanto in carico ad altra Regione. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto TOT 32.853.
+
+<b>08/09/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi è stato sottratto 1 caso segnalato nei giorni passati, in quanto già in carico ad altra Regione.
+
+<b>07/09/2020</b><br>
+La Regione Sicilia comunica che dei 49 nuovi positivi di oggi, 15 sono ospiti dell'hotspot di Lampedusa; La Regione Campania comunica che l'incremento odierno dei casi positivi è 218, sebbene la differenza tra il totale dei casi positivi di oggi e quello di ieri è 260 poiché 42 casi positivi sono da attribuire ai giorni scorsi (residuo screening); La Regione Calabria comunica che dei 17 nuovi positivi di oggi, 3 sono migranti;
+
+<b>06/09/2020</b><br>
+La Regione CALABRIA segnala che dei 27 positivi di oggi 8 sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni scorsi è stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504. In seguito a verifica, un decesso precedentemente comunicato è stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463. La Regione Sicilia segnala che DEI NUOVI 37 SOGGETTI POSITIVI AL TAMPONE, 8 sono Immigrati ospiti nei Centri di Accoglienza
+
+<b>05/09/2020</b><br>
+La Regione Abruzzo segnala che dal totale dei positivi è stato sottratto 1 caso precedentemente conteggiato 2 volte. La Regione Calabria segnala che dei 19 positivi di oggi 6 sono migranti. La Regione Sicilia segnala che dei nuovi 114 soggetti positivi , 10 sono immigrati ospiti sulla motonave Allegra nel porto di Tapani.
+
+<b>04/09/2020</b><br>
+La Regione Calabria segnala che di 19 positivi di oggi sei sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso da Bologna in quanto giudicato non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32246-1. La Regione Sicilia segnala che dei 78 casi positivi, si rilevano n.6 migranti (n.4 Pozzallo, n.2 Siracusa)La Regione Veneto segnala che 50 casi sono riferiti ad un laboratorio che ha caricato i casi successivamente e che risalgono ai primi 15 gg di agosto.
+
+<b>03/09/2020</b><br>
+La regione Calabria segnala che dei tredici positivi di oggi due sono migranti
+
+<b>02/09/2020</b><br>
+La Regione Calabria comunica che dei 32 nuovi casi positivi rilevati oggi, 27 sono migranti. La Regione Sicilia comunica che degli 83 nuovi casi positivi rilevati oggi, 26 sono migranti (n.16 centro accoglienza Agrigento, n.1 Trapani, n. 9 Lampedusa)
+
+<b>02/09/2020</b><br>
+La Regione Abruzzo comunica il seguente ricalcolo: sono stati sottratti 2 casi positivi segnalati nei giorni passati, in quanto già in carico ad altre Regioni. La Regione Basilicata comunica il seguente ricalcolo: è stato sottratto 1 caso positivo in un soggetto residente in Basilicata ma proveniente da Stato estero, segnalato il 28.08.2020 ma non confermato dai 2 tamponi di controllo processati presso il laboratorio regionale di riferimento. La Regione Calabria comunica che dei ventidue soggetti positivi di oggi, 17 sono migranti e 2 residenti fuori regione. La Regione Sicilia comunica che dei 33 positivi di oggi, 5 sono migranti
+
+<b>31/08/2020</b><br>
+La Calabria comunica il seguente ricalcolo: il numero corretto dei tamponi effettuati il 30.08.2020 è 154.919; La Regione Sicilia comunica che dei 26 soggetti positivi, 2 sono migranti ospiti dei centri di accoglienza di Lampedusa e Catania; La Regione Veneto comunica il seguente ricalcolo: il numero corretto dei guariti e dell'isolamento domiciliare del giorno 29.08.20 è rispettivamente 18.290 e 2.285; il numero corretto dei guariti e dell'isolamento domiciliare del giorno 30.08.20 è rispettivamente 18.399 e 2.286;
+
+<b>30/08/2020</b><br>
+La Regione Basilicata comunica che il numero dei tamponi e dei casi testati di oggi sarà comunicato insieme ai dati di domani 31.08.2020; La Regione Sicilia comunica che dei 34 casi positivi di oggi, 4 sono migranti e 5 sono mediatori culturali del centro di accoglienza di Pietraperzia-Enna; La Regione Calabria comunica che dei 34 casi positivi di oggi, 10 sono migranti; La Regione Valle D'Aosta comunica che un caso dichiarato guarito il 24.04.2020 è ritornato positivo e ricoverato.
+
+<b>29/08/2020</b><br>
+La Regione Sicilia comunica che dei 29 positivi di oggi, 5 sono migranti ospiti dei centri di accoglienza (1 Agrigento, 3 Pozzallo e 1 Marzamemi).
+
+<b>28/08/2020</b><br>
+La Regione Abruzzo segnala che: Oggi sono risultati 21 nuovi casi positivi. Dal totale però è stato sottratto 1 caso dei giorni passati, in quanto già in carico ad altra Regione. La Regione Calabria segnala che : Dei dieci positivi di oggi cinque sono del CARA di Crotone. La Regione Emilia Romagna segnala che : In seguito a verifica sono stati eliminati 2 casi (entrambi da Bologna) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 31.383. La Regione Sicilia segnala che:DEI NUOVI 54 SOGGETTI POSITIVI AL TAMPONE, 5 SONO IMMIGRATI OSPITI DEL CENTRO DI ACCOGLIENZA DI AGRIGENTO, 5 PROVENIENTI DALLA REGIONE CAMPANIA ED UNO DAL VENEZUELA.
+
+<b>27/08/2020</b><br>
+La Regione Sardegna comunica che dal totale dei casi vengono sottratte due unità nella provincia di Nuoro, già dichiarati in data 23/08 ma con ripetuti tamponi negativi.
+
+<b>26/08/2020</b><br>
+La Regione Abruzzo comunica il seguente ricalcolo: dal totale è stato sottratto 1 caso di lunedì scorso, in quanto già in carico ad altra Regione. La Regione Sicilia comunica che dei 33 nuovi positivi, 3 sono ospiti dell'hotspot di Lampedusa
+
+<b>25/08/2020</b><br>
+La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sono stati eliminati 2 casi ( 1 da Forlì e 1 da Parma) in quanto inserimento duplicato dello stesso paziente con dati anagrafici non corretti. Si corregge pertanto il numero dei casi comunicato ieri: n corretto 31029. La Regione Lazio comunica che ai tamponi riportati si aggiungono 8.495 tamponi rapidi eseguiti dal 17/08 presso gli aeroporti di Fiumicino e Ciampino.
+
+<b>24/08/2020</b><br>
+La Regione Sicilia comunica che dei 65 nuovi casi positivi, 58 sono immigrati ospiti dell'Hotspot di Lampedusa.
+
+<b>20/08/2020</b><br>
+La Regione Sardegna comunica il seguente ricalcolo: dal totale di ieri sono stati eliminati 5 casi in provincia di Nuoro poichè duplicati.
+
+<b>18/08/2020</b><br>
+La Regione Basilicata comunica che 2 casi già risultati positivi e segnalati il 15.08.2020, sono risultati negativi ai test di conferma per SARS CoV-2 di II livello e detratti dal computo totale.
+
+<b>16/08/2020</b><br>
+La Regione Sicilia comunica che dei 39 nuovi casi positivi, 5 sono migranti sbarcati sulle coste regionali e 10 risultano correlati con casi provenienti da Malta. La Regione Basilicata comunica che il numero dei tamponi effettuati e dei casi testati odierni sarà comunicato con i dati del 17/08 e che 1 caso risultato positivo e segnalato il 15/08 è risultato negativo ai test per SARS Cov2 di II livello eseguito in data odierna. La Regione Sardegna comunica il seguente ricalcolo: è stato eliminato 1 caso della Provincia di Oristano segnalato nei giorni scorsi.
+
+<b>15/08/2020</b><br>
+La Regione Emilia Romagna comunica che a seguito di una verifica interna dei dati sui decessi, la Ausl di Parma ha comunicato 154 decessi avvenuti in marzo, aprile e maggio e finora non conteggiati. La Regione Piemonte comunica che dei 47 nuovi casi positivi, 15 sono diagnosi del 13 agosto inserite in ritardo a causa di un guasto tecnico che ha riguardato la Piattaforma COVID-19 Regione Piemonte. La Sardegna comunica che dei 5 nuovi casi positivi, 4 casi sono attribuibili in migranti del sud Sardegna e 1 caso nella città metropolitana di Cagliari in cittadino di rientro dalla Spagna. La Regione Sicilia comunica che dei 46 nuovi casi positivi, 13 provengono da Malta.
+
+<b>14/08/2020</b><br>
+La Regione Sicilia comunica che dei 36 nuovi positivi, 21 risultano essere immigrati sbarcati sulle coste regionali. La Regione Piemonte comunica che a causa di un guasto tecnico della rete dei sistemi informativi regionali, i nuovi casi positivi di oggi potrebbero essere sottostimati.
+
 <b>13/08/2020</b><br>
 La PA Bolzano comunica che oggi è stato eliminato un caso positivo a causa di un doppio inserimento. La Regione Sicilia comunica che dei 42 nuovi positivi di oggi, 5 risultano essere immigrati sbarcati sulle coste siciliane.
 
