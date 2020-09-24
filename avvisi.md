@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>24/09/2020</b><br>
+La Regione Sicilia comunica che degli 89 nuovi casi positivi di oggi, 9 risultano ospiti della comunità 'Biagio Conte' e 1 migrante (Hotspot Lampedusa). La Regione Calabria comunica che dei 19 nuovi casi positivi di oggi, 1 è migrante
+
 <b>23/09/2020</b><br>
 La Regione Sicilia comunica che degli 89 nuovi casi positivi di oggi, 9 risultano ospiti della comunità "Biagio Conte" e 1 migrante (Hotspot Lampedusa). La Regione Calabria comunica che dei 19 nuovi casi positivi di oggi, 1 è migrante
 
