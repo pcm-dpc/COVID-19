@@ -5,6 +5,18 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>30/09/2020</b><br>
+La Regione Abruzzo segnala che dai positivi è stato sottratto un caso di ieri già in carico ad altra regione. La Regione Calabria segnala che dei18 positivi di oggi 4 sono migranti. La Regione Sardegna segnala 3 nuovi decessi: - 2 persone residenti nel territorio della Provincia del Sud Sardegna, uno ricoverato di 78 anni, uno deceduto all'accesso in Pronto Soccorso presso l'ospedale Santissima Trinità di Cagliari, di 75 anni; - 1 persona residente nel territorio della Provincia di Sassari, di 90 anni, con plurime comorbilità. La Regione Sicilia segnala che dei 170 nuovi positivi, si rilevano 29 militari della marina sbarcati a Siracusa dalla Nave Margottini
+
+<b>29/09/2020</b><br>
+La Regione ABRUZZO segnala che dai positivi è stato sottratto un caso di ieri già in carico ad altra regione. La Regione CALABRIA segnala che dei 10 positivi di oggi tre sono migranti. La Regione SICILIA segnala che dei nuovi positivi, n.2 migranti ospiti presso l'hotspot di Lampedusa.
+
+<b>27/09/2020</b><br>
+La Regione Sicilia ha comunicato che dei 107 nuovi casi positivi di oggi, 7 sono migranti ospiti dell'Hotspot di Lampedusa. La Regione Calabria ha comunicato che dei 31 nuovi casi positivi di oggi, 24 sono migranti. La Regione Basilicata ha comunicato che l'aumento del numero di casi odierno rispetto al trend dei giorni scorsi è dovuto ad un cluster in una casa di riposo (28 casi tra assistiti e operatori sanitari) e all'attività di contract tracing.
+
+<b>25/09/2020</b><br>
+La Regione Sicilia comunica che dei 107 nuovi casi positivi di oggi, si rilevano n.6 migranti ospiti presso l'hotspot di Lampedusa.
+
 <b>24/09/2020</b><br>
 La Regione Sicilia comunica che degli 89 nuovi casi positivi di oggi, 9 risultano ospiti della comunità 'Biagio Conte' e 1 migrante (Hotspot Lampedusa). La Regione Calabria comunica che dei 19 nuovi casi positivi di oggi, 1 è migrante
 
