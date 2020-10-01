@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>01/10/2020</b><br>
+La Regione Sardegna segnala che l'incremento del n° dei ricoverati scaturisce da un errato conteggio del 29 settembre. Si segnala: decesso di pz di 78 aa ricoverato a Cagliari residente nella provincia di Oristano.
+
 <b>30/09/2020</b><br>
 La Regione Abruzzo segnala che dai positivi è stato sottratto un caso di ieri già in carico ad altra regione. La Regione Calabria segnala che dei18 positivi di oggi 4 sono migranti. La Regione Sardegna segnala 3 nuovi decessi: - 2 persone residenti nel territorio della Provincia del Sud Sardegna, uno ricoverato di 78 anni, uno deceduto all'accesso in Pronto Soccorso presso l'ospedale Santissima Trinità di Cagliari, di 75 anni; - 1 persona residente nel territorio della Provincia di Sassari, di 90 anni, con plurime comorbilità. La Regione Sicilia segnala che dei 170 nuovi positivi, si rilevano 29 militari della marina sbarcati a Siracusa dalla Nave Margottini
 
