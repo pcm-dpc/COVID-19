@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>03/10/2020</b><br>
+La Regione Calabria segnala che dei 24 positivi di oggi 4 sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso da Modena in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 35.576. La Regione Sicilia segnala che dei 182 nuovi positivi, si rilevano n.2 migranti ospiti presso l'hotspot di Lampedusa.
+
+<b>02/10/2020</b><br>
+La Regione Calabria segnala che dei 18 positivi di oggi uno è un migrante. La Regione Piemonte segnala che dei 219 casi, 58 sono riallineamenti riferiti alla giornata di ieri.
+
 <b>01/10/2020</b><br>
 La Regione Sardegna segnala che l'incremento del n° dei ricoverati scaturisce da un errato conteggio del 29 settembre. Si segnala: decesso di pz di 78 aa ricoverato a Cagliari residente nella provincia di Oristano.
 
