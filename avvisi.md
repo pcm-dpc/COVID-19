@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>06/10/2020</b><br>
+La Regione Abruzzo segnala che oggi sono stati riscontrati n.50 nuovi positivi, ma sono stati sottratti dal totale 2 casi dei giorni passati in quanto già in carico ad altre Regioni. La Regione Calabria segnala che dei 23 positivi di oggi 23 sono migranti. La Regione Sicilia segnala che dei 198 nuovi positivi, si rilevano n.2 migranti.
+
+<b>05/10/2020</b><br>
+La Regione Calabria segnala che dei 23 positivi di oggi 4 sono migranti.
+
 <b>03/10/2020</b><br>
 La Regione Calabria segnala che dei 24 positivi di oggi 4 sono migranti. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso da Modena in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 35.576. La Regione Sicilia segnala che dei 182 nuovi positivi, si rilevano n.2 migranti ospiti presso l'hotspot di Lampedusa.
 
