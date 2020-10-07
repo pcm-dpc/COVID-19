@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>07/10/2020</b><br>
+La regione Abruzzo segnala che Dai positivi è stato sottratto un caso comunicato il 5/10 già in carico ad altra regione. La regione Basilicata segnala che N. 10 CASI POSITIVI ODIERNI E SEGNALATI NEL COMPUTO TOTALE DEI NUOVI CASI SI RIFERISCONO A RESIDENTI IN ISOLAMENTO IN PUGLIA CHE HANNO UTILIZZATO PER L'ESECUZIONE E LA DIAGNOSI DI SARS CoV-2 LABORATORI ACCREDITATI DELLA REGIONE BASILICATA.
+
 <b>06/10/2020</b><br>
 La Regione Abruzzo segnala che oggi sono stati riscontrati n.50 nuovi positivi, ma sono stati sottratti dal totale 2 casi dei giorni passati in quanto già in carico ad altre Regioni. La Regione Calabria segnala che dei 23 positivi di oggi 23 sono migranti. La Regione Sicilia segnala che dei 198 nuovi positivi, si rilevano n.2 migranti.
 
