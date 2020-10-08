@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>08/10/2020</b><br>
+La Regione Basilicata segnala che N. 02 CASI POSITIVI ODIERNI E SEGNALATI NEL COMPUTO TOTALE DEI NUOVI CASI SI RIFERISCONO A RESIDENTI IN ISOLAMENTO IN PUGLIA CHE HANNO UTILIZZATO PER L'ESECUZIONE E LA DIAGNOSI DI SARS CoV-2 LABORATORI ACCREDITATI DELLA REGIONE BASILICATA. La Regione Sicilia segnala che Dei 259 nuovi positivi, si rileva n.1 migrante. La Regione Umbria segnala che i casi testati di ieri erano 130552 e non come erroneamente digitato 135552; oggi il dato corretto è quello riportato, ossia 131965.
+
 <b>07/10/2020</b><br>
 La regione Abruzzo segnala che Dai positivi è stato sottratto un caso comunicato il 5/10 già in carico ad altra regione. La regione Basilicata segnala che N. 10 CASI POSITIVI ODIERNI E SEGNALATI NEL COMPUTO TOTALE DEI NUOVI CASI SI RIFERISCONO A RESIDENTI IN ISOLAMENTO IN PUGLIA CHE HANNO UTILIZZATO PER L'ESECUZIONE E LA DIAGNOSI DI SARS CoV-2 LABORATORI ACCREDITATI DELLA REGIONE BASILICATA.
 
