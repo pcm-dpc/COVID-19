@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>13/10/2020</b><br>
+2020-10-13T17:00:00,"La regione Calabria comunica che dei 44 nuovi casi positivi di oggi, 4 sono migranti; La regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19; si corregge pertanto il numero dei casi comunicato ieri: n corretto 38.015.
+
+<b>12/10/2020</b><br>
+La Regione Calabria comunica che dei 53 nuovi casi positivi di oggi,21 sono migranti.
+
 <b>09/10/2020</b><br>
 La Regione Calabria segnaladei n.42 casi positivi di oggi, 3 sono migranti.
 
