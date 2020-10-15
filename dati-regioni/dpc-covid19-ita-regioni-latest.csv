@@ -1,6 +1,5 @@
 data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
-2020-10-15T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,159,10,169,1824,1993,192,203,3164,491,4688,960,5648,234275,148088,"Dal totale è stato sottratto un caso comunicato nei giorni sorsi in quanto conteggiato 2 volte
-"
+2020-10-15T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,159,10,169,1824,1993,192,203,3164,491,4688,960,5648,234275,148088,"Dal totale è stato sottratto un caso comunicato nei giorni sorsi in quanto conteggiato 2 volte"
 2020-10-15T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,36,0,36,503,539,35,37,536,37,436,676,1112,85435,84605,
 2020-10-15T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,51,3,54,805,859,13,39,1524,104,1159,1328,2487,230635,228529,
 2020-10-15T17:00:00,ITA,15,Campania,40.83956555,14.25084984,762,66,828,12416,13244,801,1127,8032,496,19740,2032,21772,723005,487147,
