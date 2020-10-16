@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>16/10/2020</b><br>
+La Regione Abruzzo comunica il seguente ricalcolo: Dal totale è stato sottratto un caso segnalato nei giorni passati, in quanto già in carico ad altra Regione.
+
+<b>15/10/2020</b><br>
+La Regione Abruzzo comunica il seguente ricalcolo: Dal totale è stato sottratto un caso comunicato nei giorni scorsi in quanto conteggiato 2 volte. La Regione Sicilia comunica che dei 399 nuovi casi positivi di oggi, si rilevano n.14 migranti ospiti presso l'hotspot di Lampedusa
+
 <b>13/10/2020</b><br>
 2020-10-13T17:00:00,"La regione Calabria comunica che dei 44 nuovi casi positivi di oggi, 4 sono migranti; La regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19; si corregge pertanto il numero dei casi comunicato ieri: n corretto 38.015.
 

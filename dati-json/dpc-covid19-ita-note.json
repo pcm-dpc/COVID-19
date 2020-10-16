@@ -338,5 +338,9 @@
     {
         "data": "2020-10-15T17:00:00",
         "note": "La Regione Abruzzo comunica il seguente ricalcolo: Dal totale è stato sottratto un caso comunicato nei giorni scorsi in quanto conteggiato 2 volte. La Regione Sicilia comunica che dei 399 nuovi casi positivi di oggi, si rilevano n.14 migranti ospiti presso l'hotspot di Lampedusa"
+    },
+    {
+        "data": "2020-10-16T17:00:00",
+        "note": "La Regione Abruzzo comunica il seguente ricalcolo: Dal totale è stato sottratto un caso segnalato nei giorni passati, in quanto già in carico ad altra Regione."
     }
 ]
