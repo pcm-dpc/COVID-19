@@ -4520,5 +4520,24 @@
         "tamponi": 13540582,
         "casi_testati": 8199744.0,
         "note": null
+    },
+    {
+        "data": "2020-10-19T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 7676,
+        "terapia_intensiva": 797,
+        "totale_ospedalizzati": 8473,
+        "isolamento_domiciliare": 125530,
+        "totale_positivi": 134003,
+        "variazione_totale_positivi": 7766,
+        "nuovi_positivi": 9338,
+        "dimessi_guariti": 252959,
+        "deceduti": 36616,
+        "casi_da_sospetto_diagnostico": 310881.0,
+        "casi_da_screening": 112697.0,
+        "totale_casi": 423578,
+        "tamponi": 13639444,
+        "casi_testati": 8265568.0,
+        "note": null
     }
 ]
