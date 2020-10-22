@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>22/10/2020</b><br>
+La Regione Toscana comunica che sono stati effettuati 758 tamponi antigenici rapidi in aggiunta ai test in PCR comunicati La Regione Abruzzo comunica il seguente ricalcolo: dal totale dei positivi è stato sottratto un caso dei giorni passati, in quanto nominativo duplicato (conteggiato due volte)
+
 <b>20/10/2020</b><br>
 La Regione Abruzzo comunica il seguente ricalcolo: Dai casi totali sono stati sottratti 3 positivi; due di questi in quanto conteggiati 2 volte nei giorni scorsi e 1 caso in quanto già in carico ad altra regione. La Regione Campania comunica che il numero dei deceduti è riferito al periodo a partire dal 13.10.20 per tardiva comunicazione di decessi avvenuti al di fuori del territorio delle rispettive ASL di competenza.
 
