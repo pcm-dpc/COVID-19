@@ -354,5 +354,9 @@
     {
         "data": "2020-10-22T17:00:00",
         "note": "La Regione Toscana comunica che sono stati effettuati 758 tamponi antigenici rapidi in aggiunta ai test in PCR comunicati La Regione Abruzzo comunica il seguente ricalcolo: dal totale dei positivi è stato sottratto un caso dei giorni passati, in quanto nominativo duplicato (conteggiato due volte)"
+    },
+    {
+        "data": "2020-10-24T17:00:00",
+        "note": "La Regione Basilicata comunica il seguente ricalcolo: è stato eliminato 1 caso erroneamente comunicato in data 23 ottobre. La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi (da Ausl Bologna) in quanto giudicati non casi COVID-19."
     }
 ]
