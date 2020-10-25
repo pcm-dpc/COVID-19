@@ -6,6 +6,9 @@
 
 ## Avvisi
 <b>24/10/2020</b><br>
+La Calabria comunica che dei 179 nuovi casi positivi di oggi, 3 sono identificati in soggetti migranti.
+
+<b>24/10/2020</b><br>
 La Regione Basilicata comunica il seguente ricalcolo: è stato eliminato 1 caso erroneamente comunicato in data 23 ottobre. La Regione Emilia Romagna comunica il seguente ricalcolo: In seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi (da Ausl Bologna) in quanto giudicati non casi COVID-19.
 
 <b>22/10/2020</b><br>
