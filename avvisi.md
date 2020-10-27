@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>27/10/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n° corretto 47.872
+
 <b>26/10/2020</b><br>
 La Regione Abruzzo comunica che dal totale sono stati sottratti 2 casi dei giorni passati in quanto pazienti già in carico in altre Regioni e/o casi duplicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei casi comunicato ieri: N° corretto 46.731.
 
