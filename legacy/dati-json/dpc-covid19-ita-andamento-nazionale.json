@@ -4444,5 +4444,23 @@
         "casi_testati": 9075818.0,
         "note_it": null,
         "note_en": null
+    },
+    {
+        "data": "2020-10-28T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 14981,
+        "terapia_intensiva": 1536,
+        "totale_ospedalizzati": 16517,
+        "isolamento_domiciliare": 259940,
+        "totale_positivi": 276457,
+        "variazione_totale_positivi": 21367,
+        "nuovi_positivi": 24991,
+        "dimessi_guariti": 275404,
+        "deceduti": 37905,
+        "totale_casi": 589766,
+        "tamponi": 15152038,
+        "casi_testati": 9197638.0,
+        "note_it": null,
+        "note_en": null
     }
 ]
