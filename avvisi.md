@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>29/10/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato un caso di ieri in quanto duplicato. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il dato dei casi totali positivi comunicato ieri: n°corretto 50.493.
+
 <b>28/10/2020</b><br>
 La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei positivi comunicato ieri: n° corretto 49.282.
 

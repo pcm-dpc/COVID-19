@@ -374,5 +374,9 @@
     {
         "data": "2020-10-28T17:00:00",
         "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. Si corregge pertanto il numero totale dei positivi comunicato ieri: n° corretto 49.282."
+    },
+    {
+        "data": "2020-10-29T17:00:00",
+        "note": "La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato un caso di ieri in quanto duplicato. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. Si corregge pertanto il dato dei casi totali positivi comunicato ieri: n°corretto 50.493."
     }
 ]
