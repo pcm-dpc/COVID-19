@@ -1,6 +1,5 @@
 data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
-2020-10-29T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,331,26,357,5087,5444,415,482,3690,540,7200,2474,9674,280591,174707,"Dal totale dei positivi è stato eliminato un caso di ieri in quanto duplicato
-"
+2020-10-29T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,331,26,357,5087,5444,415,482,3690,540,7200,2474,9674,280591,174707,"Dal totale dei positivi è stato eliminato un caso di ieri in quanto duplicato"
 2020-10-29T17:00:00,ITA,17,Basilicata,40.63947052,15.80514834,74,7,81,1175,1256,72,86,684,47,670,1317,1987,100470,99620,
 2020-10-29T17:00:00,ITA,18,Calabria,38.90597598,16.59440194,134,7,141,2573,2714,210,225,1798,113,1174,3451,4625,268987,266077,
 2020-10-29T17:00:00,ITA,15,Campania,40.83956555,14.25084984,1297,164,1461,36243,37704,2818,3103,10537,644,46299,2586,48885,919318,622408,
