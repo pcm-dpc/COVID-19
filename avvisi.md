@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>31/10/2020</b><br>
+La regione Emilia Romagna segnala che in seguito a verifica sui dati sono stati eliminati due casi in quanto giudicati non casi COVID-19
+
 <b>30/10/2020</b><br>
 La Regione Calabria comunica che i casi totali a ieri erano 4.624 (e non 4.625). La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 4 casi in quanto giudicati non casi COVID-19.
 
