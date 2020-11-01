@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>01/11/2020</b><br>
+La regione Emilia-Romagna segnala che in seguito a verifica sui dati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19.
+
 <b>31/10/2020</b><br>
 La regione Emilia Romagna segnala che in seguito a verifica sui dati sono stati eliminati due casi in quanto giudicati non casi COVID-19
 
