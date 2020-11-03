@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>03/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19; La Regione Toscana comunica che un problema tecnico al sistema informativo della prevenzione ha determinato problemi di estrazione a scapito della completa attribuzione delle province. Nei dati di oggi vi sono quindi 373 nuovi casi con provincia "in fase di verifica" che si provvederà ad attribuire domani.
+
 <b>02/11/2020</b><br>
 La Regione Campania comunica che, in data odierna, i dati della Provincia di Benevento non sono pervenuti.
 
