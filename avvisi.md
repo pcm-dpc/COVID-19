@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>04/11/2020</b><br>
+La Regione Campania comunica che nei dati di ieri, per mero errore materiale, sono stati aggiunti 45 posti di Terapia Intensiva in più. La Regione Emilia Romagna comunica che in seguito a verifica sui dati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Calabria comunica che ieri c'è stato un aggiornamento del bollettino regionale, che riporta una modifica nella distribuzione dei casi ricoverati e terapie intensive. Tale modifica è stata effettuata a seguito delle comunicazioni pervenute dall’azienda ospedaliera di Reggio Calabria e dall’Azienda ospedaliera di Cosenza.
+
 <b>03/11/2020</b><br>
 La Regione Emilia Romagna comunica che in seguito a verifica sui dati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19; La Regione Toscana comunica che un problema tecnico al sistema informativo della prevenzione ha determinato problemi di estrazione a scapito della completa attribuzione delle province. Nei dati di oggi vi sono quindi 373 nuovi casi con provincia "in fase di verifica" che si provvederà ad attribuire domani.
 
