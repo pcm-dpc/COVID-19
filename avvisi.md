@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>07/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19; La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto duplicato.
+
 <b>06/11/2020</b><br>
 La Regione Abruzzo comunica che dal totale dei casi positivi sono stati eliminati 3 casi del 05/11/2020 in quanto duplicati e un caso in quanto già in carico ad altra regione. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19.
 

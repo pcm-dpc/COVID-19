@@ -83,5 +83,5 @@ All changes to the project, new features and information are documented in this 
 
 ## Next updates
 
-- API Rest (Json) public beta
-- GraphQL public beta
+- Data quality analysis notes
+- Updates on previous days based on data recalculation notes from Regions
