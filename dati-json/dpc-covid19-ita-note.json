@@ -414,5 +414,9 @@
     {
         "data": "2020-11-07T17:00:00",
         "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19; La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto duplicato."
+    },
+    {
+        "data": "2020-11-08T17:00:00",
+        "note": "La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto paziente non covid; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19;"
     }
 ]
