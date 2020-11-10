@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>10/11/2020</b><br>
+La Regione Abruzzo segnala che sono stati conteggiati anche 21 decessi delle scorse 3 settimane, comunicati oggi dalla ASL 201 ed il cui dettaglio é stato inserito oggi nel portale ISS. Oggi è stato sottratto 1 caso dal totale dei positivi, a seguito di controlli sui dati anagrafici. La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 7 casi in quanto giudicati non casi COVID-19.
+
 <b>09/11/2020</b><br>
 La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso in quanto duplicato; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
 
