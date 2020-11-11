@@ -13,6 +13,6 @@ jobs:
       with:
         python-version: 3.8
     - name: install dependencies
-      run: pip install -q pandas
+      run: pip install -q pandas~=1.1.4
     - name: check CSV files
       run: python3 script/test_csv.py
