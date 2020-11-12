@@ -25,10 +25,10 @@ def _inv_regioni_0(regioni):
         wrong = regioni.copy()[err][
             [
                 "denominazione_regione",
+                "totale_casi",
                 "totale_positivi",
                 "dimessi_guariti",
                 "deceduti",
-                "totale_casi",
             ]
         ]
         wrong["*DELTA*"] = delta
@@ -101,7 +101,6 @@ def check_regioni(pth, regioni):
         )
         errors += len(wrong)
 
-
     return errors
 
 
@@ -116,7 +115,10 @@ def main():
             df = read_csv(pth)
         except pd.errors.ParserError as exc:
             print(
-                "ParseError reading '{}': '{}'".format(pth, str(exc).strip(),),
+                "ParseError reading '{}': '{}'".format(
+                    pth,
+                    str(exc).strip(),
+                ),
                 file=sys.stderr,
             )
             errors += 1
