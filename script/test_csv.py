@@ -2,7 +2,28 @@ import sys
 import textwrap
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
+
+R_COLS = [
+    "ricoverati_con_sintomi",
+    "terapia_intensiva",
+    "totale_ospedalizzati",
+    "isolamento_domiciliare",
+    "totale_positivi",
+    "dimessi_guariti",
+    "deceduti",
+    "totale_casi",
+]
+R_COEFF = np.array(
+    [
+        [-1, -1, 1] + [0] * 5,
+        [0] * 2 + [-1, -1, 1] + [0] * 3,
+        [0] * 4 + [-1, -1, -1, 1],
+    ]
+)
+R_COLS_INV = [[R_COLS[j] for j in c.nonzero()[0]] for c in R_COEFF]
+assert np.linalg.matrix_rank(R_COEFF) == len(R_COEFF)
 
 
 def read_csv(p):
@@ -16,92 +37,42 @@ def read_csv(p):
     return frame
 
 
-def _inv_regioni_0(regioni):
-    delta = regioni.totale_casi - (
-        regioni.totale_positivi + regioni.dimessi_guariti + regioni.deceduti
-    )
-    err = delta != 0
-    if err.any():
-        wrong = regioni.copy()[err][
-            [
-                "denominazione_regione",
-                "totale_casi",
-                "totale_positivi",
-                "dimessi_guariti",
-                "deceduti",
-            ]
-        ]
-        wrong["*DELTA*"] = delta
-        return wrong
-
-
-def _inv_regioni_1(regioni):
-    delta = regioni.totale_positivi - (
-        regioni.totale_ospedalizzati + regioni.isolamento_domiciliare
-    )
-    err = delta != 0
-    if err.any():
-        wrong = regioni.copy()[err][
-            [
-                "denominazione_regione",
-                "totale_positivi",
-                "totale_ospedalizzati",
-                "isolamento_domiciliare",
-            ]
-        ]
-        wrong["*DELTA*"] = delta
-        return wrong
-
-
-def _inv_regioni_2(regioni):
-    delta = regioni.totale_ospedalizzati - (
-        regioni.ricoverati_con_sintomi + regioni.terapia_intensiva
-    )
-    err = delta != 0
-    if err.any():
-        wrong = regioni.copy()[err][
-            [
-                "denominazione_regione",
-                "totale_ospedalizzati",
-                "ricoverati_con_sintomi",
-                "terapia_intensiva",
-            ]
-        ]
-        wrong["*DELTA*"] = delta
-        return wrong
+def check_inv_regioni(df):
+    data = df[R_COLS].to_numpy()
+    delta = R_COEFF @ data.T
+    nz = delta.nonzero()
+    return delta[nz], nz
 
 
 def check_regioni(pth, regioni):
-    errors = 0
-    wrong = _inv_regioni_0(regioni)
-    if wrong is not None:
-        print(
-            "* {}: INVARIANT ERROR 0".format(pth),
-            textwrap.indent(wrong.to_string(index=False), "  | "),
-            sep="\n",
-            file=sys.stderr,
-        )
-        errors += len(wrong)
-    wrong = _inv_regioni_1(regioni)
-    if wrong is not None:
-        print(
-            "* {}: INVARIANT ERROR 1".format(pth),
-            textwrap.indent(wrong.to_string(index=False), "  | "),
-            sep="\n",
-            file=sys.stderr,
-        )
-        errors += len(wrong)
-    wrong = _inv_regioni_2(regioni)
-    if wrong is not None:
-        print(
-            "* {}: INVARIANT ERROR 2".format(pth),
-            textwrap.indent(wrong.to_string(index=False), "  | "),
-            sep="\n",
-            file=sys.stderr,
-        )
-        errors += len(wrong)
 
-    return errors
+    delta, (invariant, ri) = check_inv_regioni(regioni)
+
+    if len(delta) == 0:
+        return 0
+
+    print("\n* {}:".format(pth))
+    for i in range(len(R_COEFF)):
+        pos = invariant == i
+        if np.count_nonzero(pos) == 0:
+            continue
+        regs = ri[pos]
+        wrong = regioni.loc[regs, ["denominazione_regione"] + R_COLS_INV[i]].copy()
+        assert (wrong.index == regs).all()
+        wrong["*DELTA*"] = delta[pos]
+        print(
+            "  INVARIANT[{}] ERROR".format(i),
+            textwrap.indent(
+                wrong.to_string(
+                    index=False,
+                ),
+                "  | ",
+            ),
+            sep="\n",
+            file=sys.stderr,
+        )
+
+    return len(delta)
 
 
 def main():
@@ -126,7 +97,7 @@ def main():
         errors += check_regioni(pth, df)
 
     if errors:
-        sys.exit("Found {:d} error(s)".format(errors))
+        sys.exit("\nFound {:d} error(s)".format(errors))
 
 
 if __name__ == "__main__":
