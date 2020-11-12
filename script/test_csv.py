@@ -35,12 +35,39 @@ def _inv_regioni_0(regioni):
         return wrong
 
 
+def _inv_regioni_1(regioni):
+    delta = regioni.totale_positivi - (
+        regioni.totale_ospedalizzati + regioni.isolamento_domiciliare
+    )
+    err = delta != 0
+    if err.any():
+        wrong = regioni.copy()[err][
+            [
+                "denominazione_regione",
+                "totale_positivi",
+                "totale_ospedalizzati",
+                "isolamento_domiciliare",
+            ]
+        ]
+        wrong["*DELTA*"] = delta
+        return wrong
+
+
 def check_regioni(pth, regioni):
     errors = 0
     wrong = _inv_regioni_0(regioni)
     if wrong is not None:
         print(
             "* {}: INVARIANT ERROR 0".format(pth),
+            textwrap.indent(wrong.to_string(index=False), "  | "),
+            sep="\n",
+            file=sys.stderr,
+        )
+        errors += len(wrong)
+    wrong = _inv_regioni_1(regioni)
+    if wrong is not None:
+        print(
+            "* {}: INVARIANT ERROR 1".format(pth),
             textwrap.indent(wrong.to_string(index=False), "  | "),
             sep="\n",
             file=sys.stderr,
@@ -61,7 +88,10 @@ def main():
             df = read_csv(pth)
         except pd.errors.ParserError as exc:
             print(
-                "ParseError reading '{}': '{}'".format(pth, str(exc).strip(),),
+                "ParseError reading '{}': '{}'".format(
+                    pth,
+                    str(exc).strip(),
+                ),
                 file=sys.stderr,
             )
             errors += 1
