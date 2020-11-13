@@ -72,7 +72,7 @@ def check_regioni(pth, regioni):
         assert (wrong.index == regs).all()
         wrong["*DELTA*"] = delta[pos]
         print(
-            "  INVARIANT[{}] ERROR".format(i),
+            "  INVARIANT[{}] ERROR on {} rows".format(i, len(wrong)),
             textwrap.indent(
                 wrong.to_string(
                     index=False,
@@ -86,11 +86,56 @@ def check_regioni(pth, regioni):
     return len(delta)
 
 
-def main():
+def count_diff(a, b):
+    if a.equals(b):
+        return 0
+
+    diff = 0
+
+    pos = ~(a.isna() & b.isna())
+    diff += (a[pos] != b[pos]).sum()
+
+    return diff
+
+
+def check_regioni_all(ref, df, pth):
+
+    if ref.equals(df):
+        return 0
+
+    # here we have problems ...
+
+    print("\n* {}: NOT EQUIVALENT TO DAILY FILES".format(pth), file=sys.stderr)
+
+    # first check if dataframes are aligned
+
+    if (ref.columns != df.columns).any():
+        print("  Columns are not aligned", file=sys.stderr)
+        return 1
+
+    if len(ref) != len(df):
+        print(
+            "  Different number of rows: exptected {}, is {}".format(len(ref), len(df))
+        )
+        return 1
+
+    assert ref.index.equals(df.index)
 
     errors = 0
+    for c in ref.columns:
+        errors += (d := count_diff(ref[c], df[c]))
+        if d > 0:
+            print("  Column '{}': {} differences".format(c, d), file=sys.stderr)
 
-    # check dati-regioni
+    return errors
+
+
+def main():
+
+    # check dati-regioni daily files and consolidate them in dati_regioni
+    dati_regioni = pd.DataFrame()
+    errors = 0
+
     for pth in sorted(
         Path("dati-regioni").glob("dpc-covid19-ita-regioni-????????.csv")
     ):
@@ -98,6 +143,13 @@ def main():
             errors += 1
             continue
         errors += check_regioni(pth, df)
+        dati_regioni = dati_regioni.append(df, ignore_index=True)
+
+    pth = Path("dati-regioni") / "dpc-covid19-ita-regioni.csv"
+    if (df := read_csv(pth)) is None:
+        errors += 1
+    else:
+        errors += check_regioni_all(dati_regioni, df, pth)
 
     if errors:
         sys.exit("\nFound {:d} error(s)".format(errors))
