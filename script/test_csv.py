@@ -26,14 +26,25 @@ R_COLS_INV = [[R_COLS[j] for j in c.nonzero()[0]] for c in R_COEFF]
 assert np.linalg.matrix_rank(R_COEFF) == len(R_COEFF)
 
 
-def read_csv(p):
-    frame = pd.read_csv(
-        p,
-        encoding="UTF-8",
-        na_values=[""],
-        keep_default_na=False,
-        parse_dates=["data"],
-    )
+def read_csv(pth):
+    frame = None
+    try:
+        frame = pd.read_csv(
+            pth,
+            encoding="UTF-8",
+            na_values=[""],
+            keep_default_na=False,
+            parse_dates=["data"],
+        )
+    except pd.errors.ParserError as exc:
+        print(
+            "\n* {}:\n  CSV PARSE ERROR: {}".format(
+                pth,
+                str(exc).strip(),
+            ),
+            file=sys.stderr,
+        )
+
     return frame
 
 
@@ -51,7 +62,7 @@ def check_regioni(pth, regioni):
     if len(delta) == 0:
         return 0
 
-    print("\n* {}:".format(pth))
+    print("\n* {}:".format(pth), file=sys.stderr)
     for i in range(len(R_COEFF)):
         pos = invariant == i
         if np.count_nonzero(pos) == 0:
@@ -76,22 +87,14 @@ def check_regioni(pth, regioni):
 
 
 def main():
+
     errors = 0
 
     # check dati-regioni
     for pth in sorted(
         Path("dati-regioni").glob("dpc-covid19-ita-regioni-????????.csv")
     ):
-        try:
-            df = read_csv(pth)
-        except pd.errors.ParserError as exc:
-            print(
-                "ParseError reading '{}': '{}'".format(
-                    pth,
-                    str(exc).strip(),
-                ),
-                file=sys.stderr,
-            )
+        if (df := read_csv(pth)) is None:
             errors += 1
             continue
         errors += check_regioni(pth, df)
