@@ -13,17 +13,26 @@ R_COLS = [
     "totale_positivi",
     "dimessi_guariti",
     "deceduti",
+    "casi_da_sospetto_diagnostico",
+    "casi_da_screening",
     "totale_casi",
 ]
+
 R_COEFF = np.array(
     [
-        [-1, -1, 1] + [0] * 5,
-        [0] * 2 + [-1, -1, 1] + [0] * 3,
-        [0] * 4 + [-1, -1, -1, 1],
+        [-1, -1, 1] + [0] * 7,
+        [0] * 2 + [-1, -1, 1] + [0] * 5,
+        [0] * 4 + [-1, -1, -1] + [0] * 2 + [1],
+        [0] * 7 + [-1, -1, 1],
     ]
 )
-R_COLS_INV = [[R_COLS[j] for j in c.nonzero()[0]] for c in R_COEFF]
+assert R_COEFF.ndim == 2
+assert R_COEFF.shape[1] == len(R_COLS)
 assert np.linalg.matrix_rank(R_COEFF) == len(R_COEFF)
+
+R_COEFF_NZ = [c.nonzero()[0] for c in R_COEFF]
+
+R_COLS_INV = [[R_COLS[j] for j in ind] for ind in R_COEFF_NZ]
 
 
 def read_csv(pth):
@@ -50,7 +59,17 @@ def read_csv(pth):
 
 def check_inv_regioni(df):
     data = df[R_COLS].to_numpy()
-    delta = R_COEFF @ data.T
+    if np.isnan(data).any():
+        # nans in relevant data columns:
+        # invariants are computed row by row to avoid nan propagation.
+        # For IEEE754 0*nan is nan,
+        # while here a 0 coeff. means ignore data altogether
+        delta = []
+        for ind, c in zip(R_COEFF_NZ, R_COEFF):
+            delta.append(c[ind] @ data.T[ind])
+        delta = np.array(delta)
+    else:
+        delta = R_COEFF @ data.T
     nz = delta.nonzero()
     return delta[nz], nz
 
@@ -58,10 +77,18 @@ def check_inv_regioni(df):
 def check_regioni(pth, regioni):
 
     delta, (invariant, ri) = check_inv_regioni(regioni)
+    assert delta.shape == invariant.shape == ri.shape
+
+    # na values means that check was not performed, due to missing data
+    # here this condition is not reported
+    notna = ~np.isnan(delta)
+    delta, invariant, ri = delta[notna], invariant[notna], ri[notna]
 
     if len(delta) == 0:
+        # nothing to report, return
         return 0
 
+    # some error conditions to report
     print("\n* {}:".format(pth), file=sys.stderr)
     for i in range(len(R_COEFF)):
         pos = invariant == i
@@ -122,7 +149,7 @@ def check_regioni_all(ref, df, pth):
     assert ref.index.equals(df.index)
 
     errors = 0
-    for c in ref.columns:
+    for c in ref:
         errors += (d := count_diff(ref[c], df[c]))
         if d > 0:
             print("  Column '{}': {} differences".format(c, d), file=sys.stderr)
