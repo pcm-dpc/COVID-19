@@ -17,4 +17,6 @@ jobs:
     - name: test CSV files
       run: python3 script/test_csv.py
     - name: test JSON files
+      # quick trick for running job while debugging scripts...
+      if: ${{ always() }}
       run: python3 script/test_json.py
