@@ -5,7 +5,7 @@ on: [push, pull_request]
 jobs:
 
   test:
-    name: Test invariants in dati-regioni/*.csv
+    name: QA checks
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -14,5 +14,7 @@ jobs:
         python-version: 3.8
     - name: install dependencies
       run: pip install -q pandas~=1.1.4
-    - name: run test script
+    - name: test CSV files
       run: python3 script/test_csv.py
+    - name: test JSON files
+      run: python3 script/test_json.py
