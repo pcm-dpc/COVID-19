@@ -1,4 +1,5 @@
 import json
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -18,18 +19,24 @@ def read_csv(pth):
 
 
 def check_records(js, csv):
+    errors = 0
     for i, (ra, rb) in enumerate(zip(js, csv)):
         if ra != rb:
             for k in rb:
                 if ra.get(k) != rb[k]:
                     print(
-                        "  | {} {}\n  |->(json) {!r}\n  |->(csv ) {!r}".format(
-                            i, k, ra.get(k), rb[k]
-                        )
+                        "  | record #{}, field '{}':\n"
+                        "  +->(json) {!r}\n"
+                        "  +->(csv ) {!r}".format(i, k, ra.get(k), rb[k]),
+                        file=sys.stderr,
                     )
+                    errors += 1
+    return errors
 
 
 def main():
+
+    errors = 0
 
     for stem in [
         "andamento-nazionale",
@@ -49,15 +56,23 @@ def main():
 
         if len(json_py) != len(csv_py):
             print(
-                "* {}: has {:d} records, expected {:d}".format(
+                "\n* {}: has {:d} records, expected {:d}".format(
                     jpath, len(json_py), len(csv_py)
-                )
+                ),
+                file=sys.stderr,
             )
+            errors += 1
             continue
 
         if json_py != csv_py:
-            print("* {}: not compatible with {}".format(jpath, csvpath))
-            check_records(json_py, csv_py)
+            print(
+                "\n* {}: not compatible with {}".format(jpath, csvpath),
+                file=sys.stderr,
+            )
+            errors += check_records(json_py, csv_py)
+
+    if errors:
+        sys.exit("\nFound {:d} errors".format(errors))
 
 
 if __name__ == "__main__":
