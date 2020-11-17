@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>16/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato 1 caso in quanto non paziente COVID; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19;
+
 <b>15/11/2020</b><br>
 La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48
 
