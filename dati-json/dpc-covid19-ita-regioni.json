@@ -129234,7 +129234,7 @@
         "totale_casi": 18104,
         "tamponi": 278912,
         "casi_testati": 139217.0,
-        "note": "TOTALE TEST ANTIGENICI RAPIDI EFFETTUATI : 1698 TOTALE TEST ANTIGENICI RAPIDI POSITIVI : 665  TOTALE POSITIVI AL TEST ANTIGENICO E SINTOMATICI : 76\t\t\r\n\t\t\r\n\t\t\r\n"
+        "note": "TOTALE TEST ANTIGENICI RAPIDI EFFETTUATI : 1698 TOTALE TEST ANTIGENICI RAPIDI POSITIVI : 665  TOTALE POSITIVI AL TEST ANTIGENICO E SINTOMATICI : 76"
     },
     {
         "data": "2020-11-17T17:00:00",
@@ -129441,6 +129441,6 @@
         "totale_casi": 105966,
         "tamponi": 2590427,
         "casi_testati": 1000577.0,
-        "note": "Tamponi antigenici 623.625\r\nTotale popolazione che ha effettuato almeno un tampone molecolare o un tampone antigenico 1.260.515"
+        "note": "Tamponi antigenici 623.625 Totale popolazione che ha effettuato almeno un tampone molecolare o un tampone antigenico 1.260.515"
     }
 ]
