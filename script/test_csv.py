@@ -135,7 +135,8 @@ def check_nazionale(pth, nazionale, regioni):
         print(
             "\n* {}: differences with sum of regioni data\n{}".format(
                 pth, textwrap.indent(diff.to_string(), "  | ")
-            )
+            ),
+            file=sys.stderr,
         )
         return len(diff)
     else:
