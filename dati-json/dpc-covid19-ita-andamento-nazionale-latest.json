@@ -1,1 +1,21 @@
-[{"data":"2020-11-18T17:00:00","stato":"ITA","ricoverati_con_sintomi":33504,"terapia_intensiva":3670,"totale_ospedalizzati":37174,"isolamento_domiciliare":705994,"totale_positivi":743168,"variazione_totale_positivi":9358,"nuovi_positivi":34282,"dimessi_guariti":481967,"deceduti":47217,"casi_da_sospetto_diagnostico":784687,"casi_da_screening":487665,"totale_casi":1272352,"tamponi":19474341,"casi_testati":11744424,"note":""}]
+[
+    {
+        "data": "2020-11-18T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 33504,
+        "terapia_intensiva": 3670,
+        "totale_ospedalizzati": 37174,
+        "isolamento_domiciliare": 705994,
+        "totale_positivi": 743168,
+        "variazione_totale_positivi": 9358,
+        "nuovi_positivi": 34282,
+        "dimessi_guariti": 481967,
+        "deceduti": 47217,
+        "casi_da_sospetto_diagnostico": 784687,
+        "casi_da_screening": 487665,
+        "totale_casi": 1272352,
+        "tamponi": 19474341,
+        "casi_testati": 11744424,
+        "note": ""
+    }
+]
