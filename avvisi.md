@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>18/11/2020</b><br>
+La Regione Friuli Venezia Giulia comunica che nei dati odierni sono inclusi 54 casi positivi censiti dal 28 ottobre al 12 novembre e recuperati dal flusso informativo proveniente dai laboratori privati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Calabria comunica che il numero dei tamponi di oggi comprende tamponi eseguiti nei gg precedenti e processati fuori regione.
+
 <b>16/11/2020</b><br>
 La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato 1 caso in quanto non paziente COVID; La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19;
 
