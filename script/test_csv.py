@@ -154,45 +154,7 @@ def count_diff(a, b):
     return diff
 
 
-def check_equals(ref, df, pth):
-
-    if ref.equals(df):
-        return 0
-
-    # here we have problems ...
-
-    print("\n* {}: NOT EQUIVALENT TO DAILY FILES".format(pth), file=sys.stderr)
-
-    # first check if dataframes are aligned
-
-    if not (ref.columns ^ df.columns).empty:
-        print("  Columns are not aligned", file=sys.stderr)
-        return 1
-
-    if len(ref) != len(df):
-        print(
-            "  Different number of rows: exptected {}, is {}".format(len(ref), len(df)),
-            file=sys.stderr,
-        )
-        return 1
-
-    assert ref.index.equals(df.index)
-
-    errors = 0
-    for c in ref:
-        errors += (d := count_diff(ref[c], df[c]))
-        if d > 0:
-            print("  Column '{}': {} differences".format(c, d), file=sys.stderr)
-
-    return errors
-
-
 def main():
-
-    # check dati-regioni daily files and consolidate them in dati_regioni
-    dati_province = pd.DataFrame()
-    dati_regioni = pd.DataFrame()
-    dati_nazionali = pd.DataFrame()
 
     errors = 0
 
@@ -215,26 +177,11 @@ def main():
 
         # check invariants
         errors += check_regioni(pth, df)
-        # assemble complete DB from partial files
-        dati_regioni = dati_regioni.append(df, ignore_index=True)
 
         if (df_nazionale := read_csv(pth_nazionale)) is None:
             errors += 1
         else:
             errors += check_nazionale(pth_nazionale, df_nazionale, df)
-            dati_nazionali = dati_nazionali.append(df_nazionale, ignore_index=True)
-
-    pth = Path("dati-regioni") / "dpc-covid19-ita-regioni.csv"
-    if (df := read_csv(pth)) is None:
-        errors += 1
-    else:
-        errors += check_equals(dati_regioni, df, pth)
-
-    pth = Path("dati-andamento-nazionale") / "dpc-covid19-ita-andamento-nazionale.csv"
-    if (df := read_csv(pth)) is None:
-        errors += 1
-    else:
-        errors += check_equals(dati_nazionali, df, pth)
 
     if errors:
         sys.exit("\nFound {:d} error(s)".format(errors))
