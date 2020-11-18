@@ -143,18 +143,6 @@ def check_nazionale(pth, nazionale, regioni):
         return 0
 
 
-def count_diff(a, b):
-    if a.equals(b):
-        return 0
-
-    diff = 0
-
-    pos = ~(a.isna() & b.isna())
-    diff += (a[pos] != b[pos]).sum()
-
-    return diff
-
-
 def main():
 
     errors = 0
