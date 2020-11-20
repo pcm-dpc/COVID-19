@@ -5,6 +5,12 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>20/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 85 casi registrati dai laboratori privati fra il 29 ottobre e il 14 novembre.
+
+<b>19/11/2020</b><br>
+La Regione Friuli Venezia Giulia comunica che a seguito delle comunicazioni pervenute dai laboratori privati, i nuovi casi includono 196 positività comprese nel periodo dal 28 ottobre al 15 novembre. La Regione Piemonte comunica che il numero di tamponi odierno è sensibilmente superiore alla media giornaliera di tamponi effettuati in Piemonte perché include il caricamento di una quota di dati relativa agli screening effettuati nei giorni scorsi all’interno delle RSA.
+
 <b>18/11/2020</b><br>
 La Regione Friuli Venezia Giulia comunica che nei dati odierni sono inclusi 54 casi positivi censiti dal 28 ottobre al 12 novembre e recuperati dal flusso informativo proveniente dai laboratori privati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Calabria comunica che il numero dei tamponi di oggi comprende tamponi eseguiti nei gg precedenti e processati fuori regione.
 
