@@ -14,12 +14,12 @@ jobs:
         python-version: 3.8
     - name: install dependencies
       run: pip install -q pandas~=1.1.4
-    - name: test CSV files (consistency)
-      run: python3 script/test_csv.py
-    - name: test CSV files (join)
+    - name: test daily CSV files for consistency
+      run: python3 script/test_csv_daily.py
+    - name: test cumulative CSV files
       # quick trick for running job while debugging scripts...
       if: ${{ always() }}
-      run: python3 script/test_join.py
+      run: python3 script/test_csv_join.py
     - name: test JSON files
       # quick trick for running job while debugging scripts...
       if: ${{ always() }}
