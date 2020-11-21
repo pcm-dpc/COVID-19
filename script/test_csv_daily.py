@@ -5,7 +5,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-R_COLS = [
+INV_COLS = [
     "ricoverati_con_sintomi",
     "terapia_intensiva",
     "totale_ospedalizzati",
@@ -18,7 +18,7 @@ R_COLS = [
     "totale_casi",
 ]
 
-R_COEFF = np.array(
+INV_COEFF = np.array(
     [
         [-1, -1, 1] + [0] * 7,
         [0] * 2 + [-1, -1, 1] + [0] * 5,
@@ -26,13 +26,12 @@ R_COEFF = np.array(
         [0] * 7 + [-1, -1, 1],
     ]
 )
-assert R_COEFF.ndim == 2
-assert R_COEFF.shape[1] == len(R_COLS)
-assert np.linalg.matrix_rank(R_COEFF) == len(R_COEFF)
+assert INV_COEFF.ndim == 2
+assert INV_COEFF.shape[1] == len(INV_COLS)
+assert np.linalg.matrix_rank(INV_COEFF) == len(INV_COEFF)
 
-R_COEFF_NZ = [c.nonzero()[0] for c in R_COEFF]
-
-R_COLS_INV = [[R_COLS[j] for j in ind] for ind in R_COEFF_NZ]
+INV_COEFF_NZ_IND = [c.nonzero()[0] for c in INV_COEFF]
+INV_COLS_NZ = [[INV_COLS[j] for j in ind] for ind in INV_COEFF_NZ_IND]
 
 
 def read_csv(pth):
@@ -58,18 +57,18 @@ def read_csv(pth):
 
 
 def check_inv(df):
-    data = df[R_COLS].to_numpy()
+    data = df[INV_COLS].to_numpy()
     if np.isnan(data).any():
         # nans in relevant data columns:
         # invariants are computed row by row to avoid nan propagation.
         # For IEEE754 0*nan is nan,
         # while here a 0 coeff. means ignore data altogether
         delta = []
-        for ind, c in zip(R_COEFF_NZ, R_COEFF):
+        for ind, c in zip(INV_COEFF_NZ_IND, INV_COEFF):
             delta.append(c[ind] @ data.T[ind])
         delta = np.array(delta)
     else:
-        delta = R_COEFF @ data.T
+        delta = INV_COEFF @ data.T
     nz = delta.nonzero()
     return delta[nz], nz
 
@@ -90,12 +89,12 @@ def check_regioni(pth, regioni):
 
     # some error conditions to report
     print("\n* {}:".format(pth), file=sys.stderr)
-    for i in range(len(R_COEFF)):
+    for i in range(len(INV_COEFF)):
         pos = invariant == i
         if np.count_nonzero(pos) == 0:
             continue
         regs = ri[pos]
-        wrong = regioni.loc[regs, ["denominazione_regione"] + R_COLS_INV[i]].copy()
+        wrong = regioni.loc[regs, ["denominazione_regione"] + INV_COLS_NZ[i]].copy()
         assert (wrong.index == regs).all()
         wrong["*DELTA*"] = delta[pos]
         print(
