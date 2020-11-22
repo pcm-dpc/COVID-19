@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>22/11/2020</b><br>
+La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 109 casi da laboratori privati di cui 67 compresi nel periodo dal 4 al 18 novembre.
+
 <b>21/11/2020</b><br>
 La Regione Abruzzo comunica che in data odierna sono stati conteggiati 26 decessi avvenuti nelle settimane precedenti e non ancora comunicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Basilicata comunica che è in corso di revisione il dati sul totale casi testati e sul totale tamponi effettuati. La Regione Friuli Venezia Giulia comunica che nei casi odierni sono compresi 88 casi registrati oggi a sistema dal flusso dati dei laboratori privati (date di prelievo comprese fra il 27 ottobre e 17 novembre)
 
