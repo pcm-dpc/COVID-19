@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>23/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi comprendono 70 positività rilevate da laboratori privati nel periodo 9-21 novembre
+
 <b>22/11/2020</b><br>
 La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 109 casi da laboratori privati di cui 67 compresi nel periodo dal 4 al 18 novembre.
 
