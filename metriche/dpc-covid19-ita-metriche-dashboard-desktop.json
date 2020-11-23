@@ -1,702 +1,263 @@
-[
-    {
-        "data": "2020-03-08",
-        "visitatori_picco_ore_18": 150000,
-        "totale_visitatori_giorno": 823742,
-        "totale_visitatori_progressivo": 823742,
-        "note": ""
-    },
-    {
-        "data": "2020-03-09",
-        "visitatori_picco_ore_18": 150000,
-        "totale_visitatori_giorno": 948203,
-        "totale_visitatori_progressivo": 1771945,
-        "note": ""
-    },
-    {
-        "data": "2020-03-10",
-        "visitatori_picco_ore_18": 165000,
-        "totale_visitatori_giorno": 1116934,
-        "totale_visitatori_progressivo": 2888879,
-        "note": ""
-    },
-    {
-        "data": "2020-03-11",
-        "visitatori_picco_ore_18": 180000,
-        "totale_visitatori_giorno": 1497752,
-        "totale_visitatori_progressivo": 4386631,
-        "note": ""
-    },
-    {
-        "data": "2020-03-12",
-        "visitatori_picco_ore_18": 350000,
-        "totale_visitatori_giorno": 2037482,
-        "totale_visitatori_progressivo": 6424113,
-        "note": ""
-    },
-    {
-        "data": "2020-03-13",
-        "visitatori_picco_ore_18": 90000,
-        "totale_visitatori_giorno": 1232557,
-        "totale_visitatori_progressivo": 7656670,
-        "note": ""
-    },
-    {
-        "data": "2020-03-14",
-        "visitatori_picco_ore_18": 250000,
-        "totale_visitatori_giorno": 1077946,
-        "totale_visitatori_progressivo": 8734616,
-        "note": ""
-    },
-    {
-        "data": "2020-03-15",
-        "visitatori_picco_ore_18": 175000,
-        "totale_visitatori_giorno": 823542,
-        "totale_visitatori_progressivo": 9558158,
-        "note": ""
-    },
-    {
-        "data": "2020-03-16",
-        "visitatori_picco_ore_18": 200000,
-        "totale_visitatori_giorno": 883922,
-        "totale_visitatori_progressivo": 10442080,
-        "note": ""
-    },
-    {
-        "data": "2020-03-17",
-        "visitatori_picco_ore_18": 180000,
-        "totale_visitatori_giorno": 994669,
-        "totale_visitatori_progressivo": 11436749,
-        "note": ""
-    },
-    {
-        "data": "2020-03-18",
-        "visitatori_picco_ore_18": 210000,
-        "totale_visitatori_giorno": 981057,
-        "totale_visitatori_progressivo": 12417806,
-        "note": ""
-    },
-    {
-        "data": "2020-03-19",
-        "visitatori_picco_ore_18": 200000,
-        "totale_visitatori_giorno": 1245513,
-        "totale_visitatori_progressivo": 13663319,
-        "note": ""
-    },
-    {
-        "data": "2020-03-20",
-        "visitatori_picco_ore_18": 285000,
-        "totale_visitatori_giorno": 1682688,
-        "totale_visitatori_progressivo": 15346007,
-        "note": ""
-    },
-    {
-        "data": "2020-03-21",
-        "visitatori_picco_ore_18": 279000,
-        "totale_visitatori_giorno": 1573936,
-        "totale_visitatori_progressivo": 16919943,
-        "note": ""
-    },
-    {
-        "data": "2020-03-22",
-        "visitatori_picco_ore_18": 310000,
-        "totale_visitatori_giorno": 1906429,
-        "totale_visitatori_progressivo": 18826372,
-        "note": ""
-    },
-    {
-        "data": "2020-03-23",
-        "visitatori_picco_ore_18": 306000,
-        "totale_visitatori_giorno": 1577784,
-        "totale_visitatori_progressivo": 20404156,
-        "note": ""
-    },
-    {
-        "data": "2020-03-24",
-        "visitatori_picco_ore_18": 530911,
-        "totale_visitatori_giorno": 1993868,
-        "totale_visitatori_progressivo": 22398024,
-        "note": ""
-    },
-    {
-        "data": "2020-03-25",
-        "visitatori_picco_ore_18": 290736,
-        "totale_visitatori_giorno": 1293310,
-        "totale_visitatori_progressivo": 23691334,
-        "note": ""
-    },
-    {
-        "data": "2020-03-26",
-        "visitatori_picco_ore_18": 233318,
-        "totale_visitatori_giorno": 1171149,
-        "totale_visitatori_progressivo": 24862483,
-        "note": ""
-    },
-    {
-        "data": "2020-03-27",
-        "visitatori_picco_ore_18": 263195,
-        "totale_visitatori_giorno": 1332554,
-        "totale_visitatori_progressivo": 26195037,
-        "note": ""
-    },
-    {
-        "data": "2020-03-28",
-        "visitatori_picco_ore_18": 151713,
-        "totale_visitatori_giorno": 975048,
-        "totale_visitatori_progressivo": 27170085,
-        "note": ""
-    },
-    {
-        "data": "2020-03-29",
-        "visitatori_picco_ore_18": 165795,
-        "totale_visitatori_giorno": 921898,
-        "totale_visitatori_progressivo": 28091983,
-        "note": ""
-    },
-    {
-        "data": "2020-03-30",
-        "visitatori_picco_ore_18": 204738,
-        "totale_visitatori_giorno": 1119384,
-        "totale_visitatori_progressivo": 29211367,
-        "note": ""
-    },
-    {
-        "data": "2020-03-31",
-        "visitatori_picco_ore_18": 217701,
-        "totale_visitatori_giorno": 1257319,
-        "totale_visitatori_progressivo": 30468686,
-        "note": ""
-    },
-    {
-        "data": "2020-04-01",
-        "visitatori_picco_ore_18": 212104,
-        "totale_visitatori_giorno": 1239018,
-        "totale_visitatori_progressivo": 31707704,
-        "note": ""
-    },
-    {
-        "data": "2020-04-02",
-        "visitatori_picco_ore_18": 277316,
-        "totale_visitatori_giorno": 1157213,
-        "totale_visitatori_progressivo": 32864917,
-        "note": ""
-    },
-    {
-        "data": "2020-04-03",
-        "visitatori_picco_ore_18": 148661,
-        "totale_visitatori_giorno": 870827,
-        "totale_visitatori_progressivo": 33735744,
-        "note": ""
-    },
-    {
-        "data": "2020-04-04",
-        "visitatori_picco_ore_18": 215902,
-        "totale_visitatori_giorno": 858202,
-        "totale_visitatori_progressivo": 34593946,
-        "note": ""
-    },
-    {
-        "data": "2020-04-05",
-        "visitatori_picco_ore_18": 103462,
-        "totale_visitatori_giorno": 626907,
-        "totale_visitatori_progressivo": 35220853,
-        "note": ""
-    },
-    {
-        "data": "2020-04-06",
-        "visitatori_picco_ore_18": 105879,
-        "totale_visitatori_giorno": 717762,
-        "totale_visitatori_progressivo": 35938615,
-        "note": ""
-    },
-    {
-        "data": "2020-04-07",
-        "visitatori_picco_ore_18": 113210,
-        "totale_visitatori_giorno": 644714,
-        "totale_visitatori_progressivo": 36583329,
-        "note": ""
-    },
-    {
-        "data": "2020-04-08",
-        "visitatori_picco_ore_18": 117341,
-        "totale_visitatori_giorno": 625354,
-        "totale_visitatori_progressivo": 37208683,
-        "note": ""
-    },
-    {
-        "data": "2020-04-09",
-        "visitatori_picco_ore_18": 153450,
-        "totale_visitatori_giorno": 636590,
-        "totale_visitatori_progressivo": 37845273,
-        "note": ""
-    },
-    {
-        "data": "2020-04-10",
-        "visitatori_picco_ore_18": 121427,
-        "totale_visitatori_giorno": 675468,
-        "totale_visitatori_progressivo": 38520741,
-        "note": ""
-    },
-    {
-        "data": "2020-04-11",
-        "visitatori_picco_ore_18": 101307,
-        "totale_visitatori_giorno": 573989,
-        "totale_visitatori_progressivo": 39094730,
-        "note": ""
-    },
-    {
-        "data": "2020-04-12",
-        "visitatori_picco_ore_18": 78941,
-        "totale_visitatori_giorno": 460613,
-        "totale_visitatori_progressivo": 39555343,
-        "note": ""
-    },
-    {
-        "data": "2020-04-13",
-        "visitatori_picco_ore_18": 85433,
-        "totale_visitatori_giorno": 574258,
-        "totale_visitatori_progressivo": 40129601,
-        "note": ""
-    },
-    {
-        "data": "2020-04-14",
-        "visitatori_picco_ore_18": 95709,
-        "totale_visitatori_giorno": 641314,
-        "totale_visitatori_progressivo": 40770915,
-        "note": ""
-    },
-    {
-        "data": "2020-04-15",
-        "visitatori_picco_ore_18": 105090,
-        "totale_visitatori_giorno": 664355,
-        "totale_visitatori_progressivo": 41435270,
-        "note": ""
-    },
-    {
-        "data": "2020-04-16",
-        "visitatori_picco_ore_18": 164178,
-        "totale_visitatori_giorno": 679187,
-        "totale_visitatori_progressivo": 42114457,
-        "note": ""
-    },
-    {
-        "data": "2020-04-17",
-        "visitatori_picco_ore_18": 151515,
-        "totale_visitatori_giorno": 588513,
-        "totale_visitatori_progressivo": 42702970,
-        "note": "Ultima conferenza stampa giornaliera"
-    },
-    {
-        "data": "2020-04-18",
-        "visitatori_picco_ore_18": 129124,
-        "totale_visitatori_giorno": 534710,
-        "totale_visitatori_progressivo": 43237680,
-        "note": ""
-    },
-    {
-        "data": "2020-04-19",
-        "visitatori_picco_ore_18": 75283,
-        "totale_visitatori_giorno": 441895,
-        "totale_visitatori_progressivo": 43679575,
-        "note": ""
-    },
-    {
-        "data": "2020-04-20",
-        "visitatori_picco_ore_18": 109707,
-        "totale_visitatori_giorno": 491987,
-        "totale_visitatori_progressivo": 44171562,
-        "note": "Conferenza stampa"
-    },
-    {
-        "data": "2020-04-21",
-        "visitatori_picco_ore_18": 122601,
-        "totale_visitatori_giorno": 534442,
-        "totale_visitatori_progressivo": 44706004,
-        "note": ""
-    },
-    {
-        "data": "2020-04-22",
-        "visitatori_picco_ore_18": 138752,
-        "totale_visitatori_giorno": 550103,
-        "totale_visitatori_progressivo": 45256107,
-        "note": ""
-    },
-    {
-        "data": "2020-04-23",
-        "visitatori_picco_ore_18": 83300,
-        "totale_visitatori_giorno": 478578,
-        "totale_visitatori_progressivo": 45734685,
-        "note": "Conferenza stampa"
-    },
-    {
-        "data": "2020-04-24",
-        "visitatori_picco_ore_18": 97373,
-        "totale_visitatori_giorno": 495392,
-        "totale_visitatori_progressivo": 46230077,
-        "note": ""
-    },
-    {
-        "data": "2020-04-25",
-        "visitatori_picco_ore_18": 63060,
-        "totale_visitatori_giorno": 418502,
-        "totale_visitatori_progressivo": 46648579,
-        "note": ""
-    },
-    {
-        "data": "2020-04-26",
-        "visitatori_picco_ore_18": 58708,
-        "totale_visitatori_giorno": 379013,
-        "totale_visitatori_progressivo": 47027592,
-        "note": ""
-    },
-    {
-        "data": "2020-04-27",
-        "visitatori_picco_ore_18": 60759,
-        "totale_visitatori_giorno": 408480,
-        "totale_visitatori_progressivo": 47436072,
-        "note": "Conferenza stampa"
-    },
-    {
-        "data": "2020-04-28",
-        "visitatori_picco_ore_18": 114653,
-        "totale_visitatori_giorno": 482301,
-        "totale_visitatori_progressivo": 47918373,
-        "note": ""
-    },
-    {
-        "data": "2020-04-29",
-        "visitatori_picco_ore_18": 63935,
-        "totale_visitatori_giorno": 453756,
-        "totale_visitatori_progressivo": 48372129,
-        "note": ""
-    },
-    {
-        "data": "2020-04-30",
-        "visitatori_picco_ore_18": 60561,
-        "totale_visitatori_giorno": 463521,
-        "totale_visitatori_progressivo": 48835650,
-        "note": "Ultima conferenza stampa"
-    },
-    {
-        "data": "2020-05-01",
-        "visitatori_picco_ore_18": 79809,
-        "totale_visitatori_giorno": 416504,
-        "totale_visitatori_progressivo": 49252154,
-        "note": ""
-    },
-    {
-        "data": "2020-05-02",
-        "visitatori_picco_ore_18": 84209,
-        "totale_visitatori_giorno": 425391,
-        "totale_visitatori_progressivo": 49677545,
-        "note": ""
-    },
-    {
-        "data": "2020-05-03",
-        "visitatori_picco_ore_18": 57613,
-        "totale_visitatori_giorno": 356143,
-        "totale_visitatori_progressivo": 50033688,
-        "note": ""
-    },
-    {
-        "data": "2020-05-04",
-        "visitatori_picco_ore_18": 58179,
-        "totale_visitatori_giorno": 355160,
-        "totale_visitatori_progressivo": 50388848,
-        "note": ""
-    },
-    {
-        "data": "2020-05-05",
-        "visitatori_picco_ore_18": 54578,
-        "totale_visitatori_giorno": 373176,
-        "totale_visitatori_progressivo": 50762024,
-        "note": ""
-    },
-    {
-        "data": "2020-05-06",
-        "visitatori_picco_ore_18": 50135,
-        "totale_visitatori_giorno": 345172,
-        "totale_visitatori_progressivo": 51107196,
-        "note": ""
-    },
-    {
-        "data": "2020-05-07",
-        "visitatori_picco_ore_18": 69692,
-        "totale_visitatori_giorno": 361951,
-        "totale_visitatori_progressivo": 51469147,
-        "note": ""
-    },
-    {
-        "data": "2020-05-08",
-        "visitatori_picco_ore_18": 56637,
-        "totale_visitatori_giorno": 336824,
-        "totale_visitatori_progressivo": 51805971,
-        "note": ""
-    },
-    {
-        "data": "2020-05-09",
-        "visitatori_picco_ore_18": 49318,
-        "totale_visitatori_giorno": 294432,
-        "totale_visitatori_progressivo": 52100403,
-        "note": ""
-    },
-    {
-        "data": "2020-05-10",
-        "visitatori_picco_ore_18": 34768,
-        "totale_visitatori_giorno": 258036,
-        "totale_visitatori_progressivo": 52358439,
-        "note": ""
-    },
-    {
-        "data": "2020-05-11",
-        "visitatori_picco_ore_18": 53534,
-        "totale_visitatori_giorno": 265843,
-        "totale_visitatori_progressivo": 52624282,
-        "note": ""
-    },
-    {
-        "data": "2020-05-12",
-        "visitatori_picco_ore_18": 52862,
-        "totale_visitatori_giorno": 310110,
-        "totale_visitatori_progressivo": 52934392,
-        "note": ""
-    },
-    {
-        "data": "2020-05-13",
-        "visitatori_picco_ore_18": 91028,
-        "totale_visitatori_giorno": 359365,
-        "totale_visitatori_progressivo": 53293757,
-        "note": ""
-    },
-    {
-        "data": "2020-05-14",
-        "visitatori_picco_ore_18": 55060,
-        "totale_visitatori_giorno": 329967,
-        "totale_visitatori_progressivo": 53623724,
-        "note": ""
-    },
-    {
-        "data": "2020-05-15",
-        "visitatori_picco_ore_18": 59060,
-        "totale_visitatori_giorno": 302106,
-        "totale_visitatori_progressivo": 53925830,
-        "note": ""
-    },
-    {
-        "data": "2020-05-16",
-        "visitatori_picco_ore_18": 48539,
-        "totale_visitatori_giorno": 258469,
-        "totale_visitatori_progressivo": 54184299,
-        "note": ""
-    },
-    {
-        "data": "2020-05-17",
-        "visitatori_picco_ore_18": 42093,
-        "totale_visitatori_giorno": 216046,
-        "totale_visitatori_progressivo": 54400345,
-        "note": ""
-    },
-    {
-        "data": "2020-05-18",
-        "visitatori_picco_ore_18": 30073,
-        "totale_visitatori_giorno": 190941,
-        "totale_visitatori_progressivo": 54591286,
-        "note": "Fase2"
-    },
-    {
-        "data": "2020-05-19",
-        "visitatori_picco_ore_18": 43676,
-        "totale_visitatori_giorno": 240085,
-        "totale_visitatori_progressivo": 54831371,
-        "note": ""
-    },
-    {
-        "data": "2020-05-20",
-        "visitatori_picco_ore_18": 49951,
-        "totale_visitatori_giorno": 251952,
-        "totale_visitatori_progressivo": 55083323,
-        "note": ""
-    },
-    {
-        "data": "2020-05-21",
-        "visitatori_picco_ore_18": 32325,
-        "totale_visitatori_giorno": 212199,
-        "totale_visitatori_progressivo": 55295522,
-        "note": ""
-    },
-    {
-        "data": "2020-05-22",
-        "visitatori_picco_ore_18": 29899,
-        "totale_visitatori_giorno": 208011,
-        "totale_visitatori_progressivo": 55503533,
-        "note": ""
-    },
-    {
-        "data": "2020-05-23",
-        "visitatori_picco_ore_18": 38701,
-        "totale_visitatori_giorno": 203496,
-        "totale_visitatori_progressivo": 55707029,
-        "note": ""
-    },
-    {
-        "data": "2020-05-24",
-        "visitatori_picco_ore_18": 24265,
-        "totale_visitatori_giorno": 182259,
-        "totale_visitatori_progressivo": 55889288,
-        "note": ""
-    },
-    {
-        "data": "2020-05-25",
-        "visitatori_picco_ore_18": 31701,
-        "totale_visitatori_giorno": 202782,
-        "totale_visitatori_progressivo": 56092070,
-        "note": ""
-    },
-    {
-        "data": "2020-05-26",
-        "visitatori_picco_ore_18": 37415,
-        "totale_visitatori_giorno": 240237,
-        "totale_visitatori_progressivo": 56332307,
-        "note": ""
-    },
-    {
-        "data": "2020-05-27",
-        "visitatori_picco_ore_18": 27911,
-        "totale_visitatori_giorno": 199421,
-        "totale_visitatori_progressivo": 56531728,
-        "note": ""
-    },
-    {
-        "data": "2020-05-28",
-        "visitatori_picco_ore_18": 29947,
-        "totale_visitatori_giorno": 193335,
-        "totale_visitatori_progressivo": 56725063,
-        "note": ""
-    },
-    {
-        "data": "2020-05-29",
-        "visitatori_picco_ore_18": 42748,
-        "totale_visitatori_giorno": 190355,
-        "totale_visitatori_progressivo": 56915418,
-        "note": ""
-    },
-    {
-        "data": "2020-05-30",
-        "visitatori_picco_ore_18": 39086,
-        "totale_visitatori_giorno": 191546,
-        "totale_visitatori_progressivo": 57106964,
-        "note": ""
-    },
-    {
-        "data": "2020-05-31",
-        "visitatori_picco_ore_18": 20570,
-        "totale_visitatori_giorno": 151912,
-        "totale_visitatori_progressivo": 57258876,
-        "note": ""
-    },
-    {
-        "data": "2020-06-01",
-        "visitatori_picco_ore_18": 28493,
-        "totale_visitatori_giorno": 199999,
-        "totale_visitatori_progressivo": 57458875,
-        "note": ""
-    },
-    {
-        "data": "2020-06-02",
-        "visitatori_picco_ore_18": 27903,
-        "totale_visitatori_giorno": 167052,
-        "totale_visitatori_progressivo": 57625927,
-        "note": ""
-    },
-    {
-        "data": "2020-06-03",
-        "visitatori_picco_ore_18": 22258,
-        "totale_visitatori_giorno": 165818,
-        "totale_visitatori_progressivo": 57791745,
-        "note": ""
-    },
-    {
-        "data": "2020-06-04",
-        "visitatori_picco_ore_18": 25104,
-        "totale_visitatori_giorno": 180638,
-        "totale_visitatori_progressivo": 57972383,
-        "note": "Fase3"
-    },
-    {
-        "data": "2020-06-05",
-        "visitatori_picco_ore_18": 32194,
-        "totale_visitatori_giorno": 191171,
-        "totale_visitatori_progressivo": 58163554,
-        "note": ""
-    },
-    {
-        "data": "2020-06-06",
-        "visitatori_picco_ore_18": 30353,
-        "totale_visitatori_giorno": 176187,
-        "totale_visitatori_progressivo": 58339741,
-        "note": ""
-    },
-    {
-        "data": "2020-06-07",
-        "visitatori_picco_ore_18": 20958,
-        "totale_visitatori_giorno": 132450,
-        "totale_visitatori_progressivo": 58472191,
-        "note": ""
-    },
-    {
-        "data": "2020-06-08",
-        "visitatori_picco_ore_18": 21082,
-        "totale_visitatori_giorno": 139049,
-        "totale_visitatori_progressivo": 58611240,
-        "note": ""
-    },
-    {
-        "data": "2020-06-09",
-        "visitatori_picco_ore_18": 21955,
-        "totale_visitatori_giorno": 139548,
-        "totale_visitatori_progressivo": 58750788,
-        "note": ""
-    },
-    {
-        "data": "2020-06-10",
-        "visitatori_picco_ore_18": 23791,
-        "totale_visitatori_giorno": 152208,
-        "totale_visitatori_progressivo": 58902996,
-        "note": ""
-    },
-    {
-        "data": "2020-06-11",
-        "visitatori_picco_ore_18": 24615,
-        "totale_visitatori_giorno": 146503,
-        "totale_visitatori_progressivo": 59049499,
-        "note": ""
-    },
-    {
-        "data": "2020-06-12",
-        "visitatori_picco_ore_18": 24952,
-        "totale_visitatori_giorno": 158168,
-        "totale_visitatori_progressivo": 59207667,
-        "note": ""
-    },
-    {
-        "data": "2020-06-13",
-        "visitatori_picco_ore_18": 19025,
-        "totale_visitatori_giorno": 130851,
-        "totale_visitatori_progressivo": 59338518,
-        "note": ""
-    },
-    {
-        "data": "2020-06-14",
-        "visitatori_picco_ore_18": 14725,
-        "totale_visitatori_giorno": 97066,
-        "totale_visitatori_progressivo": 59435584,
-        "note": ""
-    },
-    {
-        "data": "2020-06-15",
-        "visitatori_picco_ore_18": 21073,
-        "totale_visitatori_giorno": 105132,
-        "totale_visitatori_progressivo": 59540716,
-        "note": ""
-    }
-]
+data;visitatori_picco_ore_18;totale_visitatori_giorno;totale_visitatori_progressivo  ;note
+2020-03-08;150000;823742;823742;
+2020-03-09;150000;948203;1771945;
+2020-03-10;165000;1116934;2888879;
+2020-03-11;180000;1497752;4386631;
+2020-03-12;350000;2037482;6424113;
+2020-03-13;90000;1232557;7656670;
+2020-03-14;250000;1077946;8734616;
+2020-03-15;175000;823542;9558158;
+2020-03-16;200000;883922;10442080;
+2020-03-17;180000;994669;11436749;
+2020-03-18;210000;981057;12417806;
+2020-03-19;200000;1245513;13663319;
+2020-03-20;285000;1682688;15346007;
+2020-03-21;279000;1573936;16919943;
+2020-03-22;310000;1906429;18826372;
+2020-03-23;306000;1577784;20404156;
+2020-03-24;530911;1993868;22398024;
+2020-03-25;290736;1293310;23691334;
+2020-03-26;233318;1171149;24862483;
+2020-03-27;263195;1332554;26195037;
+2020-03-28;151713;975048;27170085;
+2020-03-29;165795;921898;28091983;
+2020-03-30;204738;1119384;29211367;
+2020-03-31;217701;1257319;30468686;
+2020-04-01;212104;1239018;31707704;
+2020-04-02;277316;1157213;32864917;
+2020-04-03;148661;870827;33735744;
+2020-04-04;215902;858202;34593946;
+2020-04-05;103462;626907;35220853;
+2020-04-06;105879;717762;35938615;
+2020-04-07;113210;644714;36583329;
+2020-04-08;117341;625354;37208683;
+2020-04-09;153450;636590;37845273;
+2020-04-10;121427;675468;38520741;
+2020-04-11;101307;573989;39094730;
+2020-04-12;78941;460613;39555343;
+2020-04-13;85433;574258;40129601;
+2020-04-14;95709;641314;40770915;
+2020-04-15;105090;664355;41435270;
+2020-04-16;164178;679187;42114457;
+2020-04-17;151515;588513;42702970;
+2020-04-18;129124;534710;43237680;ultima conferenza stampa giornaliera (17/4)
+2020-04-19;75283;441895;43679575;
+2020-04-20;109707;491987;44171562;conferenza stampa
+2020-04-21;122601;534442;44706004;
+2020-04-22;138752;550103;45256107;
+2020-04-23;83300;478578;45734685;conferenza stampa
+2020-04-24;97373;495392;46230077;
+2020-04-25;63060;418502;46648579;
+2020-04-26;58708;379013;47027592;
+2020-04-27;60759;408480;47436072;conferenza stampa
+2020-04-28;114653;482301;47918373;
+2020-04-29;63935;453756;48372129;
+2020-04-30;60561;463521;48835650;ultima conferenza stampa
+2020-05-01;79809;416504;49252154;
+2020-05-02;84209;425391;49677545;
+2020-05-03;57613;356143;50033688;
+2020-05-04;58179;355160;50388848;
+2020-05-05;54578;373176;50762024;
+2020-05-06;50135;345172;51107196;
+2020-05-07;69692;361951;51469147;
+2020-05-08;56637;336824;51805971;
+2020-05-09;49318;294432;52100403;
+2020-05-10;34768;258036;52358439;
+2020-05-11;53534;265843;52624282;
+2020-05-12;52862;310110;52934392;
+2020-05-13;91028;359365;53293757;
+2020-05-14;55060;329967;53623724;
+2020-05-15;59060;302106;53925830;
+2020-05-16;48539;258469;54184299;
+2020-05-17;42093;216046;54400345;
+2020-05-18;30073;190941;54591286;Fase2
+2020-05-19;43676;240085;54831371;
+2020-05-20;49951;251952;55083323;
+2020-05-21;32325;212199;55295522;
+2020-05-22;29899;208011;55503533;
+2020-05-23;38701;203496;55707029;
+2020-05-24;24265;182259;55889288;
+2020-05-25;31701;202782;56092070;
+2020-05-26;37415;240237;56332307;
+2020-05-27;27911;199421;56531728;
+2020-05-28;29947;193335;56725063;
+2020-05-29;42748;190355;56915418;
+2020-05-30;39086;191546;57106964;
+2020-05-31;20570;151912;57258876;
+2020-06-01;28493;199999;57458875;
+2020-06-02;27903;167052;57625927;
+2020-06-03;22258;165818;57791745;
+2020-06-04;25104;180638;57972383;Fase3
+2020-06-05;32194;191171;58163554;
+2020-06-06;30353;176187;58339741;
+2020-06-07;20958;132450;58472191;
+2020-06-08;21082;139049;58611240;
+2020-06-09;21955;139548;58750788;
+2020-06-10;23791;152208;58902996;
+2020-06-11;24615;146503;59049499;
+2020-06-12;24952;158168;59207667;
+2020-06-13;19025;130851;59338518;
+2020-06-14;14725;97066;59435584;
+2020-06-15;21073;105132;59540716;
+2020-06-16;28723;130600;59671316;
+2020-06-17;20110;124379;59795695;
+2020-06-18;21855;127705;59923400;
+2020-06-19;15334;114231;60037631;
+2020-06-20;34518;121903;60159534;
+2020-06-21;12000;75619;60235153;
+2020-06-22;10673;81633;60316786;
+2020-06-23;14564;108222;60425008;
+2020-06-24;20358;115669;60540677;
+2020-06-25;32290;146352;60687029;
+2020-06-25;32290;146352;60833381;Nuova modalità aggiornamento dati sanitari
+2020-06-26;27129;195507;61028888;
+2020-06-27;30000;198537;61227425;
+2020-06-28;39482;186320;61413745;
+2020-06-29;31615;160347;61574092;
+2020-06-30;23408;163414;61737506;
+2020-07-01;22000;168604;61906110;
+2020-07-02;30000;168976;62075086;
+2020-07-03;22500;138367;62213453;
+2020-07-04;20000;136200;62349653;
+2020-07-05;17500;121430;62471083;
+2020-07-06;18500;132623;62603706;
+2020-07-07;18738;142031;62745737;
+2020-07-08;13321;125193;62870930;
+2020-07-09;14507;120167;62991097;
+2020-07-10;13538;116349;63107446;
+2020-07-11;12310;104310;63211756;
+2020-07-12;12370;94586;63306342;
+2020-07-13;10358;89354;63395696;
+2020-07-14;14535;115989;63511685;
+2020-07-15;11762;101334;63613019;
+2020-07-16;13000;107142;63720161;
+2020-07-17;11115;104641;63824802;
+2020-07-18;10191;103880;63928682;
+2020-07-19;7541;77923;64006605;
+2020-07-20;7870;81578;64088183;
+2020-07-21;10234;93544;64181727;
+2020-07-22;8894;88086;64269813;
+2020-07-23;10866;95001;64364814;
+2020-07-24;10196;98533;64463347;
+2020-07-25;10560;96402;64559749;
+2020-07-26;7500;72535;64632284;
+2020-07-27;6477;67305;64699589;
+2020-07-28;9261;94794;64794383;
+2020-07-29;8484;83653;64878036;
+2020-07-30;8777;86688;64964724;
+2020-07-31;9383;81985;65046709;
+2020-08-01;12249;86068;65132777;
+2020-08-02;7361;65899;65198676;
+2020-08-03;7755;73560;65272236;
+2020-08-04;7755;71242;65343478;
+2020-08-05;7009;65282;65408760;
+2020-08-06;8793;78232;65486992;
+2020-08-07;8928;82217;65569209;
+2020-08-08;8100;78743;65647952;Nuova Dashborad
+2020-08-09;7040;63599;65711551;
+2020-08-10;6410;63629;65775180;
+2020-08-11;7367;69242;65844422;
+2020-08-12;7149;63909;65908331;
+2020-08-13;7137;76170;65984501;
+2020-08-14;12483;82928;66067429;
+2020-08-15;10425;70064;66137493;
+2020-08-16;7835;69245;66206738;sorpasso Mobile
+2020-08-17;8609;80233;66286971;sorpasso Mobile
+2020-08-18;8887;91397;66378368;
+2020-08-19;11401;89496;66467864;
+2020-08-20;9005;80722;66548586;
+2020-08-21;13144;102177;66650763;
+2020-08-22;11500;89761;66740524;
+2020-08-23;16024;90670;66831194;
+2020-08-24;10812;84047;66915241;
+2020-08-25;13755;95943;67011184;
+2020-08-26;19959;104367;67115551;
+2020-08-27;13091;89916;67205467;
+2020-08-28;16263;91868;67297335;
+2020-08-29;12479;83929;67381264;
+2020-08-30;9026;63297;67444561;sorpasso Mobile
+2020-08-31;6971;63926;67508487;sorpasso Mobile
+2020-09-01;25966;109975;67618462;
+2020-09-02;16261;79421;67697883;
+2020-09-03;10819;71341;67769224;
+2020-09-04;7815;66148;67835372;
+2020-09-05;12305;69500;67904872;sorpasso Mobile
+2020-09-06;6333;51681;67956553;sorpasso Mobile
+2020-09-07;6446;55044;68011597;sorpasso Mobile
+2020-09-08;10540;74901;68086498;sorpasso Mobile
+2020-09-09;7664;63859;68150357;sorpasso Mobile
+2020-09-10;8002;64339;68214696;sorpasso Mobile
+2020-09-11;7823;66100;68280796;sorpasso Mobile
+2020-09-12;8179;63949;68344745;sorpasso Mobile
+2020-09-13;4919;45455;68390200;sorpasso Mobile
+2020-09-14;5730;53280;68443480;sorpasso Mobile
+2020-09-15;7125;62313;68505793;sorpasso Mobile
+2020-09-16;6800;57733;68563526;sorpasso Mobile
+2020-09-17;7498;59614;68623140;sorpasso Mobile
+2020-09-18;8927;65211;68688351;sorpasso Mobile
+2020-09-19;8548;59787;68748138;sorpasso Mobile
+2020-09-20;5300;46331;68794469;sorpasso Mobile
+2020-09-21;5500;47672;68842141;sorpasso Mobile
+2020-09-22;7648;63919;68906060;sorpasso Mobile
+2020-09-23;10293;64884;68970944;sorpasso Mobile
+2020-09-24;7720;60873;69031817;sorpasso Mobile
+2020-09-25;11994;67672;69099489;sorpasso Mobile
+2020-09-26;8690;65156;69164645;sorpasso Mobile
+2020-09-27;5804;53080;69217725;sorpasso Mobile
+2020-09-28;6823;54987;69272712;sorpasso Mobile
+2020-09-29;7985;68660;69341372;sorpasso Mobile
+2020-09-30;7008;62245;69403617;sorpasso Mobile
+2020-10-01;6852;56671;69460288;sorpasso Mobile
+2020-10-02;13713;81581;69541869;
+2020-10-03;9948;75965;69617834;
+2020-10-04;11094;85327;69703161;
+2020-10-05;7808;72870;69776031;sorpasso Mobile
+2020-10-06;9366;86736;69862767;
+2020-10-07;9573;73789;69936556;
+2020-10-08;15459;89549;70026105;
+2020-10-09;21639;121358;70147463;
+2020-10-10;17192;110285;70257748;
+2020-10-11;10804;89573;70347321;
+2020-10-12;10992;88167;70435488;sorpasso Mobile
+2020-10-13;18643;104784;70540272;
+2020-10-14;20693;106218;70646490;
+2020-10-15;26557;122170;70768660;
+2020-10-16;28368;138761;70907421;
+2020-10-17;37467;146055;71053476;
+2020-10-18;12319;86235;71139711;
+2020-10-19;16481;93240;71232951;sorpasso Mobile
+2020-10-20;19189;106317;71339268;
+2020-10-21;22719;107081;71446349;
+2020-10-22;23451;121749;71568098;
+2020-10-23;28346;137402;71705500;
+2020-10-24;28200;132045;71837545;
+2020-10-25;28141;114412;71951957;
+2020-10-26;14169;94054;72046011;sorpasso Mobile
+2020-10-27;25031;120062;72166073;
+2020-10-28;55646;147619;72313692;
+2020-10-29;32763;123359;72437051;
+2020-10-30;42503;148759;72585810;
+2020-10-31;33100;132887;72718697;
+2020-11-01;33364;123010;72841707;
+2020-11-02;15388;96369;72938076;sorpasso Mobile
+2020-11-03;26055;128464;73066540;
+2020-11-04;37632;153942;73220482;
+2020-11-05;27081;155806;73376288;
+2020-11-06;42422;148143;73524431;
+2020-11-07;22301;110060;73634491;
+2020-11-08;16938;89738;73724229;
+2020-11-09;17101;96494;73820723;
+2020-11-10;21949;130802;73951525;
+2020-11-11;70110;212022;74163547;
+2020-11-12;23064;119890;74283437;
+2020-11-13;23864;117987;74401424;
+2020-11-14;31089;127344;74528768;
+2020-11-15;16514;86612;74615380;
+2020-11-16;15848;89138;74704518;
+2020-11-17;38052;127204;74831722;
+2020-11-18;25630;106131;74937853;
+2020-11-19;47209;132872;75070725;
+2020-11-20;21491;97499;75168224;
+2020-11-21;22054;96881;75265105;
+2020-11-22;13198;73163;75338268;
+2020-11-23;13765;76081;75414349;
