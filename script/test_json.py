@@ -45,7 +45,13 @@ def main():
     ]:
         # json -> python list of dicts
         jpath = Path("dati-json").joinpath(PREFIX + stem).with_suffix(".json")
-        json_py = json.load(jpath.open("rb"))
+        try:
+            with jpath.open("rb") as fp:
+                json_py = json.load(fp)
+        except json.JSONDecodeError as exc:
+            print("\n* {}: JSON decode error: {}".format(jpath, exc), file=sys.stderr)
+            errors += 1
+            continue
 
         # CSV -> pandas DataFrame -> json -> python list of dicts
         # intermediate converson to json in order make direct comparison
