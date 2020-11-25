@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>25/11/2020</b><br>
+La Regione Emilia-Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
 <b>24/11/2020</b><br>
 La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 2 casi del giorno 23/11 in quanto non pazienti COVID. La Regione Basilicata comunica che il numero odierno dei decessi (16) è riferito a più giornate dal 19 al 24 novembre. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 117 casi positivi registrati dai laboratori privati dal 21 ottobre al 21 novembre
 
