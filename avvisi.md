@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>26/11/2020</b><br>
+La Regione Basilicata comunica che il dato sui casi guariti è in corso di verifica e il numero totale dei decessi comprende 1 paziente residente in altra regione con diagnosi e decesso avvenuto in struttura ospedaliera della regione Basilicata. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i casi di oggi riportano 104 positività da laboratori privati nel periodo 11-24 novembre.
+
 <b>25/11/2020</b><br>
 La Regione Emilia-Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
 
