@@ -1,0 +1,4 @@
+- name: csv-lint
+  # You may pin to the exact commit or the version.
+  # uses: blackstar257/docker-csvlint@fe49f826f65824b070592df4abbc4a201221f55b
+  uses: blackstar257/docker-csvlint@0.0.1
