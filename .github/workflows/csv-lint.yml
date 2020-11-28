@@ -1,4 +1,12 @@
-- name: csv-lint
-  # You may pin to the exact commit or the version.
-  # uses: blackstar257/docker-csvlint@fe49f826f65824b070592df4abbc4a201221f55b
-  uses: blackstar257/docker-csvlint@0.0.1
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: csv lint
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run csv-lint
+      uses: blackstar257/docker-csvlint@master
+      env:
+        ACTION_STATE_NAME: "note/dpc-covid19-ita-note.csv"
