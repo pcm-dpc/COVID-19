@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>30/11/2020</b><br>
+La Regione Abruzzo segnala che dal totale dei casi positivi è stato sottratto 1 caso dei giorni passati, in quanto caso duplicato. La regione Umbria segnala che un ricalcolo sul numero dei decessi.
+
 <b>29/11/2020</b><br>
 La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19.
 

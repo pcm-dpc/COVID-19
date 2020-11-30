@@ -490,5 +490,13 @@
     {
         "data": "2020-11-28T17:00:00",
         "note": "La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19."
+    },
+    {
+        "data": "2020-11-29T17:00:00",
+        "note": "La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19."
+    },
+    {
+        "data": "2020-11-30T17:00:00",
+        "note": "La Regione Abruzzo segnala che dal totale dei casi positivi è stato sottratto 1 caso dei giorni passati, in quanto caso duplicato. La regione Umbria segnala che un ricalcolo sul numero dei decessi."
     }
 ]
