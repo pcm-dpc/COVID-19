@@ -81,6 +81,10 @@ All changes to the project, new features and information are documented in this 
 
 - Change: new dataset that adds the data "casi_da_sospetto_diagnostico" and "casi_da_screening", note_it and note_en fields are removed by including a single "note" field, in Provincial data added the value "Fuori Regione / Provincia Autonoma", all historical data have been aligned and a legacy repository with old datasets is maintained until 31/07 in "legacy" directory
 
+## 2020-12-01
+
+- Add: new shapefile with new containment measures at national level (red, orange and yellow areas) with related metadata.
+
 ## Next updates
 
 - Data quality analysis notes
