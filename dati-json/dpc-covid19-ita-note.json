@@ -502,5 +502,9 @@
     {
         "data": "2020-12-01T17:00:00",
         "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19."
+    },
+    {
+        "data": "2020-12-02T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi."
     }
 ]
