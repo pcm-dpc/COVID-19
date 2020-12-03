@@ -93,4 +93,4 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
-- Nuovi dati
+- Aggiunta "Ingressi in terapia intensiva"
