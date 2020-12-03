@@ -85,7 +85,12 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: nuovo shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
 
+## 2020-12-03
+
+- I dati caso da sospetto diagnostico e casi da screening non più erogati
+
 ## Prossimi aggiornamenti
 
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
+- Nuovi dati
