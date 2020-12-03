@@ -5092,5 +5092,23 @@
         "casi_testati": 13167345.0,
         "note_it": null,
         "note_en": null
+    },
+    {
+        "data": "2020-12-03T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 31772,
+        "terapia_intensiva": 3597,
+        "totale_ospedalizzati": 35369,
+        "isolamento_domiciliare": 724613,
+        "totale_positivi": 759982,
+        "variazione_totale_positivi": -1248,
+        "nuovi_positivi": 23225,
+        "dimessi_guariti": 846809,
+        "deceduti": 58038,
+        "totale_casi": 1664829,
+        "tamponi": 22561071,
+        "casi_testati": 23333937.0,
+        "note_it": null,
+        "note_en": null
     }
 ]

@@ -506,5 +506,9 @@
     {
         "data": "2020-12-02T17:00:00",
         "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi."
+    },
+    {
+        "data": "2020-12-03T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 6 casi. La Regione Campania comunica che il dato sugli ingressi in TI del giorno è in corso di definizione. La PA Bolzano comunica che il dato sugli ingressi in TI del giorno è in corso di definizione."
     }
 ]

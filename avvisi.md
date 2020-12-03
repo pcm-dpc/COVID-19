@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>03/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 6 casi. La Regione Campania comunica che il dato sugli ingressi in TI del giorno è in corso di definizione. La PA Bolzano comunica che il dato sugli ingressi in TI del giorno è in corso di definizione.
+
 <b>02/12/2020</b><br>
 La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi.
 
