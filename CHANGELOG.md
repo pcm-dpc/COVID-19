@@ -46,7 +46,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## 2020-04-21
 
-- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni) con rlativi metadata.
+- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni) con relativi metadata.
 
 ## 2020-04-22
 
@@ -80,6 +80,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2020-06-29
 
 - Modifica: nuovo dataset che aggiunge i dati "casi_da_sospetto_diagnostico" e "casi_da_screening", i campi note_it e note_en vengono rimossi includendo un solo campo "note", in dati Province aggiunto il valore "Fuori Regione / Provincia Autonoma", tutti i dati storici sono stati allineati e fino al 31/07 viene tenuto un repository legacy con i vecchi dataset nella directory "legacy"
+
+## 2020-12-01
+
+- Aggiunta: nuovo shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
 
 ## Prossimi aggiornamenti
 
