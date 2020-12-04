@@ -4,6 +4,12 @@
 
 # COVID-19 Italia Data
 
+** 04/12/2020: the data relating to 03/12/2020 (data error "cases tested" of the Campania Region ") are correct data both in the dataset relating to the Regions and to the national trend **
+
+** Changes to datasets ** <br>
+** Case data from suspected diagnosis and cases from screening no longer provided ** <br>
+** From Monday 07/12/2020 the field "Entrance to intensive care" will be added ** <br> <br>
+
 ## Notices
 
 ```diff
