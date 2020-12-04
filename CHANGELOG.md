@@ -2,36 +2,56 @@
 
 Tutte le modifiche al progetto, nuove funzionalità e informazioni sono documentate in questo file
 
-## 2020-03-08
+## Prossimi aggiornamenti
 
-- Modifica: "dati-andamento-nazionale" riportando i totali dei dati delle Regioni
-- Rimossa: directory "shape-aree-contenimento" e creata "aree" con "shp" e "geojson"
+- Note di analisi di data quality
+- Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
+- Aggiunta "Ingressi in terapia intensiva"
 
-## 2020-03-10
+## 2020-12-03
 
-- Aggiornate le Aree secondo il nuovo DPCM 9 Marzo 2020
+- I dati caso da sospetto diagnostico e casi da screening non più erogati
 
-## 2020-03-11
+## 2020-12-01
 
-- Modifica: "Bolzano" e "Trento" rinominati in "P.A. Bolzano" e "P.A. Trento" in "dati-regioni e "dati-province" ("denominazione_regione")
-- Modifica: Friuli V. G. rinominata in "dati-regioni e "dati-province" ("denominazione_regione") in "Friuli Venezia Giulia"
+- Aggiunta: nuovo shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
 
-## 2020-03-12
+## 2020-06-29
 
-- Aggiunto: Codice di Condotta in italiano (CODE_OF_CONDUCT.md) e in inglese (CODE_OF_CONDUCT_EN.md)
-- Aggiunto: Changelog in italiano (CHANGELOG.md) e in inglese (CHANGELOG_EN.md)
-- Aggiornate le Aree secondo il nuovo DPCM 11 Marzo 2020
+- Modifica: nuovo dataset che aggiunge i dati "casi_da_sospetto_diagnostico" e "casi_da_screening", i campi note_it e note_en vengono rimossi includendo un solo campo "note", in dati Province aggiunto il valore "Fuori Regione / Provincia Autonoma", tutti i dati storici sono stati allineati e fino al 31/07 viene tenuto un repository legacy con i vecchi dataset nella directory "legacy"
 
-## 2020-03-19
+## 2020-05-18
 
-- Aggiunti ultimi dati (latest) csv, nelle rispettive directory, per andamento nazionale (dpc-covid19-ita-andamento-nazionale-latest.csv), regioni (dpc-covid19-ita-regioni-latest.csv) e province (dpc-covid19-ita-province-latest.csv)
-- Aggiunti ultimi dati (latest) json, nella directory dati-json, per andamento nazionale (dpc-covid19-ita-andamento-nazionale-latest.json), regioni (dpc-covid19-ita-regioni-latest.json) e province (dpc-covid19-ita-province-latest.json)
+- Aggiunta: aggiornamento al 18/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 17/5/2020.
 
-## 2020-03-25
+## 2020-05-16
 
-- Data nel formato ISO8601 UTC
-- Aggiunta: "Note" in "dati-regioni", "dati-province" e "dati-andamento-nazionale"
-- Aggiunta: dataset "note"
+- Cambio codice_regione P.A. Bolzano e P.A. Trento: da 04 a 21 per P.A. Bolzano e da 04 a 22 per P.A. Trento (codice provincia)
+
+## 2020-05-06
+
+- Aggiunta: aggiornamento al 03/05/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
+## 2020-05-04
+
+- Aggiunta: aggiornamento al 4/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 26/4/2020.
+
+## 2020-04-27
+
+- Aggiunta: aggiornamento al 26/4/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
+## 2020-04-23
+
+- Aggiunta: metadati del nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato DCAT-AP-IT
+- Integrato README con specifiche per il data model dei dataset aree (nazionali e subregionali)
+
+## 2020-04-21
+
+- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni) con relativi metadata.
+
+## 2020-04-20
+
+- Aggiunta: "casi_testati", totale dei soggetti sottoposti al test dal 19/04/2020
 
 ## 2020-03-30
 
@@ -40,57 +60,33 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Aggiunta: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" e "dati_andamento_nazionale"
 - Modifica: Regione "Emilia Romagna" rinominato in "Emilia-Romagna" in "dati-regioni" e "dati-province" ("denominazione_regione")
 
-## 2020-04-20
+## 2020-03-25
 
-- Aggiunta: "casi_testati", totale dei soggetti sottoposti al test dal 19/04/2020
+- Data nel formato ISO8601 UTC
+- Aggiunta: "Note" in "dati-regioni", "dati-province" e "dati-andamento-nazionale"
+- Aggiunta: dataset "note"
 
-## 2020-04-21
+## 2020-03-19
 
-- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni) con relativi metadata.
+- Aggiunti ultimi dati (latest) csv, nelle rispettive directory, per andamento nazionale (dpc-covid19-ita-andamento-nazionale-latest.csv), regioni (dpc-covid19-ita-regioni-latest.csv) e province (dpc-covid19-ita-province-latest.csv)
+- Aggiunti ultimi dati (latest) json, nella directory dati-json, per andamento nazionale (dpc-covid19-ita-andamento-nazionale-latest.json), regioni (dpc-covid19-ita-regioni-latest.json) e province (dpc-covid19-ita-province-latest.json)
 
-## 2020-04-22
+## 2020-03-12
 
-- Aggiunta: nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato csv e json.  [link alla dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link al dataset ](https://github.com/pcm-dpc/COVID-19/tree/master/dati-contratti-dpc-forniture)
+- Aggiunto: Codice di Condotta in italiano (CODE_OF_CONDUCT.md) e in inglese (CODE_OF_CONDUCT_EN.md)
+- Aggiunto: Changelog in italiano (CHANGELOG.md) e in inglese (CHANGELOG_EN.md)
+- Aggiornate le Aree secondo il nuovo DPCM 11 Marzo 2020
 
-## 2020-04-23
+## 2020-03-11
 
-- Aggiunta: metadati del nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato DCAT-AP-IT
-- Integrato README con specifiche per il data model dei dataset aree (nazionali e subregionali)
+- Modifica: "Bolzano" e "Trento" rinominati in "P.A. Bolzano" e "P.A. Trento" in "dati-regioni e "dati-province" ("denominazione_regione")
+- Modifica: Friuli V. G. rinominata in "dati-regioni e "dati-province" ("denominazione_regione") in "Friuli Venezia Giulia"
 
-## 2020-04-27
+## 2020-03-10
 
-- Aggiunta: aggiornamento al 26/4/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
+- Aggiornate le Aree secondo il nuovo DPCM 9 Marzo 2020
 
-## 2020-05-04
+## 2020-03-08
 
-- Aggiunta: aggiornamento al 4/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 26/4/2020.
-
-## 2020-05-06
-
-- Aggiunta: aggiornamento al 03/05/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
-
-## 2020-05-16
-
-- Cambio codice_regione P.A. Bolzano e P.A. Trento: da 04 a 21 per P.A. Bolzano e da 04 a 22 per P.A. Trento (codice provincia)
-
-## 2020-05-18
-
-- Aggiunta: aggiornamento al 18/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 17/5/2020.
-
-## 2020-06-29
-
-- Modifica: nuovo dataset che aggiunge i dati "casi_da_sospetto_diagnostico" e "casi_da_screening", i campi note_it e note_en vengono rimossi includendo un solo campo "note", in dati Province aggiunto il valore "Fuori Regione / Provincia Autonoma", tutti i dati storici sono stati allineati e fino al 31/07 viene tenuto un repository legacy con i vecchi dataset nella directory "legacy"
-
-## 2020-12-01
-
-- Aggiunta: nuovo shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
-
-## 2020-12-03
-
-- I dati caso da sospetto diagnostico e casi da screening non più erogati
-
-## Prossimi aggiornamenti
-
-- Note di analisi di data quality
-- Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
-- Aggiunta "Ingressi in terapia intensiva"
+- Modifica: "dati-andamento-nazionale" riportando i totali dei dati delle Regioni
+- Rimossa: directory "shape-aree-contenimento" e creata "aree" con "shp" e "geojson"
