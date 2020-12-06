@@ -5411,7 +5411,7 @@
         "casi_da_screening": 0.0,
         "totale_casi": 1688939,
         "tamponi": 22767130,
-        "casi_testati": 13348428.0,
+        "casi_testati": 13348068.0,
         "note": null
     },
     {
@@ -5430,7 +5430,26 @@
         "casi_da_screening": 0.0,
         "totale_casi": 1709991,
         "tamponi": 22962114,
-        "casi_testati": 14243149.0,
+        "casi_testati": 13435624.0,
+        "note": null
+    },
+    {
+        "data": "2020-12-06T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 30391,
+        "terapia_intensiva": 3454,
+        "totale_ospedalizzati": 33845,
+        "isolamento_domiciliare": 721461,
+        "totale_positivi": 755306,
+        "variazione_totale_positivi": 1137,
+        "nuovi_positivi": 18887,
+        "dimessi_guariti": 913494,
+        "deceduti": 60078,
+        "casi_da_sospetto_diagnostico": 0.0,
+        "casi_da_screening": 0.0,
+        "totale_casi": 1728878,
+        "tamponi": 23125664,
+        "casi_testati": 13510154.0,
         "note": null
     }
 ]

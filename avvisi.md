@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>06/12/2020</b><br>
+La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250
+
 <b>05/12/2020</b><br>
 La Regione Calabria comunica che in data 3 dicembre è stato ricalcolato il dato sull'incremento casi giornaliero da 280 a 294. La Regione Campania comunica che non è possibile trasmettere i dati sugli ingressi del giorno in terapia intensiva perché in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sugli ingressi del giorno in terapia intensiva perchè in corso di definizione. La Regione Valle D'Aosta comunica che il dato delle persone testate del 4/12 era 34.374 e non 34.734.
 
