@@ -10,7 +10,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## 2020-12-06
 
-- Aggiunta: aggiornato shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
+- Modifica: aggiornato shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
 
 ## 2020-12-03
 
