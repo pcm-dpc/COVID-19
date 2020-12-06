@@ -54,22 +54,12 @@
 	<gmd:metadataStandardVersion>
 		<gco:CharacterString>2.0</gco:CharacterString>
 	</gmd:metadataStandardVersion>
-    <gmd:locale>
-      <gmd:PT_Locale id="locale-en">
-         <gmd:languageCode>
-            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">English</gmd:LanguageCode>
-         </gmd:languageCode>
-         <gmd:characterEncoding>
-            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
-         </gmd:characterEncoding>
-      </gmd:PT_Locale>
-    </gmd:locale>	
 	<gmd:referenceSystemInfo>
 		<gmd:MD_ReferenceSystem>
 			<gmd:referenceSystemIdentifier>
 				<gmd:RS_Identifier>
 					<gmd:code>
-						<gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/4258">ETRS89</gmx:Anchor>
+						<gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/4936">ETRS89-XYZ</gmx:Anchor>
 					</gmd:code>
 				</gmd:RS_Identifier>
 			</gmd:referenceSystemIdentifier>
@@ -79,9 +69,9 @@
 		<gmd:MD_DataIdentification>
 			<gmd:citation>
 				<gmd:CI_Citation>
-               <gmd:title>
-                  <gco:CharacterString>Nuove zone di applicazione a livello nazionale delle misura di contenimento del contagio da COVID-19 (RNDT Dataset) -Versione 2.0</gco:CharacterString>
-               </gmd:title>				
+					<gmd:title>
+						<gco:CharacterString>Nuove zone di applicazione a livello nazionale delle misura di contenimento del contagio da COVID-19 (RNDT Dataset) -Versione 2.0</gco:CharacterString>
+					</gmd:title>
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
@@ -105,7 +95,7 @@
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
-								<gco:Date>2020-12-01</gco:Date>
+								<gco:Date>2020-12-06</gco:Date>
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -122,7 +112,7 @@
 					<gmd:citedResponsibleParty>
 						<gmd:CI_ResponsibleParty>
 							<gmd:organisationName>
-								<gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>								
+								<gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 							</gmd:organisationName>
 							<gmd:contactInfo>
 								<gmd:CI_Contact>
@@ -150,7 +140,7 @@
 					<gmd:citedResponsibleParty>
 						<gmd:CI_ResponsibleParty>
 							<gmd:organisationName>
-								<gco:CharacterString>Governo Italiano - Presidenza del Consiglio dei Ministri</gco:CharacterString>								
+								<gco:CharacterString>Governo Italiano - Presidenza del Consiglio dei Ministri</gco:CharacterString>
 							</gmd:organisationName>
 							<gmd:contactInfo>
 								<gmd:CI_Contact>
@@ -186,17 +176,17 @@
 						</gmd:CI_Series>
 					</gmd:series>
 					<gmd:otherCitationDetails>
-                  <gco:CharacterString>DPCM 3 novembre 2020 recante Ulteriori disposizioni attuative del decreto-legge 25 marzo 2020, n. 19, convertito, con modificazioni, dalla legge 25 maggio 2020, n. 35, recante «Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19», e del decreto-legge 16 maggio 2020, n. 33, convertito, con modificazioni, dalla legge 14 luglio 2020, n. 74, recante «Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19». Ordinanze del Ministero della Salute del 4, 10, 13, 19, 20 e 27 novembre 2020 recanti Ulteriori misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19.</gco:CharacterString>
+						<gco:CharacterString>DPCM 3 dicembre 2020 recante Ulteriori disposizioni attuative del decreto-legge 25 marzo 2020, n. 19, convertito, con modificazioni, dalla legge 22 maggio 2020, n. 35, recante: «Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19» e del decreto-legge 16 maggio 2020, n. 33, convertito, con modificazioni, dalla legge 14 luglio 2020, n. 74, recante: «Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19», nonche' del decreto-legge 2 dicembre 2020, n. 158, recante: «Disposizioni urgenti per fronteggiare i rischi sanitari connessi alla diffusione del virus COVID-19». Ordinanze del Ministero della Salute del 4, 10, 13, 19, 20, 27 novembre e 5 dicembre 2020 recanti Ulteriori misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19.</gco:CharacterString>
 					</gmd:otherCitationDetails>
 				</gmd:CI_Citation>
 			</gmd:citation>
 			<gmd:abstract>
-            <gco:CharacterString>Una o più unità amministrative (regioni) per le quali sono state adottate misure di contenimento ai fini della prevenzione rivolte alla popolazione e con esclusione del personale sanitario, delle forze di polizia, del corpo nazionale dei vigili del fuoco e delle forze armate, nell'esercizio delle loro funzioni. Le misure di contenimento sono differenziate in base a scenari "tipo" e livelli di rischio epidemiologico.</gco:CharacterString>
+				<gco:CharacterString>Una o più unità amministrative (regioni) per le quali sono state adottate misure di contenimento ai fini della prevenzione rivolte alla popolazione e con esclusione del personale sanitario, delle forze di polizia, del corpo nazionale dei vigili del fuoco e delle forze armate, nell'esercizio delle loro funzioni. Le misure di contenimento sono differenziate in base a scenari "tipo" e livelli di rischio epidemiologico.</gco:CharacterString>
 			</gmd:abstract>
 			<gmd:pointOfContact>
 				<gmd:CI_ResponsibleParty>
 					<gmd:organisationName>
-						<gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>						
+						<gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 					</gmd:organisationName>
 					<gmd:contactInfo>
 						<gmd:CI_Contact>
@@ -231,10 +221,10 @@
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/hh">Salute umana e sicurezza</gmx:Anchor>						
+						<gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/hh">Salute umana e sicurezza</gmx:Anchor>
 					</gmd:keyword>
 					<gmd:keyword>
-						<gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati</gmx:Anchor>						
+						<gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati</gmx:Anchor>
 					</gmd:keyword>
 					<gmd:thesaurusName>
 						<gmd:CI_Citation>
@@ -404,7 +394,7 @@
 				</gmd:EX_Extent>
 			</gmd:extent>
 			<gmd:supplementalInformation>
-				<gco:CharacterString>Delibera del Consiglio dei Ministri del 07 ottobre 2020 - Proroga dello stato di emergenza in conseguenza del rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili (20A05463) (GU Serie Generale n.248 del 07-10-2020)</gco:CharacterString>			
+				<gco:CharacterString>Delibera del Consiglio dei Ministri del 07 ottobre 2020 - Proroga dello stato di emergenza in conseguenza del rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili (20A05463) (GU Serie Generale n.248 del 07-10-2020)</gco:CharacterString>
 			</gmd:supplementalInformation>
 		</gmd:MD_DataIdentification>
 	</gmd:identificationInfo>
@@ -425,7 +415,7 @@
 					<gmd:distributorContact>
 						<gmd:CI_ResponsibleParty>
 							<gmd:organisationName>
-								<gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>							
+								<gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
 							</gmd:organisationName>
 							<gmd:contactInfo>
 								<gmd:CI_Contact>
@@ -452,7 +442,9 @@
 					</gmd:distributorContact>
 				</gmd:MD_Distributor>
 			</gmd:distributor>
-			<gmd:transferOptions><gmd:MD_DigitalTransferOptions><gmd:onLine>
+			<gmd:transferOptions>
+				<gmd:MD_DigitalTransferOptions>
+					<gmd:onLine>
 						<gmd:CI_OnlineResource>
 							<gmd:linkage>
 								<gmd:URL>https://github.com/pcm-dpc/COVID-19/tree/master/aree/shp</gmd:URL>
@@ -467,7 +459,9 @@
 								<gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint">Access Point</gmx:Anchor>
 							</gmd:description>
 						</gmd:CI_OnlineResource>
-					</gmd:onLine></gmd:MD_DigitalTransferOptions></gmd:transferOptions>
+					</gmd:onLine>
+				</gmd:MD_DigitalTransferOptions>
+			</gmd:transferOptions>
 		</gmd:MD_Distribution>
 	</gmd:distributionInfo>
 	<gmd:dataQualityInfo>
@@ -505,7 +499,7 @@
 							<gmd:specification>
 								<gmd:CI_Citation>
 									<gmd:title>
-										<gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l'interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gmx:Anchor>										
+										<gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l'interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gmx:Anchor>
 									</gmd:title>
 									<gmd:date>
 										<gmd:CI_Date>
@@ -520,7 +514,7 @@
 								</gmd:CI_Citation>
 							</gmd:specification>
 							<gmd:explanation>
-								<gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>								
+								<gco:CharacterString>Fare riferimento alle specifiche indicate</gco:CharacterString>
 							</gmd:explanation>
 							<gmd:pass gco:nilReason="unknown"/>
 						</gmd:DQ_ConformanceResult>
@@ -530,7 +524,7 @@
 			<gmd:lineage>
 				<gmd:LI_Lineage>
 					<gmd:statement>
-						<gco:CharacterString>Il dataset è stato generato dal Dipartimento della protezione civile sulla base delle indicazioni espresse nelle Ordinanze emanate dal Ministero della salute e del DPCM. Per aderire alle indicazioni delle Specifiche sui dati per il tema Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati, il Dipartimento ha provveduto ad effettuare le necessarie trasformazioni.Il dataset contiene tutte le aree create dai diversi dispositivi giuridici che man mano sono stati predisposti per la gestione dell'emergenza. Mediante apposite query è possibile ricavare quello vigente. La geometria degli oggetti spaziali è stata derivata da quella dei poligoni delle unità amministrative ISTAT (aggiornamento 2020).</gco:CharacterString>						
+						<gco:CharacterString>Il dataset è stato generato dal Dipartimento della protezione civile sulla base delle indicazioni espresse nelle Ordinanze emanate dal Ministero della salute e del DPCM. Per aderire alle indicazioni delle Specifiche sui dati per il tema Zone sottoposte a gestione/limitazioni/regolamentazione e unità con obbligo di comunicare dati, il Dipartimento ha provveduto ad effettuare le necessarie trasformazioni.Il dataset contiene tutte le aree create dai diversi dispositivi giuridici che man mano sono stati predisposti per la gestione dell'emergenza. Mediante apposite query è possibile ricavare quello vigente. La geometria degli oggetti spaziali è stata derivata da quella dei poligoni delle unità amministrative ISTAT (aggiornamento 2020).</gco:CharacterString>
 					</gmd:statement>
 				</gmd:LI_Lineage>
 			</gmd:lineage>
