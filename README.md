@@ -7,11 +7,9 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
-**06/12/2020: i dati relativi ai casi testati del giorno 04/12/2020 di Regione Valle D'Aosta sono dati corretti sia nel dataset relativo alle Regioni che all'andamento nazionale, i dati relativi ai casi testati del giorno 05/12/2020 di Regione Molise sono dati corretti sia nel dataset relativo alle Regioni che all'andamento nazionale**
-
 **Modifiche ai dataset**<br>
 **I dati caso da sospetto diagnostico e casi da screening non più erogati**<br>
-**Da lunedì 07/12/2020 sarà aggiunto il campo "Ingressi in terapia intensiva"**<br><br>
+**Da mercoledì 09/12/2020 sarà aggiunto il campo "Ingressi in terapia intensiva"** e "note test" e "note casi", maggiori informazioni disponibili nella [issue 980](https://github.com/pcm-dpc/COVID-19/issues/980)<br><br>
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
