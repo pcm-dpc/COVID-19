@@ -522,5 +522,9 @@
     {
         "data": "2020-12-06T17:00:00",
         "note": "La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250"
+    },
+    {
+        "data": "2020-12-07T17:00:00",
+        "note": "La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19"
     }
 ]

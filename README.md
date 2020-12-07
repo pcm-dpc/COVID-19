@@ -9,7 +9,7 @@
 
 **Modifiche ai dataset**<br>
 **I dati caso da sospetto diagnostico e casi da screening non più erogati**<br>
-**Da mercoledì 09/12/2020 sarà aggiunto il campo "Ingressi in terapia intensiva"** e "note test" e "note casi", maggiori informazioni disponibili nella [issue 980](https://github.com/pcm-dpc/COVID-19/issues/980)<br><br>
+**Da mercoledì 09/12/2020 sarà aggiunto il campo "Ingressi in terapia intensiva" e "note test" e "note casi", maggiori informazioni disponibili nella [issue 980](https://github.com/pcm-dpc/COVID-19/issues/980)**<br><br>
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
