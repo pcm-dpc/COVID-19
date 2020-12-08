@@ -526,5 +526,9 @@
     {
         "data": "2020-12-07T17:00:00",
         "note": "La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19"
+    },
+    {
+        "data": "2020-12-08T17:00:00",
+        "note": "La Regione Basilicata segnala che il totale dei tampini effettuati/casi testati è in corso di revisione. La Regione Emilia Romagna segnala che dai dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19."
     }
 ]

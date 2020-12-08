@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>08/12/2020</b><br>
+La Regione Basilicata segnala che il totale dei tampini effettuati/casi testati è in corso di revisione. La Regione Emilia Romagna segnala che dai dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19.
+
 <b>07/12/2020</b><br>
 La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19
 
