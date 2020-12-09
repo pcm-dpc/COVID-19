@@ -1,2 +1,2 @@
-data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
-2020-11-29T17:00:00,ITA,32879,3753,36632,759139,795771,6463,20648,734503,54904,958832,626346,1585178,21814575,12922382,
+data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+2020-11-29T17:00:00,ITA,32879,3753,36632,759139,795771,6463,20648,734503,54904,958832,626346,1585178,21814575,12922382,,,,
