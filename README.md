@@ -79,11 +79,6 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
-├── legacy/
-│   ├── dati-andamento-nazionale
-│   ├── dati-json
-│   ├── dati-province
-│   ├── dati-regioni
 ├── metriche
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.json
