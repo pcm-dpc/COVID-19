@@ -6,7 +6,9 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
-- Aggiunta "Ingressi in terapia intensiva"
+
+## 2020-12-09
+- Aggiunta: "Ingressi in terapia intensiva"
 
 ## 2020-12-06
 

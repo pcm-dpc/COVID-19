@@ -32,13 +32,15 @@
 | **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
-| **casi_da_sospetto_diagnostico**                    | Casi positivi al tampone emersi da attività clinica                  | Positive cases emerged from clinical activity                                  | Numero                        | 3                   |
-| **casi_da_screening**                    | Casi positivi emersi da indagini e test, pianificati a livello nazionale o regionale                  | Positive cases emerging from surveys and tests, planned at national or regional level                                  | Numero                        | 3                   |
+| **casi_da_sospetto_diagnostico**                    | Casi positivi al tampone emersi da attività **Non più popolato** clinica                  | Positive cases emerged from clinical activity **No longer populated**                                 | Numero                        | 3                   |
+| **casi_da_screening**                    | Casi positivi emersi da indagini e test, pianificati a livello nazionale o regionale **Non più popolato**                  | Positive cases emerging from surveys and tests, planned at national or regional level  **No longer populated**                                | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 | **casi_testati**                     | Totale dei soggetti sottoposti al test                    | Total number of people tested                        | Numero                        | 3                   |
-| **note_it**                     | Note in lingua italiana (separate da ;)                   | Notes in italian language (separated by ;)                       | Testo                        | pd-IT-000                   |
-| **note_en**                     | Note in lingua inglese (separate da ;)                    | Notes in english language (separated by ;)                       | Testo                        | pd-EN-000                   |
+| **note**                     | Note                   | Notes                       | Testo                        | Lorem ipsum...                   |
+| **ingressi_terapia_intensiva**                     | Ingressi giornalieri in terapia intensiva | Daily admissions to intensive care                        | Numero                        | 3                  |
+| **note_test**                     | Note sui test effettuati                  | Notes on the tests carried out                       | Testo                        | Lorem ipsum...                   |
+| **note_casi**                     | Note sui casi testati                  | Notes on the cases tested                       | Testo                        | Lorem ipsum...                   |
 
 
 *Le Province autonome di Trento e Bolzano sono indicate in "denominazione regione" e con il codice 04 del Trentino Alto Adige.*<br>
@@ -90,12 +92,15 @@
 | **nuovi_positivi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 3                   |
 | **dimessi_guariti**             | Persone dimesse guarite           | Recovered                              | Numero                        | 3                   |
 | **deceduti**                    | Persone decedute                  | Death                                  | Numero                        | 3                   |
-| **casi_da_sospetto_diagnostico**                    | Casi positivi al tampone emersi da attività clinica                  | Positive cases emerged from clinical activity                                  | Numero                        | 3                   |
-| **casi_da_screening**                    | Casi positivi emersi da indagini e test, pianificati a livello nazionale o regionale                  | Positive cases emerging from surveys and tests, planned at national or regional level                                  | Numero                        | 3                   |
+| **casi_da_sospetto_diagnostico**                    | Casi positivi al tampone emersi da attività **Non più popolato** clinica                  | Positive cases emerged from clinical activity **No longer populated**                                 | Numero                        | 3                   |
+| **casi_da_screening**                    | Casi positivi emersi da indagini e test, pianificati a livello nazionale o regionale **Non più popolato**                  | Positive cases emerging from surveys and tests, planned at national or regional level  **No longer populated**                                | Numero                        | 3                   |
 | **totale_casi**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tamponi**                     | Totale tamponi                    | Tests performed                        | Numero                        | 3                   |
 | **casi_testati**                     | Totale dei soggetti sottoposti al test                    | Total number of people tested                        | Numero                        | 3                   |
-| **note**                     | Note in lingua italiana                   | Notes in italian language                       | Testo                        | Lorem ipsum...                   |
+| **note**                     | Note                   | Notes                       | Testo                        | Lorem ipsum...                   |
+| **ingressi_terapia_intensiva**                     | Ingressi giornalieri in terapia intensiva | Daily admissions to intensive care                        | Numero                        | 3                  |
+| **note_test**                     | Note sui test effettuati                  | Notes on the tests carried out                       | Testo                        | Lorem ipsum...                   |
+| **note_casi**                     | Note sui casi testati                  | Notes on the cases tested                       | Testo                        | Lorem ipsum...                   |
 
 
 *Viene messo a disposizione un file JSON complessivo di tutte le date nella cartella "dati-json": dpc-covid19-ita-andamento-nazionale.json* e rispettivo file ultimi dati (latest) dpc-covid19-ita-andamento-nazionale-latest.json
