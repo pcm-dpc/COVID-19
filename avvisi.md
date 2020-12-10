@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>10/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a ricalcolo è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
 <b>09/12/2020</b><br>
 La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250
 
