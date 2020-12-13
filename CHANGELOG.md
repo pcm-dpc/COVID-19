@@ -7,6 +7,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
 
+## 2020-12-13
+
+- Modifica: aggiornato shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
+
 ## 2020-12-09
 - Aggiunta: "Ingressi in terapia intensiva"
 
