@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>17/12/2020</b><br>
+La Regione Abruzzo comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi positivi degli ultimi giorni poiché duplicati.  La Regione Campania comunica di non avere al momento la possibilità di trasmettere i dati quotidiani sugli ingressi in T.I.. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
 <b>16/12/2020</b><br>
 La Regione Abruzzo comunica che sono stati sottratti 2 casi positivi dei giorni precedenti in seguito a ricalcolo. La Regione Campania comunica di non avere al momento la possibilità di riportare i nuovi ingressi quotidiani in T.I.. La Regione Emilia Romagna comunica sono stati eliminati 2 casi dei giorni passati in quanto giudicati non casi COVID-19.
 
