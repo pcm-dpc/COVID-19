@@ -6,6 +6,9 @@
 
 ## Avvisi
 <b>19/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 2 casi in quanto giudicati non casi COVID-19. La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I..
+
+<b>19/12/2020</b><br>
 La Regione Abruzzo comunica che sono stati sottratti 2 casi dei giorni precedenti in quanto duplicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I..
 
 <b>18/12/2020</b><br>
