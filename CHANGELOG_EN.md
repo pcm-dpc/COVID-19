@@ -7,6 +7,10 @@ All changes to the project, new features and information are documented in this 
 - Data quality analysis notes
 - Updates on previous days based on data recalculation notes from Regions
 
+## 2020-12-20
+
+- Change: updated shapefile with new containment measures at national level (red, orange and yellow areas) with related metadata.
+
 ## 2020-12-13
 
 - Change: updated shapefile with new containment measures at national level (red, orange and yellow areas) with related metadata.
