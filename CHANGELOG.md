@@ -5,7 +5,11 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## Prossimi aggiornamenti
 
 - Note di analisi di data quality
-- Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
+- Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Region
+
+## 2020-12-20
+
+- Modifica: aggiornato shape file con le nuove misure di contenimento a livello nazionale (aree rosse, arancioni e gialle) con relativi metadata.
 
 ## 2020-12-13
 
