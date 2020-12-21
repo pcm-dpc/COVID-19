@@ -578,5 +578,9 @@
     {
         "data": "2020-12-20T17:00:00",
         "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 2 casi in quanto giudicati non casi COVID-19. La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I.."
+    },
+    {
+        "data": "2020-12-21T17:00:00",
+        "note": "La Regione Abruzzo comunica che in seguito a verifica sui dati comunicati è stato sottratto 1 caso dei giorni precedenti in quanto duplicato. La Regione Campania comunica di non poter fornire ad oggi i dati sugli ingressi delle T.I..  La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19."
     }
 ]
