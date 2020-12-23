@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>23/12/2020</b><br>
+La Regione Campania comunica di non avere a disposizione al momento i dati sugli ingressi giornalieri nelle T.I.. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Lazio comunica che per un errore di inserimento il numero totale di tamponi di ieri 22/12/2020 era 2590884 per un incremento di 12982 tamponi. La Regione Friuli Venezia Giulia comunica che il totale dei casi positivi è stato rivisto sulla base delle indicazioni ministeriali.
+
 <b>22/12/2020</b><br>
 La Regione Campania comunica di non potere comunicare al momento i dati giornalieri sugli ingressi in T.I.. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19.
 
