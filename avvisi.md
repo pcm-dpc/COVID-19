@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>25/12/2020</b><br>
+La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato n. 16 dimissioni da TI invece delle 19 effettive che includono anche i negativizzati.
+
 <b>24/12/2020</b><br>
 La Regione Campania non ha al momento l'indicazione sugli ingressi in TI del giorno. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Valle D'Aosta comunica che ieri i pazienti ricoverati in TI erano 5 e non 4.
 
