@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>26/12/2020</b><br>
+La regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato n. 13 dimissioni da TI invece delle 10 effettive che includono anche i negativizzati. La P.A.Bolzano  segnala che i dai verranno aggiornati domani.
+
 <b>25/12/2020</b><br>
 La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato n. 16 dimissioni da TI invece delle 19 effettive che includono anche i negativizzati.
 
