@@ -78,7 +78,7 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-12-26T17:00:00,ITA,14,Molise,094,Isernia,IS,41.58800826,14.22575407,2203,
 2020-12-26T17:00:00,ITA,14,Molise,890,Fuori Regione / Provincia Autonoma,,,,53,
 2020-12-26T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,,,0,
-2020-12-26T17:00:00,ITA,04,P.A. Bolzano,021,Bolzano,BZ,46.49933453,11.35662422,0,
+2020-12-26T17:00:00,ITA,04,P.A. Bolzano,021,Bolzano,BZ,46.49933453,11.35662422,28746,
 2020-12-26T17:00:00,ITA,04,P.A. Bolzano,881,Fuori Regione / Provincia Autonoma,,,,0,
 2020-12-26T17:00:00,ITA,04,P.A. Bolzano,981,In fase di definizione/aggiornamento,,,,0,
 2020-12-26T17:00:00,ITA,04,P.A. Trento,022,Trento,TN,46.06893511,11.12123097,20963,
