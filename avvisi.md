@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>28/12/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 4 casi dei giorni scorsi, grazie a controlli anagrafici effettuati dalle ASL. La Regione Campania comunica di non avere a disposizione il dato quotidiano sugli ingressi in T.I.. La Regione Valle d'Aosta segnala che a causa di un problema tecnico nella refertazione i dati odierni potrebbero essere sovrastimati.
+
 <b>26/12/2020</b><br>
 La regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato n. 13 dimissioni da TI invece delle 10 effettive che includono anche i negativizzati. La P.A.Bolzano  segnala che i dai verranno aggiornati domani.
 
