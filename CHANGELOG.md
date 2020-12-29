@@ -10,7 +10,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## 2020-12-29
 
-- Modifica: aggiunto anche una versione generalizzata (-g) del dataset relativo alle nuove aree con le misure di contenimento a livello nazionale (aree rosse, arancioni e gialle).
+- Modifica: aggiunta anche una versione generalizzata (-g) del dataset relativo alle nuove aree con le misure di contenimento a livello nazionale (aree rosse, arancioni e gialle).
 
 ## 2020-12-24
 
