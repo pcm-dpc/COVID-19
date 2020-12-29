@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>29/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non caso COVID-19. La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I.. La Regione Valle D'Aosta comunica che il saldo negativo odierno è dovuto a riallineamento dei dati comunicati ieri, possibilmente sovrastimati a causa di un problema tecnico degli esami refertati in data 28/12/2020.  La Regione Veneto segnala che l'elevato numero di decessi è da imputare verosimilmente a ritardato inserimento nei giorni festivi.
+
 <b>28/12/2020</b><br>
 La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 4 casi dei giorni scorsi, grazie a controlli anagrafici effettuati dalle ASL. La Regione Campania comunica di non avere a disposizione il dato quotidiano sugli ingressi in T.I.. La Regione Valle d'Aosta segnala che a causa di un problema tecnico nella refertazione i dati odierni potrebbero essere sovrastimati.
 
