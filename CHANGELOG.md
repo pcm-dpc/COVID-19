@@ -6,6 +6,11 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
+- Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
+
+## 2020-12-29
+
+- Modifica: aggiunta anche una versione generalizzata (-g) del dataset relativo alle nuove aree con le misure di contenimento a livello nazionale (aree rosse, arancioni e gialle).
 
 ## 2020-12-24
 
