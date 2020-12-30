@@ -609,6 +609,10 @@
     },
     {
         "data": "2020-12-29T17:00:00",
-        "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non caso COVID-19. La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I.. La Regione Valle D'Aosta comunica che il saldo negativo odierno è dovuto a riallineamento dei dati comunicati ieri, possibilmente sovrastimati a causa di un problema tecnico degli esami refertati in data 28/12/2020.  La Regione Veneto segnala che l'elevato numero di decessi è da imputare verosimilmente a ritardato inserimento nei giorni festivi."
+        "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non caso COVID-19. La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I.. La Regione Valle D'Aosta comunica che sulla base della nota di ieri ha riallineato i valori presenti nel report odierno. La Regione Veneto segnala che l'elevato numero di decessi è da imputare verosimilmente a ritardato inserimento nei giorni festivi."
+    },
+    {
+        "data": "2020-12-30T17:00:00",
+        "note": "La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I.."
     }
 ]

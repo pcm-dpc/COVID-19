@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>30/12/2020</b><br>
+La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I..
+
 <b>29/12/2020</b><br>
 La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non caso COVID-19. La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I.. La Regione Valle D'Aosta comunica che sulla base della nota di ieri ha riallineato i valori presenti nel report odierno. La Regione Veneto segnala che l'elevato numero di decessi è da imputare verosimilmente a ritardato inserimento nei giorni festivi.
 
