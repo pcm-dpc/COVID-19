@@ -6840,5 +6840,27 @@
     "ingressi_terapia_intensiva":175.0,
     "note_test":null,
     "note_casi":null
+  },
+  {
+    "data":"2020-12-31T17:00:00",
+    "stato":"ITA",
+    "ricoverati_con_sintomi":23151,
+    "terapia_intensiva":2555,
+    "totale_ospedalizzati":25706,
+    "isolamento_domiciliare":544190,
+    "totale_positivi":569896,
+    "variazione_totale_positivi":5501,
+    "nuovi_positivi":23477,
+    "dimessi_guariti":1463111,
+    "deceduti":74159,
+    "casi_da_sospetto_diagnostico":null,
+    "casi_da_screening":null,
+    "totale_casi":2107166,
+    "tamponi":26598607,
+    "casi_testati":14871966.0,
+    "note":null,
+    "ingressi_terapia_intensiva":202.0,
+    "note_test":null,
+    "note_casi":null
   }
 ]
