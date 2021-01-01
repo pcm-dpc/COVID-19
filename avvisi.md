@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>01/01/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato un caso in quanto duplicato.
+
 <b>30/12/2020</b><br>
 La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I..
 

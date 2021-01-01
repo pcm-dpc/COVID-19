@@ -614,5 +614,9 @@
     {
         "data": "2020-12-30T17:00:00",
         "note": "La Regione Campania comunica di non avere a disposizione i dati quotidiani sugli ingressi in T.I.."
+    },
+    {
+        "data": "2021-01-01T17:00:00",
+        "note": "La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato un caso in quanto duplicato."
     }
 ]
