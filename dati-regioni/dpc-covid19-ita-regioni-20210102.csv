@@ -20,4 +20,3 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2021-01-02T17:00:00,ITA,10,Umbria,43.10675841,12.38824698,270,47,317,3476,3793,-11,50,24817,628,,,29238,506539,253466,,1,,
 2021-01-02T17:00:00,ITA,02,Valle d'Aosta,45.73750286,7.320149366,76,2,78,335,413,5,7,6501,383,,,7297,63032,37893,,2,,
 2021-01-02T17:00:00,ITA,05,Veneto,45.43490485,12.33845213,2668,372,3040,91081,94121,1539,3165,161049,6675,,,261845,3334350,1224449,Nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato n.5 dimissioni da TI invece delle 4 effettive che includono anche i negativizzati.,15,,
-
