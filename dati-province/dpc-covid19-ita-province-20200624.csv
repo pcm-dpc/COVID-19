@@ -1,8 +1,8 @@
 data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note
 2020-06-24T17:00:00,ITA,13,Abruzzo,066,L'Aquila,AQ,42.35122196,13.39843823,224,
-2020-06-24T17:00:00,ITA,13,Abruzzo,067,Teramo,TE,42.6589177,13.70439971,816,
+2020-06-24T17:00:00,ITA,13,Abruzzo,067,Teramo,TE,42.6589177,13.70439971,630,
 2020-06-24T17:00:00,ITA,13,Abruzzo,068,Pescara,PE,42.46458398,14.21364822,1585,
-2020-06-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,630,
+2020-06-24T17:00:00,ITA,13,Abruzzo,069,Chieti,CH,42.35103167,14.16754574,816,
 2020-06-24T17:00:00,ITA,13,Abruzzo,979,In fase di definizione/aggiornamento,,,,28,
 2020-06-24T17:00:00,ITA,17,Basilicata,076,Potenza,PZ,40.63947052,15.80514834,189,
 2020-06-24T17:00:00,ITA,17,Basilicata,077,Matera,MT,40.66751177,16.59792442,210,
