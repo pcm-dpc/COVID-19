@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>07/01/2021</b><br>
+La Regione Friuli Venezia Giulia riporta che a seguito di ricalcolo, 396 casi già positivi a test antigenico, sono stati aggiunti al totale dei positivi da tampone molecolare.
+
 <b>06/01/2021</b><br>
 la Regione Abruzzo comunica che dal totale dei positivi è stato eliminato un caso in quanto duplicato. la Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 4 casi in quanto giudicati non casi COVID-19.
 
