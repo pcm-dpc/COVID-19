@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>08/01/2021</b><br>
+La Regione Abruzzo comunica che a seguito di controlli anagrafici, dal totale dei deceduti ne sono stati sottratti 5, e dai casi positivi ne sono stati sottratti 2, in quanto duplicati. La Regione Emilia Romagna comunica che in seguito a verifica sono stati eliminati 2 casi dai dati comunicati nei giorni passati in quanto giudicati non casi COVID-19.
+
 <b>07/01/2021</b><br>
 La Regione Friuli Venezia Giulia riporta che a seguito di ricalcolo, 396 casi già positivi a test antigenico, sono stati aggiunti al totale dei positivi da tampone molecolare.
 
