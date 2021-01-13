@@ -9,7 +9,8 @@
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
-** Aggiornamento dataset dal / Dataset update from 18/01/2021 - [https://github.com/pcm-dpc/COVID-19/issues/1037](https://github.com/pcm-dpc/COVID-19/issues/1037) **
+## Aggiornamento 
+**Aggiornamento dataset dal / Dataset update from 18/01/2021 - [https://github.com/pcm-dpc/COVID-19/issues/1037](https://github.com/pcm-dpc/COVID-19/issues/1037)**
 
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
 Al Capo del Dipartimento della Protezione Civile, Angelo Borrelli, è affidato il coordinamento degli interventi necessari a fronteggiare l'emergenza sul territorio nazionale.  
