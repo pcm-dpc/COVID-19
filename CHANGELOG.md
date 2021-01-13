@@ -4,7 +4,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## Prossimi aggiornamenti
 
-- Aggiunta informazioni "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" sui dataset regioni e andamento nazionale
+- Aggiunta informazioni "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" sui dataset regioni e andamento nazionale (dal 18/01/2021)
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
 - Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
