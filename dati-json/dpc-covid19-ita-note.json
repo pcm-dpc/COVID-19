@@ -654,5 +654,9 @@
     {
         "data": "2021-01-11T17:00:00",
         "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19."
+    },
+    {
+        "data": "2021-01-13T17:00:00",
+        "note": "La Regione Basilicata comunica che per ricalcolo del totale casi positivi, è stato eliminato n. 1 caso positivo comunicato in data 11 c.m.."
     }
 ]
