@@ -4,7 +4,8 @@ All changes to the project, new features and information are documented in this 
 
 ## Next updates
 
-- Add informations "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" on region and national trends datasets (from 18/01/2021)
+- Add informations "codice_nuts_1" and "codice_nuts_2" on regions dataset and "codice_nuts_1", "codice_nuts_2" and " codice_nuts_3" on provinces dataset (from 18/01/2021)
+- Add informations "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" on regions and national trends datasets (from 18/01/2021)
 - Data quality analysis notes
 - Updates on previous days based on data recalculation notes from Regions
 - After January 6, 2021, the updates of the new areas with the containment measures will be carried out only on the generalized file

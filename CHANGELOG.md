@@ -4,6 +4,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## Prossimi aggiornamenti
 
+- Aggiunta informazioni "codice_nuts_1" e "codice_nuts_2" sul dataset regioni e "codice_nuts_1", "codice_nuts_2" e " codice_nuts_3" sul dataset province (dal 18/01/2021)
 - Aggiunta informazioni "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" sui dataset regioni e andamento nazionale (dal 18/01/2021)
 - Note di analisi di data quality
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
