@@ -1,0 +1,2 @@
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note,codice_nuts_1,codice_nuts_2,codice_nuts_3
+2021-01-01T18:00:00,ITA,0,Regione,000,Provincia,Sigla,0,0,0,Lorem ipsum...,ITF,ITF1,ITF12
