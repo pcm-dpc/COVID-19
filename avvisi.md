@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>17/01/2021</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Molise comunica che gli 80 casi comunicati ieri come confermati da test antigenico erano anche positivi al test molecolare.
+
 <b>15/01/2021</b><br>
 A partire dalla data odierna la trasmissione dati rispetta quanto disposto dalla Circolare Aggiornamento della definizione di caso COVID-19 e strategie di testing N 0000705 del 08/01/2021. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19.
 
