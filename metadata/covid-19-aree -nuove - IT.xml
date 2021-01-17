@@ -95,7 +95,7 @@
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
-								<gco:Date>2021-01-11</gco:Date>
+								<gco:Date>2021-01-17</gco:Date>
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -176,7 +176,7 @@
 						</gmd:CI_Series>
 					</gmd:series>
 					<gmd:otherCitationDetails>
-						<gco:CharacterString>DPCM 3 dicembre 2020 recante Ulteriori disposizioni attuative del decreto-legge 25 marzo 2020, n. 19, convertito, con modificazioni, dalla legge 22 maggio 2020, n. 35, recante: «Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19» e del decreto-legge 16 maggio 2020, n. 33, convertito, con modificazioni, dalla legge 14 luglio 2020, n. 74, recante: «Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19», nonche' del decreto-legge 2 dicembre 2020, n. 158, recante: «Disposizioni urgenti per fronteggiare i rischi sanitari connessi alla diffusione del virus COVID-19». Ordinanze del Ministero della Salute del 4, 10, 13, 19, 20, 27 novembre, 5, 11 dicembre 2020 e 8 gennaio 2021 recanti Ulteriori misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19. Decreto-legge 18 dicembre 2020 , n. 172 recante Ulteriori disposizioni urgenti per fronteggiare i rischi sanitari connessi alla diffusione del virus COVID-19. Decreto-legge 5 gennaio 2021, n. 1 recante Ulteriori disposizioni urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19.</gco:CharacterString>
+						<gco:CharacterString>DPCM 14 gennaio 2021 recante Ulteriori disposizioni attuative del decreto-legge 25 marzo 2020, n. 19, convertito, con modificazioni, dalla legge 22 maggio 2020, n. 35, recante «Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19», del decreto-legge 16 maggio 2020, n. 33, convertito, con modificazioni, dalla legge 14 luglio 2020, n. 74, recante «Ulteriori misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19», e del decreto-legge 14 gennaio 2021 n. 2, recante «Ulteriori disposizioni urgenti in materia di contenimento e prevenzione dell'emergenza epidemiologica da COVID-19 e di svolgimento delle elezioni per l'anno 2021. Ordinanze del Ministero della Salute del 4, 10, 13, 19, 20, 27 novembre, 5, 11 dicembre 2020, 8 e 16 gennaio 2021 recanti Ulteriori misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19. Decreto-legge 18 dicembre 2020 , n. 172 recante Ulteriori disposizioni urgenti per fronteggiare i rischi sanitari connessi alla diffusione del virus COVID-19. Decreto-legge 5 gennaio 2021, n. 1 recante Ulteriori disposizioni urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19.</gco:CharacterString>
 					</gmd:otherCitationDetails>
 				</gmd:CI_Citation>
 			</gmd:citation>
