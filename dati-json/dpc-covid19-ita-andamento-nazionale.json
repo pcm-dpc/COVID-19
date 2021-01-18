@@ -19,7 +19,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-02-25T18:00:00",
@@ -41,7 +45,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-02-26T18:00:00",
@@ -63,7 +71,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-02-27T18:00:00",
@@ -85,7 +97,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-02-28T18:00:00",
@@ -107,7 +123,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-02-29T18:00:00",
@@ -129,7 +149,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-01T18:00:00",
@@ -151,7 +175,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-02T18:00:00",
@@ -173,7 +201,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-03T18:00:00",
@@ -195,7 +227,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-04T18:00:00",
@@ -217,7 +253,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-05T18:00:00",
@@ -239,7 +279,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-06T18:00:00",
@@ -261,7 +305,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-07T18:00:00",
@@ -283,7 +331,11 @@
     "note":"pd-IT-0003",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-08T18:00:00",
@@ -305,7 +357,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-09T18:00:00",
@@ -327,7 +383,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-10T18:00:00",
@@ -349,7 +409,11 @@
     "note":"pd-IT-0005",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-11T17:00:00",
@@ -371,7 +435,11 @@
     "note":"nd-IT-0002",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-12T17:00:00",
@@ -393,7 +461,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-13T17:00:00",
@@ -415,7 +487,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-14T17:00:00",
@@ -437,7 +513,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-15T17:00:00",
@@ -459,7 +539,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-16T17:00:00",
@@ -481,7 +565,11 @@
     "note":"nd-IT-0004;nd-IT-0006",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-17T17:00:00",
@@ -503,7 +591,11 @@
     "note":"nd-IT-0009",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-18T17:00:00",
@@ -525,7 +617,11 @@
     "note":"nd-IT-0012;nd-IT-0014",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-19T17:00:00",
@@ -547,7 +643,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-20T17:00:00",
@@ -569,7 +669,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-21T17:00:00",
@@ -591,7 +695,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-22T17:00:00",
@@ -613,7 +721,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-23T17:00:00",
@@ -635,7 +747,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-24T17:00:00",
@@ -657,7 +773,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-25T17:00:00",
@@ -679,7 +799,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-26T17:00:00",
@@ -701,7 +825,11 @@
     "note":"pd-IT-0007",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-27T17:00:00",
@@ -723,7 +851,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-28T17:00:00",
@@ -745,7 +877,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-29T17:00:00",
@@ -767,7 +903,11 @@
     "note":"pd-IT-0009",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-30T17:00:00",
@@ -789,7 +929,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-03-31T17:00:00",
@@ -811,7 +955,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-01T17:00:00",
@@ -833,7 +981,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-02T17:00:00",
@@ -855,7 +1007,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-03T17:00:00",
@@ -877,7 +1033,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-04T17:00:00",
@@ -899,7 +1059,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-05T17:00:00",
@@ -921,7 +1085,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-06T17:00:00",
@@ -943,7 +1111,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-07T17:00:00",
@@ -965,7 +1137,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-08T17:00:00",
@@ -987,7 +1163,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-09T17:00:00",
@@ -1009,7 +1189,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-10T17:00:00",
@@ -1031,7 +1215,11 @@
     "note":"pd-IT-0011",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-11T17:00:00",
@@ -1053,7 +1241,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-12T17:00:00",
@@ -1075,7 +1267,11 @@
     "note":"dc-IT-0003",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-13T17:00:00",
@@ -1097,7 +1293,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-14T17:00:00",
@@ -1119,7 +1319,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-15T17:00:00",
@@ -1141,7 +1345,11 @@
     "note":"dc-IT-0005",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-16T17:00:00",
@@ -1163,7 +1371,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-17T17:00:00",
@@ -1185,7 +1397,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-18T17:00:00",
@@ -1207,7 +1423,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-19T17:00:00",
@@ -1229,7 +1449,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-20T17:00:00",
@@ -1251,7 +1475,11 @@
     "note":"dc-IT-0007",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-21T17:00:00",
@@ -1273,7 +1501,11 @@
     "note":"pd-IT-0013",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-22T17:00:00",
@@ -1295,7 +1527,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-23T17:00:00",
@@ -1317,7 +1553,11 @@
     "note":"pd-IT-0015;pd-IT-0017",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-24T17:00:00",
@@ -1339,7 +1579,11 @@
     "note":"dc-IT-0009;dc-IT-0011",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-25T17:00:00",
@@ -1361,7 +1605,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-26T17:00:00",
@@ -1383,7 +1631,11 @@
     "note":"dc-IT-0013",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-27T17:00:00",
@@ -1405,7 +1657,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-28T17:00:00",
@@ -1427,7 +1683,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-29T17:00:00",
@@ -1449,7 +1709,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-04-30T17:00:00",
@@ -1471,7 +1735,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-01T17:00:00",
@@ -1493,7 +1761,11 @@
     "note":"dc-IT-0015",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-02T17:00:00",
@@ -1515,7 +1787,11 @@
     "note":"dc-IT-0017",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-03T17:00:00",
@@ -1537,7 +1813,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-04T17:00:00",
@@ -1559,7 +1839,11 @@
     "note":"dc-IT-0019",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-05T17:00:00",
@@ -1581,7 +1865,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-06T17:00:00",
@@ -1603,7 +1891,11 @@
     "note":"dc-IT-0021",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-07T17:00:00",
@@ -1625,7 +1917,11 @@
     "note":"dc-IT-0023",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-08T17:00:00",
@@ -1647,7 +1943,11 @@
     "note":"dc-IT-0025",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-09T17:00:00",
@@ -1669,7 +1969,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-10T17:00:00",
@@ -1691,7 +1995,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-11T17:00:00",
@@ -1713,7 +2021,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-12T17:00:00",
@@ -1735,7 +2047,11 @@
     "note":"dc-IT-0027",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-13T17:00:00",
@@ -1757,7 +2073,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-14T17:00:00",
@@ -1779,7 +2099,11 @@
     "note":"dc-IT-0029",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-15T17:00:00",
@@ -1801,7 +2125,11 @@
     "note":"dc-IT-0031",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-16T17:00:00",
@@ -1823,7 +2151,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-17T17:00:00",
@@ -1845,7 +2177,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-18T17:00:00",
@@ -1867,7 +2203,11 @@
     "note":"pd-IT-0019",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-19T17:00:00",
@@ -1889,7 +2229,11 @@
     "note":"dc-IT-0033",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-20T17:00:00",
@@ -1911,7 +2255,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-21T17:00:00",
@@ -1933,7 +2281,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-22T17:00:00",
@@ -1955,7 +2307,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-23T17:00:00",
@@ -1977,7 +2333,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-24T17:00:00",
@@ -1999,7 +2359,11 @@
     "note":"pd-IT-0021",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-25T17:00:00",
@@ -2021,7 +2385,11 @@
     "note":"dc-IT-0035",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-26T17:00:00",
@@ -2043,7 +2411,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-27T17:00:00",
@@ -2065,7 +2437,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-28T17:00:00",
@@ -2087,7 +2463,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-29T17:00:00",
@@ -2109,7 +2489,11 @@
     "note":"dc-IT-0037",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-30T17:00:00",
@@ -2131,7 +2515,11 @@
     "note":"nd-IT-0016",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-05-31T17:00:00",
@@ -2153,7 +2541,11 @@
     "note":"pd-IT-0023",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-01T17:00:00",
@@ -2175,7 +2567,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-02T17:00:00",
@@ -2197,7 +2593,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-03T17:00:00",
@@ -2219,7 +2619,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-04T17:00:00",
@@ -2241,7 +2645,11 @@
     "note":"dc-IT-0039",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-05T17:00:00",
@@ -2263,7 +2671,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-06T17:00:00",
@@ -2285,7 +2697,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-07T17:00:00",
@@ -2307,7 +2723,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-08T17:00:00",
@@ -2329,7 +2749,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-09T17:00:00",
@@ -2351,7 +2775,11 @@
     "note":"dc-IT-0041;dc-IT-0043",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-10T17:00:00",
@@ -2373,7 +2801,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-11T17:00:00",
@@ -2395,7 +2827,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-12T17:00:00",
@@ -2417,7 +2853,11 @@
     "note":"dc-IT-0045;dc-IT-0047",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-13T17:00:00",
@@ -2439,7 +2879,11 @@
     "note":"dc-IT-0049",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-14T17:00:00",
@@ -2461,7 +2905,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-15T17:00:00",
@@ -2483,7 +2931,11 @@
     "note":"dc-IT-0051",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-16T17:00:00",
@@ -2505,7 +2957,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-17T17:00:00",
@@ -2527,7 +2983,11 @@
     "note":"dc-IT-0053",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-18T17:00:00",
@@ -2549,7 +3009,11 @@
     "note":"dc-IT-0055",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-19T17:00:00",
@@ -2571,7 +3035,11 @@
     "note":"dc-IT-0057;dc-IT-0059",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-20T17:00:00",
@@ -2593,7 +3061,11 @@
     "note":"dc-IT-0061;dc-IT-0063",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-21T17:00:00",
@@ -2615,7 +3087,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-22T17:00:00",
@@ -2637,7 +3113,11 @@
     "note":"dc-IT-0065",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-23T17:00:00",
@@ -2659,7 +3139,11 @@
     "note":"dc-IT-0067;dc-IT-0069",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-24T17:00:00",
@@ -2681,7 +3165,11 @@
     "note":"dc-IT-0071",
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-25T17:00:00",
@@ -2703,7 +3191,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-26T17:00:00",
@@ -2725,7 +3217,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-27T17:00:00",
@@ -2747,7 +3243,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-28T17:00:00",
@@ -2769,7 +3269,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-29T17:00:00",
@@ -2791,7 +3295,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-06-30T17:00:00",
@@ -2813,7 +3321,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-01T17:00:00",
@@ -2835,7 +3347,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-02T17:00:00",
@@ -2857,7 +3373,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-03T17:00:00",
@@ -2879,7 +3399,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-04T17:00:00",
@@ -2901,7 +3425,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-05T17:00:00",
@@ -2923,7 +3451,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-06T17:00:00",
@@ -2945,7 +3477,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-07T17:00:00",
@@ -2967,7 +3503,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-08T17:00:00",
@@ -2989,7 +3529,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-09T17:00:00",
@@ -3011,7 +3555,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-10T17:00:00",
@@ -3033,7 +3581,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-11T17:00:00",
@@ -3055,7 +3607,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-12T17:00:00",
@@ -3077,7 +3633,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-13T17:00:00",
@@ -3099,7 +3659,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-14T17:00:00",
@@ -3121,7 +3685,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-15T17:00:00",
@@ -3143,7 +3711,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-16T17:00:00",
@@ -3165,7 +3737,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-17T17:00:00",
@@ -3187,7 +3763,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-18T17:00:00",
@@ -3209,7 +3789,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-19T17:00:00",
@@ -3231,7 +3815,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-20T17:00:00",
@@ -3253,7 +3841,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-21T17:00:00",
@@ -3275,7 +3867,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-22T17:00:00",
@@ -3297,7 +3893,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-23T17:00:00",
@@ -3319,7 +3919,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-24T17:00:00",
@@ -3341,7 +3945,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-25T17:00:00",
@@ -3363,7 +3971,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-26T17:00:00",
@@ -3385,7 +3997,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-27T17:00:00",
@@ -3407,7 +4023,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-28T17:00:00",
@@ -3429,7 +4049,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-29T17:00:00",
@@ -3451,7 +4075,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-30T17:00:00",
@@ -3473,7 +4101,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-07-31T17:00:00",
@@ -3495,7 +4127,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-01T17:00:00",
@@ -3517,7 +4153,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-02T17:00:00",
@@ -3539,7 +4179,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-03T17:00:00",
@@ -3561,7 +4205,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-04T17:00:00",
@@ -3583,7 +4231,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-05T17:00:00",
@@ -3605,7 +4257,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-06T17:00:00",
@@ -3627,7 +4283,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-07T17:00:00",
@@ -3649,7 +4309,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-08T17:00:00",
@@ -3671,7 +4335,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-09T17:00:00",
@@ -3693,7 +4361,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-10T17:00:00",
@@ -3715,7 +4387,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-11T17:00:00",
@@ -3737,7 +4413,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-12T17:00:00",
@@ -3759,7 +4439,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-13T17:00:00",
@@ -3781,7 +4465,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-14T17:00:00",
@@ -3803,7 +4491,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-15T17:00:00",
@@ -3825,7 +4517,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-16T17:00:00",
@@ -3847,7 +4543,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-17T17:00:00",
@@ -3869,7 +4569,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-18T17:00:00",
@@ -3891,7 +4595,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-19T17:00:00",
@@ -3913,7 +4621,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-20T17:00:00",
@@ -3935,7 +4647,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-21T17:00:00",
@@ -3957,7 +4673,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-22T17:00:00",
@@ -3979,7 +4699,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-23T17:00:00",
@@ -4001,7 +4725,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-24T17:00:00",
@@ -4023,7 +4751,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-25T17:00:00",
@@ -4045,7 +4777,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-26T17:00:00",
@@ -4067,7 +4803,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-27T17:00:00",
@@ -4089,7 +4829,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-28T17:00:00",
@@ -4111,7 +4855,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-29T17:00:00",
@@ -4133,7 +4881,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-30T17:00:00",
@@ -4155,7 +4907,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-08-31T17:00:00",
@@ -4177,7 +4933,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-01T17:00:00",
@@ -4199,7 +4959,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-02T17:00:00",
@@ -4221,7 +4985,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-03T17:00:00",
@@ -4243,7 +5011,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-04T17:00:00",
@@ -4265,7 +5037,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-05T17:00:00",
@@ -4287,7 +5063,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-06T17:00:00",
@@ -4309,7 +5089,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-07T17:00:00",
@@ -4331,7 +5115,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-08T17:00:00",
@@ -4353,7 +5141,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-09T17:00:00",
@@ -4375,7 +5167,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-10T17:00:00",
@@ -4397,7 +5193,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-11T17:00:00",
@@ -4419,7 +5219,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-12T17:00:00",
@@ -4441,7 +5245,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-13T17:00:00",
@@ -4463,7 +5271,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-14T17:00:00",
@@ -4485,7 +5297,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-15T17:00:00",
@@ -4507,7 +5323,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-16T17:00:00",
@@ -4529,7 +5349,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-17T17:00:00",
@@ -4551,7 +5375,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-18T17:00:00",
@@ -4573,7 +5401,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-19T17:00:00",
@@ -4595,7 +5427,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-20T17:00:00",
@@ -4617,7 +5453,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-21T17:00:00",
@@ -4639,7 +5479,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-22T17:00:00",
@@ -4661,7 +5505,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-23T17:00:00",
@@ -4683,7 +5531,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-24T17:00:00",
@@ -4705,7 +5557,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-25T17:00:00",
@@ -4727,7 +5583,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-26T17:00:00",
@@ -4749,7 +5609,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-27T17:00:00",
@@ -4771,7 +5635,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-28T17:00:00",
@@ -4793,7 +5661,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-29T17:00:00",
@@ -4815,7 +5687,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-09-30T17:00:00",
@@ -4837,7 +5713,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-01T17:00:00",
@@ -4859,7 +5739,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-02T17:00:00",
@@ -4881,7 +5765,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-03T17:00:00",
@@ -4903,7 +5791,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-04T17:00:00",
@@ -4925,7 +5817,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-05T17:00:00",
@@ -4947,7 +5843,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-06T17:00:00",
@@ -4969,7 +5869,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-07T17:00:00",
@@ -4991,7 +5895,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-08T17:00:00",
@@ -5013,7 +5921,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-09T17:00:00",
@@ -5035,7 +5947,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-10T17:00:00",
@@ -5057,7 +5973,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-11T17:00:00",
@@ -5079,7 +5999,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-12T17:00:00",
@@ -5101,7 +6025,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-13T17:00:00",
@@ -5123,7 +6051,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-14T17:00:00",
@@ -5145,7 +6077,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-15T17:00:00",
@@ -5167,7 +6103,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-16T17:00:00",
@@ -5189,7 +6129,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-17T17:00:00",
@@ -5211,7 +6155,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-18T17:00:00",
@@ -5233,7 +6181,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-19T17:00:00",
@@ -5255,7 +6207,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-20T17:00:00",
@@ -5277,7 +6233,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-21T17:00:00",
@@ -5299,7 +6259,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-22T17:00:00",
@@ -5321,7 +6285,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-23T17:00:00",
@@ -5343,7 +6311,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-24T17:00:00",
@@ -5365,7 +6337,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-25T17:00:00",
@@ -5387,7 +6363,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-26T17:00:00",
@@ -5409,7 +6389,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-27T17:00:00",
@@ -5431,7 +6415,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-28T17:00:00",
@@ -5453,7 +6441,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-29T17:00:00",
@@ -5475,7 +6467,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-30T17:00:00",
@@ -5497,7 +6493,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-10-31T17:00:00",
@@ -5519,7 +6519,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-01T17:00:00",
@@ -5541,7 +6545,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-02T17:00:00",
@@ -5563,7 +6571,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-03T17:00:00",
@@ -5585,7 +6597,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-04T17:00:00",
@@ -5607,7 +6623,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-05T17:00:00",
@@ -5629,7 +6649,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-06T17:00:00",
@@ -5651,7 +6675,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-07T17:00:00",
@@ -5673,7 +6701,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-08T17:00:00",
@@ -5695,7 +6727,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-09T17:00:00",
@@ -5717,7 +6753,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-10T17:00:00",
@@ -5739,7 +6779,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-11T17:00:00",
@@ -5761,7 +6805,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-12T17:00:00",
@@ -5783,7 +6831,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-13T17:00:00",
@@ -5805,7 +6857,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-14T17:00:00",
@@ -5827,7 +6883,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-15T17:00:00",
@@ -5849,7 +6909,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-16T17:00:00",
@@ -5871,7 +6935,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-17T17:00:00",
@@ -5893,7 +6961,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-18T17:00:00",
@@ -5915,7 +6987,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-19T17:00:00",
@@ -5937,7 +7013,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-20T17:00:00",
@@ -5959,7 +7039,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-21T17:00:00",
@@ -5981,7 +7065,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-22T17:00:00",
@@ -6003,7 +7091,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-23T17:00:00",
@@ -6025,7 +7117,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-24T17:00:00",
@@ -6047,7 +7143,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-25T17:00:00",
@@ -6069,7 +7169,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-26T17:00:00",
@@ -6091,7 +7195,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-27T17:00:00",
@@ -6113,7 +7221,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-28T17:00:00",
@@ -6135,7 +7247,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-29T17:00:00",
@@ -6157,7 +7273,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-11-30T17:00:00",
@@ -6179,7 +7299,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-01T17:00:00",
@@ -6201,7 +7325,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-02T17:00:00",
@@ -6223,7 +7351,11 @@
     "note":null,
     "ingressi_terapia_intensiva":null,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-03T17:00:00",
@@ -6245,7 +7377,11 @@
     "note":null,
     "ingressi_terapia_intensiva":217.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-04T17:00:00",
@@ -6267,7 +7403,11 @@
     "note":null,
     "ingressi_terapia_intensiva":201.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-05T17:00:00",
@@ -6289,7 +7429,11 @@
     "note":null,
     "ingressi_terapia_intensiva":192.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-06T17:00:00",
@@ -6311,7 +7455,11 @@
     "note":null,
     "ingressi_terapia_intensiva":150.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-07T17:00:00",
@@ -6333,7 +7481,11 @@
     "note":null,
     "ingressi_terapia_intensiva":144.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-08T17:00:00",
@@ -6355,7 +7507,11 @@
     "note":null,
     "ingressi_terapia_intensiva":192.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-09T17:00:00",
@@ -6377,7 +7533,11 @@
     "note":null,
     "ingressi_terapia_intensiva":152.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-10T17:00:00",
@@ -6399,7 +7559,11 @@
     "note":null,
     "ingressi_terapia_intensiva":251.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-11T17:00:00",
@@ -6421,7 +7585,11 @@
     "note":null,
     "ingressi_terapia_intensiva":208.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-12T17:00:00",
@@ -6443,7 +7611,11 @@
     "note":null,
     "ingressi_terapia_intensiva":195.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-13T17:00:00",
@@ -6465,7 +7637,11 @@
     "note":null,
     "ingressi_terapia_intensiva":152.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-14T17:00:00",
@@ -6487,7 +7663,11 @@
     "note":null,
     "ingressi_terapia_intensiva":138.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-15T17:00:00",
@@ -6509,7 +7689,11 @@
     "note":null,
     "ingressi_terapia_intensiva":199.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-16T17:00:00",
@@ -6531,7 +7715,11 @@
     "note":null,
     "ingressi_terapia_intensiva":191.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-17T17:00:00",
@@ -6553,7 +7741,11 @@
     "note":null,
     "ingressi_terapia_intensiva":183.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-18T17:00:00",
@@ -6575,7 +7767,11 @@
     "note":null,
     "ingressi_terapia_intensiva":189.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-19T17:00:00",
@@ -6597,7 +7793,11 @@
     "note":null,
     "ingressi_terapia_intensiva":160.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-20T17:00:00",
@@ -6619,7 +7819,11 @@
     "note":null,
     "ingressi_terapia_intensiva":121.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-21T17:00:00",
@@ -6641,7 +7845,11 @@
     "note":null,
     "ingressi_terapia_intensiva":161.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-22T17:00:00",
@@ -6663,7 +7871,11 @@
     "note":null,
     "ingressi_terapia_intensiva":201.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-23T17:00:00",
@@ -6685,7 +7897,11 @@
     "note":null,
     "ingressi_terapia_intensiva":216.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-24T17:00:00",
@@ -6707,7 +7923,11 @@
     "note":null,
     "ingressi_terapia_intensiva":149.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-25T17:00:00",
@@ -6729,7 +7949,11 @@
     "note":null,
     "ingressi_terapia_intensiva":165.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-26T17:00:00",
@@ -6751,7 +7975,11 @@
     "note":null,
     "ingressi_terapia_intensiva":133.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-27T17:00:00",
@@ -6773,7 +8001,11 @@
     "note":null,
     "ingressi_terapia_intensiva":148.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-28T17:00:00",
@@ -6795,7 +8027,11 @@
     "note":null,
     "ingressi_terapia_intensiva":167.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-29T17:00:00",
@@ -6817,7 +8053,11 @@
     "note":null,
     "ingressi_terapia_intensiva":256.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-30T17:00:00",
@@ -6839,7 +8079,11 @@
     "note":null,
     "ingressi_terapia_intensiva":175.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2020-12-31T17:00:00",
@@ -6861,7 +8105,11 @@
     "note":null,
     "ingressi_terapia_intensiva":202.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-01T17:00:00",
@@ -6883,7 +8131,11 @@
     "note":null,
     "ingressi_terapia_intensiva":145.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-02T17:00:00",
@@ -6905,7 +8157,11 @@
     "note":null,
     "ingressi_terapia_intensiva":134.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-03T17:00:00",
@@ -6927,7 +8183,11 @@
     "note":null,
     "ingressi_terapia_intensiva":154.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-04T17:00:00",
@@ -6949,7 +8209,11 @@
     "note":null,
     "ingressi_terapia_intensiva":136.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-05T17:00:00",
@@ -6971,7 +8235,11 @@
     "note":null,
     "ingressi_terapia_intensiva":202.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-06T17:00:00",
@@ -6993,7 +8261,11 @@
     "note":null,
     "ingressi_terapia_intensiva":183.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-07T17:00:00",
@@ -7015,7 +8287,11 @@
     "note":null,
     "ingressi_terapia_intensiva":156.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-08T17:00:00",
@@ -7037,7 +8313,11 @@
     "note":null,
     "ingressi_terapia_intensiva":187.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-09T17:00:00",
@@ -7059,7 +8339,11 @@
     "note":null,
     "ingressi_terapia_intensiva":183.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-10T17:00:00",
@@ -7081,7 +8365,11 @@
     "note":null,
     "ingressi_terapia_intensiva":181.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-11T17:00:00",
@@ -7103,7 +8391,11 @@
     "note":null,
     "ingressi_terapia_intensiva":168.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-12T17:00:00",
@@ -7125,7 +8417,11 @@
     "note":null,
     "ingressi_terapia_intensiva":196.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-13T17:00:00",
@@ -7147,7 +8443,11 @@
     "note":null,
     "ingressi_terapia_intensiva":165.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-14T17:00:00",
@@ -7169,7 +8469,11 @@
     "note":null,
     "ingressi_terapia_intensiva":164.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":null,
+    "totale_positivi_test_antigenico_rapido":null,
+    "tamponi_test_molecolare":null,
+    "tamponi_test_antigenico_rapido":null
   },
   {
     "data":"2021-01-15T17:00:00",
@@ -7191,7 +8495,11 @@
     "note":null,
     "ingressi_terapia_intensiva":156.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":2351466.0,
+    "totale_positivi_test_antigenico_rapido":957.0,
+    "tamponi_test_molecolare":28617351.0,
+    "tamponi_test_antigenico_rapido":116859.0
   },
   {
     "data":"2021-01-16T17:00:00",
@@ -7213,7 +8521,11 @@
     "note":null,
     "ingressi_terapia_intensiva":170.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":2366912.0,
+    "totale_positivi_test_antigenico_rapido":1821.0,
+    "tamponi_test_molecolare":28780581.0,
+    "tamponi_test_antigenico_rapido":215033.0
   },
   {
     "data":"2021-01-17T17:00:00",
@@ -7235,6 +8547,36 @@
     "note":null,
     "ingressi_terapia_intensiva":124.0,
     "note_test":null,
-    "note_casi":null
+    "note_casi":null,
+    "totale_positivi_test_molecolare":2379043.0,
+    "totale_positivi_test_antigenico_rapido":2234.0,
+    "tamponi_test_molecolare":28910309.0,
+    "tamponi_test_antigenico_rapido":296383.0
+  },
+  {
+    "data":"2021-01-18T17:00:00",
+    "stato":"ITA",
+    "ricoverati_con_sintomi":22884,
+    "terapia_intensiva":2544,
+    "totale_ospedalizzati":25428,
+    "isolamento_domiciliare":521630,
+    "totale_positivi":547058,
+    "variazione_totale_positivi":-6316,
+    "nuovi_positivi":8824,
+    "dimessi_guariti":1760489,
+    "deceduti":82554,
+    "casi_da_sospetto_diagnostico":null,
+    "casi_da_screening":null,
+    "totale_casi":2390101,
+    "tamponi":29365366,
+    "casi_testati":15937909.0,
+    "note":null,
+    "ingressi_terapia_intensiva":142.0,
+    "note_test":null,
+    "note_casi":null,
+    "totale_positivi_test_molecolare":2387619.0,
+    "totale_positivi_test_antigenico_rapido":2482.0,
+    "tamponi_test_molecolare":28997556.0,
+    "tamponi_test_antigenico_rapido":367810.0
   }
 ]
