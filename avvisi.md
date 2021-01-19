@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>19/01/2021</b><br>
+A partire dal 15.01.2021 la trasmissione dati rispetta quanto disposto dalla Circolare Aggiornamento della definizione di caso COVID-19 e strategie di testing n.705 del 08.01.2021.  La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
 <b>18/01/2021</b><br>
 A partire dal 15.01.2021 la trasmissione dati rispetta quanto disposto dalla Circolare Aggiornamento della definizione di caso COVID-19 e strategie di testing n.705 del 08.01.2021. La Regione Abruzzo comunica che sono stati riallineati il numero delle persone testate e dei tamponi processati con test molecolare e con test antigenico rapido.
 

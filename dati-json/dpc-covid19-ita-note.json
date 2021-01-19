@@ -674,5 +674,9 @@
     {
         "data": "2021-01-18T17:00:00",
         "note": "A partire dal 15.01.2021 la trasmissione dati rispetta quanto disposto dalla Circolare Aggiornamento della definizione di caso COVID-19 e strategie di testing n.705 del 08.01.2021. La Regione Abruzzo comunica che sono stati riallineati il numero delle persone testate e dei tamponi processati con test molecolare e con test antigenico rapido."
+    },
+    {
+        "data": "2021-01-19T17:00:00",
+        "note": "A partire dal 15.01.2021 la trasmissione dati rispetta quanto disposto dalla Circolare Aggiornamento della definizione di caso COVID-19 e strategie di testing n.705 del 08.01.2021.  La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19."
     }
 ]
