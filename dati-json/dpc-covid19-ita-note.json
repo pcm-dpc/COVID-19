@@ -678,5 +678,9 @@
     {
         "data": "2021-01-19T17:00:00",
         "note": "A partire dal 15.01.2021 la trasmissione dati rispetta quanto disposto dalla Circolare Aggiornamento della definizione di caso COVID-19 e strategie di testing n.705 del 08.01.2021.  La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19."
+    },
+    {
+        "data": "2021-01-20T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 1 decesso non attribuibile a COVID-19 e 3 casi in quanto giudicati non casi COVID-19. La Regione Valle d'Aosta comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 19 casi in quanto giudicati non casi COVID-19."
     }
 ]
