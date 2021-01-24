@@ -690,5 +690,9 @@
     {
         "data": "2021-01-23T17:00:00",
         "note": "La Regione Sardegna segnala che  in data odierna non sono pervenuti i flussi informativi relativamente ai tamponi antigenici processati."
+    },
+    {
+        "data": "2021-01-24T17:00:00",
+        "note": "La Regione Emilia-Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La P.A. Trento segnala che a seguito di una verifica interna dei dati sui decessi attribuibili a COVID-19, in data odierna sono stati conteggiati 30 decessi avvenuti in due RSA nei mesi di novembre e dicembre 2020 e finora non conteggiati."
     }
 ]
