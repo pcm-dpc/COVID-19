@@ -9,6 +9,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
 - Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
 
+## 2021-01-24
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni e gialle) con relativi metadata.
+
 ## 2021-01-18
 
 - Aggiunta informazioni "codice_nuts_1" e "codice_nuts_2" sul dataset regioni e "codice_nuts_1", "codice_nuts_2" e " codice_nuts_3" sul dataset province
