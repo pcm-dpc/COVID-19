@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>25/01/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 3 casi, di cui 2 già in carico ad altre Regioni e 1 per controlli effettuati dalla ASL.
+
 <b>24/01/2021</b><br>
 La Regione Emilia-Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La P.A. Trento segnala che a seguito di una verifica interna dei dati sui decessi attribuibili a COVID-19, in data odierna sono stati conteggiati 30 decessi avvenuti in due RSA nei mesi di novembre e dicembre 2020 e finora non conteggiati.
 
