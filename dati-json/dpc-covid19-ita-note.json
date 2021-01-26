@@ -698,5 +698,9 @@
     {
         "data": "2021-01-25T17:00:00",
         "note": "La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 3 casi, di cui 2 già in carico ad altre Regioni e 1 per controlli effettuati dalla ASL."
+    },
+    {
+        "data": "2021-01-25T17:00:00",
+        "note": "La regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 9 casi in quanto giudicati non casi COVID-19. La Regione Marche comunica che per dal giorno 15/01/2021 i tamponi totali sono stati scorporati in 2 parti: 1) percorso test molecolare e 2) percorso test antigenico. Dalla giornata di ieri 25/01/2021 per un errore nei giorni precedenti sul totale dei tamponi con il test molecolare risultava anche una parte dei tamponi residuali antigenici dei giorni precedenti. Ieri è stato individuato l'errore ed è stata eliminata dai tamponi molecolari la parte residuale di antigenici."
     }
 ]
