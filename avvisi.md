@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>27/01/2021</b><br>
+La Regione Abruzzo	comunica che a seguito di controlli anagrafici, dal totale dei casi positivi è stato sottratto 1 caso in quanto duplicato. La Regione Emilia-Romagna	comunica che sono stati eliminati 12 casi, comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19. In seguito a verifica sui dati comunicati nei giorni passati é stato eliminato 1 decesso, in quanto non attribuibile a COVID-19. La Regione Veneto comunica che il numero di casi determinati da test antigenico è stato inserito per la prima volta oggi ed il dato è cumulativo dal 16.01.21.
+
 <b>26/01/2021</b><br>
 La regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 9 casi in quanto giudicati non casi COVID-19. La Regione Marche comunica che per dal giorno 15/01/2021 i tamponi totali sono stati scorporati in 2 parti: 1) percorso test molecolare e 2) percorso test antigenico. Dalla giornata di ieri 25/01/2021 per un errore nei giorni precedenti sul totale dei tamponi con il test molecolare risultava anche una parte dei tamponi residuali antigenici dei giorni precedenti. Ieri è stato individuato l'errore ed è stata eliminata dai tamponi molecolari la parte residuale di antigenici.
 
