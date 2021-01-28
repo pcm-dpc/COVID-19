@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>28/01/2021</b><br>
+La Regione Emilia Romagna comunica che sono stati eliminati 12 casi, comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19.
+
 <b>27/01/2021</b><br>
 La Regione Abruzzo	comunica che a seguito di controlli anagrafici, dal totale dei casi positivi è stato sottratto 1 caso in quanto duplicato. La Regione Emilia-Romagna	comunica che sono stati eliminati 12 casi, comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19. In seguito a verifica sui dati comunicati nei giorni passati é stato eliminato 1 decesso, in quanto non attribuibile a COVID-19. La Regione Veneto comunica che il numero di casi determinati da test antigenico è stato inserito per la prima volta oggi ed il dato è cumulativo dal 16.01.21.
 
