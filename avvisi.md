@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>30/01/2021</b><br>
+La Regione Emilia Romagna comunica che a seguito di verifica, sono stati eliminati 2 casi positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>29/01/2021</b><br>
 La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti due casi in quanto duplicati. La Regione Calabria comunica che il numero dei tamponi molecolari comunicati il giorno 28/01/2021 è stato rettificato da 507.565 a 507.965. La Regione Emilia Romagna comunica che sono stati eliminati 9 casi, comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19. In seguito a verifica sui dati comunicati nei giorni passati é stato eliminato 1 decesso, in quanto non attribuibile a COVID-19.
 
