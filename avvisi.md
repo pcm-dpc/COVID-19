@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>02/02/2021</b><br>
+La regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 3 casi dei giorni passati per ricalcolo. La regione Emilia-Romagna comunica che sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>31/01/2021</b><br>
 La Regione Emilia Romagna comunica che sono stati eliminati 3 casi positivi a test antigenico, ma non confermati da tampone molecolare.
 

@@ -722,5 +722,9 @@
     {
         "data": "2021-01-31T17:00:00",
         "note": "La Regione Emilia Romagna comunica che sono stati eliminati 3 casi positivi a test antigenico, ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-02-02T17:00:00",
+        "note": "La regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 3 casi dei giorni passati per ricalcolo. La regione Emilia-Romagna comunica che sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare."
     }
 ]
