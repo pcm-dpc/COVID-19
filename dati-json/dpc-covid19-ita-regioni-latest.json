@@ -93,7 +93,7 @@
     "tamponi_test_molecolare":521646,
     "tamponi_test_antigenico_rapido":4598,
     "codice_nuts_1":"ITF",
-    "codice_nuts_2":"ITF3"
+    "codice_nuts_2":"ITF6"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -124,8 +124,8 @@
     "totale_positivi_test_antigenico_rapido":1627,
     "tamponi_test_molecolare":2439252,
     "tamponi_test_antigenico_rapido":31888,
-    "codice_nuts_1":"ITH",
-    "codice_nuts_2":"ITH5"
+    "codice_nuts_1":"ITF",
+    "codice_nuts_2":"ITF3"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -157,7 +157,7 @@
     "tamponi_test_molecolare":3024793,
     "tamponi_test_antigenico_rapido":141411,
     "codice_nuts_1":"ITH",
-    "codice_nuts_2":"ITH4"
+    "codice_nuts_2":"ITH5"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -188,8 +188,8 @@
     "totale_positivi_test_antigenico_rapido":2795,
     "tamponi_test_molecolare":1126574,
     "tamponi_test_antigenico_rapido":39875,
-    "codice_nuts_1":"ITI",
-    "codice_nuts_2":"ITI4"
+    "codice_nuts_1":"ITH",
+    "codice_nuts_2":"ITH4"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -220,8 +220,8 @@
     "totale_positivi_test_antigenico_rapido":1193,
     "tamponi_test_molecolare":3111030,
     "tamponi_test_antigenico_rapido":294709,
-    "codice_nuts_1":"ITC",
-    "codice_nuts_2":"ITC3"
+    "codice_nuts_1":"ITI",
+    "codice_nuts_2":"ITI4"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -253,7 +253,7 @@
     "tamponi_test_molecolare":829405,
     "tamponi_test_antigenico_rapido":46897,
     "codice_nuts_1":"ITC",
-    "codice_nuts_2":"ITC4"
+    "codice_nuts_2":"ITC3"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -284,8 +284,8 @@
     "totale_positivi_test_antigenico_rapido":1781,
     "tamponi_test_molecolare":5586597,
     "tamponi_test_antigenico_rapido":157317,
-    "codice_nuts_1":"ITI",
-    "codice_nuts_2":"ITI3"
+    "codice_nuts_1":"ITC",
+    "codice_nuts_2":"ITC4"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -316,8 +316,8 @@
     "totale_positivi_test_antigenico_rapido":0,
     "tamponi_test_molecolare":673309,
     "tamponi_test_antigenico_rapido":29296,
-    "codice_nuts_1":"ITF",
-    "codice_nuts_2":"ITF2"
+    "codice_nuts_1":"ITI",
+    "codice_nuts_2":"ITI3"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -348,8 +348,8 @@
     "totale_positivi_test_antigenico_rapido":0,
     "tamponi_test_molecolare":139889,
     "tamponi_test_antigenico_rapido":208,
-    "codice_nuts_1":"ITC",
-    "codice_nuts_2":"ITC1"
+    "codice_nuts_1":"ITF",
+    "codice_nuts_2":"ITF2"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -380,8 +380,8 @@
     "totale_positivi_test_antigenico_rapido":5072,
     "tamponi_test_molecolare":432893,
     "tamponi_test_antigenico_rapido":85662,
-    "codice_nuts_1":"ITF",
-    "codice_nuts_2":"ITF6"
+    "codice_nuts_1":"ITH",
+    "codice_nuts_2":"ITH1"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -412,8 +412,8 @@
     "totale_positivi_test_antigenico_rapido":2437,
     "tamponi_test_molecolare":514774,
     "tamponi_test_antigenico_rapido":20805,
-    "codice_nuts_1":"ITI",
-    "codice_nuts_2":"ITI1"
+    "codice_nuts_1":"ITH",
+    "codice_nuts_2":"ITH2"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -444,8 +444,8 @@
     "totale_positivi_test_antigenico_rapido":2254,
     "tamponi_test_molecolare":1901896,
     "tamponi_test_antigenico_rapido":220524,
-    "codice_nuts_1":"ITH",
-    "codice_nuts_2":"ITH1"
+    "codice_nuts_1":"ITC",
+    "codice_nuts_2":"ITC1"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -476,8 +476,8 @@
     "totale_positivi_test_antigenico_rapido":428,
     "tamponi_test_molecolare":1312440,
     "tamponi_test_antigenico_rapido":23852,
-    "codice_nuts_1":"ITH",
-    "codice_nuts_2":"ITH2"
+    "codice_nuts_1":"ITF",
+    "codice_nuts_2":"ITF4"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -508,8 +508,8 @@
     "totale_positivi_test_antigenico_rapido":2,
     "tamponi_test_molecolare":578145,
     "tamponi_test_antigenico_rapido":11923,
-    "codice_nuts_1":"ITF",
-    "codice_nuts_2":"ITF4"
+    "codice_nuts_1":"ITG",
+    "codice_nuts_2":"ITG2"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -541,7 +541,7 @@
     "tamponi_test_molecolare":1534086,
     "tamponi_test_antigenico_rapido":329507,
     "codice_nuts_1":"ITG",
-    "codice_nuts_2":"ITG2"
+    "codice_nuts_2":"ITG1"
   },
   {
     "data":"2021-02-03T17:00:00",
@@ -572,8 +572,8 @@
     "totale_positivi_test_antigenico_rapido":121,
     "tamponi_test_molecolare":2175251,
     "tamponi_test_antigenico_rapido":101680,
-    "codice_nuts_1":"ITG",
-    "codice_nuts_2":"ITG1"
+    "codice_nuts_1":"ITI",
+    "codice_nuts_2":"ITI1"
   },
   {
     "data":"2021-02-03T17:00:00",
