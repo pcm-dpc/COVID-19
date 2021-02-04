@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>04/02/2021</b><br>
+La regione Emilia Romagna comunica che sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare. In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 decesso; si corregge pertanto il numero dei decessi comunicato ieri: 9.656.
+
 <b>03/02/2021</b><br>
 La regione Emilia Romagna comunica che: Sono stati eliminati 7 casi, positivi a test antigenico ma non confermati da tampone molecolare. In seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 decesso, in quanto non attribuibile a COVID-19; si corregge pertanto il numero dei decessi comunicato ieri: 9.581.
 
