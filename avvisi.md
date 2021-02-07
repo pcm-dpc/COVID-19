@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>07/02/2021</b><br>
+La Regione emilia Romagna comunica che è stato eliminato 1 caso, comunicato nei giorni precedenti, in quanto giudicato non caso COVID-19.
+
 <b>06/02/2021</b><br>
 La Regione Abruzzo riporta che dal totale dei positivi è stato eliminato un caso in quanto giudicato non caso. La Regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi, in quanto giudicati non casi.
 

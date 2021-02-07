@@ -742,5 +742,9 @@
     {
         "data": "2021-02-06T17:00:00",
         "note": "La Regione Abruzzo riporta che dal totale dei positivi è stato eliminato un caso in quanto giudicato non caso. La Regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi, in quanto giudicati non casi."
+    },
+    {
+        "data": "2021-02-07T17:00:00",
+        "note": "La Regione emilia Romagna comunica che è stato eliminato 1 caso, comunicato nei giorni precedenti, in quanto giudicato non caso COVID-19."
     }
 ]
