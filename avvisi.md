@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>08/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi confermati da test antigenico già comunicati è stato eliminato 1 caso, in quanto non confermato successivamente con test molecolare. La Regione Veneto comunica che dal totale dei casi confermati da test antigenico già comunicati sono stati sottratti 48 casi, in quanto non confermati successivamente con test molecolare.
+
 <b>07/02/2021</b><br>
 La Regione emilia Romagna comunica che è stato eliminato 1 caso, comunicato nei giorni precedenti, in quanto giudicato non caso COVID-19.
 
