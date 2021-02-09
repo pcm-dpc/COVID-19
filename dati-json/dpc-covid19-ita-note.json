@@ -750,5 +750,9 @@
     {
         "data": "2021-02-08T17:00:00",
         "note": "La Regione Emilia Romagna comunica che dal totale dei casi confermati da test antigenico già comunicati è stato eliminato 1 caso, in quanto non confermato successivamente con test molecolare. La Regione Veneto comunica che dal totale dei casi confermati da test antigenico già comunicati sono stati sottratti 48 casi, in quanto non confermati successivamente con test molecolare."
+    },
+    {
+        "data": "2021-02-09T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che dal totale dei casi già comunicati nei giorni precedenti sono stati eliminati 18 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare."
     }
 ]
