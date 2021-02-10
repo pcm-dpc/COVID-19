@@ -6,6 +6,9 @@
 
 ## Avvisi
 <b>09/02/2021</b><br>
+La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati nei giorni precedenti sono  stati eliminati 9 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare.
+
+<b>09/02/2021</b><br>
 La Regione Emilia Romagna comunica che dal totale dei casi già comunicati nei giorni precedenti sono stati eliminati 18 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare.
 
 <b>08/02/2021</b><br>
