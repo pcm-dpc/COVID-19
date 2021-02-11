@@ -5,7 +5,10 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
-<b>09/02/2021</b><br>
+<b>11/02/2021</b><br>
+La regione Abruzzo comunica che a seguito di controlli anagrafici dal totale casi positivi è stato sottratto un caso duplicato. La regione Emilia Romagna comunica che, dal totale dei casi confermati, sono stati eliminati 8 casi, positivi al test antigenico ma non confermati da tampone molecolare. La regione Sardegna comunica che non sono pervenuti dati relativi al numero di tamponi antigenici eseguiti nelle precedenti 24 ore; i 3 casi confermati da test antigenico si riferiscono a tamponi già dichiarati nella giornata di ieri. La regione Umbria comunica che, nel conteggio dei tamponi processati con test antigenico, sono stati aggiunti 7 tamponi effettuati nei giorni precedenti.
+
+<b>10/02/2021</b><br>
 La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati nei giorni precedenti sono  stati eliminati 9 casi, in quanto positivi a test antigenico ma non confermati successivamente da tampone molecolare.
 
 <b>09/02/2021</b><br>
