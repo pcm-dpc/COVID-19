@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>15/02/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei casi confermati già comunicati sono stati eliminati 5 casi per correzioni anagrafiche. La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>14/02/2021</b><br>
 La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 8 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
