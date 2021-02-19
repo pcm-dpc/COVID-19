@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>19/02/2021</b><br>
+La Regione Emila Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 5 decessi; si corregge pertanto il numero dei decessi comunicato ieri: 10.235. Sono stati inoltre eliminati 9 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Regione Veneto comunica che il dato sulle persone testate è in fase di aggiornamento.
+
 <b>18/02/2021</b><br>
 La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato 1 caso in quanto caso duplicato. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
