@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>21/02/2021</b><br>
+La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 2 casi,  in quanto giudicati non casi COVID-19.
+
 <b>20/02/2021</b><br>
 La Regione Abruzzo comunica che dai casi  già comunicati è stato sottratto un caso in quanto duplicato. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 16 casi,  in quanto giudicati non casi COVID-19.
 

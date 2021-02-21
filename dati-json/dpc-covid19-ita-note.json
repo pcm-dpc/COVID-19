@@ -798,5 +798,9 @@
     {
         "data": "2021-02-20T17:00:00",
         "note": "La Regione Abruzzo comunica che dai casi  già comunicati è stato sottratto un caso in quanto duplicato. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 16 casi,  in quanto giudicati non casi COVID-19."
+    },
+    {
+        "data": "2021-02-21T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 2 casi,  in quanto giudicati non casi COVID-19."
     }
 ]
