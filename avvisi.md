@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>23/02/2021</b><br>
+La regione Basilicata comunica che il dato dei positivi comprende n. 115 positività odierne ed ulteriori n. 36 riferite al 20/02/2021, caricate successivamente sulla piattaforma regionale. La regione Emilia Romagna comunica che, dal totale dei positivi dichiarato nei giorni precedenti, sono stati eliminati 15 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>22/02/2021</b><br>
 La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati sottratti 2 casi in quanto duplicati. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 4 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
 
