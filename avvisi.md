@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>24/02/2021</b><br>
+La regione Basilicata comunica che il decesso comunicato in data odierna è riferito al bollettino del 23/02/2021. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 17 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Molise comunica che 5 pazienti, precedentemente conteggiati tra i casi confermati,  sono stati trasferiti presso altri istituti fuori regione.
+
 <b>23/02/2021</b><br>
 La regione Basilicata comunica che il dato dei positivi comprende n. 115 positività odierne ed ulteriori n. 36 riferite al 20/02/2021, caricate successivamente sulla piattaforma regionale. La regione Emilia Romagna comunica che, dal totale dei positivi dichiarato nei giorni precedenti, sono stati eliminati 15 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
