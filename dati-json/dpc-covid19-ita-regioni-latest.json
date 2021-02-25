@@ -82,7 +82,7 @@
     "casi_da_sospetto_diagnostico":null,
     "casi_da_screening":null,
     "totale_casi":37292,
-    "tamponi":666682,
+    "tamponi":576682,
     "casi_testati":544654,
     "note":null,
     "ingressi_terapia_intensiva":1,
@@ -91,7 +91,7 @@
     "totale_positivi_test_molecolare":37286,
     "totale_positivi_test_antigenico_rapido":6,
     "tamponi_test_molecolare":566686,
-    "tamponi_test_antigenico_rapido":99996,
+    "tamponi_test_antigenico_rapido":9996,
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF6"
   },
