@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>26/02/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 11 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. Inoltre in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 decesso, in quanto non attribuibile a COVID-19; si corregge pertanto il numero dei decessi comunicato ieri: 10.458.
+
 <b>25/02/2021</b><br>
 La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto 1 caso in quanto duplicato. La regione Emilia Romagna comunica che dal totale dei positivi, sono stati eliminati 14 casi in quanto positivi al test antigenico ma non confermati da tampone molecolare.
 
