@@ -826,5 +826,9 @@
     {
         "data": "2021-02-27T17:00:00",
         "note": "La Regione Emilia Romagna comunica che sono stati eliminati 14 casi, positivi a test antigenico ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-02-28T17:00:00",
+        "note": "La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 15 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare."
     }
 ]
