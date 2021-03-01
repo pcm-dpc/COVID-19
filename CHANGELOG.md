@@ -12,7 +12,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2021-03-01
 
 - Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche) con relativi metadata. Per le aree bianche, nell'attributo LegSpecRif è stato introdotto il nuovo valore "art.1 comma 11", sempre con riferimento alle disposizioni del DPCM 14 gennaio 2021.
-- 
+
 ## 2021-02-21
 
 - Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni e gialle) con relativi metadata.
