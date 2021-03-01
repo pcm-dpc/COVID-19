@@ -12,7 +12,7 @@ All changes to the project, new features and information are documented in this 
 ## 2021-03-01
 
 - Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange, yellow and white areas) with related metadata. For the white areas, the new value "art. 1 comma 11" was introduced in the LegSpecRif attribute, again with reference to the provisions of the Prime Ministerial Decree of January 14, 2021. 
-- 
+
 ## 2021-02-21
 
 - Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange and yellow areas) with related metadata.
