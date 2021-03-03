@@ -838,5 +838,9 @@
     {
         "data": "2021-03-02T17:00:00",
         "note": "La Regione Emilia Romagna comunica che sono stati eliminati 20 casi, positivi a test antigenico ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-03-03T17:00:00",
+        "note": "La Regione Abruzzo comunica che in seguito a verifica stati sottratti 4 casi dal totale del casi confermati già comunicati in quanto casi duplicati.  La Regione Emilia Romagna comunica che sono stati eliminati 40 casi dal totale del casi confermati già comunicati, in quanto positivi a test antigenico ma non confermati da tampone molecolare."
     }
 ]
