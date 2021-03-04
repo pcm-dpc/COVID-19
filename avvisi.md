@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>04/03/2021</b><br>
+La Regione Emilia Romagna comunica che sono stati eliminati 20 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>03/03/2021</b><br>
 La Regione Abruzzo comunica che in seguito a verifica stati sottratti 4 casi dal totale del casi confermati già comunicati in quanto casi duplicati.  La Regione Emilia Romagna comunica che sono stati eliminati 40 casi dal totale del casi confermati già comunicati, in quanto positivi a test antigenico ma non confermati da tampone molecolare.
 
