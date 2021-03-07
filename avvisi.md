@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>07/03/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 11 casi dichiarati nei giorni precedenti (10 casi in quanto positivi al test antigenico ma non confermati da tampone molecolare, 1 caso in quanto giudicato non caso COVID-19). La regione Sardegna specifica che un deceduto dichiarato nella giornata di ieri era proveniente dalla T.I.
+
 <b>06/03/2021</b><br>
 La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto un caso in quanto duplicato. La regione Emilia Romagna comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati eliminati 7 casi (6 casi in quanto positivi al test antigenico ma non confermati da tampone molecolare e 1 caso in quanto giudicato non caso COVID-19).
 
