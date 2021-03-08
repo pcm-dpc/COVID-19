@@ -9,6 +9,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
 - Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
 
+## 2021-03-08
+
+- Modifica: aggiornati shape e geojson file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche) con relativi metadata.
+- 
 ## 2021-03-07
 
 - Modifica: aggiornati csv e json file delle metriche sulle visualizzazioni delle dashboard desktop e mobile
