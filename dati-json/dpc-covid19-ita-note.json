@@ -862,5 +862,9 @@
     {
         "data": "2021-03-08T17:00:00",
         "note": "La Regione Abruzzo comunica che dai casi già comunicati nei giorni scorsi, sono stati eliminati 3 casi in quanto duplicati. La Regione Emilia Romagna comunica che dai casi già comunicati nei giorni scorsi sono stati eliminati 17 casi, positivi a test antigenico ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-03-09T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che dai dati già comunicati nei giorni scorsi sono stati eliminati 24 casi, positivi a test antigenico ma non confermati da tampone molecolare."
     }
 ]

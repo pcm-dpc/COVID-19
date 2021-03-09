@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>09/03/2021</b><br>
+La Regione Emilia Romagna comunica che dai dati già comunicati nei giorni scorsi sono stati eliminati 24 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>08/03/2021</b><br>
 La Regione Abruzzo comunica che dai casi già comunicati nei giorni scorsi, sono stati eliminati 3 casi in quanto duplicati. La Regione Emilia Romagna comunica che dai casi già comunicati nei giorni scorsi sono stati eliminati 17 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
