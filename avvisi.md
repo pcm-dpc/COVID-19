@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>12/03/2021</b><br>
+La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 34 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>11/03/2021</b><br>
 La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 24 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
