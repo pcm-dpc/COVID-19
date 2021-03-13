@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>13/03/2021</b><br>
+La Regione Abruzzo comunica che dai dati già comunicati è stato eliminato 1 caso in quanto non caso di Covid-19. La Regione Emilia Romagna comunica che dai dati già comunicati sono stati eliminati 26 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Provincia Autonoma di Bolzano comunica che dai dati già comunicati sono stati eliminati 4 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>12/03/2021</b><br>
 La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 34 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
