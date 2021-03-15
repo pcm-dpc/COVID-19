@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>15/03/2021</b><br>
+La regione Abruzzo comunica che dal totale dei positivi è stato sottratto un caso risultato un duplicato. La regione Emilia Romagna comunica che Sono stati eliminati 13 casi, positivi a test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi è stato eliminato un caso, positivo al test antigenico ma non confermato da test molecolare. La regione Veneto comunica che sono stati sottratti 5 casi tra i confermati con test antigenico in quanto sono risultati positivi al test molecolare.
+
 <b>14/03/2021</b><br>
 La Regione Emilia Romagna comunica che dai dati già comunicati sono stati eliminati 8 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Provincia Autonoma di Bolzano comunica che dai dati già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
