@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>17/03/2021</b><br>
+La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati sottratti 2 casi: 1 per duplicato ed 1 poiché già in carico in altra Regione. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 16 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto 1 caso in quanto positivo al test antigenico ma non confermato da tampone molecolare.
+
 <b>16/03/2021</b><br>
 La regione Abruzzo comunica che, dal totale dei positivi, dichiarato nei giorni precedenti, sono stati sottratti 2 casi in quanto pazienti NON Covid. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 18 casi, dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
 
