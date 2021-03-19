@@ -6,6 +6,9 @@
 
 ## Avvisi
 <b>18/03/2021</b><br>
+La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto 1 caso in quanto duplicato. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 26 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto 1 caso in quanto positivo al test antigenico ma non confermato da tampone molecolare.
+
+<b>18/03/2021</b><br>
 La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati sottratti 3 casi: 2 in quanto non-COVID e 1 in quanto duplicato. La regione Emilia Romagna comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati eliminati 29 casi: 27 in quanto positivi al test antigenico ma non confermati da tampone molecolare, e 2 casi in quanto giudicati non-COVID. La P.A. di Bolzano comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati sottratti 2 casi in quanto positivi al test antigenico ma non confermati da test molecolare. La regione Valle d'Aosta comunica che dei 20 casi confermarti da test antigenico odierni, 9 appartengono alla giornata di ieri.
 
 <b>17/03/2021</b><br>
