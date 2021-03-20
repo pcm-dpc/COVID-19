@@ -16,7 +16,7 @@ Tipo di issue:
 
 - [ ] Dati mancanti o errati <!-- file relativo -->
 - [ ] Errore nella documentazione <!-- file relativo -->
-- [ ] Errore or mancanza nella dashboard <!-- file relativo -->
+- [ ] Errore o mancanza nella dashboard <!-- file relativo -->
 - [ ] Problemi di visualizzazione nella dashboard <!-- file relativo -->
 
 - Regione:
