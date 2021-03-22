@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>22/03/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato 1 caso dei giorni scorsi in quanto duplicato. La Regione Emilia Romagna comunica che sono stati eliminati 5 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA Bolzano comunica che a seguito di un ricalcolo dei dati è emerso che i test antigenici positivi confermati dall'esito del test molecolare eseguiti prima del 15.01.2021 non sono stati conteggiati fino ad oggi. Pertanto oggi vengono aggiunti 10692 unità ai casi confermati da test molecolare, di cui  27 risultati positivi in data 21.03.2021 e 10665 risultati positivi prima del 15.01.2021.
+
 <b>21/03/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 7 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 107 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
 
