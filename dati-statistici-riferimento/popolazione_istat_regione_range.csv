@@ -1,4 +1,4 @@
-codice_regione,codice_nuts_1,descrizione_nuts_1,codice_nuts_2,denominazione_regione,latitudine_regione,longitudine_regione,range_eta,totale_maschi,totale_femmine,totale
+codice_regione,codice_nuts_1,descrizione_nuts_1,codice_nuts_2,denominazione_regione,latitudine_regione,longitudine_regione,range_eta,totale_genere_maschile,genere_femminile,totale
 13,ITF,Sud,ITF1,Abruzzo,42.35122196,1.339.843.823,0-15,87423,82474,169897
 13,ITF,Sud,ITF1,Abruzzo,42.35122196,1.339.843.823,16-19,24402,22349,46751
 13,ITF,Sud,ITF1,Abruzzo,42.35122196,1.339.843.823,20-29,67472,62611,130083
