@@ -922,5 +922,9 @@
     {
         "data": "2021-03-23T17:00:00",
         "note": "La Regione Emilia Romagna comunica che sono stati eliminati 26 casi precedentemente comunicati in quanto positivi a test antigenico ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-03-24T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che sono stati eliminati 20 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA Bolzano comunica che è stata eliminato 1 caso, positivo a test antigenico ma non confermato da tampone molecolare."
     }
 ]
