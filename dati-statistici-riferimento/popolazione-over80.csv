@@ -1,0 +1,22 @@
+codice_regione,codice_nuts_1,descrizione_nuts_1,codice_nuts_2,denominazione_regione,range_eta,totale_genere_maschile,totale_genere_femminile,totale_generale
+13,ITF,Sud,ITF1,Abruzzo,Over80,39826,64177,104003
+17,ITF,Sud,ITF5,Basilicata,Over80,16995,26935,43930
+21,ITH,Nord-Est,ITH1,Bolzano,Over80,12769,20504,33273
+18,ITF,Sud,ITF6,Calabria,Over80,51068,79710,130778
+15,ITF,Sud,ITF3,Campania,Over80,112763,191554,304317
+08,ITH,Nord-Est,ITH5,Emilia-Romagna,Over80,140567,228786,369353
+06,ITH,Nord-Est,ITH4,Friuli Venezia Giulia,Over80,37412,66081,103493
+12,ITI,Centro,ITI4,Lazio,Over80,150267,250338,400605
+07,ITC,Nord-Ovest,ITC3,Liguria,Over80,56742,99227,155969
+03,ITC,Nord-Ovest,ITC4,Lombardia,Over80,269371,468269,737640
+11,ITI,Centro,ITI3,Marche,Over80,50657,82708,133365
+14,ITF,Sud,ITF2,Molise,Over80,9744,16513,26257
+01,ITC,Nord-Ovest,ITC1,Piemonte,Over80,139010,232390,371400
+16,ITF,Sud,ITF4,Puglia,Over80,103121,165005,268126
+20,ITG,Isole,ITG2,Sardegna,Over80,43983,72300,116283
+19,ITG,Isole,ITG1,Sicilia,Over80,121024,194891,315915
+09,ITI,Centro,ITI1,Toscana,Over80,121378,199211,320589
+22,ITH,Nord-Est,ITH2,Trento,Over80,13926,24460,38386
+10,ITI,Centro,ITI2,Umbria,Over80,29256,48661,77917
+02,ITC,Nord-Ovest,ITC2,Valle d'Aosta,Over80,3451,6113,9564
+05,ITH,Nord-Est,ITH3,Veneto,Over80,131869,226671,358540
