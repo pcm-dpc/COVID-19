@@ -10294,5 +10294,31 @@
     "totale_positivi_test_antigenico_rapido":103013.0,
     "tamponi_test_molecolare":39251933.0,
     "tamponi_test_antigenico_rapido":8856594.0
+  },
+  {
+    "data":"2021-03-26T17:00:00",
+    "stato":"ITA",
+    "ricoverati_con_sintomi":28472,
+    "terapia_intensiva":3628,
+    "totale_ospedalizzati":32100,
+    "isolamento_domiciliare":534611,
+    "totale_positivi":566711,
+    "variazione_totale_positivi":3753,
+    "nuovi_positivi":23987,
+    "dimessi_guariti":2814652,
+    "deceduti":107256,
+    "casi_da_sospetto_diagnostico":null,
+    "casi_da_screening":null,
+    "totale_casi":3488619,
+    "tamponi":48463509,
+    "casi_testati":22517146.0,
+    "note":null,
+    "ingressi_terapia_intensiva":288.0,
+    "note_test":null,
+    "note_casi":null,
+    "totale_positivi_test_molecolare":3383796.0,
+    "totale_positivi_test_antigenico_rapido":104823.0,
+    "tamponi_test_molecolare":39457565.0,
+    "tamponi_test_antigenico_rapido":9005944.0
   }
 ]
