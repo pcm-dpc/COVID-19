@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>28/03/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 5 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Veneto comunica che 12 casi confermati da test antigenico, dichiarati nei giorni precedenti, sono stati confermati da tampone molecolare e pertanto spostati in casi confermati da test molecolare.
+
 <b>27/03/2021</b><br>
 La Regione Emilia Romagna comunica che sono stati eliminati 4 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA Bolzano comunica che è stato eliminato 1 caso, positivo a test antigenico ma non confermato da tampone molecolare.
 
