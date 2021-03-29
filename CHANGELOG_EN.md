@@ -11,6 +11,10 @@ All changes to the project, new features and information are documented in this 
 
 ## 2021-03-22
 
+- Change: updated generalized shapefile and geojson (being updating)  with new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
+
+## 2021-03-22
+
 - Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
 
 ## 2021-03-15
