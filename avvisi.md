@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>31/03/2021</b><br>
+La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato 1 caso per correzione dei dati anagrafici. La Regione Emilia Romagna comunica che dai casi già comunicati in precedenza sono stati eliminati 13 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati in precedenza sono stati eliminati 3 casi, positivi al test antigenico ma negativi al test molecolare. La Regione Sicilia comunica il dato che somma i casi di oggi ai casi non comunicati nella giornata di ieri.
+
 <b>30/03/2021</b><br>
 I casi reali rilevati nelle ultime 24 ore sono 76. La Regione Sicilia integrerà nella giornata di domani i dati non comunicati oggi per motivi organizzativi. La Regione Abruzzo comunica che dai casi già comunicati sono stati eliminati 3 casi, 1 caso già segnalato da altra regione e 2 casi duplicati. La Regione Emilia Romagna comunica che dai casi già comunicati in precedenza sono stati eliminati 13 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati in precedenza sono stati eliminati 4 casi, positivi al test antigenico ma negativi al test molecolare. La Regione Valle d'Aosta comunica che in seguito a ricalcolo dei casi del 2020 sono emersi 58 casi non ancora comunicati (55 casi guariti e 3 decessi), che vengono comunicati in data odierna, portando così il numero totale dei casi a 9236.
 
