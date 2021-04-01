@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>01/04/2021</b><br>
+La Regione Abruzzo comunica che, a seguito di controlli anagrafici, dal totale dei casi positivi è stato sottratto 1 caso in quanto duplicato. La Regione Marche comunica, a seguito di verifica, dal totale dei casi positivi sono stati eliminati 224 casi identificati da test sierologici positivi ma negativi al tampone.  La Regione Sicilia comunica che in data odierna non è stato possibile rilevare il dato dei tamponi con test antigenico.
+
 <b>31/03/2021</b><br>
 La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato 1 caso per correzione dei dati anagrafici. La Regione Emilia Romagna comunica che dai casi già comunicati in precedenza sono stati eliminati 13 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati in precedenza sono stati eliminati 3 casi, positivi al test antigenico ma negativi al test molecolare. La Regione Sicilia comunica il dato che somma i casi di oggi ai casi non comunicati nella giornata di ieri.
 
