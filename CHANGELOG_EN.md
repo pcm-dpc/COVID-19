@@ -13,6 +13,10 @@ All changes to the project, new features and information are documented in this 
 
 - Documentation review and data processing description
 
+## 2021-04-03
+
+- Modification: updated shape and geojson (being updated) generalized files with the new containment measures at national level (red areas) with related metadata.
+
 ## 2021-03-29
 
 - Modification: updated shape and geojson (being updated) generalized files with the new containment measures at regional level (red, orange, yellow and white areas) with related metadata.
