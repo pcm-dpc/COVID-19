@@ -5,6 +5,21 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>02/04/2021</b><br>
+La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato un caso in quanto già segnalato da altra regione. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 10 casi, di cui 9 positivi a test antigenico ma non confermati da tampone molecolare e 1 in quanto giudicato non caso di COVID-19. La PA di Bolzano comunica che dai casi già comunicati sono stati eliminati 4 casi positivi al test antigenico ma negativi al test molecolare. La Regione Veneto comunica che nella giornata di ieri, a causa di un mancato completamento dell'aggiornamento dei dati, il dato sulla popolazione testata con test molecolare non era corretto. Pertanto il dato di oggi è da considerarsi cumulativo dei dati dei giorni 1 e 2 aprile.
+
+<b>01/04/2021</b><br>
+La Regione Abruzzo comunica che, a seguito di controlli anagrafici, dal totale dei casi positivi è stato sottratto 1 caso in quanto duplicato. La Regione Marche comunica, a seguito di verifica, dal totale dei casi positivi sono stati eliminati 224 casi identificati da test sierologici positivi ma negativi al tampone.  La Regione Sicilia comunica che in data odierna non è stato possibile rilevare il dato dei tamponi con test antigenico.
+
+<b>31/03/2021</b><br>
+La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato 1 caso per correzione dei dati anagrafici. La Regione Emilia Romagna comunica che dai casi già comunicati in precedenza sono stati eliminati 13 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati in precedenza sono stati eliminati 3 casi, positivi al test antigenico ma negativi al test molecolare. La Regione Sicilia comunica il dato che somma i casi di oggi ai casi non comunicati nella giornata di ieri.
+
+<b>30/03/2021</b><br>
+I casi reali rilevati nelle ultime 24 ore sono 76. La Regione Sicilia integrerà nella giornata di domani i dati non comunicati oggi per motivi organizzativi. La Regione Abruzzo comunica che dai casi già comunicati sono stati eliminati 3 casi, 1 caso già segnalato da altra regione e 2 casi duplicati. La Regione Emilia Romagna comunica che dai casi già comunicati in precedenza sono stati eliminati 13 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati in precedenza sono stati eliminati 4 casi, positivi al test antigenico ma negativi al test molecolare. La Regione Valle d'Aosta comunica che in seguito a ricalcolo dei casi del 2020 sono emersi 58 casi non ancora comunicati (55 casi guariti e 3 decessi), che vengono comunicati in data odierna, portando così il numero totale dei casi a 9236.
+
+<b>29/03/2021</b><br>
+La Regione Emilia Romagna comunica che dai casi già comunicati, sono stati eliminati 15 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati, è stato eliminato 1 caso, positivo al test antigenico ma non confermato al test molecolare.
+
 <b>28/03/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 5 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Veneto comunica che 12 casi confermati da test antigenico, dichiarati nei giorni precedenti, sono stati confermati da tampone molecolare e pertanto spostati in casi confermati da test molecolare.
 
