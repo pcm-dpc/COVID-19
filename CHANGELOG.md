@@ -13,6 +13,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Revisione della documentazione e descrizione processamento dei dati
 
+## 2021-04-03
+
+- Modifica: aggiornati shape e geojson (in corso di aggiornamento) file generalizzati con le nuove misure di contenimento a livello nazionale (aree rosse), con relativi metadata.
+- 
 ## 2021-03-29
 
 - Modifica: aggiornati shape e geojson (in corso di aggiornamento) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche) con relativi metadata.
