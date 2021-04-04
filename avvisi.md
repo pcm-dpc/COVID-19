@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>04/04/2021</b><br>
+La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati sono stati eliminati 5 casi positivi al test antigenico ma negativi al test molecolare.
+
 <b>03/04/2021</b><br>
 La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 11 casi positivi a test antigenico ma non confermati da tampone molecolare. La PA di Bolzano comunica che dai casi già comunicati sono stati eliminati 3 casi positivi al test antigenico ma negativi al test molecolare.
 
