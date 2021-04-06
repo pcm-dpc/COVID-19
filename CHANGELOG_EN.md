@@ -15,7 +15,7 @@ All changes to the project, new features and information are documented in this 
 
 ## 2021-04-06
 
-- - Modification: updated shape (the .shp file is zipped) and geojson (zipped in two parts) generalized files with the new containment measures at regionale level (red areas), with related metadata. Tomorrow there will be a new update for the application of the DL April 1, 2021, n.44. 
+- - Modification: updated shape (the .shp file is zipped) and geojson (zipped in two parts) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata. Tomorrow there will be a new update for the application of the DL April 1, 2021, n.44. 
 
 ## 2021-04-03
 
