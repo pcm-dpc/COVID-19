@@ -15,7 +15,7 @@ All changes to the project, new features and information are documented in this 
 
 ## 2021-04-07
 
-- Modification: updated shape (the .shp file is zipped) and geojson (zipped in two parts) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata.  
+- Modification: updated shape (the .shp file is zipped) and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata.  
 
 ## 2021-04-06
 
