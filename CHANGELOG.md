@@ -6,10 +6,8 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Bonifica dati pregressi con codici NUTS
 - Note di analisi di data quality
-- Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
-- Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
 
-## Prossimo aggiornamento 2021-04-07
+## Prossimo aggiornamento 2021-04-09
 
 - Revisione della documentazione e descrizione processamento dei dati
 
