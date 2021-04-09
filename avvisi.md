@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>09/04/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 11 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Puglia comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.  La regione Sicilia comunica che il numero di Guariti deriva da un ricalcolo effettuato con dati incompleti riferiti alle ultime due settimane e il numero di Deceduti deriva da un ricalcolo effettuato con dati incompleti riferiti a mesi precedenti.
+
 <b>08/04/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 8 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 4 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
 
