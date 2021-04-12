@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>12/04/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato sottratto 1 caso dei giorni scorsi in quanto duplicato. La Regione Emilia Romagna comunica che sono stati eliminati 8 casi già comunicati come casi confermati, di cui 3 casi positivi a test antigenico ma non confermati da tampone molecolare e 5 casi comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19.
+
 <b>11/04/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 4 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 5 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Veneto comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.
 
