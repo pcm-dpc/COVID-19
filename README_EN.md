@@ -9,9 +9,6 @@
 
 [Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale (IT)](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
-## Updates 
-**Dataset update from 18/01/2021 - https://github.com/pcm-dpc/COVID-19/issues/1037**
-
 On 31 January 2020, the Consiglio dei Ministri declared the emergency state for six months due to the infection from Coronavirus risk.
 The coordination of the fighting against the national emergency is given in custody to the boss of Dipartimento della Protezione Civile, Angelo Borrelli.
 The primary actions coordinated by him are done to help and assist the population eventually intersted by the infection, to improove the controls in the airportual and portual areas, in continuity with the urgent measures adopted by Ministero della Salute, to the returning of citzens who are in other risk Countries in Italy and to repatriation of strangers citzens in the homelands exposed to the risk.
