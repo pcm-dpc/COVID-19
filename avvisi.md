@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>14/04/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 2 casi: 1 in quanto già segnalato da altre Regioni ed 1 in quanto non paziente COVID. La Regione Emilia Romagna comunica che sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>13/04/2021</b><br>
 La Regione Emilia Romagna comunica che sono stati eliminati 8 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
