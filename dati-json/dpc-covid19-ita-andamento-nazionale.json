@@ -10674,7 +10674,7 @@
     "casi_da_sospetto_diagnostico":null,
     "casi_da_screening":null,
     "totale_casi":3736526,
-    "tamponi":52480874,
+    "tamponi":52466904,
     "casi_testati":23732862.0,
     "note":null,
     "ingressi_terapia_intensiva":192.0,
@@ -10682,7 +10682,7 @@
     "note_casi":null,
     "totale_positivi_test_molecolare":3613896.0,
     "totale_positivi_test_antigenico_rapido":122630.0,
-    "tamponi_test_molecolare":41770360.0,
+    "tamponi_test_molecolare":41756390.0,
     "tamponi_test_antigenico_rapido":10710514.0
   },
   {
