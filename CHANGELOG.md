@@ -7,7 +7,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Bonifica dati pregressi con codici NUTS
 - Note di analisi di data quality
 
-## Prossimo aggiornamento 2021-04-14
+## Prossimo aggiornamento 2021-04-17
 
 - Revisione della documentazione e descrizione processamento dei dati
 

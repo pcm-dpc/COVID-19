@@ -7,7 +7,7 @@ All changes to the project, new features and information are documented in this 
 - Reclamation of previous data with NUTS codes
 - Data quality analysis notes
 
-## Next update 2021-04-14
+## Next update 2021-04-17
 
 - Documentation review and data processing description
 
