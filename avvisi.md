@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>17/04/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi e stato sottratto 1 caso in quanto non paziente Covid e 1 caso in quanto duplicato; comunica inoltre che del totale dei decessi riportati in data odierna 6 casi sono relativi a periodi precedenti. La Regione Emilia Romagna comunica che sono stati eliminati 4 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>16/04/2021</b><br>
 La Regione Abruzzo comunica che dal totale dei decessi comunicati in data odierna 9 casi sono relativi a periodi precedenti e che dal totale dei casi positivi sono stati sottratti 3 casi (1 caso in quanto già segnalato da altra Regione e 2 in quanto duplicati). La Regione Emilia Romagna sono stati eliminati 17 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
