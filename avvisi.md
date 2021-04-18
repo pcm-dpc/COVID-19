@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>18/04/2021</b><br>
+La Regione Emilia Romagna comunica che sono stati eliminati 5 casi, positivi a test antigenico ma non confermati da tampone molecolare; comunica inoltre che è stato eliminato 1 caso, comunicato nei giorni precedenti, in quanto giudicato non caso COVID-19. La Regione Veneto comunica che il dato dei casi confermati da test antigenico è diminuito rispetto a ieri in quanto i test confermati da molecolari sono stati ricollocati. 
+
 <b>17/04/2021</b><br>
 La Regione Abruzzo comunica che dal totale dei casi positivi e stato sottratto 1 caso in quanto non paziente Covid e 1 caso in quanto duplicato; comunica inoltre che del totale dei decessi riportati in data odierna 6 casi sono relativi a periodi precedenti. La Regione Emilia Romagna comunica che sono stati eliminati 4 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
