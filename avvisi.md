@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>20/04/2021</b><br>
+La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 5 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>19/04/2021</b><br>
 La Regione Abruzzo comunica che dai casi già comunicati in precedenza è stato eliminato 1 caso, in quanto già segnalato da altra regione. Comunica inoltre che in seguito a verifica sono stati identificati due duplicati tra i deceduti comunicati in precedenza. La Regione Calabria comunica che in data odierna vengono comunicati i seguenti decessi: 2 decessi avvenuti l'11/04/2021; uno il 12/04/2021; due il 17/04/2021; e uno il 18/04/2021, non comunicati in precedenza per mero errore materiale. La Regione Veneto comunica che il dato dei casi confermati da test antigenico è diminuito rispetto a ieri in quanto i test confermati da molecolari sono stati ricollocati.
 
