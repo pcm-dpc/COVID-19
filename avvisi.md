@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>21/04/2021</b><br>
+La Regione Abruzzo comunica che dai casi già comunicati,  è stato eliminato 1 caso in quanto non paziente Covid. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 7 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Regione Molise comunica che	i tamponi processati con test antigenico inseriti oggi sono la risultanza di tamponi fatti dal 15 gennaio ad oggi sul territorio.
+
 <b>20/04/2021</b><br>
 La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 5 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
