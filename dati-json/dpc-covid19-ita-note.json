@@ -1042,5 +1042,9 @@
     {
         "data": "2021-04-23T17:00:00",
         "note": "La Regione Calabria comunica che il numero dei casi confermati di oggi include 115 soggetti positivi relativi al giorno 22/04/2021. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-04-24T17:00:00",
+        "note": "La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare."
     }
 ]

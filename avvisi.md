@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>24/04/2021</b><br>
+La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>23/04/2021</b><br>
 La Regione Calabria comunica che il numero dei casi confermati di oggi include 115 soggetti positivi relativi al giorno 22/04/2021. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
