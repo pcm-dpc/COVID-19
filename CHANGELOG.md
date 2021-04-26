@@ -11,6 +11,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Revisione della documentazione e descrizione processamento dei dati
 
+## 2021-04-26
+
+- Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata. Revisione e armonizzazione dati (valori nel campo legLink, eliminata precedente versionID=21 perchè errata).
+
 ## 2021-04-19
 
 - Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
