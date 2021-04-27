@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>27/04/2021</b><br>
+La Regione Abruzzo comunica che del totale dei decessi comunicati in data odierna 4 casi sono avvenuti nei periodi precedenti. La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>26/04/2021</b><br>
 La Regione Abruzzo comunica che a seguito di controlli anagrafici, dai casi positivi già comunicati è stato eliminato 1 caso in quanto duplicato. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 

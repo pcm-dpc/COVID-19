@@ -1054,5 +1054,9 @@
     {
         "data": "2021-04-26T17:00:00",
         "note": "La Regione Abruzzo comunica che a seguito di controlli anagrafici, dai casi positivi già comunicati è stato eliminato 1 caso in quanto duplicato. La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare."
+    },
+    {
+        "data": "2021-04-27T17:00:00",
+        "note": "La Regione Abruzzo comunica che del totale dei decessi comunicati in data odierna 4 casi sono avvenuti nei periodi precedenti. La Regione Emilia Romagna comunica che dal totale dei casi confermati già comunicati sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare."
     }
 ]
