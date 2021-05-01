@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>01/05/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi è stato eliminato 1 caso dichiarato nei giorni precedenti, in quanto positivo al test antigenico ma non confermato da tampone molecolare. La regione Friuli Venezia Giulia comunica che a fronte della riferita risoluzione del blocco dei sistemi informativi sanitari segnalato ieri, i dati odierni comprendono i dati non visibili ieri a sistema. La P.A. di Bolzano comunica che tra i 135 nuovi positivi, 99 sono antigenici positivi nei 10 giorni precedenti confermati da PCR. La regione Puglia comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.
+
 <b>30/04/2021</b><br>
 La regione Abruzzo comunica che dei nuovi decessi comunicati in data odierna, 1 è avvenuto nei giorni precedenti. La regione Emilia Romagna comunica che dal totale dei positivi è stato eliminato 1 caso dichiarato nei giorni precedenti, in quanto positivo al test antigenico ma non confermato da tampone molecolare. La regione Friuli Venezia Giulia comunica che a causa del ripetuto blocco di una parte del sistema informativo sanitario, i dati odierni sono parziali (tamponi eseguiti, soggetti testati, clinicamente guariti, guariti, decessi e nuovi positivi).
 
