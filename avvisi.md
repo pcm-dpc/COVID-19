@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>02/05/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che tra i 72 nuovi positivi, 32 sono antigenici positivi nei 10 giorni precedenti confermati da PCR. La regione Veneto comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricollocati tra quest'ultimi.
+
 <b>01/05/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi è stato eliminato 1 caso dichiarato nei giorni precedenti, in quanto positivo al test antigenico ma non confermato da tampone molecolare. La regione Friuli Venezia Giulia comunica che a fronte della riferita risoluzione del blocco dei sistemi informativi sanitari segnalato ieri, i dati odierni comprendono i dati non visibili ieri a sistema. La P.A. di Bolzano comunica che tra i 135 nuovi positivi, 99 sono antigenici positivi nei 10 giorni precedenti confermati da PCR. La regione Puglia comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.
 
