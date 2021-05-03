@@ -11,6 +11,10 @@ All changes to the project, new features and information are documented in this 
 
 - Documentation review and data processing description
 
+## 2021-05-03
+
+- Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata. 
+
 ## 2021-04-26
 
 - Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regional level (red, orange, yellow and white areas), with related metadata. Revision and harmonization of data (values in the legLink field, eliminated previous versionID = 21 because it was incorrect).
