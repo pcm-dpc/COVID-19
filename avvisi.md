@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>03/05/2021</b><br>
+La Regione Calabria comunica tra i decessi comunicati ve ne sono uno avvenuto  l’1 /05/2021, due avvenuti il 2/05/2021, ed uno il 3/05/2021. La Regione Emilia Romagna comunica che sono stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>02/05/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che tra i 72 nuovi positivi, 32 sono antigenici positivi nei 10 giorni precedenti confermati da PCR. La regione Veneto comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricollocati tra quest'ultimi.
 
