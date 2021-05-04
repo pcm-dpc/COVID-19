@@ -5,6 +5,9 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>04/05/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi è stato sottratto 1 positivo perché duplicato. La Regione Emilia Romagna comunica che sono stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
 <b>03/05/2021</b><br>
 La Regione Calabria comunica tra i decessi comunicati ve ne sono uno avvenuto  l’1 /05/2021, due avvenuti il 2/05/2021, ed uno il 3/05/2021. La Regione Emilia Romagna comunica che sono stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare.
 
