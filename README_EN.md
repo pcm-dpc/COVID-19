@@ -27,7 +27,7 @@ To inform the citzens and give the reached datas, useful only to comunicate and 
 
 ## Warnings
 
-[Warnings about the data about the evolution of the data about COVID-19 Italy (IT)](avvisi.md)
+[Warnings about the data about the evolution of the data about COVID-19 Italy (IT)](note/dpc-covid19-ita-note.md)
 
 ## Repository structure
 ```
