@@ -14,7 +14,7 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 ## 2021-05-10
 
 - Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
-- 
+ 
 ## 2021-05-03
 
 - Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
