@@ -1110,5 +1110,9 @@
   {
     "data":"2021-05-10T17:00:00",
     "note":"La Regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 3 casi, positivi a test antigenico ma non confermati da tampone molecolare."
+  },
+  {
+    "data":"2021-05-11T17:00:00",
+    "note":"La regione Abruzzo comunica che del totale dei decessi comunicati in data odierna, 2 casi sono avvenuti nei giorni scorsi. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti: 2 casi in quanto positivi al test antigenico ma non confermati da tampone molecolare e 1 caso in quanto giudicato non COVID-19. La P.A. di Bolzano comunica che tra i 53 nuovi casi confermati da test molecolare, 26 derivano da test antigenici successivamente confermati da PCR."
   }
 ]
