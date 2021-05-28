@@ -100,6 +100,7 @@ COVID-19/
 - Regioni: entro le 16:30 compilano i dati su un applicativo dell’Istituto Superiore di Sanità (controllo dati applicativo - warning)
 - Ministero della Salute: entro le 17:30 verifica e invia i dati al DPC (controllo dati applicativo e visivo - certificazione dei dati)
 - Dipartimento della Protezione Civile: entro le 18:00 controllo della qualità dei dati, elaborazione dei dataset e pubblicazione su GitHub e Dashboard ArcGIS (controllo dati applicativo - analisi)
+- Società civile (Community): segnalazioni attraverso GitHub issue
 
 ## Formato dei dati
 

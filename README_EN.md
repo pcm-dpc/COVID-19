@@ -100,6 +100,7 @@ COVID-19/
 - Regions: by 4:30 pm fill in the data on an application of the Istituto Superiore di Sanità (application data control - warning)
 - Ministry of Health: before 5.30 pm check and send the data to the DPC (application and visual data control - data certification)
 - Department of Civil Protection: by 18:00 control of data quality, processing of datasets and publication on GitHub and ArcGIS Dashboard (application data control - analysis) 
+- Civil society (Community): reporting through GitHub issues
 
 ## Data formats
 
