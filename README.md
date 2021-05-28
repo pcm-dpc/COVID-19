@@ -1,4 +1,4 @@
-<img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
+<img src="assets/img/dpc-logo-covid19.png" alt="COVID-19" data-canonical-src="assets/img/dpc-logo-covid19.png" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
 
@@ -90,11 +90,13 @@ COVID-19/
 │   │   ├── dpc-covid19-ita-scheda-regioni-*.pdf
 ```
 
-## Aggiornamento dei dati
+## Aggiornamento e flusso dei dati
 
 - Dati andamento COVID-19 Italia: ogni giorno alle 18:00<br>
 - Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
-
+<br>
+<img src="assets/img/dpc-covid19-flusso-dati-it.png" alt="Flusso dati COVID-19" data-canonical-src="assets/img/dpc-covid19-flusso-dati-it.png" width="100%" />
+<br>
 ## Formato dei dati
 
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
