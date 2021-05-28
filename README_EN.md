@@ -95,6 +95,12 @@ COVID-19/
 - Evoulution data about COVID-19 Italy: every days at 18:30
 - DPC furnitures COVID-19 contracts data: every times that the contracts are stipulated
 
+<img src="assets/img/dpc-covid19-flusso-dati-en.png" alt="COVID-19 data stream " data-canonical-src="assets/img/dpc-covid19-flusso-dati-en.png" width="100%" />
+
+- Regions: by 4:30 pm fill in the data on an application of the Istituto Superiore di Sanità (application data control - warning)
+- Ministry of Health: before 5.30 pm check and send the data to the DPC (application and visual data control - data certification)
+- Department of Civil Protection: by 18:00 control of data quality, processing of datasets and publication on GitHub and ArcGIS Dashboard (application data control - analysis) 
+
 ## Data formats
 
 - [Evoulution data about COVID-19 Italy (IT)](dati-andamento-covid19-italia.md)<br>
