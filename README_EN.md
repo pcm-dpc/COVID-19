@@ -1,4 +1,4 @@
-<img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
+<img src="assets/img/dpc-logo-covid19.png" alt="COVID-19" data-canonical-src="assets/img/dpc-logo-covid19.png" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)
 
@@ -94,6 +94,13 @@ COVID-19/
 
 - Evoulution data about COVID-19 Italy: every days at 18:30
 - DPC furnitures COVID-19 contracts data: every times that the contracts are stipulated
+
+<img src="assets/img/dpc-covid19-flusso-dati-en.png" alt="COVID-19 data stream " data-canonical-src="assets/img/dpc-covid19-flusso-dati-en.png" width="100%" />
+
+- Regions: by 4:30 pm fill in the data on an application of the Istituto Superiore di Sanità (application data control - warning)
+- Ministry of Health: before 5.30 pm check and send the data to the DPC (application and visual data control - data certification)
+- Department of Civil Protection: by 18:00 control of data quality, processing of datasets and publication on GitHub and ArcGIS Dashboard (application data control - analysis) 
+- Civil society (Community): reporting through GitHub issues
 
 ## Data formats
 

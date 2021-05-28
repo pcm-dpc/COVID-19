@@ -1,4 +1,4 @@
-<img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
+<img src="assets/img/dpc-logo-covid19.png" alt="COVID-19" data-canonical-src="assets/img/dpc-logo-covid19.png" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
 
@@ -90,10 +90,17 @@ COVID-19/
 │   │   ├── dpc-covid19-ita-scheda-regioni-*.pdf
 ```
 
-## Aggiornamento dei dati
+## Aggiornamento e flusso dei dati
 
-- Dati andamento COVID-19 Italia: ogni giorno alle 18:00<br>
+- Dati andamento COVID-19 Italia: ogni giorno alle 18:00
 - Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
+
+<img src="assets/img/dpc-covid19-flusso-dati-it.png" alt="Flusso dati COVID-19" data-canonical-src="assets/img/dpc-covid19-flusso-dati-it.png" width="100%" />
+
+- Regioni: entro le 16:30 compilano i dati su un applicativo dell’Istituto Superiore di Sanità (controllo dati applicativo - warning)
+- Ministero della Salute: entro le 17:30 verifica e invia i dati al DPC (controllo dati applicativo e visivo - certificazione dei dati)
+- Dipartimento della Protezione Civile: entro le 18:00 controllo della qualità dei dati, elaborazione dei dataset e pubblicazione su GitHub e Dashboard ArcGIS (controllo dati applicativo - analisi)
+- Società civile (Community): segnalazioni attraverso GitHub issue
 
 ## Formato dei dati
 
