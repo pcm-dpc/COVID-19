@@ -96,9 +96,8 @@ COVID-19/
 - Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
 <br>
 <img src="assets/img/dpc-covid19-flusso-dati-it.png" alt="Flusso dati COVID-19" data-canonical-src="assets/img/dpc-covid19-flusso-dati-it.png" width="100%" />
-<br>
-- <b>Regioni</b>: entro le 16:30 compilano i dati su un applicativo dell’Istituto Superiore di Sanità (controllo dati applicativo - warning)
-- <b>Ministero della Salute</b> entro le 17:30 verifica e invia i dati al DPC (controllo dati applicativo e visivo - certificazione dei dati)
+- <b>Regioni</b>: entro le 16:30 compilano i dati su un applicativo dell’Istituto Superiore di Sanità (controllo dati applicativo - warning)<br>
+- <b>Ministero della Salute</b> entro le 17:30 verifica e invia i dati al DPC (controllo dati applicativo e visivo - certificazione dei dati)<br>
 - <b>Dipartimento della Protezione Civile</b> entro le 18:00 controllo della qualità dei dati, elaborazione dei dataset e pubblicazione su GitHub e Dashboard ArcGIS (Controllo dati applicativo - analisi)
 
 ## Formato dei dati
