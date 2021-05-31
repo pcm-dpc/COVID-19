@@ -1202,5 +1202,9 @@
   {
     "data":"2021-05-30T17:00:00",
     "note":"La Regione Abruzzo comunica che dai casi già comunicati è stato eliminato un caso in quanto duplicato."
+  },
+  {
+    "data":"2021-05-31T17:00:00",
+    "note":"La Regione Emilia Romagna comunica che dai casi già comunicati è stato eliminato 1 caso, positivo a test antigenico ma non confermato da tampone molecolare e 1 ulteriore caso, in quanto giudicato non COVID-19."
   }
 ]
