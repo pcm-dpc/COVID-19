@@ -1225,10 +1225,6 @@
   },
   {
     "data":"2021-06-08T17:00:00",
-    "note":"La regione Abruzzo comunica che dei deceduti comunicati in data odierna, 1 è relativo ai giorni scorsi. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da test molecolare. La P.A. di Bolzano comunica che tra i 28 nuovi casi confermati da test molecolare, 13 derivano da test antigenici successivamente confermati da PCR. La regione Veneto comunica che a seguito di verifica è stato rilevato un errore che dal 4 giugno ha sovrastimato il dato sulle Persone testate con test molecolare, che oggi viene pertanto corretto, anche per i giorni precedenti.  "
-  },
-  {
-    "data":"2021-06-08T17:00:00",
     "note":"La regione Abruzzo comunica che dei deceduti comunicati in data odierna, 1 è relativo ai giorni scorsi. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da test molecolare. La P.A. di Bolzano comunica che tra i 28 nuovi casi confermati da test molecolare, 13 derivano da test antigenici successivamente confermati da PCR. La regione Veneto comunica che a seguito di verifica è stato rilevato un errore che dal 4 giugno ha sovrastimato il dato sulle Persone testate con test molecolare, che oggi viene pertanto corretto (entro la giornata odierna sarà aggiornato anche per i giorni precedenti).  "
   }
 ]
