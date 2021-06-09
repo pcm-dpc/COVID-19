@@ -1,2 +1,2 @@
 data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi,totale_positivi_test_molecolare,totale_positivi_test_antigenico_rapido,tamponi_test_molecolare,tamponi_test_antigenico_rapido
-2021-06-04T17:00:00,ITA,5488,836,6324,193868,200192,-5370,2557,3901112,126415,,,4227719,66938917,28375095,,22,,,4077954,149765,49661208,17277709
+2021-06-04T17:00:00,ITA,5488,836,6324,193868,200192,-5370,2557,3901112,126415,,,4227719,66938917,28338795,,22,,,4077954,149765,49661208,17277709
