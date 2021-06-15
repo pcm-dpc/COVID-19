@@ -1250,5 +1250,9 @@
   {
     "data":"2021-06-14T17:00:00",
     "note":null
+  },
+  {
+    "data":"2021-06-15T17:00:00",
+    "note":"La Regione Abruzzo comunica che dal totale dei casi positivi è stato eliminato 1 caso già riportato nei giorni passati in quanto già segnalato da altra Regione. La Regione Campania riporta che, a seguito delle periodiche verifiche, si è riscontrato un disallineamento che, dopo un accurato e dettagliato controllo da parte delle ASL, ha evidenziato 48.078 soggetti ancora riportati erroneamente in \"Isolamento Domiciliare\" e che, pertanto, sono stati assegnati alla categoria \"guariti\". La Regione Emilia Romagna riporta che dal totale dei casi positivi è stato eliminato 1 caso, positivo a test antigenico ma non confermato con tampone molecolare."
   }
 ]
