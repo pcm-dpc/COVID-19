@@ -27,7 +27,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 
 ## Avvisi
 
-[Avvisi sui dati andamento COVID-19 Italia](note/dpc-covid19-ita-note.md)<br>
+[Avvisi sui dati andamento COVID-19 Italia](note/dpc-covid19-ita-note.csv)<br>
 
 ## Struttura del repository
 ```
