@@ -1,6 +1,6 @@
 [
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":13,
     "denominazione_regione":"Abruzzo",
@@ -9,14 +9,14 @@
     "sigla_provincia":"AQ",
     "lat":42.35122196,
     "long":13.39843823,
-    "totale_casi":18897,
+    "totale_casi":18905,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF1",
     "codice_nuts_3":"ITF11"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":13,
     "denominazione_regione":"Abruzzo",
@@ -25,14 +25,14 @@
     "sigla_provincia":"TE",
     "lat":42.6589177,
     "long":13.70439971,
-    "totale_casi":17352,
+    "totale_casi":17358,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF1",
     "codice_nuts_3":"ITF12"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":13,
     "denominazione_regione":"Abruzzo",
@@ -48,7 +48,7 @@
     "codice_nuts_3":"ITF13"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":13,
     "denominazione_regione":"Abruzzo",
@@ -57,14 +57,14 @@
     "sigla_provincia":"CH",
     "lat":42.35103167,
     "long":14.16754574,
-    "totale_casi":19382,
+    "totale_casi":19391,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF1",
     "codice_nuts_3":"ITF14"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":13,
     "denominazione_regione":"Abruzzo",
@@ -80,7 +80,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":13,
     "denominazione_regione":"Abruzzo",
@@ -89,14 +89,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":129,
+    "totale_casi":128,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF1",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":17,
     "denominazione_regione":"Basilicata",
@@ -105,14 +105,14 @@
     "sigla_provincia":"PZ",
     "lat":40.63947052,
     "long":15.80514834,
-    "totale_casi":17267,
+    "totale_casi":17294,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF5",
     "codice_nuts_3":"ITF51"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":17,
     "denominazione_regione":"Basilicata",
@@ -121,14 +121,14 @@
     "sigla_provincia":"MT",
     "lat":40.66751177,
     "long":16.59792442,
-    "totale_casi":8847,
+    "totale_casi":8851,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF5",
     "codice_nuts_3":"ITF52"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":17,
     "denominazione_regione":"Basilicata",
@@ -144,7 +144,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":17,
     "denominazione_regione":"Basilicata",
@@ -160,7 +160,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -169,14 +169,14 @@
     "sigla_provincia":"CS",
     "lat":39.29308681,
     "long":16.25609692,
-    "totale_casi":22775,
-    "note":"OGGI SI REGISTRA UN DECESSO A DOMICILIO AVVENUTO IL 4\/05\/2021 DI CUI SI E' AVUTA NOTIZIA TRAMITE FLUSSO SCHEDA ISTAT\"",
+    "totale_casi":22816,
+    "note":"\"Il decesso registrato oggi \u00e8 avvenuto il 10\/04\/2021 (il caso, sintomatico e con link epidemiologico , \u00e8 stato diagnosticato con solo test antigenico).\"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF6",
     "codice_nuts_3":"ITF61"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -185,14 +185,14 @@
     "sigla_provincia":"CZ",
     "lat":38.90597598,
     "long":16.59440194,
-    "totale_casi":10201,
+    "totale_casi":10206,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF6",
     "codice_nuts_3":"ITF63"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -201,14 +201,14 @@
     "sigla_provincia":"RC",
     "lat":38.10922769,
     "long":15.6434527,
-    "totale_casi":22928,
+    "totale_casi":22941,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF6",
     "codice_nuts_3":"ITF65"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -217,14 +217,14 @@
     "sigla_provincia":"KR",
     "lat":39.08036878,
     "long":17.12538864,
-    "totale_casi":6526,
+    "totale_casi":6532,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF6",
     "codice_nuts_3":"ITF62"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -233,14 +233,14 @@
     "sigla_provincia":"VV",
     "lat":38.67624147,
     "long":16.10157414,
-    "totale_casi":5510,
+    "totale_casi":5514,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF6",
     "codice_nuts_3":"ITF64"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -256,7 +256,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":18,
     "denominazione_regione":"Calabria",
@@ -272,7 +272,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -281,14 +281,14 @@
     "sigla_provincia":"CE",
     "lat":41.07465878,
     "long":14.33240464,
-    "totale_casi":65728,
+    "totale_casi":65732,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF3",
     "codice_nuts_3":"ITF31"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -297,14 +297,14 @@
     "sigla_provincia":"BN",
     "lat":41.12969987,
     "long":14.78151683,
-    "totale_casi":12516,
+    "totale_casi":12526,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF3",
     "codice_nuts_3":"ITF32"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -313,14 +313,14 @@
     "sigla_provincia":"NA",
     "lat":40.83956555,
     "long":14.25084984,
-    "totale_casi":248729,
+    "totale_casi":248828,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF3",
     "codice_nuts_3":"ITF33"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -329,14 +329,14 @@
     "sigla_provincia":"AV",
     "lat":40.91404699,
     "long":14.79528803,
-    "totale_casi":20278,
+    "totale_casi":20283,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF3",
     "codice_nuts_3":"ITF34"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -345,14 +345,14 @@
     "sigla_provincia":"SA",
     "lat":40.67821961,
     "long":14.7594026,
-    "totale_casi":68023,
+    "totale_casi":68036,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF3",
     "codice_nuts_3":"ITF35"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -368,7 +368,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":15,
     "denominazione_regione":"Campania",
@@ -384,7 +384,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -393,14 +393,14 @@
     "sigla_provincia":"PC",
     "lat":45.05193462,
     "long":9.692632596,
-    "totale_casi":22871,
+    "totale_casi":22872,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH51"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -409,14 +409,14 @@
     "sigla_provincia":"PR",
     "lat":44.80107394,
     "long":10.32834985,
-    "totale_casi":27769,
+    "totale_casi":27784,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH52"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -425,14 +425,14 @@
     "sigla_provincia":"RE",
     "lat":44.69735289,
     "long":10.63007973,
-    "totale_casi":47187,
+    "totale_casi":47191,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH53"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -441,14 +441,14 @@
     "sigla_provincia":"MO",
     "lat":44.64600009,
     "long":10.92615487,
-    "totale_casi":64552,
+    "totale_casi":64574,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH54"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -457,14 +457,14 @@
     "sigla_provincia":"BO",
     "lat":44.49436681,
     "long":11.3417208,
-    "totale_casi":93228,
+    "totale_casi":93241,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH55"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -473,14 +473,14 @@
     "sigla_provincia":"FE",
     "lat":44.83599085,
     "long":11.61868934,
-    "totale_casi":22925,
+    "totale_casi":22930,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH56"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -489,14 +489,14 @@
     "sigla_provincia":"RA",
     "lat":44.41722493,
     "long":12.19913936,
-    "totale_casi":30439,
+    "totale_casi":30452,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH57"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -505,14 +505,14 @@
     "sigla_provincia":"FC",
     "lat":44.22268559,
     "long":12.04068608,
-    "totale_casi":36581,
+    "totale_casi":36591,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH58"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -521,14 +521,14 @@
     "sigla_provincia":"RN",
     "lat":44.06090087,
     "long":12.5656295,
-    "totale_casi":35519,
+    "totale_casi":35522,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":"ITH59"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -537,14 +537,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":3484,
+    "totale_casi":3485,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH5",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":8,
     "denominazione_regione":"Emilia-Romagna",
@@ -560,7 +560,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":6,
     "denominazione_regione":"Friuli Venezia Giulia",
@@ -569,14 +569,14 @@
     "sigla_provincia":"UD",
     "lat":46.06255516,
     "long":13.2348383,
-    "totale_casi":50715,
+    "totale_casi":50718,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH4",
     "codice_nuts_3":"ITH42"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":6,
     "denominazione_regione":"Friuli Venezia Giulia",
@@ -585,14 +585,14 @@
     "sigla_provincia":"GO",
     "lat":45.94149817,
     "long":13.62212502,
-    "totale_casi":13092,
+    "totale_casi":13094,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH4",
     "codice_nuts_3":"ITH43"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":6,
     "denominazione_regione":"Friuli Venezia Giulia",
@@ -601,14 +601,14 @@
     "sigla_provincia":"TS",
     "lat":45.6494354,
     "long":13.76813649,
-    "totale_casi":21356,
+    "totale_casi":21371,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH4",
     "codice_nuts_3":"ITH44"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":6,
     "denominazione_regione":"Friuli Venezia Giulia",
@@ -617,14 +617,14 @@
     "sigla_provincia":"PN",
     "lat":45.95443546,
     "long":12.66002909,
-    "totale_casi":21034,
+    "totale_casi":21037,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH4",
     "codice_nuts_3":"ITH41"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":6,
     "denominazione_regione":"Friuli Venezia Giulia",
@@ -640,7 +640,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":6,
     "denominazione_regione":"Friuli Venezia Giulia",
@@ -656,7 +656,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -672,7 +672,7 @@
     "codice_nuts_3":"ITI41"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -688,7 +688,7 @@
     "codice_nuts_3":"ITI42"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -697,14 +697,14 @@
     "sigla_provincia":"RM",
     "lat":41.89277044,
     "long":12.48366722,
-    "totale_casi":246670,
+    "totale_casi":246773,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI4",
     "codice_nuts_3":"ITI43"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -713,14 +713,14 @@
     "sigla_provincia":"LT",
     "lat":41.46759465,
     "long":12.90368482,
-    "totale_casi":34624,
+    "totale_casi":34630,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI4",
     "codice_nuts_3":"ITI44"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -729,14 +729,14 @@
     "sigla_provincia":"FR",
     "lat":41.63964569,
     "long":13.35117161,
-    "totale_casi":31280,
+    "totale_casi":31287,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI4",
     "codice_nuts_3":"ITI45"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -745,14 +745,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":5833,
+    "totale_casi":5836,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI4",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":12,
     "denominazione_regione":"Lazio",
@@ -768,7 +768,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":7,
     "denominazione_regione":"Liguria",
@@ -784,7 +784,7 @@
     "codice_nuts_3":"ITC31"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":7,
     "denominazione_regione":"Liguria",
@@ -793,14 +793,14 @@
     "sigla_provincia":"SV",
     "lat":44.30750461,
     "long":8.481108654,
-    "totale_casi":16486,
+    "totale_casi":16490,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC3",
     "codice_nuts_3":"ITC32"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":7,
     "denominazione_regione":"Liguria",
@@ -809,14 +809,14 @@
     "sigla_provincia":"GE",
     "lat":44.41149314,
     "long":8.9326992,
-    "totale_casi":53851,
+    "totale_casi":53865,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC3",
     "codice_nuts_3":"ITC33"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":7,
     "denominazione_regione":"Liguria",
@@ -832,7 +832,7 @@
     "codice_nuts_3":"ITC34"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":7,
     "denominazione_regione":"Liguria",
@@ -841,14 +841,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":1650,
+    "totale_casi":1653,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC3",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":7,
     "denominazione_regione":"Liguria",
@@ -857,14 +857,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":3099,
+    "totale_casi":3096,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC3",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -873,14 +873,14 @@
     "sigla_provincia":"VA",
     "lat":45.81701677,
     "long":8.822868344,
-    "totale_casi":85720,
+    "totale_casi":85735,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC41"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -889,14 +889,14 @@
     "sigla_provincia":"CO",
     "lat":45.8099912,
     "long":9.085159546,
-    "totale_casi":60024,
+    "totale_casi":60035,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC42"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -905,14 +905,14 @@
     "sigla_provincia":"SO",
     "lat":46.17099261,
     "long":9.87147489,
-    "totale_casi":15374,
+    "totale_casi":15387,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC44"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -921,14 +921,14 @@
     "sigla_provincia":"MI",
     "lat":45.46679409,
     "long":9.190347404,
-    "totale_casi":271183,
+    "totale_casi":271277,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC4C"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -937,14 +937,14 @@
     "sigla_provincia":"BG",
     "lat":45.69441368,
     "long":9.668424528,
-    "totale_casi":53162,
+    "totale_casi":53187,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC46"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -953,14 +953,14 @@
     "sigla_provincia":"BS",
     "lat":45.53993052,
     "long":10.21910323,
-    "totale_casi":106282,
+    "totale_casi":106305,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC47"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -969,14 +969,14 @@
     "sigla_provincia":"PV",
     "lat":45.18509264,
     "long":9.160157191,
-    "totale_casi":43862,
+    "totale_casi":43868,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC48"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -985,14 +985,14 @@
     "sigla_provincia":"CR",
     "lat":45.13336675,
     "long":10.02420865,
-    "totale_casi":26696,
+    "totale_casi":26703,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC4A"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -1001,14 +1001,14 @@
     "sigla_provincia":"MN",
     "lat":45.15726772,
     "long":10.79277363,
-    "totale_casi":35539,
+    "totale_casi":35544,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC4B"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -1017,14 +1017,14 @@
     "sigla_provincia":"LC",
     "lat":45.85575781,
     "long":9.393392246,
-    "totale_casi":24923,
+    "totale_casi":24927,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC43"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -1033,14 +1033,14 @@
     "sigla_provincia":"LO",
     "lat":45.31440693,
     "long":9.503720769,
-    "totale_casi":16660,
+    "totale_casi":16662,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC49"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -1049,14 +1049,14 @@
     "sigla_provincia":"MB",
     "lat":45.58439043,
     "long":9.273582472,
-    "totale_casi":79185,
+    "totale_casi":79200,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":"ITC4D"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -1065,14 +1065,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":9595,
+    "totale_casi":9599,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":3,
     "denominazione_regione":"Lombardia",
@@ -1081,14 +1081,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":11810,
+    "totale_casi":11818,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1097,14 +1097,14 @@
     "sigla_provincia":"PU",
     "lat":43.91014021,
     "long":12.91345989,
-    "totale_casi":23371,
+    "totale_casi":23376,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI3",
     "codice_nuts_3":"ITI31"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1113,14 +1113,14 @@
     "sigla_provincia":"AN",
     "lat":43.61675973,
     "long":13.5188753,
-    "totale_casi":33029,
+    "totale_casi":33033,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI3",
     "codice_nuts_3":"ITI32"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1129,14 +1129,14 @@
     "sigla_provincia":"MC",
     "lat":43.30023926,
     "long":13.45307182,
-    "totale_casi":21319,
+    "totale_casi":21324,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI3",
     "codice_nuts_3":"ITI33"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1145,14 +1145,14 @@
     "sigla_provincia":"AP",
     "lat":42.85322304,
     "long":13.57691127,
-    "totale_casi":11353,
+    "totale_casi":11355,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI3",
     "codice_nuts_3":"ITI34"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1161,14 +1161,14 @@
     "sigla_provincia":"FM",
     "lat":43.16058534,
     "long":13.71839535,
-    "totale_casi":10263,
+    "totale_casi":10264,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI3",
     "codice_nuts_3":"ITI35"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1177,14 +1177,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":4124,
+    "totale_casi":4128,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI3",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":11,
     "denominazione_regione":"Marche",
@@ -1200,7 +1200,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":14,
     "denominazione_regione":"Molise",
@@ -1209,14 +1209,14 @@
     "sigla_provincia":"CB",
     "lat":41.55774754,
     "long":14.65916051,
-    "totale_casi":9840,
+    "totale_casi":9842,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF2",
     "codice_nuts_3":"ITF22"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":14,
     "denominazione_regione":"Molise",
@@ -1225,14 +1225,14 @@
     "sigla_provincia":"IS",
     "lat":41.58800826,
     "long":14.22575407,
-    "totale_casi":3739,
+    "totale_casi":3741,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF2",
     "codice_nuts_3":"ITF21"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":14,
     "denominazione_regione":"Molise",
@@ -1248,7 +1248,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":14,
     "denominazione_regione":"Molise",
@@ -1264,7 +1264,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":4,
     "denominazione_regione":"P.A. Bolzano",
@@ -1273,14 +1273,14 @@
     "sigla_provincia":"BZ",
     "lat":46.49933453,
     "long":11.35662422,
-    "totale_casi":73210,
+    "totale_casi":73229,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH1",
     "codice_nuts_3":"ITH10"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":4,
     "denominazione_regione":"P.A. Bolzano",
@@ -1296,7 +1296,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":4,
     "denominazione_regione":"P.A. Bolzano",
@@ -1312,7 +1312,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":4,
     "denominazione_regione":"P.A. Trento",
@@ -1321,14 +1321,14 @@
     "sigla_provincia":"TN",
     "lat":46.06893511,
     "long":11.12123097,
-    "totale_casi":45700,
+    "totale_casi":45711,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH2",
     "codice_nuts_3":"ITH20"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":4,
     "denominazione_regione":"P.A. Trento",
@@ -1344,7 +1344,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":4,
     "denominazione_regione":"P.A. Trento",
@@ -1360,7 +1360,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1369,14 +1369,14 @@
     "sigla_provincia":"TO",
     "lat":45.0732745,
     "long":7.680687483,
-    "totale_casi":194381,
+    "totale_casi":194434,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC11"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1385,14 +1385,14 @@
     "sigla_provincia":"VC",
     "lat":45.32398135,
     "long":8.423234312,
-    "totale_casi":13561,
+    "totale_casi":13565,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC12"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1401,14 +1401,14 @@
     "sigla_provincia":"NO",
     "lat":45.44588506,
     "long":8.621915884,
-    "totale_casi":27951,
+    "totale_casi":27953,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC15"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1417,14 +1417,14 @@
     "sigla_provincia":"CN",
     "lat":44.39329625,
     "long":7.551171632,
-    "totale_casi":52271,
+    "totale_casi":52278,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC16"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1433,14 +1433,14 @@
     "sigla_provincia":"AT",
     "lat":44.89912921,
     "long":8.204142547,
-    "totale_casi":17187,
+    "totale_casi":17188,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC17"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1449,14 +1449,14 @@
     "sigla_provincia":"AL",
     "lat":44.91297351,
     "long":8.615401155,
-    "totale_casi":29016,
+    "totale_casi":29019,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC18"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1465,14 +1465,14 @@
     "sigla_provincia":"BI",
     "lat":45.5665112,
     "long":8.054082167,
-    "totale_casi":11274,
+    "totale_casi":11278,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC13"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1481,14 +1481,14 @@
     "sigla_provincia":"VB",
     "lat":45.9214455,
     "long":8.551078753,
-    "totale_casi":12786,
+    "totale_casi":12787,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":"ITC14"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1504,7 +1504,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":1,
     "denominazione_regione":"Piemonte",
@@ -1513,14 +1513,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":2454,
+    "totale_casi":2451,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC1",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1529,14 +1529,14 @@
     "sigla_provincia":"FG",
     "lat":41.46226865,
     "long":15.54305094,
-    "totale_casi":45082,
+    "totale_casi":45088,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":"ITF46"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1545,14 +1545,14 @@
     "sigla_provincia":"BA",
     "lat":41.12559576,
     "long":16.86736689,
-    "totale_casi":95013,
+    "totale_casi":95033,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":"ITF47"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1561,14 +1561,14 @@
     "sigla_provincia":"TA",
     "lat":40.47354739,
     "long":17.23237181,
-    "totale_casi":39294,
+    "totale_casi":39304,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":"ITF43"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1577,14 +1577,14 @@
     "sigla_provincia":"BR",
     "lat":40.63848545,
     "long":17.94601575,
-    "totale_casi":19646,
+    "totale_casi":19662,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":"ITF44"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1593,14 +1593,14 @@
     "sigla_provincia":"LE",
     "lat":40.35354285,
     "long":18.1718973,
-    "totale_casi":26816,
+    "totale_casi":26840,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":"ITF45"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1609,14 +1609,14 @@
     "sigla_provincia":"BT",
     "lat":41.22705039,
     "long":16.29520432,
-    "totale_casi":25535,
+    "totale_casi":25547,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":"ITF48"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1625,14 +1625,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":806,
+    "totale_casi":807,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":16,
     "denominazione_regione":"Puglia",
@@ -1641,14 +1641,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":369,
+    "totale_casi":370,
     "note":"",
     "codice_nuts_1":"ITF",
     "codice_nuts_2":"ITF4",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1657,14 +1657,14 @@
     "sigla_provincia":"SS",
     "lat":40.72667657,
     "long":8.559667131,
-    "totale_casi":17336,
+    "totale_casi":17338,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG2",
     "codice_nuts_3":"ITG2D"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1680,7 +1680,7 @@
     "codice_nuts_3":"ITG2E"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1696,7 +1696,7 @@
     "codice_nuts_3":"ITG2F"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1705,14 +1705,14 @@
     "sigla_provincia":"OR",
     "lat":39.90381075,
     "long":8.591183151,
-    "totale_casi":5163,
+    "totale_casi":5164,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG2",
     "codice_nuts_3":"ITG2G"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1728,7 +1728,7 @@
     "codice_nuts_3":"ITG2H"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1744,7 +1744,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":20,
     "denominazione_regione":"Sardegna",
@@ -1760,7 +1760,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1769,14 +1769,14 @@
     "sigla_provincia":"TP",
     "lat":38.01850065,
     "long":12.51365684,
-    "totale_casi":13972,
+    "totale_casi":13983,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG11"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1785,14 +1785,14 @@
     "sigla_provincia":"PA",
     "lat":38.11569725,
     "long":13.3623567,
-    "totale_casi":69844,
+    "totale_casi":69883,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG12"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1801,14 +1801,14 @@
     "sigla_provincia":"ME",
     "lat":38.19395845,
     "long":15.55572302,
-    "totale_casi":26631,
+    "totale_casi":26633,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG13"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1817,14 +1817,14 @@
     "sigla_provincia":"AG",
     "lat":37.30971088,
     "long":13.5845749,
-    "totale_casi":11974,
+    "totale_casi":12002,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG14"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1833,14 +1833,14 @@
     "sigla_provincia":"CL",
     "lat":37.49213171,
     "long":14.06184973,
-    "totale_casi":11663,
+    "totale_casi":11684,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG15"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1849,14 +1849,14 @@
     "sigla_provincia":"EN",
     "lat":37.56705701,
     "long":14.27909375,
-    "totale_casi":6395,
+    "totale_casi":6417,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG16"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1865,14 +1865,14 @@
     "sigla_provincia":"CT",
     "lat":37.50287803,
     "long":15.08704691,
-    "totale_casi":59927,
+    "totale_casi":60003,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG17"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1881,14 +1881,14 @@
     "sigla_provincia":"RG",
     "lat":36.92509198,
     "long":14.73069891,
-    "totale_casi":12909,
+    "totale_casi":12933,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG18"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1897,14 +1897,14 @@
     "sigla_provincia":"SR",
     "lat":37.05991687,
     "long":15.29333182,
-    "totale_casi":16556,
+    "totale_casi":16561,
     "note":"",
     "codice_nuts_1":"ITG",
     "codice_nuts_2":"ITG1",
     "codice_nuts_3":"ITG19"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1920,7 +1920,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":19,
     "denominazione_regione":"Sicilia",
@@ -1936,7 +1936,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -1952,7 +1952,7 @@
     "codice_nuts_3":"ITI11"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -1961,14 +1961,14 @@
     "sigla_provincia":"LU",
     "lat":43.84432283,
     "long":10.50151366,
-    "totale_casi":24622,
+    "totale_casi":24623,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI12"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -1977,14 +1977,14 @@
     "sigla_provincia":"PT",
     "lat":43.933465,
     "long":10.91734146,
-    "totale_casi":22963,
+    "totale_casi":22971,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI13"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -1993,14 +1993,14 @@
     "sigla_provincia":"FI",
     "lat":43.76923077,
     "long":11.25588885,
-    "totale_casi":67240,
+    "totale_casi":67261,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI14"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2009,14 +2009,14 @@
     "sigla_provincia":"LI",
     "lat":43.55234873,
     "long":10.3086781,
-    "totale_casi":17467,
+    "totale_casi":17471,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI16"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2025,14 +2025,14 @@
     "sigla_provincia":"PI",
     "lat":43.71553206,
     "long":10.40127259,
-    "totale_casi":29184,
+    "totale_casi":29192,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI17"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2041,14 +2041,14 @@
     "sigla_provincia":"AR",
     "lat":43.46642752,
     "long":11.88228844,
-    "totale_casi":22829,
+    "totale_casi":22834,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI18"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2057,14 +2057,14 @@
     "sigla_provincia":"SI",
     "lat":43.31816374,
     "long":11.33190988,
-    "totale_casi":13821,
+    "totale_casi":13822,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI19"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2073,14 +2073,14 @@
     "sigla_provincia":"GR",
     "lat":42.76026758,
     "long":11.11356398,
-    "totale_casi":9101,
+    "totale_casi":9103,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI1A"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2089,14 +2089,14 @@
     "sigla_provincia":"PO",
     "lat":43.88062274,
     "long":11.09703315,
-    "totale_casi":22537,
+    "totale_casi":22547,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI1",
     "codice_nuts_3":"ITI15"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2112,7 +2112,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":9,
     "denominazione_regione":"Toscana",
@@ -2128,7 +2128,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":10,
     "denominazione_regione":"Umbria",
@@ -2137,14 +2137,14 @@
     "sigla_provincia":"PG",
     "lat":43.10675841,
     "long":12.38824698,
-    "totale_casi":43221,
+    "totale_casi":43237,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI2",
     "codice_nuts_3":"ITI21"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":10,
     "denominazione_regione":"Umbria",
@@ -2153,14 +2153,14 @@
     "sigla_provincia":"TR",
     "lat":42.56071258,
     "long":12.6466875,
-    "totale_casi":11175,
+    "totale_casi":11177,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI2",
     "codice_nuts_3":"ITI22"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":10,
     "denominazione_regione":"Umbria",
@@ -2169,14 +2169,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":2308,
+    "totale_casi":2309,
     "note":"",
     "codice_nuts_1":"ITI",
     "codice_nuts_2":"ITI2",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":10,
     "denominazione_regione":"Umbria",
@@ -2192,7 +2192,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":2,
     "denominazione_regione":"Valle d'Aosta",
@@ -2201,14 +2201,14 @@
     "sigla_provincia":"AO",
     "lat":45.73750286,
     "long":7.320149366,
-    "totale_casi":11243,
+    "totale_casi":11246,
     "note":"",
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC2",
     "codice_nuts_3":"ITC20"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":2,
     "denominazione_regione":"Valle d'Aosta",
@@ -2224,7 +2224,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":2,
     "denominazione_regione":"Valle d'Aosta",
@@ -2240,7 +2240,7 @@
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2249,14 +2249,14 @@
     "sigla_provincia":"VR",
     "lat":45.43839046,
     "long":10.99352685,
-    "totale_casi":82145,
+    "totale_casi":82162,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH31"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2265,14 +2265,14 @@
     "sigla_provincia":"VI",
     "lat":45.547497,
     "long":11.54597109,
-    "totale_casi":70086,
+    "totale_casi":70098,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH32"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2281,14 +2281,14 @@
     "sigla_provincia":"BL",
     "lat":46.13837528,
     "long":12.21704167,
-    "totale_casi":21457,
+    "totale_casi":21463,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH33"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2297,14 +2297,14 @@
     "sigla_provincia":"TV",
     "lat":45.66754571,
     "long":12.24507363,
-    "totale_casi":79806,
+    "totale_casi":79813,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH34"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2313,14 +2313,14 @@
     "sigla_provincia":"VE",
     "lat":45.43490485,
     "long":12.33845213,
-    "totale_casi":69640,
+    "totale_casi":69649,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH35"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2329,14 +2329,14 @@
     "sigla_provincia":"PD",
     "lat":45.40692987,
     "long":11.87608718,
-    "totale_casi":81559,
+    "totale_casi":81569,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH36"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2345,14 +2345,14 @@
     "sigla_provincia":"RO",
     "lat":45.07107289,
     "long":11.79007,
-    "totale_casi":13990,
+    "totale_casi":13991,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":"ITH37"
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
@@ -2361,14 +2361,14 @@
     "sigla_provincia":"",
     "lat":null,
     "long":null,
-    "totale_casi":5348,
+    "totale_casi":5347,
     "note":"",
     "codice_nuts_1":"ITH",
     "codice_nuts_2":"ITH3",
     "codice_nuts_3":null
   },
   {
-    "data":"2021-06-16T17:00:00",
+    "data":"2021-06-17T17:00:00",
     "stato":"ITA",
     "codice_regione":5,
     "denominazione_regione":"Veneto",
