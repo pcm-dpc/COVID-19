@@ -1278,5 +1278,9 @@
   {
     "data":"2021-06-21T17:00:00",
     "note":"La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, sono stati sottratti 11 casi in quanto già segnalati da altra regione. La P.A. di Bolzano comunica che i 3 nuovi positivi derivano da test antigenici successivamente confermati da test molecolare. La regione Sardegna comunica che il n. di guariti deriva da un ricalcolo effettuato per allineamento con la piattaforma ISS.  La regione Veneto comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati riclassificati tra quest'ultimi.   "
+  },
+  {
+    "data":"2021-06-22T17:00:00",
+    "note":"La Regione Emilia Romagna comunica che dai casi già comunicati, è stato eliminato 1 caso, positivo a test antigenico ma non confermato da test molecolare."
   }
 ]
