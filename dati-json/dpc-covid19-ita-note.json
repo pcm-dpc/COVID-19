@@ -1286,5 +1286,9 @@
   {
     "data":"2021-06-23T17:00:00",
     "note":"La regione Emilia Romagna comunica che dai casi già comunicati sono stati eliminati 4 casi, positivi a test antigenico ma non confermati da test molecolare. La Regione Liguria comunica che in data odierna ha ricevuto da un laboratorio privato 193 tamponi positivi relativi al periodo febbraio-maggio 2021, riferiti a soggetti già guariti. I nuovi positivi di oggi sono 10."
+  },
+  {
+    "data":"2021-06-24T17:00:00",
+    "note":"La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato un caso in quanto duplicato. La Regione Friuli Venezia Giulia comunica che a seguito dei lavori di aggiornamento dei sistemi informativi e di revisione dei dati, al fine del continuo miglioramento della completezza e della qualità dei dati COVID-19, è stato effettuato un ricalcolo dei casi positivi, delle persone testate, dei tamponi effettuati, dei soggetti guariti e dei decessi attribuiti a COVID-19. Le differenze riscontrate fanno riferimento ad un periodo di tempo compreso fra il 24 giugno 2020 e il 14 giugno 2021. L'incremento odierno di decessi è pari a 2; l'incremento dei casi confermati è pari a 25. La Regione Veneto comunica che il dato dei casi confermati da test antigenico è diminuito rispetto a ieri in quanto i test confermati da molecolari sono stati ricollocati. L'incongruenza dei decessi (-3 rispetto a ieri) sembra da riferirsi ad una  riattribuzione a decessi non covid correlati).  "
   }
 ]
