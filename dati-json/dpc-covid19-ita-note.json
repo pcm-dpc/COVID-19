@@ -1346,5 +1346,9 @@
   {
     "data":"2021-07-08T17:00:00",
     "note":"La regione Abruzzo comunica che I dati dei guariti di ieri contenevano un guarito in più. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da test molecolare. La regione Friuli Venezia Giulia comunica che dal totale dei positivi è stato eliminato 1 caso dichiarato nei giorni precedenti, in quanto positivo al test antigenico ma non confermato da test molecolare. La P.A. di Bolzano comunica che tra i 5 nuovi positivi, 1 deriva da test antigenico successivamente confermato da test molecolare."
+  },
+  {
+    "data":"2021-07-09T17:00:00",
+    "note":"La regione Abruzzo comunica che dal totale dei positivi sono stati eliminati 2 casi (1 duplicato e 1 già segnalato da altra Regione). La regione  Friuli Venezia Giulia comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti (1 in quanto positivo al test antigenico ma non confermato da test molecolare e 1 test positivo rimosso da un laboratorio dopo revisione del caso). La P.A. di Bolzano comunica che tra i 12 nuovi positivi, 4 derivano da test antigenici successivamente confermati da test molecolare. La regione Umbria comunica che il decesso segnalato oggi fa riferimento ai mesi precedenti.  "
   }
 ]
