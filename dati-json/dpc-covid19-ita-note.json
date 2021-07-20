@@ -1390,5 +1390,9 @@
   {
     "data":"2021-07-19T17:00:00",
     "note":"La Regione Abruzzo segnala che dal totale dei positivi è stato eliminato 1 caso in quanto già segnalato da altra Regione. La Regione Emilia Romagna riporta che dal totale dei casi positivi è stato eliminato 1 caso, positivo a test antigenico ma non confermato da tampone molecolare."
+  },
+  {
+    "data":"2021-07-20T17:00:00",
+    "note":"La Regione Abruzzo comunica che dal totale dei positivi è stato eliminato 1 caso in quanto già segnalato da altra Regione. La Regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 2 casi in quanto positivi a test antigenico ma non confermati da tampone molecolare. La Regione Friuli Venezia Giulia comunica che a fronte di un problema di aggiornamento nei sistemi informativi regionali, i dati odierni non sono disponibili; vengono riportati, pertanto, i dati del giorno precedente."
   }
 ]
