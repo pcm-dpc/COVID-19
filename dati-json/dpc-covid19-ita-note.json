@@ -1402,5 +1402,9 @@
   {
     "data":"2021-07-22T17:00:00",
     "note":"La Regione Campania comunica che a seguito di verifica, 3 deceduti dichiarati in data odierna risultano deceduti in periodo antecedente alle ultime 48 ore. La Regione Emilia Romagna comunica che dal totale dei positivi è stato eliminato 1 caso, positivo a test antigenico ma non confermato da tampone molecolare. La P.A. Bolzano comunica che il numero dei guariti è non conforme a quello dei giorni precedenti, in relazione ad un ricalcolo eseguito nella giornata odierna."
+  },
+  {
+    "data":"2021-07-23T17:00:00",
+    "note":"La Regione Campania comunica 2 dei 7 deceduti dichiarati in data odierna, sono deceduti più di 48 ore fa. La Regione Emilia Romagna comunica che è stato eliminato 1 caso, positivo a test antigenico ma non confermato da tampone molecolare."
   }
 ]
