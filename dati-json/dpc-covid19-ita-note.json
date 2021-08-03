@@ -1446,5 +1446,9 @@
   {
     "data":"2021-08-02T17:00:00",
     "note":"La regione Campania comunica che 2 dei deceduti dichiarati oggi si riferiscono al mese di giugno e di luglio.  La regione Emilia Romagna comunica che dal totale dei positivi dichiarato nei giorni precedenti, sono stati eliminati 5 casi, in quanto positivi al test antigenico ma non confermati da test molecolare. La regione Lazio segnala che vengono aggiornati solo i dati relativi alle nuove positività, ai decessi ed alle ospedalizzazioni a causa della sospensione dei sistemi informatici a seguito di un attacco hacker al CED regionale. I dati sui nuovi positivi sono parziali e  verranno aggiornati con i prossimi report.  La regione Veneto rettifica il dato dei decessi, eliminando 3 casi comunicati nei giorni scorsi, comunica inoltre che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati riclassificati tra quest'ultimi.  "
+  },
+  {
+    "data":"2021-08-03T17:00:00",
+    "note":"La regione Emilia Romagna comunica che dal totale dei positivi dichiarato nei giorni precedenti, sono stati eliminati 4 casi, in quanto positivi al test antigenico ma non confermati da test molecolare. La regione Friuli Venezia Giulia comunica che 1 caso confermato da test antigenico essendo stati successivamente confermato da test molecolare è stato riclassificato tra quest'ultimi.  La regione Lazio segnala che a causa della sospensione dei sistemi informatici a seguito di un attacco hacker al CED regionale, vengono aggiornati solo i dati relativi ai nuovi positivi, ai decessi ed alle ospedalizzazioni.  La P.A. di Bolzano comunica che tra i 24 nuovi positivi, 12 derivano da test antigenici successivamente confermati da test molecolare.  \t"
   }
 ]
