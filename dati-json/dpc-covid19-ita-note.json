@@ -1450,5 +1450,9 @@
   {
     "data":"2021-08-03T17:00:00",
     "note":"La regione Emilia Romagna comunica che dal totale dei positivi dichiarato nei giorni precedenti, sono stati eliminati 4 casi, in quanto positivi al test antigenico ma non confermati da test molecolare. La regione Friuli Venezia Giulia comunica che 1 caso confermato da test antigenico essendo stati successivamente confermato da test molecolare è stato riclassificato tra quest'ultimi.  La regione Lazio segnala che a causa della sospensione dei sistemi informatici a seguito di un attacco hacker al CED regionale, vengono aggiornati solo i dati relativi ai nuovi positivi, ai decessi ed alle ospedalizzazioni.  La P.A. di Bolzano comunica che tra i 24 nuovi positivi, 12 derivano da test antigenici successivamente confermati da test molecolare.  \t"
+  },
+  {
+    "data":"2021-08-04T17:00:00",
+    "note":"La Regione Abruzzo comunica che è stato eliminato 1 caso dei giorni passati in quanto già segnalato da altra Regione. La Regione Emilia Romagna comunica che sono stati eliminati 4 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Regione Friuli Venezia Giulia comunica che dal totale dei casi positivi è stato eliminato 1 caso a seguito di un test positivo rimosso dopo revisione del caso.  La Regione Lazio precisa che,  a causa della sospensione dei sistemi informatici a seguito di un attacco hacker al CED regionale, vengono aggiornati solo i dati relativi ai nuovi positivi, ai decessi ed  alle ospedalizzazioni. "
   }
 ]
