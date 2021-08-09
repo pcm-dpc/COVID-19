@@ -1470,5 +1470,9 @@
   {
     "data":"2021-08-08T17:00:00",
     "note":"La Regione Emilia Romagna comunica che dal totale dei casi positivi sono stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Regione Lazio comunica che  a causa della sospensione dei sistemi informatici a seguito di un attacco hacker al CED regionale, vengono aggiornati solo i dati relativi ai nuovi positivi, ai decessi ed  alle ospedalizzazioni. "
+  },
+  {
+    "data":"2021-08-09T17:00:00",
+    "note":"La Regione Lazio comunica che,  a causa della sospensione dei sistemi informatici a seguito di un attacco hacker al CED regionale, vengono aggiornati solo i dati relativi ai nuovi positivi, ai decessi ed  alle ospedalizzazioni. "
   }
 ]
