@@ -11,6 +11,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Revisione della documentazione e descrizione processamento dei dati
 
+## 2021-09-28
+
+- AVVISO: per un refuso la data dell'aggiornamento risulta 2021-09-21 anzichè 2021-09-28, i dati tuttavia corrispondono all'aggiornamento odierno.
+ 
 ## 2021-09-27
 
 - Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
