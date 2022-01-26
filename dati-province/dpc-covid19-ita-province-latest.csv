@@ -78,7 +78,7 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2022-01-25T17:00:00,ITA,14,Molise,094,Isernia,IS,41.58800826,14.22575407,8033,,ITF,ITF2,ITF21
 2022-01-25T17:00:00,ITA,14,Molise,890,Fuori Regione / Provincia Autonoma,,,,99,,ITF,ITF2,
 2022-01-25T17:00:00,ITA,14,Molise,990,In fase di definizione/aggiornamento,,,,0,,ITF,ITF2,
-2022-01-25T17:00:00,ITA,04,P.A. Bolzano,021,Bolzano,BZ,46.49933453,11.35662422,147428,A causa di problemi tecnico-informatici i dati comunicati sono quelli di ieri. Si provvederà ad una correzione non appena i dati di oggi saranno disponibili.,ITH,ITH1,ITH10
+2022-01-25T17:00:00,ITA,04,P.A. Bolzano,021,Bolzano,BZ,46.49933453,11.35662422,151202,,ITH,ITH1,ITH10
 2022-01-25T17:00:00,ITA,04,P.A. Bolzano,881,Fuori Regione / Provincia Autonoma,,,,0,,ITH,ITH1,
 2022-01-25T17:00:00,ITA,04,P.A. Bolzano,981,In fase di definizione/aggiornamento,,,,0,,ITH,ITH1,
 2022-01-25T17:00:00,ITA,04,P.A. Trento,022,Trento,TN,46.06893511,11.12123097,113933,,ITH,ITH2,ITH20
