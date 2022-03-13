@@ -7,7 +7,7 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
-[Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale (IT)](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
+[Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale (IT)](https://emergenze.protezionecivile.gov.it/it/sanitarie/coronavirus)
 
 On 31 January 2020, the Consiglio dei Ministri declared the emergency state for six months due to the infection from Coronavirus risk.
 The coordination of the fighting against the national emergency is given in custody to the boss of Dipartimento della Protezione Civile, Angelo Borrelli.
