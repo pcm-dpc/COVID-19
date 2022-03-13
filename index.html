@@ -1,0 +1,46 @@
+<!-- Made by github.com/aronkydev -->
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect - Protezione Civile</title>
+</head>
+<body>
+	<script>
+		let dettagli = navigator.userAgent;
+
+		let keywords = /android|iphone|kindle|ipad/i;
+
+		let isMobileDevice = keywords.test(dettagli);
+
+		if (isMobileDevice) {
+			window.location.replace("http://arcg.is/081a51");
+		} else {
+			window.location.replace("http://arcg.is/C1unv");
+		}
+	</script>
+
+
+<div class="caricamento"></div>
+
+<style>
+.caricamento {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db; 
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style> 
+
+    
+</body>
+</html>
