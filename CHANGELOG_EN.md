@@ -2,6 +2,10 @@
 
 All changes to the project, new features and information are documented in this file
 
+## Next update by June 2022
+
+- Review of documentation and description of data processing following the end of the state of emergency and the consequent takeover of the publication phase by the Ministry of Health
+
 ## Next updates
 
 - Reclamation of previous data with NUTS codes
