@@ -2,6 +2,10 @@
 
 Tutte le modifiche al progetto, nuove funzionalità e informazioni sono documentate in questo file
 
+## Prossimo aggiornamento entro giugno 2022
+
+- Revisione della documentazione e descrizione processamento dei dati a seguito della fine dello stato di emergenza e del conseguente subentro nella fase di  pubblicazione da parte del Ministero della Salute
+
 ## Prossimi aggiornamenti
 
 - Bonifica dati pregressi con codici NUTS
