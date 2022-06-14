@@ -15,6 +15,10 @@ All changes to the project, new features and information are documented in this 
 
 - Documentation review and data processing description
 
+## 2022-06-14
+
+- Change: updated csv e json metrics files on desktop and mobile dashboards.
+
 ## 2022-03-28
 
 - Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata.
