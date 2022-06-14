@@ -15,6 +15,10 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Revisione della documentazione e descrizione processamento dei dati
 
+## 2022-06-14
+
+- Modifica: aggiornati csv e json file delle metriche sulle visualizzazioni delle dashboard desktop e mobile.
+
 ## 2022-03-28
 
 - Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
