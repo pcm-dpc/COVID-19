@@ -22166,15 +22166,15 @@
     "casi_da_sospetto_diagnostico":null,
     "casi_da_screening":null,
     "totale_casi":18184917,
-    "tamponi":225620715,
-    "casi_testati":59412542.0,
+    "tamponi":225613163,
+    "casi_testati":59404990.0,
     "note":null,
     "ingressi_terapia_intensiva":28.0,
     "note_test":null,
     "note_casi":null,
     "totale_positivi_test_molecolare":8850085.0,
     "totale_positivi_test_antigenico_rapido":9334832.0,
-    "tamponi_test_molecolare":93435794.0,
+    "tamponi_test_molecolare":93428242.0,
     "tamponi_test_antigenico_rapido":132184921.0
   }
 ]
