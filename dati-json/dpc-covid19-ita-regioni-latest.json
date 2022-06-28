@@ -274,7 +274,7 @@
     "casi_da_sospetto_diagnostico":null,
     "casi_da_screening":null,
     "totale_casi":3014117,
-    "tamponi":38908117,
+    "tamponi":38520845,
     "casi_testati":8425215,
     "note":null,
     "ingressi_terapia_intensiva":3,
@@ -283,7 +283,7 @@
     "totale_positivi_test_molecolare":1432096,
     "totale_positivi_test_antigenico_rapido":1582021,
     "tamponi_test_molecolare":16147480,
-    "tamponi_test_antigenico_rapido":22760637,
+    "tamponi_test_antigenico_rapido":22373365,
     "codice_nuts_1":"ITC",
     "codice_nuts_2":"ITC4"
   },
