@@ -3094,5 +3094,9 @@
   {
     "data":"2022-09-18T17:00:00",
     "note":"La regione Campania comunica che i deceduti sono 2 nelle ultime 48 ore e 2 risalgono ad un periodo precedente. La regione Friuli Venezia Giulia comunica che il totale dei casi positivi è stato ridotto di 1 a seguito di un tampone molecolare negativo dopo test antigenico positivo (caso relativo alla provincia di UD).\t\t La regione Umbria comunica che 1 dei ricoveri non UTI appartiene ai codici disciplina di Ostetricia & Ginecologia e Pediatria e 37 dei ricoveri non UTI appartengono ad altri codici disciplina."
+  },
+  {
+    "data":"2022-09-19T17:00:00",
+    "note":"La regione Campania comunica che dei 4 decessi registrati 2 sono delle ultime 48 ore e 2 risalgono ad un periodo antecedente. La regione Friuli Venezia Giulia comunica che il totale dei casi positivi è stato ridotto di 2 a seguito di 2 test positivi rimossi dopo revisione del caso (casi relativi a fuori regione).\t La regione Umbria comunica che 1 dei ricoveri non UTI appartiene ai codici disciplina di Ostetricia & Ginecologia e Pediatria e 36 dei ricoveri non UTI appartengono ad altri codici disciplina. La regione Veneto comunica che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo, pertanto per convenzione è stato riportato -2 dimessi da TI invece del n. 0 effettivo che include anche i negativizzati."
   }
 ]
