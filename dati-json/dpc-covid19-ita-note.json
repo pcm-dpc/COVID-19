@@ -3098,5 +3098,9 @@
   {
     "data":"2022-09-19T17:00:00",
     "note":"La regione Campania comunica che dei 4 decessi registrati 2 sono delle ultime 48 ore e 2 risalgono ad un periodo antecedente. La regione Friuli Venezia Giulia comunica che il totale dei casi positivi è stato ridotto di 2 a seguito di 2 test positivi rimossi dopo revisione del caso (casi relativi a fuori regione).\t La regione Umbria comunica che 1 dei ricoveri non UTI appartiene ai codici disciplina di Ostetricia & Ginecologia e Pediatria e 36 dei ricoveri non UTI appartengono ad altri codici disciplina. La regione Veneto comunica che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo, pertanto per convenzione è stato riportato -2 dimessi da TI invece del n. 0 effettivo che include anche i negativizzati."
+  },
+  {
+    "data":"2022-09-20T17:00:00",
+    "note":"La Regione Abruzzo comunica che tra i deceduti comunicati in data odierna, un caso è relativo ai giorni passati. La Regione Campania comunica che dei 6 nuovi decessi, 3 sono da riferirsi alle ultime 48 ore e 3 sono da riferirsi oltre le 48 ore. La Regione Emilia-Romagna\tcomunica che sono stati eliminati 10 casi, comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19. La P.A. di Bolzano comunica che dei 614 nuovi positivi, 4 derivano da test antigenici confermati da test molecolare. La Regione Umbria comunica che 1 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria, e che 34 dei ricoveri non UTI appartengono ad altri codici disciplina. La Regione Veneto comunica che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato 6 dimessi da TI invece del n. 2 effettivi che include anche i negativizzati. "
   }
 ]
