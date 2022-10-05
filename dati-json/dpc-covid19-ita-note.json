@@ -3158,5 +3158,9 @@
   {
     "data":"2022-10-04T17:00:00",
     "note":"La regione Abruzzo comunica che dal totale dei positivi è stato eliminato un caso in quanto paziente no covid e che tra i deceduti comunicati in data odierna un caso è relativo a giorni passati. La regione Emilia-Romagna comunica che stati eliminati 2 casi, positivi a test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dei 1305 nuovi positivi, 4 derivano da test antigenici confermati da test molecolare, 1291 da test antigenico e 10 da test PCR. La regione Umbria comunica che 2 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 45 dei ricoveri non UTI appartengono ad altri codici disciplina di cui 12 in discipline post-acuto, riabilitative. "
+  },
+  {
+    "data":"2022-10-05T17:00:00",
+    "note":"La Regione Abruzzo\tcomunica che dal totale dei positivi sono stati eliminati due casi in quanto non pazienti covid. La P.A. di Bolzano comunica che dei 758 nuovi positivi, 2 derivano da test antigenici confermati da test molecolare. La Regione Umbria comunica che 2 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria, e che 43 dei ricoveri non UTI appartengono ad altri codici disciplina di cui 11 in discipline post-acuto, riabilitative (cod. 60, 28, 56, 75). La Regione Veneto comunica che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato 5 dimessi da TI invece del n. 4 effettivi che include anche i negativizzati."
   }
 ]
