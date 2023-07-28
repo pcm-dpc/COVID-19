@@ -4314,5 +4314,33 @@
   {
     "data":"2023-07-20T17:00:00",
     "note":"La Regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La Regione Emilia-Romagna\tcomunica che il dato odierno relativo alla provincia di Modena, risultato negativo rispetto a quello comunicato ieri, è determinato dalla revisione delle posizioni anagrafiche dei casi precedentemente inseriti. La Regione Friuli Venezia Giulia comunica che il totale dei casi positivi è stato ridotto di 1 a seguito di un test positivo rimosso dopo revisione del caso. La Regione Umbria comunica che 8 dei ricoveri non UTI appartengono ad altri codici disciplina."
+  },
+  {
+    "data":"2023-07-21T17:00:00",
+    "note":"La regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 8 dei ricoveri non UTI appartengono ad altri codici disciplina."
+  },
+  {
+    "data":"2023-07-22T17:00:00",
+    "note":"La regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Emilia Romagna comunica che il dato odierno relativo ai casi per provincia risultato negativo, rispetto a quello comunicato ieri, è determinato da un problema con il collegamento con l’anagrafica regionale . Il dato verrà pertanto riallineato nei giorni seguenti. La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 8 dei ricoveri non UTI appartengono ad altri codici disciplina."
+  },
+  {
+    "data":"2023-07-23T17:00:00",
+    "note":"La regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 10 dei ricoveri non UTI appartengono ad altri codici disciplina. La regione Veneto comunica che il dato dei casi confermati da test molecolare è diminuito rispetto a ieri in quanto alcuni casi confermati da test antigenici sono stati ricollocati."
+  },
+  {
+    "data":"2023-07-24T17:00:00",
+    "note":"La regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 10 dei ricoveri non UTI appartengono ad altri codici disciplina. La regione Valle d'Aosta comunica che l'incremento del numero degli isolati, in assenza di nuovi casi, è derivato dal passaggio dello stato di ricovero di una persona a isolamento."
+  },
+  {
+    "data":"2023-07-25T17:00:00",
+    "note":"La regione Basilicata comunica che Il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 10 dei ricoveri non UTI appartengono ad altri codici disciplina."
+  },
+  {
+    "data":"2023-07-26T17:00:00",
+    "note":"La regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Friuli Venezia Giulia comunica dal totale dei positivi è stato eliminato 1 caso a seguito di revisione e che il dato odierno relativo ai soggetti guariti è in corso di verifica.\t\t\t La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 8 dei ricoveri non UTI appartengono ad altri codici disciplina.\t"
+  },
+  {
+    "data":"2023-07-27T17:00:00",
+    "note":"La regione Basilicata comunica che il dato relativo al numero dei “Casi in isolamento domiciliare” ed ai “Guariti” è in corso di revisione. La regione Friuli Venezia Giulia comunica che il dato odierno relativo ai soggetti guariti è in corso di verifica.\t La regione Sicilia comunica che a seguito di problemi tecnici non è stato possibile rilevare dati relativi ai test antigenici.\t La regione Umbria comunica che 0 dei ricoveri non UTI appartengono ai codici disciplina di Ostetricia & Ginecologia e Pediatria e che 10 dei ricoveri non UTI appartengono ad altri codici disciplina."
   }
 ]
