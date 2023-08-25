@@ -1,2 +1,2 @@
 data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi,totale_positivi_test_molecolare,totale_positivi_test_antigenico_rapido,tamponi_test_molecolare,tamponi_test_antigenico_rapido
-2023-08-16T17:00:00,ITA,953,29,982,114241,115223,-168,433,25622848,191167,,,25929238,274584632,69186908,,1,,,9801133,16128105,102117954,172466678
+2023-08-23T17:00:00,ITA,1272,44,1316,118437,119753,927,2202,25629876,191211,,,25940840,274710847,69208497,,2,,,9803181,16137659,102140557,172570290
