@@ -4898,5 +4898,33 @@
   {
     "data":"2023-12-13T17:00:00",
     "note":"La Regione Friuli Venezia Giulia comunica che il totale dei casi positivi è stato ridotto di 1 a seguito di un test positivo rimosso dopo revisione del caso.  La Regione Toscana comunica che si è registrato disallineamento nei dati relativi ai casi confermati con test antigenico e nei casi confermati con test molecolare di 100 unità. La Regione Umbria comunica che dei 219 ricoveri non in T.I.: 82 appartengono alle discipline di area medica (COD.24,COD.26,COD.68.COD.94) e che 137 ricoveri appartengono ad altre discipline ospedaliere. "
+  },
+  {
+    "data":"2023-12-14T17:00:00",
+    "note":"-La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico. -La Regione Toscana segnala nella data odierna che sono stati corretti i dati pregressi rispetto all'errore presente nella rilevazione del 3 dicembre e nelle successive, giustificando pertanto il disallineamento di 100 unità nei dati relativi ai casi confermati con test antigenico e nei casi confermati con test molecolare."
+  },
+  {
+    "data":"2023-12-15T17:00:00",
+    "note":"-La Regione Abruzzo segnala che uno dei decessi, comunicati in data odierna, è avvenuto nei giorni precedenti. -La Regione Emilia-Romagna segnala che Il dato odierno relativo alla provincia di Modena, risultato negativo rispetto a quello comunicato ieri, è determinato dalla revisione delle posizioni anagrafiche dei casi precedentemente inseriti. -La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico."
+  },
+  {
+    "data":"2023-12-16T17:00:00",
+    "note":"-La Regione Campania segnala che a seguito delle verifiche odierne, si evince che il decesso registrato oggi, risale al 7-12-23. -La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico. -La Regione Piemonte segnala che la variazione dei casi del campo NON DISPONIBILE delle province, rispetto al giorno precedente, è dovuta a una riattribuzione della provincia di residenza del paziente"
+  },
+  {
+    "data":"2023-12-17T17:00:00",
+    "note":"-La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico. -La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo, pertanto per convenzione è stato riportato -1 dimessi da TI invece del n. 0 effettivi che include anche i negativizzati."
+  },
+  {
+    "data":"2023-12-18T17:00:00",
+    "note":"-La Regione Piemonte segnala che la variazione dei casi del campo NON DISPONIBILE delle province, rispetto al giorno precedente, è dovuta a una riattribuzione della provincia di residenza del paziente. -La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico. -La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato 2 dimessi da TI invece del n. 1 effettivi che include anche i negativizzati. "
+  },
+  {
+    "data":"2023-12-19T17:00:00",
+    "note":"-La Regione Emilia-Romagna segnala che il dato odierno relativo alla provincia di Modena, risultato negativo rispetto a quello comunicato ieri, è determinato dalla revisione delle posizioni anagrafiche dei casi precedentemente inseriti. -La Regione Friuli Venezia Giulia segnala che 1 caso precedentemente segnalato come caso confermato da test antigenico, dopo verifica, è stato riclassificato come caso confermato da test molecolare. -La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico. -La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato 4 dimessi da TI invece del n. 2 effettivi che include anche i negativizzati."
+  },
+  {
+    "data":"2023-12-20T17:00:00",
+    "note":"-La Regione Puglia segnala che Dei 7 decessi comunicati in data odierna 3 sono rilevazioni delle ultime 24 ore; i restanti 4 sono invece recuperi di casi occorsi dal 2 al 13 dicembre 2023. -La Regione Sicilia segnala che a seguito di problemi tecnici, nella data odierna non è stato possibile rilevare i Tamponi processati con test antigenico. -La Regione Veneto segnala che nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato 5 dimessi da TI invece del n. 4 effettivi che include anche i negativizzati."
   }
 ]
